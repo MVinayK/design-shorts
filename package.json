@@ -22,5 +22,8 @@
     "react-native-web": "^0.21.0",
     "typescript": "~5.9.2"
   },
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "eas-cli": "^18.4.0"
+  }
 }
