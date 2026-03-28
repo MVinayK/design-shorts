@@ -4,6 +4,7 @@ import type { Preferences, Topic, TopicStatus } from '../types';
 const PREFERENCES_KEY = 'design-shorts/preferences';
 const PROGRESS_KEY = 'design-shorts/progress';
 const NEWS_CACHE_KEY = 'design-shorts/news-cache';
+const CONTENT_CACHE_PREFIX = 'design-shorts/content/';
 
 export const DEFAULT_PREFERENCES: Preferences = {
   feedMode: 'serial',
@@ -41,6 +42,14 @@ export async function getCachedNewsDigest() {
 
 export async function saveCachedNewsDigest(value: string) {
   await AsyncStorage.setItem(NEWS_CACHE_KEY, value);
+}
+
+export async function getCachedContentDocument(path: string) {
+  return AsyncStorage.getItem(`${CONTENT_CACHE_PREFIX}${path}`);
+}
+
+export async function saveCachedContentDocument(path: string, value: string) {
+  await AsyncStorage.setItem(`${CONTENT_CACHE_PREFIX}${path}`, value);
 }
 
 export async function markTopicRead(

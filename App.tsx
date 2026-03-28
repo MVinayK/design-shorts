@@ -15,12 +15,12 @@ import {
   View,
 } from 'react-native';
 import { BUNDLED_NEWS_DIGEST } from './src/data/bundledNews';
-import { TOPICS } from './src/data/topics';
+import { getBundledTopicFeed, loadTopicFeed, refreshTopicFeed } from './src/lib/contentRepository';
 import { createRandomDeck, getSerialStartIndex, getTopicProgressSummary, getTopicStatus } from './src/lib/feed';
 import { formatFeedDate } from './src/lib/format';
 import { loadNewsDigest, refreshNewsDigest } from './src/lib/newsRepository';
 import { DEFAULT_PREFERENCES, loadStoredState, markTopicRead, savePreferences } from './src/lib/storage';
-import type { FeedTab, NewsCard, Preferences, Topic, TopicStatus } from './src/types';
+import type { FeedTab, NewsCard, Preferences, Topic, TopicFeed, TopicStatus } from './src/types';
 
 function TopicCard({
   topic,
@@ -266,6 +266,7 @@ export default function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [preferences, setPreferences] = useState(DEFAULT_PREFERENCES);
   const [progressMap, setProgressMap] = useState<Record<string, TopicStatus>>({});
+  const [topicFeed, setTopicFeed] = useState<TopicFeed>(getBundledTopicFeed());
   const [newsDigest, setNewsDigest] = useState(BUNDLED_NEWS_DIGEST);
   const [newsError, setNewsError] = useState<string | null>(null);
   const [isHydrated, setIsHydrated] = useState(false);
@@ -276,26 +277,30 @@ export default function App() {
 
   useEffect(() => {
     async function bootstrap() {
-      const stored = await loadStoredState();
-      const digest = await loadNewsDigest();
+      const [stored, digest, contentFeed] = await Promise.all([loadStoredState(), loadNewsDigest(), loadTopicFeed()]);
 
       setPreferences(stored.preferences);
       setProgressMap(stored.progressMap);
       setNewsDigest(digest);
+      setTopicFeed(contentFeed);
       setIsHydrated(true);
 
       try {
-        const latestDigest = await refreshNewsDigest();
+        const [latestDigest, latestTopicFeed] = await Promise.all([refreshNewsDigest(), refreshTopicFeed()]);
         setNewsDigest(latestDigest);
+        setTopicFeed(latestTopicFeed);
       } catch {
-        // Fall back to bundled or cached data when the remote digest is not configured yet.
+        // Fall back to bundled or cached data when remote content is not configured yet.
       }
     }
 
     void bootstrap();
   }, []);
 
-  const sortedTopics = useMemo(() => [...TOPICS].sort((left, right) => left.orderIndex - right.orderIndex), []);
+  const sortedTopics = useMemo(
+    () => [...topicFeed.topics].sort((left, right) => left.orderIndex - right.orderIndex),
+    [topicFeed.topics],
+  );
 
   const activeTopics = useMemo(() => {
     if (preferences.feedMode === 'serial') {
@@ -311,6 +316,10 @@ export default function App() {
   );
 
   const summary = useMemo(() => getTopicProgressSummary(sortedTopics, progressMap), [progressMap, sortedTopics]);
+
+  useEffect(() => {
+    setCurrentTopicIndex((currentIndex) => Math.min(currentIndex, Math.max(activeTopics.length - 1, 0)));
+  }, [activeTopics.length]);
 
   const persistMode = useCallback(
     async (mode: Preferences['feedMode']) => {

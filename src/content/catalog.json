@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "id": "ddia",
+      "title": "Designing Data-Intensive Applications",
+      "path": "books/ddia/book.json",
+      "version": 1,
+      "chapters": [
+        {
+          "id": "chapter-01",
+          "title": "Reliable, Scalable, and Maintainable Applications",
+          "path": "books/ddia/chapters/chapter-01.json",
+          "version": 1,
+          "topicCount": 6,
+          "orderIndex": 1
+        }
+      ]
+    }
+  ]
+}

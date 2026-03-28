@@ -1,4 +1,6 @@
 export type Topic = {
+  bookId: string;
+  chapterId: string;
   id: string;
   slug: string;
   title: string;
@@ -10,6 +12,59 @@ export type Topic = {
   category: string;
   orderIndex: number;
   estimatedReadTime: number;
+};
+
+export type ChapterTopic = Omit<Topic, 'bookId' | 'chapterId'>;
+
+export type CatalogChapterEntry = {
+  id: string;
+  title: string;
+  path: string;
+  version: number;
+  topicCount: number;
+  orderIndex: number;
+};
+
+export type CatalogBookEntry = {
+  id: string;
+  title: string;
+  path: string;
+  version: number;
+  chapters: CatalogChapterEntry[];
+};
+
+export type ContentCatalog = {
+  version: number;
+  books: CatalogBookEntry[];
+};
+
+export type BookManifest = {
+  id: string;
+  title: string;
+  author: string;
+  description: string;
+  version: number;
+  chapters: CatalogChapterEntry[];
+};
+
+export type ChapterContent = {
+  bookId: string;
+  chapterId: string;
+  title: string;
+  orderIndex: number;
+  version: number;
+  topics: ChapterTopic[];
+};
+
+export type ContentBook = BookManifest & {
+  chapterCount: number;
+};
+
+export type TopicFeed = {
+  catalog: ContentCatalog;
+  books: ContentBook[];
+  topics: Topic[];
+  source: 'bundled' | 'cache' | 'remote';
 };
 
 export type TopicStatus = 'read' | 'unread';
