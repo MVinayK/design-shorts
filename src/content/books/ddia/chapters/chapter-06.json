@@ -1,0 +1,163 @@
+{
+  "bookId": "ddia",
+  "chapterId": "chapter-06",
+  "title": "Partitioning",
+  "orderIndex": 6,
+  "version": 1,
+  "topics": [
+    {
+      "id": "partitioning-as-throughput-control",
+      "slug": "partitioning-as-throughput-control",
+      "title": "Partitioning Is About Throughput Distribution, Not Just Scale",
+      "summaryShort": "Partitioning exists to distribute load, not just data. The real problem it solves is isolating throughput across independent units of work. Poor partitioning leads to hotspots that negate horizontal scaling.",
+      "keyPoints": [
+        "Partitioning spreads both data and load, not just storage",
+        "Hot partitions become system bottlenecks regardless of cluster size",
+        "Workload shape must align with partitioning strategy"
+      ],
+      "articleSections": [
+        "Partitioning is often introduced as a way to scale storage, but its primary function is distributing throughput. Each partition becomes an independent unit of work, allowing parallel processing. This enables horizontal scaling, but only if the workload is evenly distributed. Otherwise, a few partitions dominate system load.",
+        "The key challenge is that data distribution does not guarantee load distribution. Access patterns are often skewed, with certain keys receiving disproportionately high traffic. This creates hotspots that limit system throughput regardless of how many nodes are added.",
+        "Partitioning decisions are tightly coupled with data modeling. A schema that works well on a single node may become inefficient when partitioned. Queries that require cross-partition access introduce additional latency and coordination overhead.",
+        "Principal engineers focus on aligning partitioning with workload characteristics. They design for predictable load distribution and explicitly account for skew. Partitioning is successful only when it distributes both data and demand."
+      ],
+      "example": "A messaging system partitions by user ID, but celebrity accounts generate disproportionate traffic, overloading specific partitions.",
+      "interviewTakeaway": "Partitioning only works if load is evenly distributed, so design for access patterns, not just data size.",
+      "category": "Architecture",
+      "orderIndex": 1,
+      "estimatedReadTime": 3
+    },
+    {
+      "id": "key-vs-range-partitioning",
+      "slug": "key-vs-range-partitioning",
+      "title": "Key vs Range Partitioning: Distribution vs Query Efficiency",
+      "summaryShort": "Hash-based partitioning ensures even distribution but destroys locality. Range partitioning preserves query efficiency but risks hotspots. The choice is a tradeoff between predictable load and efficient access patterns.",
+      "keyPoints": [
+        "Hash partitioning evens load but breaks range queries",
+        "Range partitioning supports locality but risks skew",
+        "Hybrid strategies introduce complexity but balance tradeoffs"
+      ],
+      "articleSections": [
+        "Hash-based partitioning distributes keys uniformly across partitions, minimizing hotspots. This makes it ideal for workloads with unpredictable access patterns. However, it destroys ordering, making range queries inefficient and requiring scatter-gather operations.",
+        "Range partitioning preserves key order, enabling efficient range scans and locality. This is valuable for time-series data and ordered datasets. However, it is highly susceptible to skew, especially when new data concentrates in a specific range.",
+        "Hotspots are more common in range partitioning because real-world data is rarely uniform. For example, time-based keys naturally concentrate writes on the latest partition. This leads to uneven load and degraded performance.",
+        "Principal engineers often use hybrid approaches, such as range partitioning with hashing. These approaches balance distribution and locality but increase system complexity. The choice depends on query patterns and tolerance for operational overhead."
+      ],
+      "example": "A time-series database uses range partitioning for efficient queries but experiences write hotspots on the latest time bucket.",
+      "interviewTakeaway": "Choose partitioning strategy based on access patterns because distribution and locality cannot both be maximized.",
+      "category": "Partitioning",
+      "orderIndex": 2,
+      "estimatedReadTime": 3
+    },
+    {
+      "id": "hotspots-and-skew",
+      "slug": "hotspots-and-skew",
+      "title": "Hotspots and Skew: The Real Scaling Limit",
+      "summaryShort": "Hotspots are the primary failure mode of partitioned systems. Even with perfect data distribution, skewed access patterns create bottlenecks. Eliminating hotspots is fundamentally a product and modeling problem, not just infrastructure.",
+      "keyPoints": [
+        "Hotspots arise from uneven access patterns, not just uneven data",
+        "Dynamic workloads make hotspots difficult to predict and eliminate",
+        "Mitigation strategies often trade complexity for partial relief"
+      ],
+      "articleSections": [
+        "Hotspots occur when a small subset of partitions receives disproportionate traffic. This can be caused by popular users, trending content, or time-based access patterns. Even perfectly balanced data distribution cannot prevent this if access is skewed.",
+        "Hotspots are dynamic and often unpredictable. A partition that is idle today may become overloaded tomorrow due to external events. This makes static partitioning strategies insufficient for long-term stability.",
+        "Mitigation strategies include key salting, request throttling, and adaptive partitioning. These techniques distribute load more evenly but introduce additional complexity. They often require application-level changes rather than infrastructure fixes.",
+        "Principal engineers treat hotspots as inevitable and design systems to absorb them. This includes isolating hot partitions and ensuring they do not impact the entire system. Complete elimination of hotspots is rarely achievable."
+      ],
+      "example": "A viral post causes a sudden spike in reads for a specific key, overwhelming the partition responsible for that data.",
+      "interviewTakeaway": "Hotspots are a workload problem, so design systems to contain them rather than assuming partitioning removes them.",
+      "category": "Performance",
+      "orderIndex": 3,
+      "estimatedReadTime": 2
+    },
+    {
+      "id": "secondary-indexes-in-partitioned-systems",
+      "slug": "secondary-indexes-in-partitioned-systems",
+      "title": "Secondary Indexes Break Simplicity After Partitioning",
+      "summaryShort": "Partitioning complicates secondary indexes by decoupling index keys from data location. Maintaining efficient and consistent indexes across partitions introduces significant overhead. Index design becomes a distributed systems problem.",
+      "keyPoints": [
+        "Secondary indexes require cross-partition coordination",
+        "Global indexes improve query flexibility but increase write cost",
+        "Local indexes simplify writes but limit query capabilities"
+      ],
+      "articleSections": [
+        "In a partitioned system, the primary key determines data placement, but secondary indexes often use different keys. This creates a mismatch between index location and data location. Queries using secondary indexes may need to access multiple partitions.",
+        "Global secondary indexes maintain a unified index across all partitions. This enables efficient queries but requires coordination on every write. The result is increased write latency and complexity in maintaining consistency.",
+        "Local secondary indexes are partition-scoped, avoiding cross-partition coordination. However, they limit queries to a single partition, requiring scatter-gather operations for global queries. This shifts complexity to the query layer.",
+        "Principal engineers carefully evaluate index requirements before partitioning. They often redesign data models to minimize reliance on global indexes. Index strategy must align with partitioning to avoid performance degradation."
+      ],
+      "example": "A system with a global index on email must update multiple partitions for each write, increasing latency and coordination overhead.",
+      "interviewTakeaway": "Secondary indexes turn partitioning into a distributed problem, so design indexes with partition boundaries in mind.",
+      "category": "Data Modeling",
+      "orderIndex": 4,
+      "estimatedReadTime": 3
+    },
+    {
+      "id": "request-routing-and-metadata",
+      "slug": "request-routing-and-metadata",
+      "title": "Routing Requests: Indirection and Metadata Staleness",
+      "summaryShort": "Partitioned systems require routing layers to locate data. This introduces metadata dependencies and potential staleness issues. Routing complexity often becomes a hidden latency and reliability factor.",
+      "keyPoints": [
+        "Clients or routers must map keys to partitions efficiently",
+        "Metadata changes introduce staleness and routing errors",
+        "Indirection adds latency and failure points"
+      ],
+      "articleSections": [
+        "Partitioned systems require a mapping from keys to partitions. This mapping can be maintained by clients, routers, or a centralized metadata service. Each approach introduces tradeoffs in latency, complexity, and consistency.",
+        "Metadata changes frequently due to rebalancing or scaling. Stale metadata can lead to misrouted requests, retries, and increased latency. Systems must handle these inconsistencies gracefully.",
+        "Routing adds an additional layer of indirection, increasing system complexity. Failures in routing components can impact the entire system. This makes routing a critical part of system reliability.",
+        "Principal engineers design routing systems with strong observability and fallback mechanisms. They minimize metadata staleness and ensure that routing failures degrade gracefully rather than causing outages."
+      ],
+      "example": "A client with outdated partition metadata sends requests to the wrong node, causing retries and increased latency.",
+      "interviewTakeaway": "Routing is part of the data path, so treat metadata consistency and indirection as first-class concerns.",
+      "category": "Distributed Systems",
+      "orderIndex": 5,
+      "estimatedReadTime": 2
+    },
+    {
+      "id": "rebalancing-and-partition-movement",
+      "slug": "rebalancing-and-partition-movement",
+      "title": "Rebalancing Is Expensive and Operationally Risky",
+      "summaryShort": "Rebalancing redistributes data to maintain even load, but it is resource-intensive and disruptive. Moving partitions affects performance, availability, and consistency. It is one of the most complex operations in distributed systems.",
+      "keyPoints": [
+        "Partition movement consumes network, CPU, and I/O resources",
+        "Rebalancing can degrade performance during execution",
+        "Incorrect rebalancing strategies lead to cascading instability"
+      ],
+      "articleSections": [
+        "Rebalancing is required when nodes are added, removed, or overloaded. It involves moving data between partitions to maintain even distribution. This process is resource-intensive and competes with normal system operations.",
+        "During rebalancing, partitions may be temporarily unavailable or degraded. Queries may experience increased latency or failures. This makes rebalancing a high-risk operation, especially in large clusters.",
+        "Naive rebalancing strategies can cause cascading effects. For example, moving too many partitions simultaneously can overwhelm the system. Careful scheduling and throttling are required to maintain stability.",
+        "Principal engineers treat rebalancing as a controlled operation. They design systems to minimize its frequency and impact. This includes preemptive capacity planning and incremental data movement strategies."
+      ],
+      "example": "Adding new nodes to a cluster triggers data migration that temporarily slows down query performance across the system.",
+      "interviewTakeaway": "Rebalancing is not free, so plan for its cost and minimize its impact through controlled execution.",
+      "category": "Operations",
+      "orderIndex": 6,
+      "estimatedReadTime": 3
+    },
+    {
+      "id": "partitioning-and-growth-strategy",
+      "slug": "partitioning-and-growth-strategy",
+      "title": "Partitioning Strategy Must Anticipate Growth",
+      "summaryShort": "Partitioning decisions made early are difficult to change later. Poor initial choices lead to expensive migrations and system instability. Growth strategy must be built into partitioning design from the start.",
+      "keyPoints": [
+        "Repartitioning is expensive and often requires data migration",
+        "Static partitioning strategies fail under dynamic workloads",
+        "Future growth patterns must be considered upfront"
+      ],
+      "articleSections": [
+        "Partitioning is not easily reversible. Changing partitioning schemes often requires full data migration, which is expensive and risky. This makes initial design decisions critical for long-term system stability.",
+        "Static partitioning strategies assume predictable growth, which rarely holds in practice. Workloads evolve, and access patterns change. Systems must adapt to these changes without requiring disruptive migrations.",
+        "Techniques like consistent hashing and dynamic partitioning help accommodate growth. However, they introduce additional complexity in routing and metadata management. The tradeoff is between flexibility and operational simplicity.",
+        "Principal engineers design partitioning strategies with future evolution in mind. They prioritize adaptability and minimize the need for large-scale migrations. This reduces long-term operational risk."
+      ],
+      "example": "A system initially partitions by region but later needs to repartition by user ID, requiring a costly and risky data migration.",
+      "interviewTakeaway": "Partitioning is a long-term commitment, so design for growth and evolution from day one.",
+      "category": "Tradeoffs",
+      "orderIndex": 7,
+      "estimatedReadTime": 2
+    }
+  ]
+}

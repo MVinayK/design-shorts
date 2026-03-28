@@ -1,11 +1,11 @@
 {
-  "version": 6,
+  "version": 9,
   "books": [
     {
       "id": "ddia",
       "title": "Designing Data-Intensive Applications",
       "path": "books/ddia/book.json",
-      "version": 6,
+      "version": 9,
       "chapters": [
         {
           "id": "chapter-01",
@@ -46,6 +46,30 @@
           "version": 1,
           "topicCount": 8,
           "orderIndex": 5
+        },
+        {
+          "id": "chapter-06",
+          "title": "Partitioning",
+          "path": "books/ddia/chapters/chapter-06.json",
+          "version": 1,
+          "topicCount": 7,
+          "orderIndex": 6
+        },
+        {
+          "id": "chapter-07",
+          "title": "Transactions",
+          "path": "books/ddia/chapters/chapter-07.json",
+          "version": 1,
+          "topicCount": 8,
+          "orderIndex": 7
+        },
+        {
+          "id": "chapter-08",
+          "title": "The Trouble with Distributed Systems",
+          "path": "books/ddia/chapters/chapter-08.json",
+          "version": 1,
+          "topicCount": 8,
+          "orderIndex": 8
         }
       ]
     }

@@ -216,6 +216,60 @@ Current product phase:
   - updated [catalog.json](/Users/deepthi/VinayProj/design-shorts/src/content/catalog.json) and [book.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/book.json) to include the new chapter and bump DDIA content versioning
   - `npm run typecheck` passed after the content integration
 
+### Task 2.1e: Add DDIA Chapter 6
+
+- Status: `done`
+- Goal: integrate Chapter 6 using the modular catalog/book/chapter structure
+- Why it matters: partitioning is a core staff/principal topic because it connects throughput distribution, hotspots, routing, and rebalancing cost
+- Likely files:
+  - [src/content/catalog.json](/Users/deepthi/VinayProj/design-shorts/src/content/catalog.json)
+  - [src/content/books/ddia/book.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/book.json)
+  - `src/content/books/ddia/chapters/chapter-06.json`
+- Acceptance criteria:
+  - chapter appears in remote/bundled content flow
+  - topics merge into the feed correctly
+  - no reinstall required when remote content path is used
+- Verified result:
+  - added [chapter-06.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/chapters/chapter-06.json) with 7 principal-level DDIA topics
+  - updated [catalog.json](/Users/deepthi/VinayProj/design-shorts/src/content/catalog.json) and [book.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/book.json) to include the new chapter and bump DDIA content versioning
+  - `npm run typecheck` passed after the content integration
+
+### Task 2.1f: Add DDIA Chapter 7
+
+- Status: `done`
+- Goal: integrate Chapter 7 using the modular catalog/book/chapter structure
+- Why it matters: transactions, anomalies, and distributed coordination are core staff/principal interview topics
+- Likely files:
+  - [src/content/catalog.json](/Users/deepthi/VinayProj/design-shorts/src/content/catalog.json)
+  - [src/content/books/ddia/book.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/book.json)
+  - `src/content/books/ddia/chapters/chapter-07.json`
+- Acceptance criteria:
+  - chapter appears in remote/bundled content flow
+  - topics merge into the feed correctly
+  - no reinstall required when remote content path is used
+- Verified result:
+  - added [chapter-07.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/chapters/chapter-07.json) with 8 principal-level DDIA topics
+  - updated [catalog.json](/Users/deepthi/VinayProj/design-shorts/src/content/catalog.json) and [book.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/book.json) to include the new chapter and bump DDIA content versioning
+  - `npm run typecheck` passed after the content integration
+
+### Task 2.1g: Add DDIA Chapter 8
+
+- Status: `done`
+- Goal: integrate Chapter 8 using the modular catalog/book/chapter structure
+- Why it matters: uncertainty, partial failures, unreliable clocks, and latency ambiguity are core principal-level distributed systems concepts
+- Likely files:
+  - [src/content/catalog.json](/Users/deepthi/VinayProj/design-shorts/src/content/catalog.json)
+  - [src/content/books/ddia/book.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/book.json)
+  - `src/content/books/ddia/chapters/chapter-08.json`
+- Acceptance criteria:
+  - chapter appears in remote/bundled content flow
+  - topics merge into the feed correctly
+  - no reinstall required when remote content path is used
+- Verified result:
+  - added [chapter-08.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/chapters/chapter-08.json) with 8 principal-level DDIA topics
+  - updated [catalog.json](/Users/deepthi/VinayProj/design-shorts/src/content/catalog.json) and [book.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/book.json) to include the new chapter and bump DDIA content versioning
+  - `npm run typecheck` passed after the content integration
+
 ### Task 2.2: Add chapter freshness/version visibility in settings
 
 - Status: `done`

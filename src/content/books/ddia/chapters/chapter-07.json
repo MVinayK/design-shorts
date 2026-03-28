@@ -1,0 +1,185 @@
+{
+  "bookId": "ddia",
+  "chapterId": "chapter-07",
+  "title": "Transactions",
+  "orderIndex": 7,
+  "version": 1,
+  "topics": [
+    {
+      "id": "transactions-as-abstraction",
+      "slug": "transactions-as-abstraction",
+      "title": "Transactions Hide Failure—Until They Don’t",
+      "summaryShort": "Transactions are an abstraction over concurrency, crashes, and partial failures. They simplify application logic but only within the boundaries the system actually enforces. Principal engineers treat transactions as scoped guarantees, not universal safety nets.",
+      "keyPoints": [
+        "Transactions abstract concurrency, retries, and partial failures",
+        "Guarantees are limited to the scope and isolation level actually implemented",
+        "Mismatch between assumed and actual guarantees causes correctness bugs"
+      ],
+      "articleSections": [
+        "Transactions promise atomicity, consistency, isolation, and durability, but these guarantees are scoped to a specific system boundary. Within a single database node, they can simplify reasoning significantly. However, once systems become distributed, these guarantees weaken or disappear entirely. The abstraction leaks under real-world conditions.",
+        "Many systems advertise transactional support, but the guarantees vary widely. For example, a system may provide atomic writes but weak isolation, leading to subtle anomalies. Engineers often assume stronger guarantees than what is actually implemented, which leads to correctness bugs.",
+        "Transactions reduce the need for defensive programming, such as manual retries or compensation logic. However, they do not eliminate the need for understanding failure modes. When transactions fail or are unavailable, the system must still maintain correctness.",
+        "Principal engineers explicitly define where transactions apply and where they do not. They design workflows assuming partial failures and ensure that critical invariants are protected even outside transactional boundaries."
+      ],
+      "example": "A service assumes that database transactions prevent duplicate order creation, but a retry outside the transaction creates duplicate records.",
+      "interviewTakeaway": "Transactions are scoped guarantees, so always define where they apply and where they do not.",
+      "category": "Transactions",
+      "orderIndex": 1,
+      "estimatedReadTime": 2
+    },
+    {
+      "id": "single-vs-multi-object-atomicity",
+      "slug": "single-vs-multi-object-atomicity",
+      "title": "Single-Object Atomicity Is Not Enough",
+      "summaryShort": "Many systems provide atomicity at the record level but not across multiple objects. Real-world invariants often span multiple entities, making multi-object atomicity essential. This gap is a common source of production inconsistencies.",
+      "keyPoints": [
+        "Single-object atomicity does not protect cross-entity invariants",
+        "Multi-object transactions introduce coordination and contention",
+        "Systems without multi-object guarantees require application-level compensation"
+      ],
+      "articleSections": [
+        "Single-object atomicity ensures that updates to a single record are all or nothing. This is sufficient for simple operations but breaks down when business logic spans multiple records. For example, transferring money between accounts requires coordinated updates.",
+        "Multi-object atomicity ensures that a group of operations either all succeed or all fail. This requires coordination mechanisms such as locking or versioning. These mechanisms introduce latency and reduce concurrency under contention.",
+        "Without multi-object transactions, systems must implement compensation logic. This increases complexity and introduces the risk of partial failures. These failures are often difficult to detect and recover from.",
+        "Principal engineers identify critical invariants that require multi-object guarantees. They ensure that these invariants are enforced either through transactions or carefully designed workflows."
+      ],
+      "example": "A funds transfer system updates one account successfully but fails to update the other, resulting in inconsistent balances.",
+      "interviewTakeaway": "If your invariant spans multiple objects, single-record atomicity is insufficient, so design accordingly.",
+      "category": "Data Integrity",
+      "orderIndex": 2,
+      "estimatedReadTime": 2
+    },
+    {
+      "id": "isolation-levels-misleading",
+      "slug": "isolation-levels-misleading",
+      "title": "Isolation Levels: Names vs Reality",
+      "summaryShort": "Isolation levels like Read Committed or Repeatable Read are inconsistently implemented across databases. The names suggest guarantees that are often weaker in practice. Engineers must reason about actual anomalies, not labels.",
+      "keyPoints": [
+        "Isolation level definitions vary across database implementations",
+        "Names like Repeatable Read do not guarantee absence of anomalies",
+        "Correctness requires understanding allowed anomalies, not relying on labels"
+      ],
+      "articleSections": [
+        "Isolation levels are intended to define how transactions interact, but their implementations differ across systems. For example, Repeatable Read in one database may behave differently in another. This inconsistency makes relying on names dangerous.",
+        "The real question is which anomalies are allowed under each isolation level. Systems may allow non-repeatable reads, phantom reads, or write skew even at higher isolation levels. These anomalies can violate application invariants.",
+        "Many engineers assume stronger guarantees than what is actually provided. This leads to subtle bugs that are difficult to reproduce. These issues often appear only under concurrency and load.",
+        "Principal engineers reason about isolation in terms of anomalies. They explicitly identify which anomalies are acceptable and choose isolation levels accordingly. This approach avoids relying on misleading abstractions."
+      ],
+      "example": "An application assumes Repeatable Read prevents all inconsistencies, but still encounters write skew under concurrent transactions.",
+      "interviewTakeaway": "Do not trust isolation level names—reason about the anomalies they allow.",
+      "category": "Consistency",
+      "orderIndex": 3,
+      "estimatedReadTime": 3
+    },
+    {
+      "id": "read-committed-limitations",
+      "slug": "read-committed-limitations",
+      "title": "Read Committed: Safe Enough Until It Isn’t",
+      "summaryShort": "Read Committed prevents dirty reads but allows many anomalies that break business invariants. It is widely used due to performance benefits but often insufficient for correctness. Engineers must understand its limitations explicitly.",
+      "keyPoints": [
+        "Prevents dirty reads but allows non-repeatable reads and lost updates",
+        "Common default due to lower contention and higher throughput",
+        "Insufficient for invariants requiring consistent multi-step reads"
+      ],
+      "articleSections": [
+        "Read Committed ensures that transactions only see committed data, preventing dirty reads. This is a basic guarantee that avoids some obvious inconsistencies. However, it does not prevent other anomalies such as non-repeatable reads or lost updates.",
+        "Under Read Committed, data can change between reads within the same transaction. This makes it unsuitable for workflows that rely on stable snapshots. Applications must account for this variability explicitly.",
+        "Lost updates are a particularly dangerous anomaly under this isolation level. Two transactions may read the same value, modify it, and overwrite each other's changes. This leads to silent data corruption.",
+        "Principal engineers use Read Committed only when invariants are simple or can tolerate anomalies. For more complex workflows, stronger isolation levels or explicit concurrency control mechanisms are required."
+      ],
+      "example": "Two users update the same record concurrently, and one update overwrites the other without detection.",
+      "interviewTakeaway": "Read Committed is performant but leaky, so do not rely on it for invariant-critical workflows.",
+      "category": "Transactions",
+      "orderIndex": 4,
+      "estimatedReadTime": 2
+    },
+    {
+      "id": "snapshot-isolation-write-skew",
+      "slug": "snapshot-isolation-write-skew",
+      "title": "Snapshot Isolation: Strong but Not Safe Enough",
+      "summaryShort": "Snapshot Isolation eliminates many anomalies but still allows write skew, which breaks multi-object invariants. It provides a consistent view but not full serializability. Many systems rely on it without understanding its limitations.",
+      "keyPoints": [
+        "Provides consistent snapshots and prevents many read anomalies",
+        "Allows write skew, breaking cross-object invariants",
+        "Commonly used due to performance and concurrency benefits"
+      ],
+      "articleSections": [
+        "Snapshot Isolation ensures that transactions read from a consistent snapshot of the database. This eliminates non-repeatable reads and many concurrency anomalies. It is widely used because it balances performance and consistency.",
+        "However, Snapshot Isolation allows write skew, where concurrent transactions make decisions based on the same snapshot and update different records. This can violate invariants that span multiple records. The anomaly is subtle and often overlooked.",
+        "Write skew is particularly problematic in constraint-enforcement scenarios. For example, ensuring that at least one doctor is on call can fail under concurrent updates. Each transaction sees a valid state but collectively violates the invariant.",
+        "Principal engineers recognize that Snapshot Isolation is not equivalent to serializability. They use it when invariants are local or enforce additional constraints to prevent anomalies."
+      ],
+      "example": "Two transactions each see that at least one doctor is on call and both remove themselves, leaving no doctors available.",
+      "interviewTakeaway": "Snapshot Isolation is not serializable, so write skew can break critical invariants.",
+      "category": "Consistency",
+      "orderIndex": 5,
+      "estimatedReadTime": 3
+    },
+    {
+      "id": "serializability-costs",
+      "slug": "serializability-costs",
+      "title": "Serializability: The Gold Standard with Real Costs",
+      "summaryShort": "Serializability guarantees correctness equivalent to sequential execution. However, it introduces contention, latency, and complexity. It is often necessary for critical invariants but expensive at scale.",
+      "keyPoints": [
+        "Provides strongest isolation by preventing all concurrency anomalies",
+        "Introduces contention and reduces throughput under high concurrency",
+        "Requires careful implementation to avoid performance degradation"
+      ],
+      "articleSections": [
+        "Serializability ensures that transactions behave as if executed one at a time. This eliminates all concurrency anomalies and provides the strongest correctness guarantees. It is the ideal model for reasoning about system behavior.",
+        "The cost of serializability is reduced concurrency. Mechanisms such as locking or validation introduce contention, especially under high load. This can significantly impact system throughput and latency.",
+        "Modern implementations use techniques like optimistic concurrency control to mitigate these costs. However, these approaches still require retries and can lead to increased complexity. The tradeoff remains unavoidable.",
+        "Principal engineers use serializability selectively. They apply it to critical invariants where correctness is non-negotiable. For less critical paths, they may accept weaker guarantees to improve performance."
+      ],
+      "example": "A financial system uses serializable transactions to ensure account balances remain consistent under concurrent transfers.",
+      "interviewTakeaway": "Use serializability where correctness is critical and accept the performance cost explicitly.",
+      "category": "Tradeoffs",
+      "orderIndex": 6,
+      "estimatedReadTime": 2
+    },
+    {
+      "id": "distributed-transactions-2pc",
+      "slug": "distributed-transactions-2pc",
+      "title": "Distributed Transactions and 2PC: Coordination at a Cost",
+      "summaryShort": "Two-phase commit provides atomicity across distributed systems but introduces blocking and failure sensitivity. It is operationally fragile and often avoided in modern architectures. The coordination cost grows with system scale.",
+      "keyPoints": [
+        "2PC ensures atomic commits across multiple nodes",
+        "Coordinator failure can block the system indefinitely",
+        "Latency and availability degrade with increased coordination"
+      ],
+      "articleSections": [
+        "Two-phase commit coordinates transactions across multiple nodes by ensuring all participants agree before committing. This provides strong atomicity guarantees across distributed systems. However, it introduces significant coordination overhead.",
+        "The protocol is blocking—if the coordinator fails, participants may be stuck waiting indefinitely. This can lead to system-wide stalls. Recovery requires complex mechanisms and manual intervention in some cases.",
+        "Latency increases with the number of participants, as each phase requires communication and acknowledgment. This makes 2PC unsuitable for high-latency or large-scale distributed systems.",
+        "Principal engineers avoid distributed transactions when possible. They prefer designs that minimize cross-system coordination and use alternative patterns such as eventual consistency and compensation."
+      ],
+      "example": "A distributed payment system uses 2PC to coordinate between services but experiences outages when the coordinator fails during commit.",
+      "interviewTakeaway": "2PC provides strong guarantees but at high operational cost, so avoid it unless absolutely necessary.",
+      "category": "Distributed Systems",
+      "orderIndex": 7,
+      "estimatedReadTime": 3
+    },
+    {
+      "id": "transactions-across-services",
+      "slug": "transactions-across-services",
+      "title": "Transactions Don’t Cross Service Boundaries Cleanly",
+      "summaryShort": "Transactional guarantees weaken significantly across service boundaries. Independent deployments, network failures, and retries introduce inconsistency. Cross-service invariants require explicit design, not implicit transactions.",
+      "keyPoints": [
+        "Service boundaries break traditional transactional guarantees",
+        "Retries and partial failures introduce duplicate or inconsistent state",
+        "Cross-service invariants require workflow-level coordination"
+      ],
+      "articleSections": [
+        "Transactions are typically scoped to a single database or system. Once operations span multiple services, these guarantees no longer hold. Each service may succeed or fail independently, leading to partial completion.",
+        "Retries introduce additional complexity. A failed request may be retried, leading to duplicate operations if idempotency is not enforced. This creates inconsistencies that are difficult to detect.",
+        "Cross-service invariants require explicit coordination mechanisms. This may involve sagas, compensating actions, or eventual consistency models. These approaches shift complexity from infrastructure to application logic.",
+        "Principal engineers design workflows that tolerate partial failure. They ensure that invariants are maintained through idempotency, retries, and compensation rather than relying on distributed transactions."
+      ],
+      "example": "An order service charges a customer but fails to update inventory, requiring manual reconciliation.",
+      "interviewTakeaway": "Transactions stop at service boundaries, so design workflows to handle partial success explicitly.",
+      "category": "Architecture",
+      "orderIndex": 8,
+      "estimatedReadTime": 2
+    }
+  ]
+}

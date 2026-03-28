@@ -19,7 +19,7 @@ Current content direction:
 - the first book in progress is `Designing Data-Intensive Applications`
 - Chapter 1 is already integrated
 - Chapter 2 is now integrated with the modular chapter flow
-- Chapters 3, 4, and 5 are also integrated, with Chapter 5 covering replication in deeper detail
+- Chapters 3, 4, 5, 6, 7, and 8 are also integrated, with the DDIA track now covering replication, partitioning, transactions, and distributed-systems failure semantics in depth
 
 ## Current UX
 
