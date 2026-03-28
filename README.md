@@ -2,6 +2,8 @@
 
 Design Shorts is a zero-cost MVP for mobile-first HLD prep. It delivers one short topic per screen, remembers progress locally, and keeps a separate tech news digest backed by a free GitHub Actions pipeline.
 
+For fast project handoff and build/content context, read [DESIGN.md](/Users/deepthi/VinayProj/design-shorts/DESIGN.md) first.
+
 ## MVP features
 
 - Swipe-based HLD feed
