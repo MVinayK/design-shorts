@@ -4,6 +4,9 @@ export type Topic = {
   title: string;
   summaryShort: string;
   keyPoints: string[];
+  articleSections: string[];
+  example: string;
+  interviewTakeaway: string;
   category: string;
   orderIndex: number;
   estimatedReadTime: number;

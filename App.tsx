@@ -3,10 +3,12 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import {
   FlatList,
   Linking,
+  Modal,
   NativeScrollEvent,
   NativeSyntheticEvent,
   Pressable,
   SafeAreaView,
+  ScrollView,
   StyleSheet,
   Text,
   useWindowDimensions,
@@ -26,12 +28,14 @@ function TopicCard({
   width,
   currentIndex,
   total,
+  onExpand,
 }: {
   topic: Topic;
   height: number;
   width: number;
   currentIndex: number;
   total: number;
+  onExpand: () => void;
 }) {
   return (
     <View style={[styles.page, { height, width }]}>
@@ -40,7 +44,12 @@ function TopicCard({
           <View style={styles.badge}>
             <Text style={styles.badgeText}>{topic.category}</Text>
           </View>
-          <Text style={styles.readTime}>{topic.estimatedReadTime} min read</Text>
+          <View style={styles.topicMetaActions}>
+            <Text style={styles.readTime}>{topic.estimatedReadTime} min read</Text>
+            <Pressable onPress={onExpand} style={styles.iconButton}>
+              <Text style={styles.iconButtonText}>+</Text>
+            </Pressable>
+          </View>
         </View>
         <View style={styles.pageCountRow}>
           <Text style={styles.pageCountText}>
@@ -116,6 +125,56 @@ function NewsCardView({
         </Pressable>
       </View>
     </View>
+  );
+}
+
+function ArticleModal({
+  topic,
+  visible,
+  onClose,
+}: {
+  topic: Topic | null;
+  visible: boolean;
+  onClose: () => void;
+}) {
+  if (!topic) {
+    return null;
+  }
+
+  return (
+    <Modal visible={visible} animationType="slide" presentationStyle="fullScreen" onRequestClose={onClose}>
+      <SafeAreaView style={styles.articleSafeArea}>
+        <View style={styles.articleHeader}>
+          <View>
+            <Text style={styles.articleEyebrow}>{topic.category}</Text>
+            <Text style={styles.articleTitle}>{topic.title}</Text>
+          </View>
+          <Pressable onPress={onClose} style={styles.iconButton}>
+            <Text style={styles.iconButtonText}>×</Text>
+          </Pressable>
+        </View>
+        <ScrollView
+          style={styles.articleScroll}
+          contentContainerStyle={styles.articleContent}
+          showsVerticalScrollIndicator={false}
+        >
+          <Text style={styles.articleLead}>{topic.summaryShort}</Text>
+          {topic.articleSections.map((section) => (
+            <Text key={section} style={styles.articleParagraph}>
+              {section}
+            </Text>
+          ))}
+          <View style={styles.articleCallout}>
+            <Text style={styles.articleCalloutLabel}>Example</Text>
+            <Text style={styles.articleCalloutText}>{topic.example}</Text>
+          </View>
+          <View style={styles.articleCallout}>
+            <Text style={styles.articleCalloutLabel}>Interview takeaway</Text>
+            <Text style={styles.articleCalloutText}>{topic.interviewTakeaway}</Text>
+          </View>
+        </ScrollView>
+      </SafeAreaView>
+    </Modal>
   );
 }
 
@@ -200,7 +259,8 @@ export default function App() {
   const [isHydrated, setIsHydrated] = useState(false);
   const [isRefreshingNews, setIsRefreshingNews] = useState(false);
   const [currentTopicIndex, setCurrentTopicIndex] = useState(0);
-  const [currentNewsIndex, setCurrentNewsIndex] = useState(0);
+  const [, setCurrentNewsIndex] = useState(0);
+  const [expandedTopic, setExpandedTopic] = useState<Topic | null>(null);
 
   useEffect(() => {
     async function bootstrap() {
@@ -358,17 +418,9 @@ export default function App() {
       <View style={styles.appShell}>
         <View style={styles.header}>
           <View>
-            <Text style={styles.eyebrow}>Mobile-first HLD prep</Text>
             <Text style={styles.headerTitle}>Design Shorts</Text>
           </View>
           <View style={styles.headerActions}>
-            <Text style={styles.headerMeta}>
-              {activeTab === 'learn'
-                ? `${summary.readCount}/${summary.totalCount} topics done`
-                : activeTab === 'news'
-                  ? `${newsDigest.items.length} tech stories`
-                  : 'Preferences'}
-            </Text>
             <Pressable onPress={() => setIsMenuOpen((value) => !value)} style={styles.menuButton}>
               <Text style={styles.menuButtonText}>Menu</Text>
             </Pressable>
@@ -402,13 +454,14 @@ export default function App() {
               initialScrollIndex={preferences.feedMode === 'serial' ? serialStartIndex : 0}
               onMomentumScrollEnd={handleTopicSwipeEnd}
               getItemLayout={(_, index) => ({ index, length: width, offset: width * index })}
-              renderItem={({ item }) => (
+              renderItem={({ item, index }) => (
                 <TopicCard
                   topic={item}
                   height={height - 136}
                   width={width}
-                  currentIndex={activeTopics.findIndex((topic) => topic.id === item.id)}
+                  currentIndex={index}
                   total={activeTopics.length}
+                  onExpand={() => setExpandedTopic(item)}
                 />
               )}
               keyExtractor={(item) => item.id}
@@ -426,12 +479,12 @@ export default function App() {
                 snapToAlignment="start"
                 decelerationRate="fast"
                 onMomentumScrollEnd={handleNewsSwipeEnd}
-                renderItem={({ item }) => (
+                renderItem={({ item, index }) => (
                   <NewsCardView
                     story={item}
                     height={height - 136}
                     width={width}
-                    currentIndex={newsDigest.items.findIndex((story) => story.id === item.id)}
+                    currentIndex={index}
                     total={newsDigest.items.length}
                   />
                 )}
@@ -457,6 +510,7 @@ export default function App() {
         </View>
 
       </View>
+      <ArticleModal topic={expandedTopic} visible={expandedTopic !== null} onClose={() => setExpandedTopic(null)} />
     </SafeAreaView>
   );
 }
@@ -480,28 +534,19 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     alignItems: 'flex-start',
   },
-  eyebrow: {
-    color: '#2867c6',
-    fontSize: 12,
-    letterSpacing: 1.2,
-    textTransform: 'uppercase',
-  },
   headerTitle: {
     color: '#13428f',
     fontSize: 30,
     fontWeight: '700',
-    marginTop: 6,
   },
-  headerMeta: {
-    color: '#cc4c3b',
-    fontSize: 13,
-    fontWeight: '600',
-    textAlign: 'right',
+  topicMetaActions: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 10,
   },
   headerActions: {
     alignItems: 'flex-end',
     position: 'relative',
-    gap: 10,
   },
   menuButton: {
     paddingHorizontal: 14,
@@ -512,6 +557,22 @@ const styles = StyleSheet.create({
   menuButtonText: {
     color: '#ffffff',
     fontWeight: '700',
+  },
+  iconButton: {
+    width: 34,
+    height: 34,
+    borderRadius: 999,
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: '#edf4ff',
+    borderWidth: 1,
+    borderColor: '#d6e6fb',
+  },
+  iconButtonText: {
+    color: '#255fbe',
+    fontSize: 22,
+    lineHeight: 24,
+    fontWeight: '600',
   },
   menuPanel: {
     position: 'absolute',
@@ -794,5 +855,72 @@ const styles = StyleSheet.create({
     bottom: 18,
     color: '#cf4339',
     textAlign: 'center',
+  },
+  articleSafeArea: {
+    flex: 1,
+    backgroundColor: '#ffffff',
+  },
+  articleHeader: {
+    paddingHorizontal: 24,
+    paddingTop: 12,
+    paddingBottom: 14,
+    borderBottomWidth: 1,
+    borderBottomColor: '#e1ebfb',
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'flex-start',
+  },
+  articleEyebrow: {
+    color: '#2867c6',
+    fontSize: 12,
+    letterSpacing: 1.2,
+    textTransform: 'uppercase',
+  },
+  articleTitle: {
+    marginTop: 6,
+    color: '#163b72',
+    fontSize: 28,
+    lineHeight: 34,
+    fontWeight: '700',
+    maxWidth: 280,
+  },
+  articleScroll: {
+    flex: 1,
+  },
+  articleContent: {
+    paddingHorizontal: 24,
+    paddingTop: 22,
+    paddingBottom: 36,
+    gap: 18,
+  },
+  articleLead: {
+    color: '#234c85',
+    fontSize: 19,
+    lineHeight: 30,
+    fontWeight: '600',
+  },
+  articleParagraph: {
+    color: '#456487',
+    fontSize: 17,
+    lineHeight: 29,
+  },
+  articleCallout: {
+    padding: 18,
+    backgroundColor: '#f4f8ff',
+    borderLeftWidth: 3,
+    borderLeftColor: '#ea5445',
+  },
+  articleCalloutLabel: {
+    color: '#c4483d',
+    fontSize: 12,
+    textTransform: 'uppercase',
+    letterSpacing: 1,
+    fontWeight: '700',
+  },
+  articleCalloutText: {
+    marginTop: 10,
+    color: '#355781',
+    fontSize: 16,
+    lineHeight: 26,
   },
 });

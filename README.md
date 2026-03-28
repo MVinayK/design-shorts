@@ -25,11 +25,57 @@ npm install
 npm start
 ```
 
+Create a local env file if you want the app to fetch the live tech news digest instead of only bundled/cached content:
+
+```bash
+cp .env.example .env
+```
+
+## Mobile deployment
+
+The app is prepared for Expo Application Services with:
+
+- iOS bundle identifier: `com.app.designshorts`
+- Android package: `com.app.designshorts`
+- EAS build profiles in [eas.json](/Users/deepthi/VinayProj/design-shorts/eas.json)
+
+Recommended release flow:
+
+```bash
+npm install
+npx expo login
+npx eas login
+npx eas build:configure
+npx eas build --platform android --profile preview
+npx eas build --platform ios --profile preview
+```
+
+For production builds:
+
+```bash
+npx eas build --platform android --profile production
+npx eas build --platform ios --profile production
+```
+
+After the first successful store-connected setup, submit with:
+
+```bash
+npx eas submit --platform android --profile production
+npx eas submit --platform ios --profile production
+```
+
+Notes:
+
+- `preview` is best for internal device testing
+- `production` is for Play Store / App Store release builds
+- `npx eas build:configure` will create any missing Expo-managed native build metadata in your account
+- you will still need your own App Store Connect and Google Play Console accounts for store submission
+
 ## News digest pipeline
 
 The app fetches a static JSON digest from a hosted URL and falls back to bundled or cached data if that fetch fails.
 
-1. Set `EXPO_PUBLIC_NEWS_DIGEST_URL` to your GitHub raw JSON URL.
+1. Set `EXPO_PUBLIC_NEWS_DIGEST_URL` in `.env` to your GitHub raw JSON URL.
 2. Push this repo to GitHub.
 3. Enable the `Refresh News Digest` workflow.
 4. The workflow writes `public/news.json` on a schedule.
