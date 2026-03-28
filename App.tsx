@@ -1,5 +1,7 @@
 import { Inter_400Regular, Inter_600SemiBold, Inter_700Bold, useFonts as useInterFonts } from '@expo-google-fonts/inter';
 import { PlayfairDisplay_700Bold, useFonts as usePlayfairFonts } from '@expo-google-fonts/playfair-display';
+import { Audio } from 'expo-av';
+import * as Haptics from 'expo-haptics';
 import { StatusBar } from 'expo-status-bar';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import {
@@ -38,6 +40,7 @@ import {
 } from './src/lib/feed';
 import { formatFeedDate, formatRelativeSyncTime } from './src/lib/format';
 import { loadNewsDigest, refreshNewsDigest } from './src/lib/newsRepository';
+import { syncReadingReminderSchedule } from './src/lib/reminders';
 import { DEFAULT_PREFERENCES, loadStoredState, markTopicRead, savePreferences } from './src/lib/storage';
 import type { ContentBook, ContentSyncMetadata, FeedTab, NewsCard, Preferences, Topic, TopicFeed, TopicStatus } from './src/types';
 
@@ -48,6 +51,13 @@ const FONT_SERIF = 'PlayfairDisplay_700Bold';
 const FONT_SANS = 'Inter_400Regular';
 const FONT_SANS_SEMIBOLD = 'Inter_600SemiBold';
 const FONT_SANS_BOLD = 'Inter_700Bold';
+const COMPLETION_SOUND = require('./assets/sounds/complete.wav');
+
+type CelebrationState = {
+  title: string;
+  body: string;
+  tone: 'topic' | 'chapter';
+};
 
 function getChapterLabel(chapterId: string) {
   const match = chapterId.match(/chapter-(\d+)/i);
@@ -60,6 +70,60 @@ function getBookLabel(bookId: string) {
   }
 
   return bookId.toUpperCase();
+}
+
+function getScopeSummary(books: ContentBook[], bookId: string | null, chapterId: string | null) {
+  if (!bookId) {
+    return null;
+  }
+
+  const book = books.find((candidate) => candidate.id === bookId);
+  if (!book) {
+    return chapterId ? `${getBookLabel(bookId)} · ${getChapterLabel(chapterId)}` : getBookLabel(bookId);
+  }
+
+  if (!chapterId) {
+    return book.title;
+  }
+
+  const chapter = book.chapters.find((candidate) => candidate.id === chapterId);
+  return `${book.title} · ${chapter?.title ?? getChapterLabel(chapterId)}`;
+}
+
+function getCelebrationState(topic: Topic, topics: Topic[], nextProgressMap: Record<string, TopicStatus>): CelebrationState {
+  const chapterTopics = topics.filter(
+    (candidate) => candidate.bookId === topic.bookId && candidate.chapterId === topic.chapterId,
+  );
+  const isChapterComplete = chapterTopics.every((candidate) => nextProgressMap[candidate.id] === 'read');
+
+  if (isChapterComplete) {
+    return {
+      title: 'Chapter clear',
+      body: `${getChapterLabel(topic.chapterId)} is locked in. Nice run.`,
+      tone: 'chapter',
+    };
+  }
+
+  const options = [
+    {
+      title: 'Sharp.',
+      body: 'One more idea moved from scrolling to recall.',
+    },
+    {
+      title: 'Locked in.',
+      body: 'That tradeoff is now part of your interview language.',
+    },
+    {
+      title: 'Good one.',
+      body: 'Tiny reps like this build serious systems instinct.',
+    },
+  ];
+
+  const pick = options[Math.abs(topic.orderIndex) % options.length];
+  return {
+    ...pick,
+    tone: 'topic',
+  };
 }
 
 function TopicCard({
@@ -120,6 +184,26 @@ function TopicCard({
             <Text style={styles.takeawayPreviewText}>{topic.interviewTakeaway}</Text>
           </View>
         </ScrollView>
+      </View>
+    </View>
+  );
+}
+
+function CelebrationToast({ celebration }: { celebration: CelebrationState | null }) {
+  if (!celebration) {
+    return null;
+  }
+
+  return (
+    <View pointerEvents="none" style={styles.celebrationOverlay}>
+      <View style={[styles.celebrationCard, celebration.tone === 'chapter' && styles.celebrationCardChapter]}>
+        <View style={[styles.celebrationIcon, celebration.tone === 'chapter' && styles.celebrationIconChapter]}>
+          <Text style={styles.celebrationIconText}>{celebration.tone === 'chapter' ? '⚡' : '👍'}</Text>
+        </View>
+        <View style={styles.celebrationText}>
+          <Text style={styles.celebrationTitle}>{celebration.title}</Text>
+          <Text style={styles.celebrationBody}>{celebration.body}</Text>
+        </View>
       </View>
     </View>
   );
@@ -233,6 +317,8 @@ function ArticleModal({
 function SettingsView({
   preferences,
   onChangeMode,
+  onChangeReminderCadence,
+  onChangeCelebrationSound,
   readCount,
   totalCount,
   onRefreshNews,
@@ -244,6 +330,8 @@ function SettingsView({
 }: {
   preferences: Preferences;
   onChangeMode: (mode: Preferences['feedMode']) => void;
+  onChangeReminderCadence: (cadence: Preferences['readingReminderCadence']) => void;
+  onChangeCelebrationSound: (enabled: boolean) => void;
   readCount: number;
   totalCount: number;
   onRefreshNews: () => void;
@@ -283,6 +371,54 @@ function SettingsView({
           {readCount} of {totalCount} topics read
         </Text>
         <Text style={styles.settingsHint}>Saved locally. Offline reading works by default.</Text>
+      </View>
+
+      <View style={styles.settingsCard}>
+        <Text style={styles.settingsCardTitle}>Reading rhythm</Text>
+        <Text style={styles.settingsHint}>
+          Gentle local reminders. `Once` is morning only. `Twice` adds an evening nudge. Device builds only.
+        </Text>
+        <View style={styles.segmentedControl}>
+          {(['off', 'once', 'twice'] as const).map((cadence) => {
+            const selected = preferences.readingReminderCadence === cadence;
+
+            return (
+              <Pressable
+                key={cadence}
+                onPress={() => onChangeReminderCadence(cadence)}
+                style={[styles.segmentButton, selected && styles.segmentButtonActive]}
+              >
+                <Text style={[styles.segmentButtonText, selected && styles.segmentButtonTextActive]}>
+                  {cadence === 'off' ? 'Off' : cadence === 'once' ? 'Once' : 'Twice'}
+                </Text>
+              </Pressable>
+            );
+          })}
+        </View>
+      </View>
+
+      <View style={styles.settingsCard}>
+        <Text style={styles.settingsCardTitle}>Completion energy</Text>
+        <Text style={styles.settingsHint}>
+          Adds a quick sound and tactile feedback when a topic is completed. Chapter clears get a stronger moment.
+        </Text>
+        <View style={styles.segmentedControl}>
+          {([true, false] as const).map((enabled) => {
+            const selected = preferences.celebrationSoundEnabled === enabled;
+
+            return (
+              <Pressable
+                key={enabled ? 'on' : 'off'}
+                onPress={() => onChangeCelebrationSound(enabled)}
+                style={[styles.segmentButton, selected && styles.segmentButtonActive]}
+              >
+                <Text style={[styles.segmentButtonText, selected && styles.segmentButtonTextActive]}>
+                  {enabled ? 'Sound on' : 'Sound off'}
+                </Text>
+              </Pressable>
+            );
+          })}
+        </View>
       </View>
 
       <View style={styles.settingsCard}>
@@ -537,6 +673,8 @@ function AppContent() {
   const feedHeight = Math.max(height - headerTopPadding - HEADER_CONTENT_HEIGHT - HEADER_BOTTOM_GAP, 320);
   const topicFeedRef = useRef<FlatList<Topic>>(null);
   const newsFeedRef = useRef<FlatList<NewsCard>>(null);
+  const celebrationTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const celebrationSoundRef = useRef<Audio.Sound | null>(null);
   const [activeTab, setActiveTab] = useState<FeedTab>('learn');
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [preferences, setPreferences] = useState(DEFAULT_PREFERENCES);
@@ -553,6 +691,7 @@ function AppContent() {
   const [selectedBookId, setSelectedBookId] = useState<string | null>(null);
   const [selectedChapterId, setSelectedChapterId] = useState<string | null>(null);
   const [focusedLibraryTopicId, setFocusedLibraryTopicId] = useState<string | null>(null);
+  const [celebration, setCelebration] = useState<CelebrationState | null>(null);
   const [contentSyncMetadata, setContentSyncMetadata] = useState<ContentSyncMetadata>({
     catalogVersion: getBundledTopicFeed().catalog.version,
     lastAttemptedSyncAt: null,
@@ -601,6 +740,26 @@ function AppContent() {
     void bootstrap();
   }, []);
 
+  useEffect(() => {
+    if (!isHydrated) {
+      return;
+    }
+
+    void syncReadingReminderSchedule(preferences.readingReminderCadence);
+  }, [isHydrated, preferences.readingReminderCadence]);
+
+  useEffect(() => {
+    return () => {
+      if (celebrationTimeoutRef.current) {
+        clearTimeout(celebrationTimeoutRef.current);
+      }
+
+      if (celebrationSoundRef.current) {
+        void celebrationSoundRef.current.unloadAsync();
+      }
+    };
+  }, []);
+
   const sortedTopics = useMemo(
     () => [...topicFeed.topics].sort((left, right) => left.orderIndex - right.orderIndex),
     [topicFeed.topics],
@@ -632,6 +791,14 @@ function AppContent() {
   );
 
   const summary = useMemo(() => getTopicProgressSummary(sortedTopics, progressMap), [progressMap, sortedTopics]);
+  const learnFeedKey = useMemo(
+    () => `${preferences.feedMode}-${selectedBookId ?? 'all'}-${selectedChapterId ?? 'all'}`,
+    [preferences.feedMode, selectedBookId, selectedChapterId],
+  );
+  const menuActiveTab = useMemo<FeedTab>(
+    () => (activeTab === 'learn' && (selectedBookId !== null || selectedChapterId !== null) ? 'library' : activeTab),
+    [activeTab, selectedBookId, selectedChapterId],
+  );
   useEffect(() => {
     setCurrentTopicIndex((currentIndex) => Math.min(currentIndex, Math.max(activeTopics.length - 1, 0)));
   }, [activeTopics.length]);
@@ -670,11 +837,95 @@ function AppContent() {
     [preferences, progressMap, sortedTopics],
   );
 
+  const persistReminderCadence = useCallback(
+    async (cadence: Preferences['readingReminderCadence']) => {
+      const nextPreferences = { ...preferences, readingReminderCadence: cadence };
+      setPreferences(nextPreferences);
+      await savePreferences(nextPreferences);
+
+      const result = await syncReadingReminderSchedule(cadence);
+      if (cadence !== 'off' && !result.granted) {
+        const fallbackPreferences = { ...nextPreferences, readingReminderCadence: 'off' as const };
+        setPreferences(fallbackPreferences);
+        await savePreferences(fallbackPreferences);
+      }
+    },
+    [preferences],
+  );
+
+  const persistCelebrationSoundEnabled = useCallback(
+    async (enabled: boolean) => {
+      const nextPreferences = { ...preferences, celebrationSoundEnabled: enabled };
+      setPreferences(nextPreferences);
+      await savePreferences(nextPreferences);
+    },
+    [preferences],
+  );
+
+  const playCelebrationFeedback = useCallback(
+    async (nextCelebration: CelebrationState) => {
+      try {
+        await Haptics.notificationAsync(
+          nextCelebration.tone === 'chapter'
+            ? Haptics.NotificationFeedbackType.Success
+            : Haptics.NotificationFeedbackType.Success,
+        );
+      } catch {
+        // Haptics are best effort.
+      }
+
+      if (!preferences.celebrationSoundEnabled) {
+        return;
+      }
+
+      try {
+        if (!celebrationSoundRef.current) {
+          const { sound } = await Audio.Sound.createAsync(COMPLETION_SOUND, {
+            shouldPlay: false,
+            volume: nextCelebration.tone === 'chapter' ? 0.45 : 0.28,
+          });
+          celebrationSoundRef.current = sound;
+        } else {
+          await celebrationSoundRef.current.setVolumeAsync(nextCelebration.tone === 'chapter' ? 0.45 : 0.28);
+        }
+
+        await celebrationSoundRef.current.setPositionAsync(0);
+        await celebrationSoundRef.current.playAsync();
+      } catch {
+        // Sound is best effort.
+      }
+    },
+    [preferences.celebrationSoundEnabled],
+  );
+
+  const triggerCelebration = useCallback(
+    (topic: Topic, nextProgressMap: Record<string, TopicStatus>) => {
+      const nextCelebration = getCelebrationState(topic, sortedTopics, nextProgressMap);
+      setCelebration(nextCelebration);
+
+      if (celebrationTimeoutRef.current) {
+        clearTimeout(celebrationTimeoutRef.current);
+      }
+
+      celebrationTimeoutRef.current = setTimeout(() => {
+        setCelebration(null);
+      }, nextCelebration.tone === 'chapter' ? 1900 : 1300);
+
+      void playCelebrationFeedback(nextCelebration);
+    },
+    [playCelebrationFeedback, sortedTopics],
+  );
+
   const handleMarkRead = useCallback(
     async (topicId: string) => {
       const nextState = await markTopicRead(topicId, sortedTopics, progressMap, preferences);
       setProgressMap(nextState.progressMap);
       setPreferences(nextState.preferences);
+      const topic = sortedTopics.find((candidate) => candidate.id === topicId);
+
+      if (topic) {
+        triggerCelebration(topic, nextState.progressMap);
+      }
 
       if (preferences.feedMode === 'serial') {
         const currentIndex = sortedTopics.findIndex((topic) => topic.id === topicId);
@@ -688,7 +939,7 @@ function AppContent() {
         });
       }
     },
-    [preferences, progressMap, sortedTopics],
+    [preferences, progressMap, sortedTopics, triggerCelebration],
   );
 
   const refreshDigest = useCallback(async () => {
@@ -713,8 +964,13 @@ function AppContent() {
       const nextState = await markTopicRead(topicId, sortedTopics, progressMap, preferences);
       setProgressMap(nextState.progressMap);
       setPreferences(nextState.preferences);
+      const topic = sortedTopics.find((candidate) => candidate.id === topicId);
+
+      if (topic) {
+        triggerCelebration(topic, nextState.progressMap);
+      }
     },
-    [preferences, progressMap, sortedTopics],
+    [preferences, progressMap, sortedTopics, triggerCelebration],
   );
 
   const handleTopicSwipeEnd = useCallback(
@@ -743,10 +999,26 @@ function AppContent() {
     [width],
   );
 
-  const switchTab = useCallback((tab: FeedTab) => {
-    setActiveTab(tab);
-    setIsMenuOpen(false);
-  }, []);
+  const switchTab = useCallback(
+    (tab: FeedTab) => {
+      if (tab === 'learn') {
+        setSelectedBookId(null);
+        setSelectedChapterId(null);
+        setFocusedLibraryTopicId(null);
+        setCurrentTopicIndex(0);
+        setActiveTab('learn');
+        setIsMenuOpen(false);
+        requestAnimationFrame(() => {
+          topicFeedRef.current?.scrollToOffset({ animated: false, offset: 0 });
+        });
+        return;
+      }
+
+      setActiveTab(tab);
+      setIsMenuOpen(false);
+    },
+    [],
+  );
 
   const openLearnScope = useCallback((bookId: string | null, chapterId: string | null) => {
     setSelectedBookId(bookId);
@@ -784,6 +1056,7 @@ function AppContent() {
     <SafeAreaView style={styles.safeArea} edges={['top', 'left', 'right']}>
       <StatusBar style="light" />
       <View style={styles.appShell}>
+        {isMenuOpen ? <Pressable style={styles.menuBackdrop} onPress={() => setIsMenuOpen(false)} /> : null}
         <View style={[styles.header, { paddingTop: headerTopPadding }]}>
           <View style={styles.headerBrand}>
             <View style={styles.logoMark}>
@@ -811,7 +1084,7 @@ function AppContent() {
                   ['settings', 'Settings'],
                 ] as const).map(([tab, label]) => (
                   <Pressable key={tab} onPress={() => switchTab(tab)} style={styles.menuItem}>
-                    <Text style={[styles.menuItemText, activeTab === tab && styles.menuItemTextActive]}>{label}</Text>
+                    <Text style={[styles.menuItemText, menuActiveTab === tab && styles.menuItemTextActive]}>{label}</Text>
                   </Pressable>
                 ))}
               </View>
@@ -824,14 +1097,14 @@ function AppContent() {
             <FlatList
               ref={topicFeedRef}
               data={activeTopics}
-              key={preferences.feedMode}
-              extraData={`${selectedBookId ?? 'all'}-${selectedChapterId ?? 'all'}`}
+              key={learnFeedKey}
+              extraData={learnFeedKey}
               horizontal
               pagingEnabled
               showsHorizontalScrollIndicator={false}
               snapToAlignment="start"
               decelerationRate="fast"
-              initialScrollIndex={preferences.feedMode === 'serial' ? serialStartIndex : 0}
+              initialScrollIndex={preferences.feedMode === 'serial' && activeTopics.length > 0 ? serialStartIndex : 0}
               onMomentumScrollEnd={handleTopicSwipeEnd}
               getItemLayout={(_, index) => ({ index, length: width, offset: width * index })}
               renderItem={({ item }) => (
@@ -890,6 +1163,8 @@ function AppContent() {
               <SettingsView
                 preferences={preferences}
                 onChangeMode={(mode) => void persistMode(mode)}
+                onChangeReminderCadence={(cadence) => void persistReminderCadence(cadence)}
+                onChangeCelebrationSound={(enabled) => void persistCelebrationSoundEnabled(enabled)}
                 readCount={summary.readCount}
                 totalCount={summary.totalCount}
                 onRefreshNews={() => void refreshDigest()}
@@ -904,6 +1179,7 @@ function AppContent() {
         </View>
 
       </View>
+      <CelebrationToast celebration={celebration} />
       <ArticleModal topic={expandedTopic} visible={expandedTopic !== null} onClose={() => setExpandedTopic(null)} />
     </SafeAreaView>
   );
@@ -1039,6 +1315,10 @@ const styles = StyleSheet.create({
     alignItems: 'flex-end',
     position: 'relative',
   },
+  menuBackdrop: {
+    ...StyleSheet.absoluteFillObject,
+    zIndex: 40,
+  },
   menuButton: {
     paddingHorizontal: 12,
     paddingVertical: 9,
@@ -1137,6 +1417,38 @@ const styles = StyleSheet.create({
   },
   feedWrapper: {
     flex: 1,
+  },
+  scopePillBar: {
+    marginHorizontal: 18,
+    marginBottom: 8,
+    paddingHorizontal: 14,
+    paddingVertical: 10,
+    borderWidth: 1,
+    borderColor: '#e1eaf8',
+    backgroundColor: '#fffefc',
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+  },
+  scopePillText: {
+    flex: 1,
+    color: '#58718f',
+    fontSize: 13,
+    lineHeight: 18,
+    fontFamily: FONT_SANS_SEMIBOLD,
+  },
+  scopePillButton: {
+    paddingHorizontal: 12,
+    paddingVertical: 8,
+    borderRadius: 999,
+    backgroundColor: '#f4f8ff',
+    borderWidth: 1,
+    borderColor: '#dce8fb',
+  },
+  scopePillButtonText: {
+    color: '#2158b1',
+    fontSize: 12,
+    fontFamily: FONT_SANS_BOLD,
   },
   page: {
     paddingHorizontal: 0,
@@ -1546,6 +1858,66 @@ const styles = StyleSheet.create({
     color: '#6a809f',
     fontSize: 14,
     lineHeight: 21,
+    fontFamily: FONT_SANS,
+  },
+  celebrationOverlay: {
+    position: 'absolute',
+    left: 18,
+    right: 18,
+    bottom: 28,
+    alignItems: 'center',
+  },
+  celebrationCard: {
+    maxWidth: 360,
+    width: '100%',
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 14,
+    paddingHorizontal: 16,
+    paddingVertical: 14,
+    backgroundColor: '#fffefc',
+    borderWidth: 1,
+    borderColor: '#dbe7fb',
+    shadowColor: '#1f55ab',
+    shadowOpacity: 0.12,
+    shadowRadius: 16,
+    shadowOffset: {
+      width: 0,
+      height: 8,
+    },
+    elevation: 5,
+  },
+  celebrationCardChapter: {
+    backgroundColor: '#fff7f4',
+    borderColor: '#f0c2bb',
+  },
+  celebrationIcon: {
+    width: 42,
+    height: 42,
+    borderRadius: 999,
+    backgroundColor: '#eef5ff',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  celebrationIconChapter: {
+    backgroundColor: '#ffe4de',
+  },
+  celebrationIconText: {
+    fontSize: 20,
+  },
+  celebrationText: {
+    flex: 1,
+    gap: 3,
+  },
+  celebrationTitle: {
+    color: '#173f7b',
+    fontSize: 16,
+    fontFamily: FONT_SANS_BOLD,
+  },
+  celebrationBody: {
+    color: '#5c7390',
+    fontSize: 13,
+    lineHeight: 19,
     fontFamily: FONT_SANS,
   },
   loadingScreen: {

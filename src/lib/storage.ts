@@ -12,6 +12,8 @@ export const DEFAULT_PREFERENCES: Preferences = {
   randomWeightRead: 0.25,
   randomWeightUnread: 0.75,
   resumeCheckpointTopicId: null,
+  readingReminderCadence: 'off',
+  celebrationSoundEnabled: true,
 };
 
 export async function loadStoredState(): Promise<{

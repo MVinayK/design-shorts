@@ -94,6 +94,8 @@ export type Preferences = {
   randomWeightRead: number;
   randomWeightUnread: number;
   resumeCheckpointTopicId: string | null;
+  readingReminderCadence: 'off' | 'once' | 'twice';
+  celebrationSoundEnabled: boolean;
 };
 
 export type NewsCard = {
