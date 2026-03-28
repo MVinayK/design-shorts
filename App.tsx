@@ -6,14 +6,15 @@ import {
   Modal,
   NativeScrollEvent,
   NativeSyntheticEvent,
+  Platform,
   Pressable,
-  SafeAreaView,
   ScrollView,
   StyleSheet,
   Text,
   useWindowDimensions,
   View,
 } from 'react-native';
+import { SafeAreaProvider, SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { BUNDLED_NEWS_DIGEST } from './src/data/bundledNews';
 import { getBundledTopicFeed, loadTopicFeed, refreshTopicFeed } from './src/lib/contentRepository';
 import { createRandomDeck, getSerialStartIndex, getTopicProgressSummary, getTopicStatus } from './src/lib/feed';
@@ -26,15 +27,11 @@ function TopicCard({
   topic,
   height,
   width,
-  currentIndex,
-  total,
   onExpand,
 }: {
   topic: Topic;
   height: number;
   width: number;
-  currentIndex: number;
-  total: number;
   onExpand: () => void;
 }) {
   return (
@@ -57,10 +54,7 @@ function TopicCard({
             </View>
           </View>
           <View style={styles.pageCountRow}>
-            <Text style={styles.pageCountText}>
-              {currentIndex + 1} / {total}
-            </Text>
-            <Text style={styles.swipeHint}>Swipe left or right</Text>
+            <View />
           </View>
           <Text style={styles.topicTitle}>{topic.title}</Text>
           <Text style={styles.topicSummary}>{topic.summaryShort}</Text>
@@ -73,7 +67,7 @@ function TopicCard({
             ))}
           </View>
           <View style={styles.cardFooter}>
-            <Text style={styles.statusText}>Swipe ahead to move through the track.</Text>
+            <View />
           </View>
         </ScrollView>
       </View>
@@ -85,14 +79,10 @@ function NewsCardView({
   story,
   height,
   width,
-  currentIndex,
-  total,
 }: {
   story: NewsCard;
   height: number;
   width: number;
-  currentIndex: number;
-  total: number;
 }) {
   const openStory = useCallback(() => {
     void Linking.openURL(story.sourceUrl);
@@ -113,10 +103,7 @@ function NewsCardView({
             <Text style={styles.readTime}>{formatFeedDate(story.publishedAt)}</Text>
           </View>
           <View style={styles.pageCountRow}>
-            <Text style={styles.pageCountText}>
-              {currentIndex + 1} / {total}
-            </Text>
-            <Text style={styles.swipeHint}>Swipe left or right</Text>
+            <View />
           </View>
           <Text style={styles.topicTitle}>{story.title}</Text>
           <Text style={styles.topicSummary}>{story.summaryShort}</Text>
@@ -258,8 +245,11 @@ function SettingsView({
   );
 }
 
-export default function App() {
+function AppContent() {
+  const insets = useSafeAreaInsets();
   const { height, width } = useWindowDimensions();
+  const headerTopPadding =
+    insets.top > 0 ? insets.top + 8 : Platform.OS === 'web' && width <= 430 ? 54 : 20;
   const topicFeedRef = useRef<FlatList<Topic>>(null);
   const newsFeedRef = useRef<FlatList<NewsCard>>(null);
   const [activeTab, setActiveTab] = useState<FeedTab>('learn');
@@ -434,10 +424,10 @@ export default function App() {
   }
 
   return (
-    <SafeAreaView style={styles.safeArea}>
+    <SafeAreaView style={styles.safeArea} edges={['top', 'left', 'right']}>
       <StatusBar style="light" />
       <View style={styles.appShell}>
-        <View style={styles.header}>
+        <View style={[styles.header, { paddingTop: headerTopPadding }]}>
           <View>
             <Text style={styles.headerTitle}>Design Shorts</Text>
           </View>
@@ -480,8 +470,6 @@ export default function App() {
                   topic={item}
                   height={height - 136}
                   width={width}
-                  currentIndex={index}
-                  total={activeTopics.length}
                   onExpand={() => setExpandedTopic(item)}
                 />
               )}
@@ -505,8 +493,6 @@ export default function App() {
                     story={item}
                     height={height - 136}
                     width={width}
-                    currentIndex={index}
-                    total={newsDigest.items.length}
                   />
                 )}
                 keyExtractor={(item) => item.id}
@@ -536,6 +522,16 @@ export default function App() {
   );
 }
 
+function RootApp() {
+  return (
+    <SafeAreaProvider>
+      <AppContent />
+    </SafeAreaProvider>
+  );
+}
+
+export default RootApp;
+
 const styles = StyleSheet.create({
   safeArea: {
     flex: 1,
@@ -549,7 +545,7 @@ const styles = StyleSheet.create({
     position: 'relative',
     zIndex: 50,
     paddingHorizontal: 20,
-    paddingTop: 12,
+    paddingTop: 22,
     paddingBottom: 10,
     flexDirection: 'row',
     justifyContent: 'space-between',
@@ -679,23 +675,13 @@ const styles = StyleSheet.create({
     fontSize: 12,
   },
   pageCountRow: {
-    marginTop: 14,
+    marginTop: 8,
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
   },
-  pageCountText: {
-    color: '#5d7cab',
-    fontSize: 12,
-    fontWeight: '600',
-  },
-  swipeHint: {
-    color: '#e24f42',
-    fontSize: 12,
-    fontWeight: '700',
-  },
   topicTitle: {
-    marginTop: 18,
+    marginTop: 10,
     color: '#163b72',
     fontSize: 18,
     lineHeight: 23,
@@ -730,12 +716,7 @@ const styles = StyleSheet.create({
     lineHeight: 24,
   },
   cardFooter: {
-    marginTop: 20,
-  },
-  statusText: {
-    color: '#5377a8',
-    fontSize: 14,
-    fontWeight: '600',
+    marginTop: 10,
   },
   primaryButton: {
     paddingHorizontal: 18,
