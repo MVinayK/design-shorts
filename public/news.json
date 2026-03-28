@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-03-28T06:11:15.117Z",
+  "generatedAt": "2026-03-28T13:06:05.535Z",
   "items": [
+    {
+      "id": "discord-engineers-add-distributed-tracing-to-elixir-s-actor-mode",
+      "title": "Discord Engineers Add Distributed Tracing to Elixir's Actor Model Without Performance Penalty",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/03/discord-elixir-actor-tracing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-03-28T10:13:00.000Z",
+      "summaryShort": "Discord Engineers Add Distributed Tracing to Elixir's Actor Model Without Performance Penalty. Discord engineering detailed how they added distributed tracing to Elixir's actor model.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "hashicorp-vault-1-21-brings-spiffe-authentication-granular-secre",
+      "title": "HashiCorp Vault 1.21 Brings SPIFFE Authentication, Granular Secret Recovery, and More",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/03/hashicorp-vault-1-21/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-03-28T10:05:00.000Z",
+      "summaryShort": "HashiCorp Vault 1.21 Brings SPIFFE Authentication, Granular Secret Recovery, and More. HashiCorp has released Vault 1.21.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "pick-and-mix-custom-regions-cloudflare-introduces-fine-grained-d",
       "title": "\"Pick and Mix\" Custom Regions: Cloudflare Introduces Fine-Grained Data Residency Control",
@@ -35,56 +57,34 @@
       ]
     },
     {
-      "id": "inside-agoda-s-storefront-a-latency-aware-reverse-proxy-for-impr",
-      "title": "Inside Agoda’s Storefront: A Latency-Aware Reverse Proxy for Improving DNS Based Load Distribution",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/03/agoda-rust-reverse-proxy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-27T14:11:00.000Z",
-      "summaryShort": "Inside Agoda’s Storefront: A Latency-Aware Reverse Proxy for Improving DNS Based Load Distribution. Agoda engineers developed Storefront, a Rust-based S3-compatible reverse proxy that improves load balancing, request routing, and observabil",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "airbnb-rebuilt-alert-development-after-discovering-it-wasn-t-a-c",
-      "title": "Airbnb Rebuilt Alert Development After Discovering It Wasn’t a Culture Problem",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/03/airbnb-monitoring-alerts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-27T12:00:00.000Z",
-      "summaryShort": "Airbnb Rebuilt Alert Development After Discovering It Wasn’t a Culture Problem. Airbnb has revealed how it significantly improved its observability practices by rethinking how alerts are developed and validated, concluding that what appeare",
+      "id": "what-will-power-the-grid-in-2035-the-race-is-wide-open",
+      "title": "What will power the grid in 2035? The race is wide open",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/",
+      "publishedAt": "2026-03-28T13:05:00.000Z",
+      "summaryShort": "What will power the grid in 2035? The race is wide open.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "whoop-has-lebron-now-it-wants-your-mom",
-      "title": "Whoop has LeBron - now it wants your mom",
+      "id": "let-s-take-a-look-at-the-retro-tech-making-a-comeback",
+      "title": "Let’s take a look at the retro tech making a comeback",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/",
-      "publishedAt": "2026-03-28T02:31:10.000Z",
-      "summaryShort": "Whoop has LeBron - now it wants your mom. Whoop founder Will Ahmed has spent 14 years building a health wearable beloved by elite athletes, and is now racing Oura — and the FDA, and the limits of consumer medicine — to turn it into somethin",
+      "sourceUrl": "https://techcrunch.com/2026/03/28/lets-take-a-look-at-the-retro-tech-making-a-comeback/",
+      "publishedAt": "2026-03-28T13:00:00.000Z",
+      "summaryShort": "Let’s take a look at the retro tech making a comeback. Boomboxes, instant cameras, and even landlines are making a comeback.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-",
-      "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
+      "id": "from-moon-hotels-to-cattle-herding-8-startups-investors-chased-a",
+      "title": "From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
-      "publishedAt": "2026-03-27T23:59:40.000Z",
-      "summaryShort": "Physical Intelligence is reportedly in talks to raise $1 billion, again. The deal would effectively double the company's $5.6 billion valuation in just four months.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "why-softbank-s-new-40b-loan-points-to-a-2026-openai-ipo",
-      "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
-      "publishedAt": "2026-03-27T21:44:45.000Z",
-      "summaryShort": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO. Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+      "sourceUrl": "https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/",
+      "publishedAt": "2026-03-28T12:00:00.000Z",
+      "summaryShort": "From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day. We polled nearly a dozen VCs to find out which W26 startups are the sought after in the batch.",
       "tags": [
         "Engineering"
       ]
