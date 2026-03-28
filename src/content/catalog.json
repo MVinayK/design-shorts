@@ -1,11 +1,11 @@
 {
-  "version": 4,
+  "version": 6,
   "books": [
     {
       "id": "ddia",
       "title": "Designing Data-Intensive Applications",
       "path": "books/ddia/book.json",
-      "version": 4,
+      "version": 6,
       "chapters": [
         {
           "id": "chapter-01",
@@ -19,25 +19,33 @@
           "id": "chapter-02",
           "title": "Data Models and Query Languages",
           "path": "books/ddia/chapters/chapter-02.json",
-          "version": 1,
-          "topicCount": 6,
+          "version": 2,
+          "topicCount": 7,
           "orderIndex": 2
         },
         {
           "id": "chapter-03",
           "title": "Storage and Retrieval",
           "path": "books/ddia/chapters/chapter-03.json",
-          "version": 1,
-          "topicCount": 6,
+          "version": 2,
+          "topicCount": 8,
           "orderIndex": 3
         },
         {
           "id": "chapter-04",
           "title": "Encoding and Evolution",
           "path": "books/ddia/chapters/chapter-04.json",
-          "version": 1,
-          "topicCount": 6,
+          "version": 2,
+          "topicCount": 7,
           "orderIndex": 4
+        },
+        {
+          "id": "chapter-05",
+          "title": "Replication",
+          "path": "books/ddia/chapters/chapter-05.json",
+          "version": 1,
+          "topicCount": 8,
+          "orderIndex": 5
         }
       ]
     }

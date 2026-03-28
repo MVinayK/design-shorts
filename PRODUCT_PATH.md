@@ -110,7 +110,8 @@ The reward loop should be:
 - [x] DDIA Chapter 2
 - [x] DDIA Chapter 3
 - [x] DDIA Chapter 4
-- [ ] DDIA Chapter 5+
+- [x] DDIA Chapter 5
+- [ ] DDIA Chapter 6+
 - [x] Content freshness/version indicator in app
 
 ### Principal/staff depth

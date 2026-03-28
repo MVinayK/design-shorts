@@ -3,7 +3,7 @@
   "chapterId": "chapter-03",
   "title": "Storage and Retrieval",
   "orderIndex": 3,
-  "version": 1,
+  "version": 2,
   "topics": [
     {
       "id": "storage-engines-as-architecture",
@@ -136,6 +136,50 @@
       "category": "Performance",
       "orderIndex": 6,
       "estimatedReadTime": 2
+    },
+    {
+      "id": "clustered-vs-secondary-index-locality",
+      "slug": "clustered-vs-secondary-index-locality",
+      "title": "Clustered vs Secondary Indexes: Locality Is a Query Contract",
+      "summaryShort": "Index design is not just about lookup speed; it defines how data is physically co-located and therefore how expensive real queries become. Clustered layouts reward locality-heavy access patterns, while secondary indexes buy flexibility at the cost of additional pointer chasing and storage duplication. Principal engineers think about indexes as physical query contracts, not logical conveniences.",
+      "keyPoints": [
+        "Clustered storage aligns record layout with the dominant access path and improves locality-sensitive reads.",
+        "Secondary indexes improve query flexibility but often degrade locality and increase read indirection.",
+        "Index choice should follow the dominant query path and SLO, not abstract normalization preferences."
+      ],
+      "articleSections": [
+        "A clustered index determines the physical order of records on disk, which means it can drastically change how many pages a common query must touch. If the dominant access pattern follows that order, the engine benefits from prefetch, sequential reads, and better cache locality. This is why clustered storage matters disproportionately for range scans, time-ordered retrieval, and workloads that repeatedly walk adjacent keys. The physical layout becomes part of the query plan rather than an invisible implementation detail.",
+        "Secondary indexes, by contrast, usually point to rows stored elsewhere. That indirection is acceptable when the matching set is small, but it becomes expensive when a query fan-outs into large row fetches. The engine may first scan the secondary structure and then bounce across the heap or primary table to retrieve the rest of the record, multiplying cache misses and random I/O. This is where a logically good index can still produce poor real-world latency.",
+        "The deeper design insight is that locality and flexibility compete. A system optimized for many ad hoc predicates often accumulates multiple secondary indexes, while a system optimized for a few dominant access paths may benefit more from clustered or covering layouts that make those paths extremely cheap. The correct choice depends on whether the workload is exploratory, operational, or latency-critical. Treating every index as morally equivalent hides these physical consequences.",
+        "In architecture reviews, do not stop at saying we will add an index on that field. Ask whether the workload needs point lookups, ordered retrieval, or full-record locality after the match. That is the level where you can distinguish between a helpful index and an index that merely shifts cost into another part of the storage path."
+      ],
+      "example": "A metrics service clusters data by tenant and timestamp so common recent-range reads stay sequential, while secondary indexes on alert dimensions are used sparingly because wide matches would otherwise fan out into expensive heap lookups.",
+      "interviewTakeaway": "When discussing indexes, explain not only what they filter on but also whether they preserve locality or force costly secondary lookups.",
+      "category": "Indexing",
+      "orderIndex": 7,
+      "estimatedReadTime": 3
+    },
+    {
+      "id": "oltp-vs-analytics-storage-shapes",
+      "slug": "oltp-vs-analytics-storage-shapes",
+      "title": "OLTP vs Analytics: One Storage Shape Rarely Serves Both",
+      "summaryShort": "Operational databases and analytical systems optimize for different truths. OLTP favors point lookups, write isolation, and small transactions, while analytics favors large scans, aggregation efficiency, and columnar compression. Treating them as the same workload leads to architectural compromise and predictable pain.",
+      "keyPoints": [
+        "OLTP and analytical workloads stress storage engines in fundamentally different ways.",
+        "Row-oriented layouts favor transactional access, while columnar layouts favor scan-heavy aggregation.",
+        "A principal design should separate system-of-record concerns from large-scale analytical read paths when the workload justifies it."
+      ],
+      "articleSections": [
+        "Transactional systems are optimized for small, selective queries that mutate or retrieve a few records with strong correctness guarantees. Their storage engines favor row-oriented layouts, index-assisted lookups, and concurrency control that protects short-lived business operations. Analytical workloads want the opposite: broad scans, large aggregations, and efficient access to only a few columns across many rows. For that style of access, row stores waste I/O and cache by repeatedly loading columns that the query does not need.",
+        "Columnar systems reverse those tradeoffs. By storing each column together, they compress better, vectorize better, and scan far less irrelevant data for aggregates or reporting queries. The downside is that point writes and row reconstruction become more expensive, which is why column stores are rarely ideal as primary transactional databases. This is not a matter of one being newer or smarter; they are optimized for different physical access patterns.",
+        "Many production incidents come from pretending one engine can satisfy both worlds indefinitely. Heavy analytical queries run against the operational store, saturate caches, evict hot transactional pages, and destabilize end-user latency. The system then acquires read replicas, ETL pipelines, or a warehouse not because the team suddenly discovered analytics, but because the workload mismatch finally became too expensive to ignore.",
+        "In interviews, the mature framing is to separate the write-authoritative transactional path from the large-scan analytical path when volumes and query shapes diverge. You should explain when that split becomes necessary, how data is transferred, and what freshness guarantees the analytical side actually needs. That shows an understanding of workload-specific storage design rather than generic database shopping."
+      ],
+      "example": "A SaaS billing platform keeps subscriptions and invoices in an OLTP PostgreSQL cluster for transactional correctness, then streams changes into a columnar warehouse so finance dashboards and cohort analysis do not interfere with payment-path latency.",
+      "interviewTakeaway": "If a system has both transactional and analytical access patterns, say explicitly when you would separate them and why one storage layout should not absorb both forever.",
+      "category": "Tradeoffs",
+      "orderIndex": 8,
+      "estimatedReadTime": 3
     }
   ]
 }

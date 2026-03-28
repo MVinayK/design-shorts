@@ -1,0 +1,185 @@
+{
+  "bookId": "ddia",
+  "chapterId": "chapter-05",
+  "title": "Replication",
+  "orderIndex": 5,
+  "version": 1,
+  "topics": [
+    {
+      "id": "replication-as-a-contract",
+      "slug": "replication-as-a-contract",
+      "title": "Replication Is a Failure Contract, Not a Feature",
+      "summaryShort": "Replication is often justified by availability and scale, but its real impact is defining system behavior under failure. It introduces ambiguity about which replica is authoritative. Principal engineers treat replication as a contract about data correctness under partial failure.",
+      "keyPoints": [
+        "Replication introduces multiple truths that must be reconciled under failure",
+        "Latency and availability gains come with consistency ambiguity",
+        "Failure semantics matter more than steady-state throughput"
+      ],
+      "articleSections": [
+        "Replication is commonly introduced to improve availability, reduce latency, and scale reads. However, once multiple copies exist, the system must answer a harder question: which replica reflects the correct state. This question is trivial in steady state but becomes complex under failures and network partitions. The system's behavior during these edge cases defines its real correctness guarantees.",
+        "Replication shifts complexity from storage to coordination. Systems must now manage propagation delays, version ordering, and failure recovery. These factors directly influence user-visible behavior, especially in distributed environments. The complexity is not optional, it is inherent to replication.",
+        "Latency improvements from replication often come at the cost of consistency. For example, serving reads from geographically closer replicas reduces latency but introduces staleness. The tradeoff is not binary but a spectrum that must be tuned based on workload requirements.",
+        "Principal engineers frame replication decisions in terms of acceptable anomalies. They define what inconsistencies are tolerable and under what conditions. This framing is far more actionable than simply aiming for high availability."
+      ],
+      "example": "A global service replicates user data across regions for low latency, but users occasionally see stale information during cross-region reads due to replication delay.",
+      "interviewTakeaway": "Replication defines your failure behavior, so design around acceptable inconsistencies, not just availability.",
+      "category": "Architecture",
+      "orderIndex": 1,
+      "estimatedReadTime": 3
+    },
+    {
+      "id": "replication-implementation-modes",
+      "slug": "replication-implementation-modes",
+      "title": "Statement vs WAL vs Logical Replication: Hidden Tradeoffs",
+      "summaryShort": "Replication is not just about topology, it is about how changes are propagated. Statement-based, WAL-based, and logical replication each impose different correctness and flexibility constraints. The wrong choice creates subtle divergence or limits evolution.",
+      "keyPoints": [
+        "Statement-based replication can produce non-deterministic divergence",
+        "WAL-based replication is efficient but tightly coupled to storage internals",
+        "Logical replication enables flexibility but increases transformation complexity"
+      ],
+      "articleSections": [
+        "Statement-based replication replays the original write queries on replicas. While simple, it assumes deterministic execution across nodes. Any non-determinism, such as timestamps or random functions, can lead to divergence. This makes it fragile in real-world systems.",
+        "Write-ahead log replication streams low-level changes from the storage engine. This ensures exact replication of state changes and avoids divergence issues. However, it tightly couples replicas to the same storage format and version, limiting flexibility in upgrades or heterogeneity.",
+        "Logical replication operates at the level of rows or events, decoupling from storage internals. This allows transformation, filtering, and integration with downstream systems. The tradeoff is increased complexity in maintaining consistency and ordering.",
+        "Principal engineers choose replication mode based on evolution needs. Systems requiring flexibility and cross-system integration favor logical replication, while tightly coupled clusters often use WAL replication for efficiency and correctness."
+      ],
+      "example": "A database migration project switches from WAL replication to logical replication to support schema evolution and downstream analytics pipelines.",
+      "interviewTakeaway": "Replication mode determines flexibility versus correctness guarantees, so choose based on evolution and integration needs.",
+      "category": "Replication",
+      "orderIndex": 2,
+      "estimatedReadTime": 3
+    },
+    {
+      "id": "leader-follower-under-load",
+      "slug": "leader-follower-under-load",
+      "title": "Leader-Follower Under Load: Lag Is Inevitable",
+      "summaryShort": "Leader-follower replication simplifies writes but accumulates lag under real-world conditions. This lag is not a bug, it is a natural consequence of asynchronous propagation. Systems must be designed assuming lag exists, not eliminated.",
+      "keyPoints": [
+        "Followers fall behind under write spikes and network variability",
+        "Lag introduces stale reads and consistency anomalies",
+        "Lag is workload-dependent and cannot be fully eliminated"
+      ],
+      "articleSections": [
+        "Leader-follower replication centralizes writes, ensuring a single ordering of updates. However, followers apply changes asynchronously in most systems. Under high write throughput or network contention, replication pipelines cannot keep up, leading to lag.",
+        "Lag is not uniform; it varies across replicas and over time. This variability makes it difficult to reason about consistency. A read served from one replica may be up to date, while another may be seconds behind.",
+        "User-visible anomalies emerge from this lag. Read-after-write violations occur when users do not see their own updates. Monotonic-read violations occur when users observe data moving backward in time. These behaviors degrade user trust.",
+        "Principal engineers design systems that either tolerate or mask lag. This includes routing critical reads to leaders or tracking session-level consistency. Ignoring lag leads to unpredictable user experiences."
+      ],
+      "example": "An e-commerce system shows outdated inventory levels because reads are served from lagging replicas during peak traffic.",
+      "interviewTakeaway": "Replication lag is unavoidable, so design explicitly for its impact on user-visible consistency.",
+      "category": "Consistency",
+      "orderIndex": 3,
+      "estimatedReadTime": 2
+    },
+    {
+      "id": "sync-vs-async-failure-semantics",
+      "slug": "sync-vs-async-failure-semantics",
+      "title": "Synchronous vs Asynchronous: Defining Data Loss Windows",
+      "summaryShort": "Replication mode determines how much data you can lose during failure. Synchronous replication reduces loss but increases latency and fragility. Asynchronous replication improves performance but weakens durability guarantees.",
+      "keyPoints": [
+        "Synchronous replication reduces data loss risk but increases latency",
+        "Asynchronous replication risks losing acknowledged writes",
+        "Hybrid approaches complicate reasoning about guarantees"
+      ],
+      "articleSections": [
+        "Synchronous replication requires acknowledgments from replicas before confirming a write. This ensures that multiple copies exist before success is reported. However, it introduces latency proportional to the slowest replica and reduces availability under failures.",
+        "Asynchronous replication allows the leader to acknowledge writes immediately. This improves performance and availability but creates a window where data exists only on the leader. If the leader fails during this window, data is lost.",
+        "Hybrid approaches attempt to balance these tradeoffs by requiring acknowledgments from a subset of replicas. While effective, they complicate reasoning about durability guarantees. Misconfiguration can lead to unexpected data loss.",
+        "Principal engineers define explicit durability SLAs. They choose replication modes based on acceptable data loss windows and latency budgets, rather than defaulting to system settings."
+      ],
+      "example": "A logging system accepts potential data loss by using asynchronous replication to handle extremely high write throughput.",
+      "interviewTakeaway": "Replication mode is a durability decision, so define acceptable data loss explicitly.",
+      "category": "Tradeoffs",
+      "orderIndex": 4,
+      "estimatedReadTime": 2
+    },
+    {
+      "id": "failover-and-promotion-risks",
+      "slug": "failover-and-promotion-risks",
+      "title": "Failover and Promotion: Where Data Is Lost",
+      "summaryShort": "Failover is a correctness-critical operation performed under uncertainty. Promoting a replica without full synchronization risks data loss. Split brain and divergence are real risks, not theoretical edge cases.",
+      "keyPoints": [
+        "Failover decisions are made with incomplete system state",
+        "Promoting lagging replicas causes data loss",
+        "Split brain creates irreversible divergence"
+      ],
+      "articleSections": [
+        "Failover requires detecting leader failure, but in distributed systems, failure is ambiguous. Network partitions can make a healthy leader appear down. Acting prematurely can lead to multiple leaders.",
+        "Promoting a follower assumes it has the latest state, which is often false. Replication lag means some writes may not have reached the follower. Promoting such a replica results in data loss, even if writes were acknowledged.",
+        "Split brain occurs when multiple nodes accept writes independently. This creates divergent histories that cannot be easily reconciled. Recovery often requires manual intervention or data loss.",
+        "Principal engineers design failover processes with safeguards. This includes quorum-based leader election and explicit recovery procedures. Fast failover is less important than correct failover."
+      ],
+      "example": "A database cluster promotes a replica during a network partition, resulting in two leaders and conflicting writes that require manual cleanup.",
+      "interviewTakeaway": "Failover is a correctness operation, so optimize for safe promotion, not just fast recovery.",
+      "category": "Reliability",
+      "orderIndex": 5,
+      "estimatedReadTime": 3
+    },
+    {
+      "id": "multi-leader-conflicts",
+      "slug": "multi-leader-conflicts",
+      "title": "Multi-Leader Replication: Conflict Resolution Is the System",
+      "summaryShort": "Multi-leader replication removes write bottlenecks but introduces constant conflict resolution. Conflicts are not rare; they are expected under concurrency. The real system is defined by how conflicts are resolved.",
+      "keyPoints": [
+        "Concurrent writes create unavoidable conflicts",
+        "Conflict resolution logic becomes part of application correctness",
+        "Operational complexity increases with each additional leader"
+      ],
+      "articleSections": [
+        "Multi-leader replication allows multiple nodes to accept writes, improving availability and reducing latency. However, it eliminates a single global order of operations. This leads to conflicting updates that must be reconciled.",
+        "Conflict resolution strategies vary from last-write-wins to custom merge logic. Simple strategies often result in data loss or unexpected behavior. More complex strategies increase system complexity and operational overhead.",
+        "Conflicts are not rare events; they occur frequently in distributed systems. Treating them as edge cases leads to fragile systems. Instead, they must be handled as part of normal operation.",
+        "Principal engineers adopt multi-leader replication only when necessary. They design explicit conflict resolution strategies aligned with business semantics and ensure observability for conflict detection."
+      ],
+      "example": "A collaborative editing system must merge concurrent updates from different regions, requiring complex conflict resolution logic.",
+      "interviewTakeaway": "In multi-leader systems, conflict resolution defines correctness, so design it explicitly.",
+      "category": "Distributed Systems",
+      "orderIndex": 6,
+      "estimatedReadTime": 2
+    },
+    {
+      "id": "leaderless-quorum-limitations",
+      "slug": "leaderless-quorum-limitations",
+      "title": "Leaderless and Quorums: Guarantees Break Under Reality",
+      "summaryShort": "Leaderless replication uses quorum reads and writes to avoid coordination, but real-world conditions break its assumptions. Network partitions and sloppy quorums weaken guarantees. Consistency becomes probabilistic rather than deterministic.",
+      "keyPoints": [
+        "Quorum guarantees rely on idealized assumptions about node participation",
+        "Sloppy quorums trade consistency for availability",
+        "Conflicts still occur and require reconciliation"
+      ],
+      "articleSections": [
+        "Leaderless systems distribute writes across nodes and use quorums to ensure overlap between reads and writes. The theoretical guarantee is that W + R > N ensures consistency. However, this assumes stable and consistent node participation.",
+        "In practice, systems use sloppy quorums to maintain availability during failures. Writes may go to any available nodes, not just the intended replicas. This breaks the assumptions behind quorum guarantees.",
+        "Conflicts arise when different nodes accept concurrent writes. Systems must use versioning and reconciliation mechanisms to resolve these conflicts. This adds complexity similar to multi-leader systems.",
+        "Principal engineers understand that quorum systems provide best-effort guarantees. They design for eventual convergence and conflict resolution rather than relying on strict consistency."
+      ],
+      "example": "A distributed database accepts writes on different nodes during a partition and later reconciles conflicting versions using vector clocks.",
+      "interviewTakeaway": "Quorum systems are not strictly consistent, so design for reconciliation and eventual convergence.",
+      "category": "Tradeoffs",
+      "orderIndex": 7,
+      "estimatedReadTime": 3
+    },
+    {
+      "id": "read-repair-and-anti-entropy",
+      "slug": "read-repair-and-anti-entropy",
+      "title": "Read Repair and Anti-Entropy: Healing Is Not Immediate",
+      "summaryShort": "Leaderless systems rely on read repair and anti-entropy to converge replicas over time. These mechanisms are slow and probabilistic, not immediate fixes. Systems can remain inconsistent longer than expected.",
+      "keyPoints": [
+        "Read repair fixes inconsistencies opportunistically during reads",
+        "Anti-entropy runs in the background and may lag significantly",
+        "Durability gaps persist until reconciliation completes"
+      ],
+      "articleSections": [
+        "Read repair updates stale replicas when inconsistencies are detected during reads. This is opportunistic and depends on read patterns. Rarely accessed data may remain inconsistent indefinitely.",
+        "Anti-entropy processes periodically synchronize replicas using background jobs. These processes consume resources and may lag behind write activity. They provide eventual consistency but not immediate guarantees.",
+        "Until reconciliation completes, replicas may return inconsistent results. This creates durability gaps where data exists but is not uniformly visible. These gaps are often underestimated in system design.",
+        "Principal engineers design systems assuming delayed convergence. They avoid relying on immediate consistency and instead build mechanisms to tolerate or detect inconsistencies."
+      ],
+      "example": "A rarely accessed key remains inconsistent across replicas for hours because read repair is never triggered and anti-entropy runs infrequently.",
+      "interviewTakeaway": "Eventual consistency is not immediate, so design for prolonged inconsistency windows.",
+      "category": "Operations",
+      "orderIndex": 8,
+      "estimatedReadTime": 2
+    }
+  ]
+}

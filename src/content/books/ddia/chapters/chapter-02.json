@@ -3,7 +3,7 @@
   "chapterId": "chapter-02",
   "title": "Data Models and Query Languages",
   "orderIndex": 2,
-  "version": 1,
+  "version": 2,
   "topics": [
     {
       "id": "data-models-as-architectural-contracts",
@@ -136,6 +136,28 @@
       "category": "Operations",
       "orderIndex": 6,
       "estimatedReadTime": 2
+    },
+    {
+      "id": "polyglot-persistence-as-system-design",
+      "slug": "polyglot-persistence-as-system-design",
+      "title": "Polyglot Persistence: Model the System, Not the Database",
+      "summaryShort": "A single database model rarely serves every workload in a serious system. Principal engineers separate operational truth, search surfaces, analytics shapes, and product-facing views into different persistence models when the access patterns justify it. The hard part is not adding another database, but controlling the consistency and ownership boundaries between them.",
+      "keyPoints": [
+        "Polyglot persistence is justified by divergent access patterns, not by novelty or team preference.",
+        "Each additional model adds synchronization, ownership, and observability burden that must be designed explicitly.",
+        "The real design question is where truth lives and how derivative views are rebuilt or repaired when they drift."
+      ],
+      "articleSections": [
+        "As systems mature, their data access patterns diverge faster than any single storage model can comfortably serve. The transactional system of record wants correctness and constrained writes, the search surface wants denormalized inverted indexes, and analytics wants columnar or scan-friendly layouts. Trying to force all of those concerns into one database usually produces a mediocre design that is simultaneously slow, fragile, and hard to evolve. Polyglot persistence is therefore often a consequence of workload honesty rather than architectural ambition.",
+        "The benefit of multiple data models is localized optimization. A relational core can protect invariants, a document store can serve product-shaped aggregates, and a search index can optimize discovery use cases without polluting the primary write path. The cost, however, is that consistency no longer comes from one engine; it comes from the reliability of the data movement between systems. This shifts architectural attention toward CDC pipelines, reindexing workflows, replay safety, and drift detection.",
+        "The most important discipline in polyglot persistence is declaring a system of record. If the same entity can be updated independently in two different stores, the architecture has already lost. Derived representations should be explicitly treated as projections, caches, or search views whose job is to serve specific queries, not redefine truth. That distinction is what keeps recovery and reconciliation tractable when one downstream representation falls behind or corrupts.",
+        "In interviews and design reviews, the mature answer is not to say use the best database for each use case and stop there. You should explain why the workload split justifies additional operational complexity, how change propagation works, what happens during lag or rebuild, and how you prevent ownership confusion between stores. That is where polyglot persistence stops being an attractive slide and becomes real architecture."
+      ],
+      "example": "A commerce platform keeps orders and payments in PostgreSQL, publishes change events into Kafka, builds product search in Elasticsearch, and serves recommendation features from a graph store, while treating PostgreSQL as the only write-authoritative source for transactional truth.",
+      "interviewTakeaway": "If you choose multiple persistence models, explicitly name the source of truth, the derivative systems, and the synchronization and recovery path between them.",
+      "category": "Architecture",
+      "orderIndex": 7,
+      "estimatedReadTime": 3
     }
   ]
 }

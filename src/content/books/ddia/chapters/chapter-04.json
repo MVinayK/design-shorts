@@ -3,7 +3,7 @@
   "chapterId": "chapter-04",
   "title": "Encoding and Evolution",
   "orderIndex": 4,
-  "version": 1,
+  "version": 2,
   "topics": [
     {
       "id": "encoding-as-architecture",
@@ -136,6 +136,28 @@
       "category": "Distributed Systems",
       "orderIndex": 6,
       "estimatedReadTime": 3
+    },
+    {
+      "id": "schema-first-workflows-and-generated-code",
+      "slug": "schema-first-workflows-and-generated-code",
+      "title": "Schema-First Workflows: Generated Code as Contract Discipline",
+      "summaryShort": "Schema-first systems do more than serialize faster; they force teams to make compatibility decisions explicitly before shipping. Generated code, registries, and compatibility checks turn data contracts into reviewable artifacts instead of tribal knowledge. That discipline becomes increasingly valuable as service ownership spreads across teams.",
+      "keyPoints": [
+        "Schema-first workflows shift contract review earlier in the delivery lifecycle.",
+        "Generated code reduces ambiguity but only if teams respect evolution rules rather than bypassing them.",
+        "The real benefit is organizational reliability, not just developer convenience."
+      ],
+      "articleSections": [
+        "One of the underappreciated benefits of formats like Avro, Protobuf, and Thrift is not their compactness but their workflow model. Schemas become first-class artifacts that can be reviewed, versioned, and validated before code ships. This changes the nature of interface evolution from informal agreement to explicit governance. At scale, that is the difference between contracts that are understood and contracts that are merely assumed.",
+        "Generated code helps because it removes a large class of manual interpretation errors. Field names, defaults, optionality, and reserved identifiers become visible in the schema and reflected consistently in clients and servers. However, generated code is not magic; teams can still violate evolution discipline by reusing field numbers, removing required semantics carelessly, or bypassing compatibility checks. The tool only helps if the process around it is serious.",
+        "The principal-level insight is that schema-first workflows reduce organizational coordination cost by making contracts legible. New consumers can onboard against a defined schema, CI can reject incompatible changes early, and deprecations can be reasoned about from artifacts rather than folklore. This matters most when dozens of services or teams depend on shared events or RPC interfaces. Without that discipline, compatibility becomes a social process masquerading as technical design.",
+        "In interviews and design reviews, it is useful to connect schema-first tooling to delivery safety. Say how schemas are versioned, how generated clients are distributed, where compatibility checks run, and what prevents ad hoc payload drift. That shows you understand that encoding evolution is as much a developer workflow problem as a wire-format problem."
+      ],
+      "example": "A platform team standardizes on Protobuf with generated SDKs and CI compatibility checks, allowing service teams to evolve APIs independently while catching breaking contract changes before rollout.",
+      "interviewTakeaway": "If you choose a schema-based format, explain the workflow around it—generation, validation, and compatibility enforcement—not just the format itself.",
+      "category": "Data Contracts",
+      "orderIndex": 7,
+      "estimatedReadTime": 2
     }
   ]
 }

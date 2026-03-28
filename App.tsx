@@ -515,7 +515,17 @@ function AppContent() {
       <StatusBar style="light" />
       <View style={styles.appShell}>
         <View style={[styles.header, { paddingTop: headerTopPadding }]}>
-          <View>
+          <View style={styles.headerBrand}>
+            <View style={styles.logoMark}>
+              <View style={[styles.logoSheet, styles.logoSheetBack]} />
+              <View style={[styles.logoSheet, styles.logoSheetMiddle]} />
+              <View style={[styles.logoSheet, styles.logoSheetFront]}>
+                <View style={styles.logoRule} />
+                <View style={styles.logoLineShort} />
+                <View style={styles.logoLineLong} />
+                <View style={styles.logoSignal} />
+              </View>
+            </View>
             <Text style={styles.headerTitle}>Design Shorts</Text>
           </View>
           <View style={styles.headerActions}>
@@ -669,6 +679,74 @@ const styles = StyleSheet.create({
     fontSize: 28,
     fontFamily: FONT_SERIF,
     letterSpacing: -0.4,
+  },
+  headerBrand: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+  },
+  logoMark: {
+    width: 38,
+    height: 34,
+    position: 'relative',
+  },
+  logoSheet: {
+    position: 'absolute',
+    width: 24,
+    height: 28,
+    borderRadius: 6,
+    borderWidth: 1.5,
+    borderColor: '#1f55ab',
+    backgroundColor: '#fffefc',
+  },
+  logoSheetBack: {
+    left: 1,
+    top: 4,
+    opacity: 0.45,
+    transform: [{ rotate: '-8deg' }],
+  },
+  logoSheetMiddle: {
+    left: 8,
+    top: 2,
+    opacity: 0.72,
+    transform: [{ rotate: '-2deg' }],
+  },
+  logoSheetFront: {
+    left: 13,
+    top: 0,
+    paddingHorizontal: 4,
+    paddingTop: 4,
+  },
+  logoRule: {
+    width: 10,
+    height: 2.5,
+    borderRadius: 999,
+    backgroundColor: '#1f55ab',
+  },
+  logoLineShort: {
+    marginTop: 4,
+    width: 8,
+    height: 2,
+    borderRadius: 999,
+    backgroundColor: '#86a8dd',
+  },
+  logoLineLong: {
+    marginTop: 3,
+    width: 12,
+    height: 2,
+    borderRadius: 999,
+    backgroundColor: '#86a8dd',
+  },
+  logoSignal: {
+    position: 'absolute',
+    right: -3,
+    top: -3,
+    width: 8,
+    height: 8,
+    borderRadius: 999,
+    backgroundColor: '#e85b4f',
+    borderWidth: 1.5,
+    borderColor: '#fffdf9',
   },
   headerActions: {
     alignItems: 'flex-end',
