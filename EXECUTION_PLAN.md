@@ -162,6 +162,24 @@ Current product phase:
   - updated [catalog.json](/Users/deepthi/VinayProj/design-shorts/src/content/catalog.json) and [book.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/book.json) to include the new chapter and bump DDIA content versioning
   - `npm run typecheck` passed after the content integration
 
+### Task 2.1b: Add DDIA Chapter 3
+
+- Status: `done`
+- Goal: integrate Chapter 3 using the modular catalog/book/chapter structure
+- Why it matters: deepens the DDIA track with storage-engine and indexing tradeoff content that is central to principal-level system design
+- Likely files:
+  - [src/content/catalog.json](/Users/deepthi/VinayProj/design-shorts/src/content/catalog.json)
+  - [src/content/books/ddia/book.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/book.json)
+  - `src/content/books/ddia/chapters/chapter-03.json`
+- Acceptance criteria:
+  - chapter appears in remote/bundled content flow
+  - topics merge into the feed correctly
+  - no reinstall required when remote content path is used
+- Verified result:
+  - added [chapter-03.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/chapters/chapter-03.json) with 6 principal-level DDIA topics
+  - updated [catalog.json](/Users/deepthi/VinayProj/design-shorts/src/content/catalog.json) and [book.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/book.json) to include the new chapter and bump DDIA content versioning
+  - `npm run typecheck` passed after the content integration
+
 ### Task 2.2: Add chapter freshness/version visibility in settings
 
 - Status: `pending`

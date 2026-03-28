@@ -1,0 +1,141 @@
+{
+  "bookId": "ddia",
+  "chapterId": "chapter-03",
+  "title": "Storage and Retrieval",
+  "orderIndex": 3,
+  "version": 1,
+  "topics": [
+    {
+      "id": "storage-engines-as-architecture",
+      "slug": "storage-engines-as-architecture",
+      "title": "Storage Engines Are Architectural Decisions",
+      "summaryShort": "Storage engines define system behavior under load more than APIs do. Latency profiles, failure modes, and scaling characteristics are direct consequences of engine design choices. Treat them as first-class architecture decisions, not implementation details.",
+      "keyPoints": [
+        "Engine design dictates read/write amplification and tail latency behavior",
+        "Operational characteristics like compaction, vacuuming, and fragmentation shape SLOs",
+        "Workload shape must align with engine strengths, not the other way around"
+      ],
+      "articleSections": [
+        "At scale, the database is not a black box; it is a deterministic machine with predictable failure modes. Whether your engine is append-only, LSM-based, or page-oriented directly affects tail latency and throughput stability. For example, compaction-heavy systems can exhibit latency spikes under sustained writes. Conversely, page-based systems suffer from fragmentation and random I/O penalties under write-heavy workloads. These are not edge cases; they are steady-state behaviors at scale.",
+        "Read amplification and write amplification are the core levers. Systems that optimize writes, such as LSM trees, push cost into reads and background compaction. Systems that optimize reads, such as B-trees, pay with expensive random writes and page splits. There is no free lunch; you are choosing where the system burns cycles. Principal-level design requires explicitly stating which amplification you are willing to absorb.",
+        "Operationally, storage engines introduce continuous work: compaction, rebalancing, cache warming, and recovery. These background tasks compete with foreground traffic and can destabilize latency if not controlled. The more your workload deviates from the engine's assumptions, the more operational tuning you inherit. This becomes a reliability problem, not just a performance one.",
+        "In interviews and architecture reviews, elevate the discussion from which database to which storage behavior under this workload. Frame decisions in terms of access patterns, write rates, durability requirements, and acceptable tail latency. This reframing signals maturity and prevents cargo-cult technology choices."
+      ],
+      "example": "A high-throughput event ingestion system chooses an LSM-based store for sustained write rates, accepting higher read amplification and adding a caching layer to protect read latency.",
+      "interviewTakeaway": "Always map workload characteristics to storage engine behavior and explicitly choose where amplification costs land.",
+      "category": "Architecture",
+      "orderIndex": 1,
+      "estimatedReadTime": 3
+    },
+    {
+      "id": "append-only-log-hash-index",
+      "slug": "append-only-log-hash-index",
+      "title": "Append-Only Logs + Hash Indexes: Fast Writes, Fragile Reads",
+      "summaryShort": "Append-only logs paired with in-memory hash indexes maximize write throughput with minimal coordination. The tradeoff is poor range query support and reliance on memory for fast lookups. Compaction becomes the hidden cost center.",
+      "keyPoints": [
+        "Sequential writes minimize disk seek and maximize throughput",
+        "Hash indexes require memory residency for performance",
+        "Compaction is mandatory to reclaim space and control read cost"
+      ],
+      "articleSections": [
+        "The append-only log model treats storage as a write-optimized stream. Every update is an append, eliminating in-place mutations and avoiding random I/O. A hash index maps keys to log offsets, enabling O(1) lookups if the index fits in memory. This design shines under high write throughput with simple key-value access patterns. It is fundamentally aligned with modern SSD characteristics and log-structured thinking.",
+        "However, this design collapses when access patterns deviate. Range queries are inefficient because data is not ordered by key. If the hash index cannot fit in memory, lookup performance degrades sharply due to additional disk seeks. Additionally, deleted or overwritten values accumulate, inflating storage and degrading scan performance. The system becomes increasingly dependent on compaction.",
+        "Compaction rewrites the log, removing obsolete entries and merging segments. This process is I/O intensive and competes with foreground traffic. Poorly tuned compaction leads to latency spikes and unpredictable throughput. At scale, compaction scheduling becomes as critical as request handling.",
+        "This model is ideal for write-heavy, point-lookup workloads with bounded key cardinality. It is a poor fit for analytics, range scans, or memory-constrained environments. The design conversation should explicitly include index residency assumptions and compaction budgets."
+      ],
+      "example": "A session store for millions of active users uses an append-only log with an in-memory hash index to support rapid updates and expirations, periodically compacting to remove stale sessions.",
+      "interviewTakeaway": "Use append-only plus hash indexes for write-heavy point lookups, but plan explicitly for memory pressure and compaction overhead.",
+      "category": "Storage",
+      "orderIndex": 2,
+      "estimatedReadTime": 2
+    },
+    {
+      "id": "sstables-and-lsm-thinking",
+      "slug": "sstables-and-lsm-thinking",
+      "title": "SSTables and LSM Trees: Trading Writes for Compaction Debt",
+      "summaryShort": "LSM trees turn random writes into sequential writes using immutable SSTables. They excel at write throughput but accumulate compaction debt and read amplification. The system's real complexity lies in managing these tradeoffs over time.",
+      "keyPoints": [
+        "Writes are batched and flushed sequentially, minimizing random I/O",
+        "Reads may touch multiple SSTables, increasing read amplification",
+        "Compaction strategy determines long-term performance stability"
+      ],
+      "articleSections": [
+        "LSM trees buffer writes in memory and flush them as sorted, immutable SSTables. This transforms random writes into sequential disk operations, dramatically improving write throughput. The immutability simplifies concurrency and crash recovery. However, it introduces fragmentation across multiple SSTables that must be reconciled during reads.",
+        "Read amplification emerges because a single key may exist across multiple SSTables. Bloom filters mitigate unnecessary disk reads, but they do not eliminate the need to check multiple levels. As data grows, the number of SSTables increases, and so does the cost of reads. This is a deliberate tradeoff in favor of write efficiency.",
+        "Compaction is the core maintenance mechanism, merging SSTables and discarding obsolete entries. Different compaction strategies, such as leveled versus size-tiered, shift the balance between write amplification and read latency. Aggressive compaction improves reads but increases write amplification and I/O pressure. Lazy compaction reduces write cost but degrades read performance.",
+        "LSM systems are powerful but operationally complex. You must budget I/O for compaction, tune memory for buffering, and design around eventual consistency in reads. In interviews, emphasize how you control compaction debt and protect tail latency under sustained write load."
+      ],
+      "example": "A time-series ingestion system uses an LSM-based database to handle millions of writes per second, tuning leveled compaction to keep read latency predictable for recent-data queries.",
+      "interviewTakeaway": "LSM trees buy write throughput at the cost of compaction and read amplification, so design how you manage that debt.",
+      "category": "Databases",
+      "orderIndex": 3,
+      "estimatedReadTime": 3
+    },
+    {
+      "id": "btree-in-place-updates",
+      "slug": "btree-in-place-updates",
+      "title": "B-Trees and In-Place Updates: Read Efficiency with Write Penalties",
+      "summaryShort": "B-trees optimize for predictable reads and range queries through ordered, page-based storage. The cost is random I/O and write amplification from page splits and in-place updates. Fragmentation and caching become dominant concerns at scale.",
+      "keyPoints": [
+        "Ordered structure enables efficient range queries and stable read latency",
+        "In-place updates cause random I/O and page splits",
+        "Caching and fragmentation management are critical for performance"
+      ],
+      "articleSections": [
+        "B-trees organize data into fixed-size pages with keys kept in sorted order. This structure enables efficient range scans and consistent read performance, making it ideal for read-heavy workloads. The tree height remains shallow, keeping lookup depth predictable. However, this design assumes that random I/O is acceptable or mitigated by caching.",
+        "Writes are more expensive because they involve modifying pages in place. Page splits and rebalancing introduce additional I/O and can cascade up the tree. On SSDs, this translates into write amplification at the storage layer as well. Under heavy write workloads, this becomes a limiting factor.",
+        "Fragmentation accumulates over time, especially with frequent updates and deletes. Vacuuming or reorganization is required to reclaim space and maintain performance. Meanwhile, buffer pool tuning is essential to keep hot pages in memory and avoid disk reads. Misconfigured caching leads to dramatic latency degradation.",
+        "B-trees are the right choice when read predictability and range queries dominate. They are less suitable for high-ingest workloads without batching or write buffering. In interviews, articulate how you handle write pressure and maintain cache efficiency."
+      ],
+      "example": "An e-commerce catalog service uses a B-tree-based database to support complex filtering and range queries on product attributes with predictable read latency.",
+      "interviewTakeaway": "Choose B-trees for read stability and range queries, but account for write amplification and fragmentation.",
+      "category": "Storage",
+      "orderIndex": 4,
+      "estimatedReadTime": 2
+    },
+    {
+      "id": "secondary-index-costs",
+      "slug": "secondary-index-costs",
+      "title": "Secondary Indexes: The Hidden Write Tax",
+      "summaryShort": "Secondary indexes improve query flexibility but multiply write costs and operational complexity. Every write becomes multiple writes, often across different data structures. Index maintenance is a primary driver of latency under write-heavy workloads.",
+      "keyPoints": [
+        "Each secondary index introduces additional write amplification",
+        "Consistency between primary and secondary indexes adds coordination cost",
+        "Index design must reflect real query patterns, not hypothetical ones"
+      ],
+      "articleSections": [
+        "Secondary indexes are essentially additional data structures that must be kept in sync with the primary data. Every insert, update, or delete propagates to all relevant indexes. This multiplies write amplification and increases latency variability. The cost grows linearly with the number of indexes.",
+        "Maintaining consistency between indexes introduces coordination overhead. In distributed systems, this may involve multi-phase writes or eventual consistency models. Failures can leave indexes temporarily inconsistent, requiring repair mechanisms. This adds both complexity and operational risk.",
+        "From a storage perspective, secondary indexes often duplicate large portions of data. This increases storage footprint and affects cache efficiency. Reads may improve for certain queries but at the expense of overall system throughput. Poorly chosen indexes can degrade performance rather than improve it.",
+        "The key is to design indexes based on actual query patterns and SLAs. Avoid speculative indexing and continuously evaluate index utility. In interviews, demonstrate awareness of index maintenance costs and how you limit unnecessary write amplification."
+      ],
+      "example": "A social feed service adds a secondary index on user_id for fast timeline queries, but later removes rarely used indexes after observing increased write latency during peak traffic.",
+      "interviewTakeaway": "Every index is a write tax; add only what your workload justifies and revisit continuously.",
+      "category": "Tradeoffs",
+      "orderIndex": 5,
+      "estimatedReadTime": 2
+    },
+    {
+      "id": "in-memory-databases",
+      "slug": "in-memory-databases",
+      "title": "In-Memory Databases: Latency Wins, Durability Tradeoffs",
+      "summaryShort": "In-memory databases eliminate disk I/O from the critical path, delivering predictable low latency. The tradeoff is durability complexity and memory cost constraints. Persistence strategies define their real-world reliability.",
+      "keyPoints": [
+        "Memory-first design minimizes latency and avoids disk contention",
+        "Durability relies on snapshots, logs, or replication strategies",
+        "Memory cost and dataset size limit applicability"
+      ],
+      "articleSections": [
+        "In-memory databases store the working dataset entirely in RAM, removing disk I/O from the request path. This enables microsecond-level latency and highly predictable performance. Data structures can be optimized for CPU cache locality rather than disk layout. This fundamentally changes the performance envelope.",
+        "Durability is achieved through mechanisms like append-only logs, periodic snapshots, or replication. Each approach introduces tradeoffs in recovery time and data loss windows. For example, snapshotting reduces recovery complexity but increases potential data loss. Append-only logging improves durability but adds write overhead.",
+        "Memory constraints limit dataset size and increase cost. Systems must either shard aggressively or accept bounded datasets. Eviction policies become critical when memory pressure increases. Poor eviction strategies can destabilize performance and correctness.",
+        "In-memory systems are ideal for latency-sensitive workloads such as caching, real-time analytics, and session management. They are less suitable for large, durable datasets without hybrid designs. In interviews, focus on how you balance latency, durability, and cost."
+      ],
+      "example": "A real-time bidding system uses an in-memory store for bidder state to ensure sub-millisecond decision latency, persisting asynchronously to a durable store for recovery.",
+      "interviewTakeaway": "Use in-memory databases when latency is paramount, but explicitly design for durability and memory limits.",
+      "category": "Performance",
+      "orderIndex": 6,
+      "estimatedReadTime": 2
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
-  "version": 2,
+  "version": 3,
   "books": [
     {
       "id": "ddia",
       "title": "Designing Data-Intensive Applications",
       "path": "books/ddia/book.json",
-      "version": 2,
+      "version": 3,
       "chapters": [
         {
           "id": "chapter-01",
@@ -22,6 +22,14 @@
           "version": 1,
           "topicCount": 6,
           "orderIndex": 2
+        },
+        {
+          "id": "chapter-03",
+          "title": "Storage and Retrieval",
+          "path": "books/ddia/chapters/chapter-03.json",
+          "version": 1,
+          "topicCount": 6,
+          "orderIndex": 3
         }
       ]
     }

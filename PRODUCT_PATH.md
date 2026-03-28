@@ -108,7 +108,8 @@ The reward loop should be:
 - [x] Bundled fallback + cached + remote content loading
 - [x] DDIA Chapter 1 integrated
 - [x] DDIA Chapter 2
-- [ ] DDIA Chapter 3+
+- [x] DDIA Chapter 3
+- [ ] DDIA Chapter 4+
 - [ ] Content freshness/version indicator in app
 
 ### Principal/staff depth
