@@ -1,10 +1,5 @@
 name: Create Production Builds
 
-on:
-  push:
-    branches:
-      - main
-
 jobs:
   build_android:
     name: Build Android app
