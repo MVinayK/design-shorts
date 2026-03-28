@@ -83,7 +83,12 @@ async function loadCachedTopicFeed(): Promise<TopicFeed | null> {
 
 export async function loadTopicFeed() {
   const cachedFeed = await loadCachedTopicFeed();
-  return cachedFeed ?? BUNDLED_TOPIC_FEED;
+
+  if (!cachedFeed) {
+    return BUNDLED_TOPIC_FEED;
+  }
+
+  return cachedFeed.catalog.version >= BUNDLED_TOPIC_FEED.catalog.version ? cachedFeed : BUNDLED_TOPIC_FEED;
 }
 
 export async function loadTopicFeedSyncMetadata(feed?: TopicFeed) {
