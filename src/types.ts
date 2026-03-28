@@ -111,4 +111,4 @@ export type NewsDigest = {
   items: NewsCard[];
 };
 
-export type FeedTab = 'learn' | 'news' | 'settings';
+export type FeedTab = 'learn' | 'library' | 'news' | 'settings';

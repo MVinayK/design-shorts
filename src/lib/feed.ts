@@ -1,4 +1,4 @@
-import type { Preferences, Topic } from '../types';
+import type { CatalogChapterEntry, ContentBook, Preferences, Topic } from '../types';
 
 export function getTopicStatus(topicId: string, progressMap: Record<string, string>) {
   return progressMap[topicId] === 'read' ? 'read' : 'unread';
@@ -26,6 +26,20 @@ export function getTopicProgressSummary(topics: Topic[], progressMap: Record<str
     readCount,
     totalCount: topics.length,
   };
+}
+
+export function getChapterProgressSummary(
+  chapter: CatalogChapterEntry,
+  topics: Topic[],
+  progressMap: Record<string, string>,
+) {
+  const chapterTopics = topics.filter((topic) => topic.chapterId === chapter.id);
+  return getTopicProgressSummary(chapterTopics, progressMap);
+}
+
+export function getBookProgressSummary(book: ContentBook, topics: Topic[], progressMap: Record<string, string>) {
+  const bookTopics = topics.filter((topic) => topic.bookId === book.id);
+  return getTopicProgressSummary(bookTopics, progressMap);
 }
 
 function pickRandomTopic(topics: Topic[]) {

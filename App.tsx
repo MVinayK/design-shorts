@@ -6,6 +6,7 @@ import {
   AppState,
   AppStateStatus,
   FlatList,
+  LayoutChangeEvent,
   Linking,
   Modal,
   NativeScrollEvent,
@@ -15,6 +16,7 @@ import {
   ScrollView,
   StyleSheet,
   Text,
+  TextInput,
   useWindowDimensions,
   View,
 } from 'react-native';
@@ -26,11 +28,18 @@ import {
   loadTopicFeedSyncMetadata,
   syncTopicFeedIfNeeded,
 } from './src/lib/contentRepository';
-import { createRandomDeck, getSerialStartIndex, getTopicProgressSummary, getTopicStatus } from './src/lib/feed';
+import {
+  createRandomDeck,
+  getBookProgressSummary,
+  getChapterProgressSummary,
+  getSerialStartIndex,
+  getTopicProgressSummary,
+  getTopicStatus,
+} from './src/lib/feed';
 import { formatFeedDate, formatRelativeSyncTime } from './src/lib/format';
 import { loadNewsDigest, refreshNewsDigest } from './src/lib/newsRepository';
 import { DEFAULT_PREFERENCES, loadStoredState, markTopicRead, savePreferences } from './src/lib/storage';
-import type { ContentSyncMetadata, FeedTab, NewsCard, Preferences, Topic, TopicFeed, TopicStatus } from './src/types';
+import type { ContentBook, ContentSyncMetadata, FeedTab, NewsCard, Preferences, Topic, TopicFeed, TopicStatus } from './src/types';
 
 const HEADER_CONTENT_HEIGHT = 56;
 const HEADER_BOTTOM_GAP = 12;
@@ -58,11 +67,13 @@ function TopicCard({
   height,
   width,
   onExpand,
+  onOpenLibrary,
 }: {
   topic: Topic;
   height: number;
   width: number;
   onExpand: () => void;
+  onOpenLibrary: () => void;
 }) {
   return (
     <View style={[styles.page, { height, width }]}>
@@ -76,9 +87,18 @@ function TopicCard({
             <View style={styles.badge}>
               <Text style={styles.badgeText}>{topic.category}</Text>
             </View>
-            <Pressable onPress={onExpand} style={styles.iconButton}>
-              <Text style={styles.iconButtonText}>+</Text>
-            </Pressable>
+            <View style={styles.topicActionRow}>
+              <Pressable onPress={onOpenLibrary} style={styles.scopeIconButton}>
+                <View style={styles.scopeIconGlyph}>
+                  <View style={styles.scopeIconLineShort} />
+                  <View style={styles.scopeIconLineLong} />
+                  <View style={styles.scopeIconLineShort} />
+                </View>
+              </Pressable>
+              <Pressable onPress={onExpand} style={styles.iconButton}>
+                <Text style={styles.iconButtonText}>+</Text>
+              </Pressable>
+            </View>
           </View>
           <View style={styles.pageCountRow}>
             <Text style={styles.kickerText}>
@@ -293,6 +313,222 @@ function SettingsView({
   );
 }
 
+function LibraryView({
+  books,
+  topics,
+  progressMap,
+  selectedBookId,
+  selectedChapterId,
+  focusedTopicId,
+  onSelectAll,
+  onSelectBook,
+  onSelectChapter,
+}: {
+  books: ContentBook[];
+  topics: Topic[];
+  progressMap: Record<string, TopicStatus>;
+  selectedBookId: string | null;
+  selectedChapterId: string | null;
+  focusedTopicId: string | null;
+  onSelectAll: () => void;
+  onSelectBook: (bookId: string) => void;
+  onSelectChapter: (bookId: string, chapterId: string) => void;
+}) {
+  const [searchQuery, setSearchQuery] = useState('');
+  const libraryScrollRef = useRef<ScrollView>(null);
+  const topicOffsetsRef = useRef<Record<string, number>>({});
+  const chapterOffsetsRef = useRef<Record<string, number>>({});
+
+  const normalizedQuery = searchQuery.trim().toLowerCase();
+  const filteredBooks = useMemo(() => {
+    if (!normalizedQuery) {
+      return books;
+    }
+
+    return books
+      .map((book) => {
+        const searchableBookText = `${book.title} ${book.author} ${book.description}`.toLowerCase();
+        const matchingChapters = book.chapters.filter((chapter) => {
+          const chapterLabel = getChapterLabel(chapter.id).toLowerCase();
+          const searchableChapterText = `${chapter.title} ${chapterLabel}`.toLowerCase();
+          return searchableChapterText.includes(normalizedQuery);
+        });
+
+        if (searchableBookText.includes(normalizedQuery)) {
+          return book;
+        }
+
+        if (matchingChapters.length === 0) {
+          return null;
+        }
+
+        return {
+          ...book,
+          chapters: matchingChapters,
+        };
+      })
+      .filter((book): book is ContentBook => book !== null);
+  }, [books, normalizedQuery]);
+
+  const scrollToFocusedTopic = useCallback(() => {
+    if (!focusedTopicId) {
+      return;
+    }
+
+    const targetOffset = topicOffsetsRef.current[focusedTopicId];
+    if (typeof targetOffset === 'number') {
+      libraryScrollRef.current?.scrollTo({
+        y: Math.max(targetOffset - 140, 0),
+        animated: true,
+      });
+    }
+  }, [focusedTopicId]);
+
+  useEffect(() => {
+    const timer = setTimeout(scrollToFocusedTopic, 60);
+    return () => clearTimeout(timer);
+  }, [scrollToFocusedTopic, selectedBookId, selectedChapterId]);
+
+  const rememberChapterOffset = useCallback((chapterId: string, event: LayoutChangeEvent) => {
+    chapterOffsetsRef.current[chapterId] = event.nativeEvent.layout.y;
+  }, []);
+
+  const rememberTopicOffset = useCallback(
+    (topicId: string, chapterId: string, event: LayoutChangeEvent) => {
+      const chapterOffset = chapterOffsetsRef.current[chapterId] ?? 0;
+      topicOffsetsRef.current[topicId] = chapterOffset + event.nativeEvent.layout.y;
+
+      if (focusedTopicId === topicId) {
+        scrollToFocusedTopic();
+      }
+    },
+    [focusedTopicId, scrollToFocusedTopic],
+  );
+
+  return (
+    <ScrollView
+      ref={libraryScrollRef}
+      style={styles.feedWrapper}
+      contentContainerStyle={styles.libraryContainer}
+      showsVerticalScrollIndicator={false}
+    >
+      <Text style={styles.settingsTitle}>Library</Text>
+      <Text style={styles.settingsBody}>
+        Move through DDIA by chapter when you want deliberate study, then jump back into the swipe feed from that scope.
+      </Text>
+      <View style={styles.librarySearchShell}>
+        <TextInput
+          value={searchQuery}
+          onChangeText={setSearchQuery}
+          placeholder="Find a book or chapter"
+          placeholderTextColor="#88a0bf"
+          style={styles.librarySearchInput}
+        />
+      </View>
+      <Pressable
+        onPress={onSelectAll}
+        style={[styles.libraryOverviewCard, !selectedBookId && styles.libraryOverviewCardActive]}
+      >
+        <Text style={styles.settingsCardTitle}>All books</Text>
+        <Text style={styles.settingsCardValue}>
+          {getTopicProgressSummary(topics, progressMap).readCount} of {topics.length} topics read
+        </Text>
+        <Text style={styles.settingsHint}>Use the complete feed when you want broad repetition across the whole library.</Text>
+      </Pressable>
+
+      {filteredBooks.map((book) => {
+        const bookProgress = getBookProgressSummary(book, topics, progressMap);
+        const isBookSelected = selectedBookId === book.id && selectedChapterId === null;
+
+        return (
+          <View key={book.id} style={styles.libraryBookCard}>
+            <View style={styles.libraryBookHeader}>
+              <View style={styles.libraryBookText}>
+                <Text style={styles.libraryBookTitle}>{book.title}</Text>
+                <Text style={styles.libraryBookMeta}>
+                  {book.author} · {bookProgress.readCount}/{bookProgress.totalCount} topics
+                </Text>
+              </View>
+              <Pressable
+                onPress={() => onSelectBook(book.id)}
+                style={[styles.librarySelectButton, isBookSelected && styles.librarySelectButtonActive]}
+              >
+                <Text style={[styles.librarySelectButtonText, isBookSelected && styles.librarySelectButtonTextActive]}>
+                  Continue
+                </Text>
+              </Pressable>
+            </View>
+
+            <Text style={styles.libraryBookBody}>{book.description}</Text>
+
+            <View style={styles.chapterList}>
+              {book.chapters
+                .slice()
+                .sort((left, right) => left.orderIndex - right.orderIndex)
+                .map((chapter) => {
+                  const chapterProgress = getChapterProgressSummary(chapter, topics, progressMap);
+                  const isSelected = selectedBookId === book.id && selectedChapterId === chapter.id;
+                  const chapterTopics = topics
+                    .filter((topic) => topic.bookId === book.id && topic.chapterId === chapter.id)
+                    .sort((left, right) => left.orderIndex - right.orderIndex);
+
+                  return (
+                    <View key={chapter.id} style={styles.chapterBlock} onLayout={(event) => rememberChapterOffset(chapter.id, event)}>
+                      <Pressable
+                        onPress={() => onSelectChapter(book.id, chapter.id)}
+                        style={[styles.chapterRow, isSelected && styles.chapterRowActive]}
+                      >
+                        <View style={styles.chapterNumber}>
+                          <Text style={styles.chapterNumberText}>{chapter.orderIndex}</Text>
+                        </View>
+                        <View style={styles.chapterText}>
+                          <Text style={styles.chapterTitle}>{chapter.title}</Text>
+                          <Text style={styles.chapterMeta}>
+                            {chapterProgress.readCount}/{chapterProgress.totalCount} topics read
+                          </Text>
+                        </View>
+                        <Text style={styles.chapterJumpText}>Open</Text>
+                      </Pressable>
+                      {isSelected ? (
+                        <View style={styles.chapterTopicList}>
+                          {chapterTopics.map((topic) => {
+                            const isFocusedTopic = focusedTopicId === topic.id;
+                            return (
+                              <View
+                                key={topic.id}
+                                onLayout={(event) => rememberTopicOffset(topic.id, chapter.id, event)}
+                                style={[styles.chapterTopicRow, isFocusedTopic && styles.chapterTopicRowFocused]}
+                              >
+                                <Text
+                                  style={[
+                                    styles.chapterTopicTitle,
+                                    isFocusedTopic && styles.chapterTopicTitleFocused,
+                                  ]}
+                                >
+                                  {topic.title}
+                                </Text>
+                              </View>
+                            );
+                          })}
+                        </View>
+                      ) : null}
+                    </View>
+                  );
+                })}
+            </View>
+          </View>
+        );
+      })}
+      {filteredBooks.length === 0 ? (
+        <View style={styles.libraryEmptyState}>
+          <Text style={styles.settingsCardTitle}>No matches</Text>
+          <Text style={styles.settingsHint}>Try a chapter number, a title word, or the book name.</Text>
+        </View>
+      ) : null}
+    </ScrollView>
+  );
+}
+
 function AppContent() {
   const insets = useSafeAreaInsets();
   const { height, width } = useWindowDimensions();
@@ -314,6 +550,9 @@ function AppContent() {
   const [currentTopicIndex, setCurrentTopicIndex] = useState(0);
   const [, setCurrentNewsIndex] = useState(0);
   const [expandedTopic, setExpandedTopic] = useState<Topic | null>(null);
+  const [selectedBookId, setSelectedBookId] = useState<string | null>(null);
+  const [selectedChapterId, setSelectedChapterId] = useState<string | null>(null);
+  const [focusedLibraryTopicId, setFocusedLibraryTopicId] = useState<string | null>(null);
   const [contentSyncMetadata, setContentSyncMetadata] = useState<ContentSyncMetadata>({
     catalogVersion: getBundledTopicFeed().catalog.version,
     lastAttemptedSyncAt: null,
@@ -367,21 +606,32 @@ function AppContent() {
     [topicFeed.topics],
   );
 
-  const activeTopics = useMemo(() => {
-    if (preferences.feedMode === 'serial') {
-      return sortedTopics;
+  const scopedTopics = useMemo(() => {
+    if (selectedChapterId) {
+      return sortedTopics.filter((topic) => topic.bookId === selectedBookId && topic.chapterId === selectedChapterId);
     }
 
-    return createRandomDeck(sortedTopics, progressMap, 24, preferences.randomWeightUnread);
-  }, [preferences.feedMode, preferences.randomWeightUnread, progressMap, sortedTopics]);
+    if (selectedBookId) {
+      return sortedTopics.filter((topic) => topic.bookId === selectedBookId);
+    }
+
+    return sortedTopics;
+  }, [selectedBookId, selectedChapterId, sortedTopics]);
+
+  const activeTopics = useMemo(() => {
+    if (preferences.feedMode === 'serial') {
+      return scopedTopics;
+    }
+
+    return createRandomDeck(scopedTopics, progressMap, 24, preferences.randomWeightUnread);
+  }, [preferences.feedMode, preferences.randomWeightUnread, progressMap, scopedTopics]);
 
   const serialStartIndex = useMemo(
-    () => getSerialStartIndex(sortedTopics, progressMap, preferences.resumeCheckpointTopicId),
-    [preferences.resumeCheckpointTopicId, progressMap, sortedTopics],
+    () => getSerialStartIndex(scopedTopics, progressMap, preferences.resumeCheckpointTopicId),
+    [preferences.resumeCheckpointTopicId, progressMap, scopedTopics],
   );
 
   const summary = useMemo(() => getTopicProgressSummary(sortedTopics, progressMap), [progressMap, sortedTopics]);
-
   useEffect(() => {
     setCurrentTopicIndex((currentIndex) => Math.min(currentIndex, Math.max(activeTopics.length - 1, 0)));
   }, [activeTopics.length]);
@@ -498,6 +748,26 @@ function AppContent() {
     setIsMenuOpen(false);
   }, []);
 
+  const openLearnScope = useCallback((bookId: string | null, chapterId: string | null) => {
+    setSelectedBookId(bookId);
+    setSelectedChapterId(chapterId);
+    setFocusedLibraryTopicId(null);
+    setCurrentTopicIndex(0);
+    setActiveTab('learn');
+    setIsMenuOpen(false);
+    requestAnimationFrame(() => {
+      topicFeedRef.current?.scrollToOffset({ animated: false, offset: 0 });
+    });
+  }, []);
+
+  const openLibraryForTopic = useCallback((topic: Topic) => {
+    setSelectedBookId(topic.bookId);
+    setSelectedChapterId(topic.chapterId);
+    setFocusedLibraryTopicId(topic.id);
+    setActiveTab('library');
+    setIsMenuOpen(false);
+  }, []);
+
   if (!isHydrated) {
     return (
       <SafeAreaView style={styles.safeArea} edges={['top', 'left', 'right']}>
@@ -536,6 +806,7 @@ function AppContent() {
               <View style={styles.menuPanel}>
                 {([
                   ['learn', 'Learn'],
+                  ['library', 'Library'],
                   ['news', 'News'],
                   ['settings', 'Settings'],
                 ] as const).map(([tab, label]) => (
@@ -554,6 +825,7 @@ function AppContent() {
               ref={topicFeedRef}
               data={activeTopics}
               key={preferences.feedMode}
+              extraData={`${selectedBookId ?? 'all'}-${selectedChapterId ?? 'all'}`}
               horizontal
               pagingEnabled
               showsHorizontalScrollIndicator={false}
@@ -568,9 +840,24 @@ function AppContent() {
                   height={feedHeight}
                   width={width}
                   onExpand={() => setExpandedTopic(item)}
+                  onOpenLibrary={() => openLibraryForTopic(item)}
                 />
               )}
               keyExtractor={(item) => item.id}
+            />
+          ) : null}
+
+          {activeTab === 'library' ? (
+            <LibraryView
+              books={topicFeed.books}
+              topics={sortedTopics}
+              progressMap={progressMap}
+              selectedBookId={selectedBookId}
+              selectedChapterId={selectedChapterId}
+              focusedTopicId={focusedLibraryTopicId}
+              onSelectAll={() => openLearnScope(null, null)}
+              onSelectBook={(bookId) => openLearnScope(bookId, null)}
+              onSelectChapter={(bookId, chapterId) => openLearnScope(bookId, chapterId)}
             />
           ) : null}
 
@@ -780,6 +1067,37 @@ const styles = StyleSheet.create({
     fontSize: 22,
     lineHeight: 24,
     fontWeight: '600',
+  },
+  topicActionRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+  },
+  scopeIconButton: {
+    width: 32,
+    height: 32,
+    borderRadius: 8,
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: '#fbfdff',
+    borderWidth: 1,
+    borderColor: '#dbe7fb',
+  },
+  scopeIconGlyph: {
+    width: 14,
+    gap: 3,
+  },
+  scopeIconLineShort: {
+    width: 9,
+    height: 2,
+    borderRadius: 999,
+    backgroundColor: '#2b61b7',
+  },
+  scopeIconLineLong: {
+    width: 14,
+    height: 2,
+    borderRadius: 999,
+    backgroundColor: '#e85b4f',
   },
   menuPanel: {
     position: 'absolute',
@@ -997,6 +1315,177 @@ const styles = StyleSheet.create({
     paddingHorizontal: 18,
     paddingBottom: 18,
     gap: 16,
+  },
+  libraryContainer: {
+    paddingHorizontal: 18,
+    paddingBottom: 24,
+    gap: 16,
+  },
+  librarySearchShell: {
+    borderWidth: 1,
+    borderColor: '#e1eaf8',
+    backgroundColor: '#fffefc',
+    paddingHorizontal: 14,
+  },
+  librarySearchInput: {
+    height: 48,
+    color: '#173f7b',
+    fontSize: 15,
+    fontFamily: FONT_SANS,
+  },
+  libraryOverviewCard: {
+    padding: 18,
+    borderRadius: 0,
+    backgroundColor: '#fffefc',
+    borderWidth: 1,
+    borderColor: '#e1eaf8',
+    gap: 10,
+  },
+  libraryOverviewCardActive: {
+    borderColor: '#2d66c2',
+    backgroundColor: '#f8fbff',
+  },
+  libraryBookCard: {
+    padding: 18,
+    borderRadius: 0,
+    backgroundColor: '#fffefc',
+    borderWidth: 1,
+    borderColor: '#e1eaf8',
+    gap: 14,
+  },
+  libraryBookHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'flex-start',
+    gap: 12,
+  },
+  libraryBookText: {
+    flex: 1,
+    gap: 6,
+  },
+  libraryBookTitle: {
+    color: '#173f7b',
+    fontSize: 22,
+    lineHeight: 28,
+    fontFamily: FONT_SERIF,
+  },
+  libraryBookMeta: {
+    color: '#6a809f',
+    fontSize: 13,
+    lineHeight: 20,
+    fontFamily: FONT_SANS,
+  },
+  libraryBookBody: {
+    color: '#58718f',
+    fontSize: 15,
+    lineHeight: 23,
+    fontFamily: FONT_SANS,
+  },
+  librarySelectButton: {
+    paddingHorizontal: 14,
+    paddingVertical: 10,
+    borderRadius: 999,
+    backgroundColor: '#f4f8ff',
+    borderWidth: 1,
+    borderColor: '#dce8fb',
+  },
+  librarySelectButtonActive: {
+    backgroundColor: '#2d66c2',
+    borderColor: '#2d66c2',
+  },
+  librarySelectButtonText: {
+    color: '#2158b1',
+    fontSize: 13,
+    fontFamily: FONT_SANS_BOLD,
+  },
+  librarySelectButtonTextActive: {
+    color: '#ffffff',
+  },
+  chapterList: {
+    gap: 10,
+  },
+  chapterBlock: {
+    gap: 8,
+  },
+  chapterRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+    paddingHorizontal: 12,
+    paddingVertical: 12,
+    borderWidth: 1,
+    borderColor: '#e6edf8',
+    backgroundColor: '#fffdf9',
+  },
+  chapterRowActive: {
+    borderColor: '#2d66c2',
+    backgroundColor: '#f7faff',
+  },
+  chapterNumber: {
+    width: 28,
+    height: 28,
+    borderRadius: 999,
+    backgroundColor: '#eef5ff',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  chapterNumberText: {
+    color: '#2b61b7',
+    fontSize: 13,
+    fontFamily: FONT_SANS_BOLD,
+  },
+  chapterText: {
+    flex: 1,
+    gap: 4,
+  },
+  chapterJumpText: {
+    color: '#2158b1',
+    fontSize: 13,
+    fontFamily: FONT_SANS_BOLD,
+  },
+  chapterTopicList: {
+    marginLeft: 40,
+    gap: 8,
+  },
+  chapterTopicRow: {
+    paddingHorizontal: 12,
+    paddingVertical: 10,
+    borderLeftWidth: 2,
+    borderLeftColor: '#e3eaf7',
+    backgroundColor: '#fffdf9',
+  },
+  chapterTopicRowFocused: {
+    borderLeftColor: '#e85b4f',
+    backgroundColor: '#fff7f4',
+  },
+  chapterTopicTitle: {
+    color: '#58718f',
+    fontSize: 14,
+    lineHeight: 20,
+    fontFamily: FONT_SANS,
+  },
+  chapterTopicTitleFocused: {
+    color: '#173f7b',
+    fontFamily: FONT_SANS_SEMIBOLD,
+  },
+  chapterTitle: {
+    color: '#173f7b',
+    fontSize: 15,
+    lineHeight: 21,
+    fontFamily: FONT_SANS_SEMIBOLD,
+  },
+  chapterMeta: {
+    color: '#6a809f',
+    fontSize: 13,
+    lineHeight: 19,
+    fontFamily: FONT_SANS,
+  },
+  libraryEmptyState: {
+    padding: 18,
+    borderWidth: 1,
+    borderColor: '#e1eaf8',
+    backgroundColor: '#fffefc',
+    gap: 8,
   },
   settingsTitle: {
     color: '#173f7b',
