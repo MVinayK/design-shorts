@@ -40,36 +40,42 @@ function TopicCard({
   return (
     <View style={[styles.page, { height, width }]}>
       <View style={styles.card}>
-        <View style={styles.topicMetaRow}>
-          <View style={styles.badge}>
-            <Text style={styles.badgeText}>{topic.category}</Text>
-          </View>
-          <View style={styles.topicMetaActions}>
-            <Text style={styles.readTime}>{topic.estimatedReadTime} min read</Text>
-            <Pressable onPress={onExpand} style={styles.iconButton}>
-              <Text style={styles.iconButtonText}>+</Text>
-            </Pressable>
-          </View>
-        </View>
-        <View style={styles.pageCountRow}>
-          <Text style={styles.pageCountText}>
-            {currentIndex + 1} / {total}
-          </Text>
-          <Text style={styles.swipeHint}>Swipe left or right</Text>
-        </View>
-        <Text style={styles.topicTitle}>{topic.title}</Text>
-        <Text style={styles.topicSummary}>{topic.summaryShort}</Text>
-        <View style={styles.pointList}>
-          {topic.keyPoints.map((point) => (
-            <View key={point} style={styles.pointRow}>
-              <View style={styles.pointDot} />
-              <Text style={styles.pointText}>{point}</Text>
+        <ScrollView
+          style={styles.cardScroll}
+          contentContainerStyle={styles.cardScrollContent}
+          showsVerticalScrollIndicator={false}
+        >
+          <View style={styles.topicMetaRow}>
+            <View style={styles.badge}>
+              <Text style={styles.badgeText}>{topic.category}</Text>
             </View>
-          ))}
-        </View>
-        <View style={styles.cardFooter}>
-          <Text style={styles.statusText}>Swipe ahead to move through the track.</Text>
-        </View>
+            <View style={styles.topicMetaActions}>
+              <Text style={styles.readTime}>{topic.estimatedReadTime} min read</Text>
+              <Pressable onPress={onExpand} style={styles.iconButton}>
+                <Text style={styles.iconButtonText}>+</Text>
+              </Pressable>
+            </View>
+          </View>
+          <View style={styles.pageCountRow}>
+            <Text style={styles.pageCountText}>
+              {currentIndex + 1} / {total}
+            </Text>
+            <Text style={styles.swipeHint}>Swipe left or right</Text>
+          </View>
+          <Text style={styles.topicTitle}>{topic.title}</Text>
+          <Text style={styles.topicSummary}>{topic.summaryShort}</Text>
+          <View style={styles.pointList}>
+            {topic.keyPoints.map((point) => (
+              <View key={point} style={styles.pointRow}>
+                <View style={styles.pointDot} />
+                <Text style={styles.pointText}>{point}</Text>
+              </View>
+            ))}
+          </View>
+          <View style={styles.cardFooter}>
+            <Text style={styles.statusText}>Swipe ahead to move through the track.</Text>
+          </View>
+        </ScrollView>
       </View>
     </View>
   );
@@ -95,34 +101,40 @@ function NewsCardView({
   return (
     <View style={[styles.page, { height, width }]}>
       <View style={[styles.card, styles.newsCard]}>
-        <View style={styles.topicMetaRow}>
-          <View style={styles.badge}>
-            <Text style={styles.badgeText}>Tech News</Text>
-          </View>
-          <Text style={styles.readTime}>{formatFeedDate(story.publishedAt)}</Text>
-        </View>
-        <View style={styles.pageCountRow}>
-          <Text style={styles.pageCountText}>
-            {currentIndex + 1} / {total}
-          </Text>
-          <Text style={styles.swipeHint}>Swipe left or right</Text>
-        </View>
-        <Text style={styles.topicTitle}>{story.title}</Text>
-        <Text style={styles.topicSummary}>{story.summaryShort}</Text>
-        <View style={styles.tagsRow}>
-          {story.tags.map((tag) => (
-            <View key={tag} style={styles.tagPill}>
-              <Text style={styles.tagText}>{tag}</Text>
+        <ScrollView
+          style={styles.cardScroll}
+          contentContainerStyle={styles.cardScrollContent}
+          showsVerticalScrollIndicator={false}
+        >
+          <View style={styles.topicMetaRow}>
+            <View style={styles.badge}>
+              <Text style={styles.badgeText}>Tech News</Text>
             </View>
-          ))}
-        </View>
-        <View style={styles.sourcePanel}>
-          <Text style={styles.sourceLabel}>Source</Text>
-          <Text style={styles.sourceName}>{story.sourceName}</Text>
-        </View>
-        <Pressable onPress={openStory} style={styles.primaryButton}>
-          <Text style={styles.primaryButtonText}>Open source</Text>
-        </Pressable>
+            <Text style={styles.readTime}>{formatFeedDate(story.publishedAt)}</Text>
+          </View>
+          <View style={styles.pageCountRow}>
+            <Text style={styles.pageCountText}>
+              {currentIndex + 1} / {total}
+            </Text>
+            <Text style={styles.swipeHint}>Swipe left or right</Text>
+          </View>
+          <Text style={styles.topicTitle}>{story.title}</Text>
+          <Text style={styles.topicSummary}>{story.summaryShort}</Text>
+          <View style={styles.tagsRow}>
+            {story.tags.map((tag) => (
+              <View key={tag} style={styles.tagPill}>
+                <Text style={styles.tagText}>{tag}</Text>
+              </View>
+            ))}
+          </View>
+          <View style={styles.sourcePanel}>
+            <Text style={styles.sourceLabel}>Source</Text>
+            <Text style={styles.sourceName}>{story.sourceName}</Text>
+          </View>
+          <Pressable onPress={openStory} style={styles.primaryButton}>
+            <Text style={styles.primaryButtonText}>Open source</Text>
+          </Pressable>
+        </ScrollView>
       </View>
     </View>
   );
@@ -627,7 +639,12 @@ const styles = StyleSheet.create({
     paddingVertical: 22,
     borderTopWidth: 1,
     borderTopColor: '#e1ebfb',
-    justifyContent: 'space-between',
+  },
+  cardScroll: {
+    flex: 1,
+  },
+  cardScrollContent: {
+    paddingBottom: 6,
   },
   newsCard: {
     backgroundColor: '#ffffff',
@@ -671,8 +688,8 @@ const styles = StyleSheet.create({
   topicTitle: {
     marginTop: 18,
     color: '#163b72',
-    fontSize: 31,
-    lineHeight: 38,
+    fontSize: 18,
+    lineHeight: 23,
     fontWeight: '700',
   },
   topicSummary: {
@@ -684,8 +701,6 @@ const styles = StyleSheet.create({
   pointList: {
     marginTop: 22,
     gap: 12,
-    flex: 1,
-    justifyContent: 'center',
   },
   pointRow: {
     flexDirection: 'row',
