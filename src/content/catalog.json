@@ -1,11 +1,11 @@
 {
-  "version": 3,
+  "version": 4,
   "books": [
     {
       "id": "ddia",
       "title": "Designing Data-Intensive Applications",
       "path": "books/ddia/book.json",
-      "version": 3,
+      "version": 4,
       "chapters": [
         {
           "id": "chapter-01",
@@ -30,6 +30,14 @@
           "version": 1,
           "topicCount": 6,
           "orderIndex": 3
+        },
+        {
+          "id": "chapter-04",
+          "title": "Encoding and Evolution",
+          "path": "books/ddia/chapters/chapter-04.json",
+          "version": 1,
+          "topicCount": 6,
+          "orderIndex": 4
         }
       ]
     }

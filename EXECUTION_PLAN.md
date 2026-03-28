@@ -180,9 +180,27 @@ Current product phase:
   - updated [catalog.json](/Users/deepthi/VinayProj/design-shorts/src/content/catalog.json) and [book.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/book.json) to include the new chapter and bump DDIA content versioning
   - `npm run typecheck` passed after the content integration
 
+### Task 2.1c: Add DDIA Chapter 4
+
+- Status: `done`
+- Goal: integrate Chapter 4 using the modular catalog/book/chapter structure
+- Why it matters: adds principal-level content about compatibility, contract evolution, and rollout safety across long-lived systems
+- Likely files:
+  - [src/content/catalog.json](/Users/deepthi/VinayProj/design-shorts/src/content/catalog.json)
+  - [src/content/books/ddia/book.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/book.json)
+  - `src/content/books/ddia/chapters/chapter-04.json`
+- Acceptance criteria:
+  - chapter appears in remote/bundled content flow
+  - topics merge into the feed correctly
+  - no reinstall required when remote content path is used
+- Verified result:
+  - added [chapter-04.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/chapters/chapter-04.json) with 6 principal-level DDIA topics
+  - updated [catalog.json](/Users/deepthi/VinayProj/design-shorts/src/content/catalog.json) and [book.json](/Users/deepthi/VinayProj/design-shorts/src/content/books/ddia/book.json) to include the new chapter and bump DDIA content versioning
+  - `npm run typecheck` passed after the content integration
+
 ### Task 2.2: Add chapter freshness/version visibility in settings
 
-- Status: `pending`
+- Status: `done`
 - Goal: show users whether content is bundled, cached, or refreshed
 - Why it matters: helps debug content rollout and user trust
 - Likely files:
@@ -191,6 +209,10 @@ Current product phase:
 - Acceptance criteria:
   - settings shows current content source or freshness
   - remote refresh state is understandable
+- Verified result:
+  - Settings now shows content catalog version and relative last-sync time
+  - the app checks the remote catalog only when the last successful sync is older than one hour, and only downloads chapter files when the catalog version changes
+  - a manual refresh action is available for on-demand content checks, and `npm run typecheck` passed after the implementation
 
 ### Task 2.3: Define chapter import workflow template
 

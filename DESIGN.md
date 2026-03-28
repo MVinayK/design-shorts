@@ -101,14 +101,16 @@ How content is loaded:
 
 1. bundled fallback content is loaded first
 2. cached remote content is used if available
-3. remote content is fetched from the configured base URL
-4. chapter files are merged locally into a single feed
+3. the app checks the remote catalog when the last successful sync is older than one hour
+4. full remote chapter files are fetched only when the catalog version changes
+5. chapter files are merged locally into a single feed
 
 This means:
 
 - app installs stay stable
 - new chapters can be added remotely
 - users do not need a reinstall for new knowledge content
+- settings exposes catalog version and last successful content sync time
 
 ## Topic schema
 

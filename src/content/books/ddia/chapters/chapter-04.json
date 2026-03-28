@@ -1,0 +1,141 @@
+{
+  "bookId": "ddia",
+  "chapterId": "chapter-04",
+  "title": "Encoding and Evolution",
+  "orderIndex": 4,
+  "version": 1,
+  "topics": [
+    {
+      "id": "encoding-as-architecture",
+      "slug": "encoding-as-architecture",
+      "title": "Encoding Formats Are Architectural Constraints",
+      "summaryShort": "Serialization is not a wire concern; it defines how systems evolve under version skew. Encoding choices lock in compatibility guarantees, performance envelopes, and operational risk. Principal engineers treat encoding as a long-term contract, not a convenience.",
+      "keyPoints": [
+        "Encoding determines compatibility guarantees across independently deployed services",
+        "Format choice impacts CPU, bandwidth, and schema evolution flexibility",
+        "Serialization errors often surface as production outages, not compile-time failures"
+      ],
+      "articleSections": [
+        "Encoding formats sit at every system boundary, including APIs, storage, and messaging, and define how data survives over time. Unlike internal code, these contracts persist across deployments, teams, and even organizations. Once chosen, they become extremely hard to change without coordinated migration. This makes encoding a foundational architectural decision.",
+        "Text formats like JSON provide flexibility but lack strict schemas, leading to implicit contracts that drift over time. Binary formats like Protobuf or Avro enforce structure and enable evolution rules, but require upfront schema discipline. The tradeoff is between agility in the short term and safety in the long term.",
+        "Compatibility failures rarely fail fast. They manifest as silent data corruption, dropped fields, or partial deserialization. These issues are difficult to detect and often propagate downstream before surfacing. The blast radius is proportional to how widely the contract is used.",
+        "In design discussions, move beyond which format is faster to how this system will evolve safely over three to five years. Encoding decisions should be justified in terms of rollout safety, versioning strategy, and operational observability."
+      ],
+      "example": "A payments platform initially uses JSON for inter-service communication, but later migrates to Protobuf after repeated production issues caused by implicit schema drift and missing fields.",
+      "interviewTakeaway": "Treat encoding as a long-lived contract that defines system evolution, not just serialization performance.",
+      "category": "Architecture",
+      "orderIndex": 1,
+      "estimatedReadTime": 3
+    },
+    {
+      "id": "backward-vs-forward-compatibility",
+      "slug": "backward-vs-forward-compatibility",
+      "title": "Backward vs Forward Compatibility: Choose Your Failure Mode",
+      "summaryShort": "Compatibility is about controlling failure during version skew, not just enabling upgrades. Backward and forward compatibility define which side of the system can move independently. The wrong assumption here creates cascading production failures.",
+      "keyPoints": [
+        "Backward compatibility protects readers; forward compatibility protects writers",
+        "Version skew is the default state in distributed systems",
+        "Compatibility strategy must align with deployment and ownership boundaries"
+      ],
+      "articleSections": [
+        "Backward compatibility ensures new producers can be read by old consumers, while forward compatibility ensures new consumers can read old data. These are not symmetric guarantees; each protects a different part of the system. Choosing which to prioritize depends on deployment control and system topology.",
+        "In practice, distributed systems are always in a mixed-version state. Rolling deployments, partial failures, and independent service releases guarantee version skew. Designing without assuming skew is a fundamental mistake.",
+        "Compatibility failures often manifest as partial outages. For example, a new field added without proper defaults may break older consumers silently. Conversely, removing a field can cause newer consumers to misinterpret data. These failures are subtle and difficult to roll back.",
+        "Principal engineers explicitly define compatibility direction per interface. For externally exposed APIs, backward compatibility is usually mandatory. For internal pipelines, forward compatibility may be preferred to enable consumer evolution."
+      ],
+      "example": "A Kafka consumer fleet running older code fails to process events after a producer introduces a required field without a default, causing partial data loss in downstream systems.",
+      "interviewTakeaway": "Always define who evolves independently and design compatibility guarantees around that boundary.",
+      "category": "Compatibility",
+      "orderIndex": 2,
+      "estimatedReadTime": 2
+    },
+    {
+      "id": "schema-evolution-across-boundaries",
+      "slug": "schema-evolution-across-boundaries",
+      "title": "Schema Evolution Across Storage, RPC, and Streams",
+      "summaryShort": "Schema evolution is not uniform across databases, RPC, and messaging systems. Each boundary imposes different guarantees and failure modes. Mature systems treat schema evolution as a cross-cutting concern with explicit governance.",
+      "keyPoints": [
+        "Databases, RPC, and messaging systems impose different evolution constraints",
+        "Schema changes propagate differently depending on data lifecycle",
+        "Consistency of evolution strategy across boundaries reduces operational risk"
+      ],
+      "articleSections": [
+        "Schema evolution behaves differently depending on where data lives. In databases, old data must remain readable indefinitely, requiring strong backward compatibility. In RPC, both client and server evolve independently, requiring careful version negotiation. In messaging systems, producers and consumers are decoupled in time, making compatibility even harder.",
+        "The lifecycle of data matters. Stored data must remain interpretable years later, while RPC payloads are transient but latency-sensitive. Messaging systems introduce replay, meaning old events can resurface unexpectedly. Each context requires a tailored compatibility strategy.",
+        "Inconsistent evolution strategies across system boundaries create hidden risks. For example, a field change that is safe in RPC may break historical data processing in a data lake. These inconsistencies accumulate and become systemic reliability issues.",
+        "Principal engineers standardize schema evolution practices across the organization. This includes versioning rules, deprecation timelines, and validation mechanisms. The goal is to reduce cognitive load and prevent accidental incompatibilities."
+      ],
+      "example": "A data pipeline breaks when a field type change that worked for RPC calls causes historical event replay failures in a streaming system.",
+      "interviewTakeaway": "Schema evolution must be consistent across storage, RPC, and messaging to avoid cross-boundary failures.",
+      "category": "Distributed Systems",
+      "orderIndex": 3,
+      "estimatedReadTime": 3
+    },
+    {
+      "id": "text-vs-binary-tradeoffs",
+      "slug": "text-vs-binary-tradeoffs",
+      "title": "Text vs Binary Formats: Flexibility vs Discipline",
+      "summaryShort": "Text formats optimize for human readability and rapid iteration, while binary formats optimize for performance and controlled evolution. The real tradeoff is not speed but contract enforcement and long-term maintainability.",
+      "keyPoints": [
+        "Text formats enable loose contracts but encourage schema drift",
+        "Binary formats enforce schemas and support safer evolution",
+        "Performance gains are secondary to operational predictability"
+      ],
+      "articleSections": [
+        "Text formats like JSON and XML are easy to adopt and debug, making them attractive for early-stage systems. However, their lack of enforced schemas leads to implicit contracts that evolve inconsistently. Over time, this results in fragile integrations and hidden dependencies.",
+        "Binary formats like Avro and Protobuf introduce explicit schemas and versioning rules. This enforces discipline in how data evolves and enables compatibility guarantees. The cost is increased tooling complexity and stricter development workflows.",
+        "The common argument for binary formats is performance, but the real advantage is predictability. Structured schemas reduce ambiguity and make failures more detectable. This is critical in large systems where debugging distributed failures is expensive.",
+        "Choosing between text and binary formats should be framed as a governance decision. If multiple teams independently evolve services, schema enforcement becomes essential. Without it, organizational complexity translates directly into system fragility."
+      ],
+      "example": "A microservices platform migrates from JSON to Protobuf after repeated issues with missing optional fields and inconsistent naming conventions across teams.",
+      "interviewTakeaway": "Binary formats are less about speed and more about enforcing disciplined evolution at scale.",
+      "category": "Tradeoffs",
+      "orderIndex": 4,
+      "estimatedReadTime": 2
+    },
+    {
+      "id": "schema-registry-and-governance",
+      "slug": "schema-registry-and-governance",
+      "title": "Schema Registries: Enforcing Contracts at Scale",
+      "summaryShort": "Schema registries centralize contract management and enforce compatibility rules across services. They reduce accidental breakage but introduce governance overhead. At scale, they become essential infrastructure, not optional tooling.",
+      "keyPoints": [
+        "Centralized schema management prevents uncontrolled contract drift",
+        "Compatibility checks must be automated and enforced at write time",
+        "Governance introduces process overhead but reduces systemic risk"
+      ],
+      "articleSections": [
+        "Schema registries act as the source of truth for data contracts, particularly in event-driven architectures. They store schema versions and enforce compatibility rules during producer writes. This prevents breaking changes from entering the system.",
+        "Without a registry, schema evolution becomes decentralized and error-prone. Teams may introduce incompatible changes without awareness of downstream consumers. This leads to runtime failures that are difficult to trace and fix.",
+        "Registries enable automated validation, ensuring that new schemas are backward or forward compatible as required. They also provide visibility into schema usage and dependencies. This is critical for managing deprecations and migrations.",
+        "The tradeoff is governance overhead. Teams must follow stricter processes and tooling requirements. However, at scale, this overhead is far cheaper than the cost of production incidents caused by contract violations."
+      ],
+      "example": "An event streaming platform uses a schema registry to enforce backward compatibility for all Kafka topics, preventing producers from publishing incompatible events.",
+      "interviewTakeaway": "Schema registries convert implicit contracts into enforceable guarantees, reducing production risk.",
+      "category": "Operations",
+      "orderIndex": 5,
+      "estimatedReadTime": 2
+    },
+    {
+      "id": "multi-version-systems-and-rollouts",
+      "slug": "multi-version-systems-and-rollouts",
+      "title": "Multi-Version Reality: Designing for Continuous Evolution",
+      "summaryShort": "Distributed systems are permanently in a multi-version state due to independent deployments. Safe evolution requires designing for version skew, not assuming uniform upgrades. Rollout strategy becomes part of the data model.",
+      "keyPoints": [
+        "Version skew is the steady state, not a transient condition",
+        "Rolling upgrades require compatibility guarantees at every boundary",
+        "Deployment strategy and data contracts must be co-designed"
+      ],
+      "articleSections": [
+        "In real systems, different components run different versions at any given time. Rolling deployments, canary releases, and partial failures ensure this condition persists indefinitely. Designing as if all components upgrade simultaneously is unrealistic.",
+        "Compatibility must be maintained across all intermediate states during rollout. This means new producers must work with old consumers and vice versa. Failure to account for this leads to rollout-induced outages.",
+        "Operational strategies like canarying and feature flags help mitigate risk, but they rely on robust compatibility guarantees. Without these guarantees, even small changes can cascade into system-wide failures. Observability becomes critical to detect issues early.",
+        "Principal engineers treat deployment strategy as part of system design. They define safe rollout sequences, compatibility windows, and rollback plans. This ensures that system evolution is controlled rather than chaotic."
+      ],
+      "example": "A microservices deployment introduces a new field behind a feature flag, gradually enabling it across services while monitoring compatibility before full rollout.",
+      "interviewTakeaway": "Design for permanent version skew; compatibility and rollout strategy must be first-class concerns.",
+      "category": "Distributed Systems",
+      "orderIndex": 6,
+      "estimatedReadTime": 3
+    }
+  ]
+}

@@ -1,10 +1,11 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import type { Preferences, Topic, TopicStatus } from '../types';
+import type { ContentSyncMetadata, Preferences, Topic, TopicStatus } from '../types';
 
 const PREFERENCES_KEY = 'design-shorts/preferences';
 const PROGRESS_KEY = 'design-shorts/progress';
 const NEWS_CACHE_KEY = 'design-shorts/news-cache';
 const CONTENT_CACHE_PREFIX = 'design-shorts/content/';
+const CONTENT_SYNC_METADATA_KEY = 'design-shorts/content-sync-metadata';
 
 export const DEFAULT_PREFERENCES: Preferences = {
   feedMode: 'serial',
@@ -50,6 +51,20 @@ export async function getCachedContentDocument(path: string) {
 
 export async function saveCachedContentDocument(path: string, value: string) {
   await AsyncStorage.setItem(`${CONTENT_CACHE_PREFIX}${path}`, value);
+}
+
+export async function getContentSyncMetadata() {
+  const value = await AsyncStorage.getItem(CONTENT_SYNC_METADATA_KEY);
+
+  if (!value) {
+    return null;
+  }
+
+  return JSON.parse(value) as ContentSyncMetadata;
+}
+
+export async function saveContentSyncMetadata(metadata: ContentSyncMetadata) {
+  await AsyncStorage.setItem(CONTENT_SYNC_METADATA_KEY, JSON.stringify(metadata));
 }
 
 export async function markTopicRead(

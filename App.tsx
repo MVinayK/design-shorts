@@ -3,6 +3,8 @@ import { PlayfairDisplay_700Bold, useFonts as usePlayfairFonts } from '@expo-goo
 import { StatusBar } from 'expo-status-bar';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import {
+  AppState,
+  AppStateStatus,
   FlatList,
   Linking,
   Modal,
@@ -18,12 +20,17 @@ import {
 } from 'react-native';
 import { SafeAreaProvider, SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { BUNDLED_NEWS_DIGEST } from './src/data/bundledNews';
-import { getBundledTopicFeed, loadTopicFeed, refreshTopicFeed } from './src/lib/contentRepository';
+import {
+  getBundledTopicFeed,
+  loadTopicFeed,
+  loadTopicFeedSyncMetadata,
+  syncTopicFeedIfNeeded,
+} from './src/lib/contentRepository';
 import { createRandomDeck, getSerialStartIndex, getTopicProgressSummary, getTopicStatus } from './src/lib/feed';
-import { formatFeedDate } from './src/lib/format';
+import { formatFeedDate, formatRelativeSyncTime } from './src/lib/format';
 import { loadNewsDigest, refreshNewsDigest } from './src/lib/newsRepository';
 import { DEFAULT_PREFERENCES, loadStoredState, markTopicRead, savePreferences } from './src/lib/storage';
-import type { FeedTab, NewsCard, Preferences, Topic, TopicFeed, TopicStatus } from './src/types';
+import type { ContentSyncMetadata, FeedTab, NewsCard, Preferences, Topic, TopicFeed, TopicStatus } from './src/types';
 
 const HEADER_CONTENT_HEIGHT = 56;
 const HEADER_BOTTOM_GAP = 12;
@@ -81,12 +88,16 @@ function TopicCard({
           <Text style={styles.topicTitle}>{topic.title}</Text>
           <Text style={styles.topicSummary}>{topic.summaryShort}</Text>
           <View style={styles.pointList}>
-            {topic.keyPoints.slice(0, 2).map((point) => (
+            {topic.keyPoints.slice(0, 3).map((point) => (
               <View key={point} style={styles.pointRow}>
                 <View style={styles.pointDot} />
                 <Text style={styles.pointText}>{point}</Text>
               </View>
             ))}
+          </View>
+          <View style={styles.takeawayPreview}>
+            <Text style={styles.takeawayPreviewLabel}>Why it matters</Text>
+            <Text style={styles.takeawayPreviewText}>{topic.interviewTakeaway}</Text>
           </View>
         </ScrollView>
       </View>
@@ -207,6 +218,9 @@ function SettingsView({
   onRefreshNews,
   isRefreshingNews,
   newsTimestamp,
+  contentSyncMetadata,
+  onRefreshContent,
+  isRefreshingContent,
 }: {
   preferences: Preferences;
   onChangeMode: (mode: Preferences['feedMode']) => void;
@@ -215,6 +229,9 @@ function SettingsView({
   onRefreshNews: () => void;
   isRefreshingNews: boolean;
   newsTimestamp: string | null;
+  contentSyncMetadata: ContentSyncMetadata;
+  onRefreshContent: () => void;
+  isRefreshingContent: boolean;
 }) {
   return (
     <View style={styles.settingsContainer}>
@@ -246,6 +263,18 @@ function SettingsView({
           {readCount} of {totalCount} topics read
         </Text>
         <Text style={styles.settingsHint}>Saved locally. Offline reading works by default.</Text>
+      </View>
+
+      <View style={styles.settingsCard}>
+        <Text style={styles.settingsCardTitle}>Knowledge library</Text>
+        <Text style={styles.settingsCardValue}>Catalog v{contentSyncMetadata.catalogVersion ?? '1'}</Text>
+        <Text style={styles.settingsHint}>
+          Last synced {formatRelativeSyncTime(contentSyncMetadata.lastSuccessfulSyncAt)}. Checks for fresh content when the
+          app becomes active after an hour.
+        </Text>
+        <Pressable onPress={onRefreshContent} style={styles.primaryButton}>
+          <Text style={styles.primaryButtonText}>{isRefreshingContent ? 'Refreshing...' : 'Refresh library'}</Text>
+        </Pressable>
       </View>
 
       <View style={styles.settingsCard}>
@@ -281,24 +310,50 @@ function AppContent() {
   const [newsError, setNewsError] = useState<string | null>(null);
   const [isHydrated, setIsHydrated] = useState(false);
   const [isRefreshingNews, setIsRefreshingNews] = useState(false);
+  const [isRefreshingContent, setIsRefreshingContent] = useState(false);
   const [currentTopicIndex, setCurrentTopicIndex] = useState(0);
   const [, setCurrentNewsIndex] = useState(0);
   const [expandedTopic, setExpandedTopic] = useState<Topic | null>(null);
+  const [contentSyncMetadata, setContentSyncMetadata] = useState<ContentSyncMetadata>({
+    catalogVersion: getBundledTopicFeed().catalog.version,
+    lastAttemptedSyncAt: null,
+    lastSuccessfulSyncAt: null,
+    source: getBundledTopicFeed().source,
+  });
+
+  const refreshContent = useCallback(
+    async (force = false) => {
+      try {
+        setIsRefreshingContent(true);
+        const result = await syncTopicFeedIfNeeded(topicFeed, force);
+        setTopicFeed(result.feed);
+        setContentSyncMetadata(result.metadata);
+      } catch {
+        // Keep bundled or cached content when remote refresh is unavailable.
+      } finally {
+        setIsRefreshingContent(false);
+      }
+    },
+    [topicFeed],
+  );
 
   useEffect(() => {
     async function bootstrap() {
       const [stored, digest, contentFeed] = await Promise.all([loadStoredState(), loadNewsDigest(), loadTopicFeed()]);
+      const syncMetadata = await loadTopicFeedSyncMetadata(contentFeed);
 
       setPreferences(stored.preferences);
       setProgressMap(stored.progressMap);
       setNewsDigest(digest);
       setTopicFeed(contentFeed);
+      setContentSyncMetadata(syncMetadata);
       setIsHydrated(true);
 
       try {
-        const [latestDigest, latestTopicFeed] = await Promise.all([refreshNewsDigest(), refreshTopicFeed()]);
+        const [latestDigest, contentResult] = await Promise.all([refreshNewsDigest(), syncTopicFeedIfNeeded(contentFeed)]);
         setNewsDigest(latestDigest);
-        setTopicFeed(latestTopicFeed);
+        setTopicFeed(contentResult.feed);
+        setContentSyncMetadata(contentResult.metadata);
       } catch {
         // Fall back to bundled or cached data when remote content is not configured yet.
       }
@@ -330,6 +385,18 @@ function AppContent() {
   useEffect(() => {
     setCurrentTopicIndex((currentIndex) => Math.min(currentIndex, Math.max(activeTopics.length - 1, 0)));
   }, [activeTopics.length]);
+
+  useEffect(() => {
+    const subscription = AppState.addEventListener('change', (nextState: AppStateStatus) => {
+      if (nextState === 'active') {
+        void refreshContent();
+      }
+    });
+
+    return () => {
+      subscription.remove();
+    };
+  }, [refreshContent]);
 
   const persistMode = useCallback(
     async (mode: Preferences['feedMode']) => {
@@ -531,6 +598,9 @@ function AppContent() {
                 onRefreshNews={() => void refreshDigest()}
                 isRefreshingNews={isRefreshingNews}
                 newsTimestamp={newsDigest.generatedAt}
+                contentSyncMetadata={contentSyncMetadata}
+                onRefreshContent={() => void refreshContent(true)}
+                isRefreshingContent={isRefreshingContent}
               />
             </View>
           ) : null}
@@ -764,6 +834,26 @@ const styles = StyleSheet.create({
   pointText: {
     flex: 1,
     color: '#58718f',
+    fontSize: 14,
+    lineHeight: 22,
+    fontFamily: FONT_SANS,
+  },
+  takeawayPreview: {
+    marginTop: 18,
+    paddingTop: 14,
+    borderTopWidth: 1,
+    borderTopColor: '#e8eef8',
+    gap: 8,
+  },
+  takeawayPreviewLabel: {
+    color: '#cf5a47',
+    fontSize: 11,
+    letterSpacing: 0.9,
+    textTransform: 'uppercase',
+    fontFamily: FONT_SANS_BOLD,
+  },
+  takeawayPreviewText: {
+    color: '#516d8f',
     fontSize: 14,
     lineHeight: 22,
     fontFamily: FONT_SANS,

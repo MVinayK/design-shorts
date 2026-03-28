@@ -67,6 +67,19 @@ export type TopicFeed = {
   source: 'bundled' | 'cache' | 'remote';
 };
 
+export type ContentSyncMetadata = {
+  catalogVersion: number | null;
+  lastAttemptedSyncAt: string | null;
+  lastSuccessfulSyncAt: string | null;
+  source: TopicFeed['source'];
+};
+
+export type TopicFeedSyncResult = {
+  feed: TopicFeed;
+  metadata: ContentSyncMetadata;
+  didRefresh: boolean;
+};
+
 export type TopicStatus = 'read' | 'unread';
 
 export type ProgressRecord = {
