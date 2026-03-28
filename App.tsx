@@ -3,6 +3,8 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import {
   FlatList,
   Linking,
+  NativeScrollEvent,
+  NativeSyntheticEvent,
   Pressable,
   SafeAreaView,
   StyleSheet,
@@ -20,23 +22,31 @@ import type { FeedTab, NewsCard, Preferences, Topic, TopicStatus } from './src/t
 
 function TopicCard({
   topic,
-  status,
-  onMarkRead,
   height,
+  width,
+  currentIndex,
+  total,
 }: {
   topic: Topic;
-  status: 'read' | 'unread';
-  onMarkRead: () => void;
   height: number;
+  width: number;
+  currentIndex: number;
+  total: number;
 }) {
   return (
-    <View style={[styles.page, { height }]}>
+    <View style={[styles.page, { height, width }]}>
       <View style={styles.card}>
         <View style={styles.topicMetaRow}>
           <View style={styles.badge}>
             <Text style={styles.badgeText}>{topic.category}</Text>
           </View>
           <Text style={styles.readTime}>{topic.estimatedReadTime} min read</Text>
+        </View>
+        <View style={styles.pageCountRow}>
+          <Text style={styles.pageCountText}>
+            {currentIndex + 1} / {total}
+          </Text>
+          <Text style={styles.swipeHint}>Swipe left or right</Text>
         </View>
         <Text style={styles.topicTitle}>{topic.title}</Text>
         <Text style={styles.topicSummary}>{topic.summaryShort}</Text>
@@ -49,31 +59,44 @@ function TopicCard({
           ))}
         </View>
         <View style={styles.cardFooter}>
-          <Text style={styles.statusText}>{status === 'read' ? 'Read' : 'Unread'}</Text>
-          <Pressable onPress={onMarkRead} style={[styles.primaryButton, status === 'read' && styles.secondaryButton]}>
-            <Text style={[styles.primaryButtonText, status === 'read' && styles.secondaryButtonText]}>
-              {status === 'read' ? 'Read again later' : 'Mark as Read'}
-            </Text>
-          </Pressable>
+          <Text style={styles.statusText}>Swipe ahead to move through the track.</Text>
         </View>
       </View>
     </View>
   );
 }
 
-function NewsCardView({ story, height }: { story: NewsCard; height: number }) {
+function NewsCardView({
+  story,
+  height,
+  width,
+  currentIndex,
+  total,
+}: {
+  story: NewsCard;
+  height: number;
+  width: number;
+  currentIndex: number;
+  total: number;
+}) {
   const openStory = useCallback(() => {
     void Linking.openURL(story.sourceUrl);
   }, [story.sourceUrl]);
 
   return (
-    <View style={[styles.page, { height }]}>
+    <View style={[styles.page, { height, width }]}>
       <View style={[styles.card, styles.newsCard]}>
         <View style={styles.topicMetaRow}>
           <View style={styles.badge}>
             <Text style={styles.badgeText}>Tech News</Text>
           </View>
           <Text style={styles.readTime}>{formatFeedDate(story.publishedAt)}</Text>
+        </View>
+        <View style={styles.pageCountRow}>
+          <Text style={styles.pageCountText}>
+            {currentIndex + 1} / {total}
+          </Text>
+          <Text style={styles.swipeHint}>Swipe left or right</Text>
         </View>
         <Text style={styles.topicTitle}>{story.title}</Text>
         <Text style={styles.topicSummary}>{story.summaryShort}</Text>
@@ -165,15 +188,19 @@ function SettingsView({
 }
 
 export default function App() {
-  const { height } = useWindowDimensions();
+  const { height, width } = useWindowDimensions();
   const topicFeedRef = useRef<FlatList<Topic>>(null);
+  const newsFeedRef = useRef<FlatList<NewsCard>>(null);
   const [activeTab, setActiveTab] = useState<FeedTab>('learn');
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [preferences, setPreferences] = useState(DEFAULT_PREFERENCES);
   const [progressMap, setProgressMap] = useState<Record<string, TopicStatus>>({});
   const [newsDigest, setNewsDigest] = useState(BUNDLED_NEWS_DIGEST);
   const [newsError, setNewsError] = useState<string | null>(null);
   const [isHydrated, setIsHydrated] = useState(false);
   const [isRefreshingNews, setIsRefreshingNews] = useState(false);
+  const [currentTopicIndex, setCurrentTopicIndex] = useState(0);
+  const [currentNewsIndex, setCurrentNewsIndex] = useState(0);
 
   useEffect(() => {
     async function bootstrap() {
@@ -269,6 +296,50 @@ export default function App() {
     }
   }, []);
 
+  const markTopicReadIfNeeded = useCallback(
+    async (topicId: string) => {
+      if (progressMap[topicId] === 'read') {
+        return;
+      }
+
+      const nextState = await markTopicRead(topicId, sortedTopics, progressMap, preferences);
+      setProgressMap(nextState.progressMap);
+      setPreferences(nextState.preferences);
+    },
+    [preferences, progressMap, sortedTopics],
+  );
+
+  const handleTopicSwipeEnd = useCallback(
+    (event: NativeSyntheticEvent<NativeScrollEvent>) => {
+      const nextIndex = Math.round(event.nativeEvent.contentOffset.x / width);
+
+      if (nextIndex === currentTopicIndex) {
+        return;
+      }
+
+      const previousTopic = activeTopics[currentTopicIndex];
+      setCurrentTopicIndex(nextIndex);
+
+      if (nextIndex > currentTopicIndex && previousTopic) {
+        void markTopicReadIfNeeded(previousTopic.id);
+      }
+    },
+    [activeTopics, currentTopicIndex, markTopicReadIfNeeded, width],
+  );
+
+  const handleNewsSwipeEnd = useCallback(
+    (event: NativeSyntheticEvent<NativeScrollEvent>) => {
+      const nextIndex = Math.round(event.nativeEvent.contentOffset.x / width);
+      setCurrentNewsIndex(nextIndex);
+    },
+    [width],
+  );
+
+  const switchTab = useCallback((tab: FeedTab) => {
+    setActiveTab(tab);
+    setIsMenuOpen(false);
+  }, []);
+
   if (!isHydrated) {
     return (
       <SafeAreaView style={styles.safeArea}>
@@ -290,11 +361,31 @@ export default function App() {
             <Text style={styles.eyebrow}>Mobile-first HLD prep</Text>
             <Text style={styles.headerTitle}>Design Shorts</Text>
           </View>
-          <Text style={styles.headerMeta}>
-            {activeTab === 'learn'
-              ? `${summary.readCount}/${summary.totalCount} topics done`
-              : `${newsDigest.items.length} tech stories`}
-          </Text>
+          <View style={styles.headerActions}>
+            <Text style={styles.headerMeta}>
+              {activeTab === 'learn'
+                ? `${summary.readCount}/${summary.totalCount} topics done`
+                : activeTab === 'news'
+                  ? `${newsDigest.items.length} tech stories`
+                  : 'Preferences'}
+            </Text>
+            <Pressable onPress={() => setIsMenuOpen((value) => !value)} style={styles.menuButton}>
+              <Text style={styles.menuButtonText}>Menu</Text>
+            </Pressable>
+            {isMenuOpen ? (
+              <View style={styles.menuPanel}>
+                {([
+                  ['learn', 'Learn'],
+                  ['news', 'News'],
+                  ['settings', 'Settings'],
+                ] as const).map(([tab, label]) => (
+                  <Pressable key={tab} onPress={() => switchTab(tab)} style={styles.menuItem}>
+                    <Text style={[styles.menuItemText, activeTab === tab && styles.menuItemTextActive]}>{label}</Text>
+                  </Pressable>
+                ))}
+              </View>
+            ) : null}
+          </View>
         </View>
 
         <View style={styles.content}>
@@ -303,18 +394,21 @@ export default function App() {
               ref={topicFeedRef}
               data={activeTopics}
               key={preferences.feedMode}
+              horizontal
               pagingEnabled
-              showsVerticalScrollIndicator={false}
+              showsHorizontalScrollIndicator={false}
               snapToAlignment="start"
               decelerationRate="fast"
               initialScrollIndex={preferences.feedMode === 'serial' ? serialStartIndex : 0}
-              getItemLayout={(_, index) => ({ index, length: height - 184, offset: (height - 184) * index })}
+              onMomentumScrollEnd={handleTopicSwipeEnd}
+              getItemLayout={(_, index) => ({ index, length: width, offset: width * index })}
               renderItem={({ item }) => (
                 <TopicCard
                   topic={item}
-                  status={getTopicStatus(item.id, progressMap)}
-                  onMarkRead={() => void handleMarkRead(item.id)}
-                  height={height - 184}
+                  height={height - 136}
+                  width={width}
+                  currentIndex={activeTopics.findIndex((topic) => topic.id === item.id)}
+                  total={activeTopics.length}
                 />
               )}
               keyExtractor={(item) => item.id}
@@ -324,12 +418,23 @@ export default function App() {
           {activeTab === 'news' ? (
             <View style={styles.feedWrapper}>
               <FlatList
+                ref={newsFeedRef}
                 data={newsDigest.items}
+                horizontal
                 pagingEnabled
-                showsVerticalScrollIndicator={false}
+                showsHorizontalScrollIndicator={false}
                 snapToAlignment="start"
                 decelerationRate="fast"
-                renderItem={({ item }) => <NewsCardView story={item} height={height - 184} />}
+                onMomentumScrollEnd={handleNewsSwipeEnd}
+                renderItem={({ item }) => (
+                  <NewsCardView
+                    story={item}
+                    height={height - 136}
+                    width={width}
+                    currentIndex={newsDigest.items.findIndex((story) => story.id === item.id)}
+                    total={newsDigest.items.length}
+                  />
+                )}
                 keyExtractor={(item) => item.id}
               />
               {newsError ? <Text style={styles.errorText}>{newsError}</Text> : null}
@@ -351,21 +456,6 @@ export default function App() {
           ) : null}
         </View>
 
-        <View style={styles.tabBar}>
-          {([
-            ['learn', 'Learn'],
-            ['news', 'News'],
-            ['settings', 'Settings'],
-          ] as const).map(([tab, label]) => {
-            const selected = activeTab === tab;
-
-            return (
-              <Pressable key={tab} onPress={() => setActiveTab(tab)} style={[styles.tabButton, selected && styles.tabButtonActive]}>
-                <Text style={[styles.tabText, selected && styles.tabTextActive]}>{label}</Text>
-              </Pressable>
-            );
-          })}
-        </View>
       </View>
     </SafeAreaView>
   );
@@ -374,58 +464,112 @@ export default function App() {
 const styles = StyleSheet.create({
   safeArea: {
     flex: 1,
-    backgroundColor: '#08111f',
+    backgroundColor: '#ffffff',
   },
   appShell: {
     flex: 1,
-    backgroundColor: '#08111f',
+    backgroundColor: '#ffffff',
   },
   header: {
+    position: 'relative',
+    zIndex: 50,
     paddingHorizontal: 20,
     paddingTop: 12,
-    paddingBottom: 18,
+    paddingBottom: 10,
     flexDirection: 'row',
     justifyContent: 'space-between',
-    alignItems: 'flex-end',
+    alignItems: 'flex-start',
   },
   eyebrow: {
-    color: '#7db5ff',
+    color: '#2867c6',
     fontSize: 12,
     letterSpacing: 1.2,
     textTransform: 'uppercase',
   },
   headerTitle: {
-    color: '#f4f8ff',
+    color: '#13428f',
     fontSize: 30,
     fontWeight: '700',
     marginTop: 6,
   },
   headerMeta: {
-    color: '#9cb3d1',
+    color: '#cc4c3b',
     fontSize: 13,
+    fontWeight: '600',
+    textAlign: 'right',
+  },
+  headerActions: {
+    alignItems: 'flex-end',
+    position: 'relative',
+    gap: 10,
+  },
+  menuButton: {
+    paddingHorizontal: 14,
+    paddingVertical: 10,
+    borderRadius: 10,
+    backgroundColor: '#255fbe',
+  },
+  menuButtonText: {
+    color: '#ffffff',
+    fontWeight: '700',
+  },
+  menuPanel: {
+    position: 'absolute',
+    top: 58,
+    right: 0,
+    minWidth: 148,
+    padding: 8,
+    borderRadius: 10,
+    backgroundColor: '#ffffff',
+    borderWidth: 1,
+    borderColor: '#d6e6fb',
+    shadowColor: '#2b5fad',
+    shadowOpacity: 0.12,
+    shadowRadius: 14,
+    shadowOffset: {
+      width: 0,
+      height: 8,
+    },
+    elevation: 5,
+    zIndex: 200,
+  },
+  menuItem: {
+    paddingHorizontal: 12,
+    paddingVertical: 12,
+    borderRadius: 8,
+  },
+  menuItemText: {
+    color: '#255fbe',
+    fontWeight: '600',
+  },
+  menuItemTextActive: {
+    color: '#ea5445',
   },
   content: {
     flex: 1,
+    zIndex: 1,
   },
   feedWrapper: {
     flex: 1,
   },
   page: {
-    paddingHorizontal: 18,
-    paddingBottom: 18,
+    paddingHorizontal: 0,
+    paddingBottom: 0,
+    overflow: 'hidden',
   },
   card: {
     flex: 1,
-    backgroundColor: '#10233b',
-    borderRadius: 28,
-    paddingHorizontal: 20,
+    width: '100%',
+    backgroundColor: '#ffffff',
+    borderRadius: 0,
+    paddingHorizontal: 24,
     paddingVertical: 22,
-    borderWidth: 1,
-    borderColor: '#183656',
+    borderTopWidth: 1,
+    borderTopColor: '#e1ebfb',
     justifyContent: 'space-between',
   },
   newsCard: {
-    backgroundColor: '#0d1d31',
+    backgroundColor: '#ffffff',
   },
   topicMetaRow: {
     flexDirection: 'row',
@@ -433,36 +577,54 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   badge: {
-    backgroundColor: '#133a63',
+    backgroundColor: '#dfeeff',
     paddingHorizontal: 12,
     paddingVertical: 6,
     borderRadius: 999,
   },
   badgeText: {
-    color: '#a9d1ff',
+    color: '#1f5db8',
     fontSize: 12,
     fontWeight: '700',
   },
   readTime: {
-    color: '#8da8ca',
+    color: '#5377a8',
     fontSize: 12,
+  },
+  pageCountRow: {
+    marginTop: 14,
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+  },
+  pageCountText: {
+    color: '#5d7cab',
+    fontSize: 12,
+    fontWeight: '600',
+  },
+  swipeHint: {
+    color: '#e24f42',
+    fontSize: 12,
+    fontWeight: '700',
   },
   topicTitle: {
     marginTop: 18,
-    color: '#f5f8ff',
-    fontSize: 28,
-    lineHeight: 34,
+    color: '#163b72',
+    fontSize: 31,
+    lineHeight: 38,
     fontWeight: '700',
   },
   topicSummary: {
     marginTop: 14,
-    color: '#d2dded',
-    fontSize: 17,
-    lineHeight: 26,
+    color: '#3f5d87',
+    fontSize: 18,
+    lineHeight: 28,
   },
   pointList: {
     marginTop: 22,
     gap: 12,
+    flex: 1,
+    justifyContent: 'center',
   },
   pointRow: {
     flexDirection: 'row',
@@ -474,39 +636,39 @@ const styles = StyleSheet.create({
     height: 8,
     borderRadius: 999,
     marginTop: 7,
-    backgroundColor: '#5cc8ff',
+    backgroundColor: '#ea5445',
   },
   pointText: {
     flex: 1,
-    color: '#c0d2e8',
-    fontSize: 15,
-    lineHeight: 22,
+    color: '#47678e',
+    fontSize: 16,
+    lineHeight: 24,
   },
   cardFooter: {
-    marginTop: 24,
-    gap: 14,
+    marginTop: 20,
   },
   statusText: {
-    color: '#86a0c2',
+    color: '#5377a8',
     fontSize: 14,
+    fontWeight: '600',
   },
   primaryButton: {
     paddingHorizontal: 18,
     paddingVertical: 15,
-    backgroundColor: '#f47c48',
+    backgroundColor: '#255fbe',
     borderRadius: 18,
     alignItems: 'center',
   },
   primaryButtonText: {
-    color: '#fff7f3',
+    color: '#ffffff',
     fontSize: 15,
     fontWeight: '700',
   },
   secondaryButton: {
-    backgroundColor: '#173655',
+    backgroundColor: '#f5d7d3',
   },
   secondaryButtonText: {
-    color: '#b9d2f2',
+    color: '#c94b3f',
   },
   tagsRow: {
     flexDirection: 'row',
@@ -515,31 +677,33 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
   tagPill: {
-    backgroundColor: '#133a63',
+    backgroundColor: '#eef4ff',
     paddingHorizontal: 12,
     paddingVertical: 7,
     borderRadius: 999,
   },
   tagText: {
-    color: '#b8d5fb',
+    color: '#2a61b8',
     fontSize: 12,
     fontWeight: '600',
   },
   sourcePanel: {
     marginTop: 22,
     padding: 16,
-    backgroundColor: '#13263e',
-    borderRadius: 18,
+    backgroundColor: '#f4f8ff',
+    borderRadius: 0,
+    borderLeftWidth: 3,
+    borderLeftColor: '#255fbe',
   },
   sourceLabel: {
-    color: '#7f9fca',
+    color: '#5377a8',
     fontSize: 12,
     textTransform: 'uppercase',
     letterSpacing: 1,
   },
   sourceName: {
     marginTop: 8,
-    color: '#eff5ff',
+    color: '#163b72',
     fontSize: 16,
     fontWeight: '600',
   },
@@ -550,104 +714,77 @@ const styles = StyleSheet.create({
     gap: 16,
   },
   settingsTitle: {
-    color: '#f4f8ff',
+    color: '#163b72',
     fontSize: 28,
     fontWeight: '700',
     marginTop: 6,
   },
   settingsBody: {
-    color: '#c5d5ea',
+    color: '#456487',
     fontSize: 16,
     lineHeight: 24,
   },
   segmentedControl: {
     flexDirection: 'row',
     padding: 6,
-    borderRadius: 18,
-    backgroundColor: '#0f1f34',
+    borderRadius: 10,
+    backgroundColor: '#f3f7ff',
     gap: 8,
   },
   segmentButton: {
     flex: 1,
     paddingVertical: 14,
-    borderRadius: 14,
+    borderRadius: 8,
     alignItems: 'center',
   },
   segmentButtonActive: {
-    backgroundColor: '#f47c48',
+    backgroundColor: '#255fbe',
   },
   segmentButtonText: {
-    color: '#8da8ca',
+    color: '#5377a8',
     fontWeight: '700',
   },
   segmentButtonTextActive: {
-    color: '#fff7f3',
+    color: '#ffffff',
   },
   settingsCard: {
     padding: 18,
-    borderRadius: 24,
-    backgroundColor: '#10233b',
+    borderRadius: 0,
+    backgroundColor: '#ffffff',
     borderWidth: 1,
-    borderColor: '#183656',
+    borderColor: '#d6e6fb',
     gap: 10,
   },
   settingsCardTitle: {
-    color: '#d9e6f7',
+    color: '#5377a8',
     fontSize: 13,
     textTransform: 'uppercase',
     letterSpacing: 1,
   },
   settingsCardValue: {
-    color: '#ffffff',
+    color: '#163b72',
     fontSize: 22,
     fontWeight: '700',
   },
   settingsHint: {
-    color: '#9fb6d3',
+    color: '#53708f',
     fontSize: 14,
     lineHeight: 21,
-  },
-  tabBar: {
-    flexDirection: 'row',
-    gap: 10,
-    paddingHorizontal: 18,
-    paddingTop: 12,
-    paddingBottom: 22,
-    borderTopWidth: 1,
-    borderTopColor: '#142a45',
-    backgroundColor: '#08111f',
-  },
-  tabButton: {
-    flex: 1,
-    alignItems: 'center',
-    paddingVertical: 14,
-    borderRadius: 18,
-    backgroundColor: '#0d1d31',
-  },
-  tabButtonActive: {
-    backgroundColor: '#133a63',
-  },
-  tabText: {
-    color: '#7f9fca',
-    fontWeight: '700',
-  },
-  tabTextActive: {
-    color: '#edf5ff',
   },
   loadingScreen: {
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
     gap: 12,
-    backgroundColor: '#08111f',
+    backgroundColor: '#f7fbff',
   },
   loadingTitle: {
-    color: '#f3f8ff',
+    color: '#163b72',
     fontSize: 28,
     fontWeight: '700',
   },
   loadingText: {
-    color: '#a1bad9',
+    color: '#5377a8',
     fontSize: 15,
   },
   errorText: {
@@ -655,7 +792,7 @@ const styles = StyleSheet.create({
     left: 24,
     right: 24,
     bottom: 18,
-    color: '#ffc6b4',
+    color: '#cf4339',
     textAlign: 'center',
   },
 });
