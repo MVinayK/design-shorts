@@ -18,6 +18,7 @@ Current content direction:
 - content is being curated book-by-book
 - the first book in progress is `Designing Data-Intensive Applications`
 - Chapter 1 is already integrated
+- Chapter 2 is now integrated with the modular chapter flow
 
 ## Current UX
 
@@ -35,7 +36,8 @@ Important UI decisions already made:
 - white-first visual design
 - blue/red accents only
 - top-right menu instead of bottom nav
-- header safe-area handling for phones
+- header safe-area handling for phones, including a mobile-web fallback for narrow browser previews
+- Playfair Display headings and Inter body/UI fonts loaded through Expo font packages
 - progress text like `1/6` removed from the main surface
 - swipe hint removed from main surface
 
@@ -200,6 +202,11 @@ Important:
 - `preview` is the correct profile for direct install testing
 - this should give you an installable Android artifact
 - use this for phone testing
+
+Most recently verified successful preview build:
+
+- Build ID: `0abb3060-2d2d-43e1-b58d-bd2f465c86bf`
+- APK URL: `https://expo.dev/artifacts/eas/2jRKLWGgySgryPNQVjRbbK.apk`
 
 ### Android production build
 

@@ -1,11 +1,11 @@
 {
-  "version": 1,
+  "version": 2,
   "books": [
     {
       "id": "ddia",
       "title": "Designing Data-Intensive Applications",
       "path": "books/ddia/book.json",
-      "version": 1,
+      "version": 2,
       "chapters": [
         {
           "id": "chapter-01",
@@ -14,6 +14,14 @@
           "version": 1,
           "topicCount": 6,
           "orderIndex": 1
+        },
+        {
+          "id": "chapter-02",
+          "title": "Data Models and Query Languages",
+          "path": "books/ddia/chapters/chapter-02.json",
+          "version": 1,
+          "topicCount": 6,
+          "orderIndex": 2
         }
       ]
     }
