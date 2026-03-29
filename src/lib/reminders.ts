@@ -1,6 +1,6 @@
 import { Platform } from 'react-native';
 import * as Notifications from 'expo-notifications';
-import type { Preferences } from '../types';
+import type { Preferences, StreakState } from '../types';
 
 const REMINDER_CHANNEL_ID = 'reading-reminders';
 const REMINDER_IDENTIFIER_PREFIX = 'design-shorts-reading-reminder';
@@ -29,13 +29,20 @@ function getReminderTimes(cadence: Preferences['readingReminderCadence']) {
   return [];
 }
 
-function getReminderCopy(index: number, total: number) {
+function getReminderCopy(index: number, total: number, streakState?: StreakState) {
+  const streak = streakState?.currentStreak ?? 0;
   const bodyPool =
     total === 1
-      ? ['Two minutes. One architecture idea.', 'Sharp systems thinking fits in a short break.']
+      ? streak > 0
+        ? [`Keep your ${streak}-day streak alive with one strong topic.`, `Day ${streak + 1} starts with one architecture idea.`]
+        : ['Two minutes. One architecture idea.', 'Sharp systems thinking fits in a short break.']
       : index === 0
-        ? ['Start the day with one good design tradeoff.', 'Morning sharpness: one system design idea.']
-        : ['Close the day with one more design win.', 'Evening reset: one more topic and you are sharper.'];
+        ? streak > 0
+          ? [`Morning rep: protect your ${streak}-day streak.`, `Start day ${streak + 1} with one design tradeoff.`]
+          : ['Start the day with one good design tradeoff.', 'Morning sharpness: one system design idea.']
+        : streak > 0
+          ? [`Evening reset: one more topic keeps your ${streak}-day streak alive.`, `Close the day strong and carry the streak forward.`]
+          : ['Close the day with one more design win.', 'Evening reset: one more topic and you are sharper.'];
 
   return {
     title: 'Design Shorts',
@@ -73,9 +80,10 @@ async function cancelExistingReminderScheduleAsync() {
 
 export async function syncReadingReminderSchedule(
   cadence: Preferences['readingReminderCadence'],
+  streakState?: StreakState,
 ): Promise<{ scheduled: boolean; granted: boolean }> {
   if (Platform.OS === 'web') {
-    return { scheduled: false, granted: false };
+    return { scheduled: false, granted: true };
   }
 
   await cancelExistingReminderScheduleAsync();
@@ -101,7 +109,7 @@ export async function syncReadingReminderSchedule(
   const reminderTimes = getReminderTimes(cadence);
   await Promise.all(
     reminderTimes.map((time, index) => {
-      const copy = getReminderCopy(index, reminderTimes.length);
+      const copy = getReminderCopy(index, reminderTimes.length, streakState);
 
       return Notifications.scheduleNotificationAsync({
         identifier: `${REMINDER_IDENTIFIER_PREFIX}-${index}`,

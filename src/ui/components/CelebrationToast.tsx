@@ -9,13 +9,15 @@ export function CelebrationToast({ celebration }: { celebration: CelebrationStat
 
   return (
     <View pointerEvents="none" style={styles.celebrationOverlay}>
-      <View style={[styles.celebrationCard, celebration.tone === 'chapter' && styles.celebrationCardChapter]}>
-        <View style={[styles.celebrationIcon, celebration.tone === 'chapter' && styles.celebrationIconChapter]}>
-          <Text style={styles.celebrationIconText}>{celebration.tone === 'chapter' ? '⚡' : '👍'}</Text>
+      <View style={[styles.celebrationToast, celebration.tone === 'chapter' && styles.celebrationToastChapter]}>
+        <View style={[styles.celebrationToastIcon, celebration.tone === 'chapter' && styles.celebrationToastIconChapter]}>
+          <Text style={styles.celebrationToastIconText}>👍</Text>
         </View>
         <View style={styles.celebrationText}>
           <Text style={styles.celebrationTitle}>{celebration.title}</Text>
-          <Text style={styles.celebrationBody}>{celebration.body}</Text>
+          <Text numberOfLines={2} style={styles.celebrationBody}>
+            {celebration.body}
+          </Text>
         </View>
       </View>
     </View>

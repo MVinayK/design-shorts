@@ -89,6 +89,13 @@ export type ProgressRecord = {
   lastSeenAt: string;
 };
 
+export type StreakState = {
+  currentStreak: number;
+  longestStreak: number;
+  lastReadDate: string | null;
+  totalCompletedTopics: number;
+};
+
 export type Preferences = {
   feedMode: 'serial' | 'random';
   randomWeightRead: number;

@@ -1,4 +1,4 @@
-import { Pressable, Text, View } from 'react-native';
+import { Pressable, ScrollView, Text, TouchableOpacity, View } from 'react-native';
 import { formatFeedDate, formatRelativeSyncTime } from '../../lib/format';
 import type { ContentSyncMetadata, Preferences } from '../../types';
 import { styles } from '../appStyles';
@@ -10,6 +10,12 @@ type SettingsViewProps = {
   onChangeCelebrationSound: (enabled: boolean) => void;
   readCount: number;
   totalCount: number;
+  currentStreak: number;
+  longestStreak: number;
+  completedChapters: number;
+  totalChapters: number;
+  completedBooks: number;
+  totalBooks: number;
   onRefreshNews: () => void;
   isRefreshingNews: boolean;
   newsTimestamp: string | null;
@@ -25,6 +31,12 @@ export function SettingsView({
   onChangeCelebrationSound,
   readCount,
   totalCount,
+  currentStreak,
+  longestStreak,
+  completedChapters,
+  totalChapters,
+  completedBooks,
+  totalBooks,
   onRefreshNews,
   isRefreshingNews,
   newsTimestamp,
@@ -33,7 +45,7 @@ export function SettingsView({
   isRefreshingContent,
 }: SettingsViewProps) {
   return (
-    <View style={styles.settingsContainer}>
+    <ScrollView style={styles.feedWrapper} contentContainerStyle={styles.settingsContainer} showsVerticalScrollIndicator={false}>
       <Text style={styles.settingsTitle}>Study settings</Text>
       <Text style={styles.settingsBody}>
         Serial keeps chapter order. Random favors unread topics and occasionally revisits completed ones.
@@ -43,15 +55,17 @@ export function SettingsView({
           const selected = preferences.feedMode === mode;
 
           return (
-            <Pressable
+            <TouchableOpacity
               key={mode}
               onPress={() => onChangeMode(mode)}
+              activeOpacity={0.82}
+              accessibilityRole="button"
               style={[styles.segmentButton, selected && styles.segmentButtonActive]}
             >
               <Text style={[styles.segmentButtonText, selected && styles.segmentButtonTextActive]}>
                 {mode === 'serial' ? 'Serial' : 'Random'}
               </Text>
-            </Pressable>
+            </TouchableOpacity>
           );
         })}
       </View>
@@ -61,28 +75,37 @@ export function SettingsView({
         <Text style={styles.settingsCardValue}>
           {readCount} of {totalCount} topics read
         </Text>
-        <Text style={styles.settingsHint}>Saved locally. Offline reading works by default.</Text>
+        <Text style={styles.settingsHint}>
+          {completedChapters}/{totalChapters} chapters complete · {completedBooks}/{totalBooks} books complete
+        </Text>
+        <Text style={styles.settingsHint}>
+          Current streak {currentStreak} day{currentStreak === 1 ? '' : 's'} · Best streak {longestStreak} day
+          {longestStreak === 1 ? '' : 's'}
+        </Text>
       </View>
 
       <View style={styles.settingsCard}>
         <Text style={styles.settingsCardTitle}>Reading rhythm</Text>
         <Text style={styles.settingsHint}>
-          Gentle local reminders. `Once` is morning only. `Twice` adds an evening nudge. Device builds only.
+          Gentle local reminders. `Once` is morning only. `Twice` adds an evening nudge and can mention your streak.
+          Device builds only.
         </Text>
         <View style={styles.segmentedControl}>
           {(['off', 'once', 'twice'] as const).map((cadence) => {
             const selected = preferences.readingReminderCadence === cadence;
 
             return (
-              <Pressable
+              <TouchableOpacity
                 key={cadence}
                 onPress={() => onChangeReminderCadence(cadence)}
+                activeOpacity={0.82}
+                accessibilityRole="button"
                 style={[styles.segmentButton, selected && styles.segmentButtonActive]}
               >
                 <Text style={[styles.segmentButtonText, selected && styles.segmentButtonTextActive]}>
                   {cadence === 'off' ? 'Off' : cadence === 'once' ? 'Once' : 'Twice'}
                 </Text>
-              </Pressable>
+              </TouchableOpacity>
             );
           })}
         </View>
@@ -98,15 +121,17 @@ export function SettingsView({
             const selected = preferences.celebrationSoundEnabled === enabled;
 
             return (
-              <Pressable
+              <TouchableOpacity
                 key={enabled ? 'on' : 'off'}
                 onPress={() => onChangeCelebrationSound(enabled)}
+                activeOpacity={0.82}
+                accessibilityRole="button"
                 style={[styles.segmentButton, selected && styles.segmentButtonActive]}
               >
                 <Text style={[styles.segmentButtonText, selected && styles.segmentButtonTextActive]}>
                   {enabled ? 'Sound on' : 'Sound off'}
                 </Text>
-              </Pressable>
+              </TouchableOpacity>
             );
           })}
         </View>
@@ -136,6 +161,6 @@ export function SettingsView({
           <Text style={styles.primaryButtonText}>{isRefreshingNews ? 'Refreshing...' : 'Refresh digest'}</Text>
         </Pressable>
       </View>
-    </View>
+    </ScrollView>
   );
 }

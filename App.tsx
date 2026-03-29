@@ -26,6 +26,8 @@ import {
 } from './src/lib/contentRepository';
 import {
   createRandomDeck,
+  getBookProgressSummary,
+  getChapterProgressSummary,
   getSerialStartIndex,
   getTopicProgressSummary,
 } from './src/lib/feed';
@@ -35,8 +37,8 @@ import {
   CelebrationState,
   getCelebrationState,
 } from './src/lib/topicPresentation';
-import { DEFAULT_PREFERENCES, loadStoredState, markTopicRead, savePreferences } from './src/lib/storage';
-import type { ContentSyncMetadata, FeedTab, NewsCard, Preferences, Topic, TopicFeed, TopicStatus } from './src/types';
+import { DEFAULT_PREFERENCES, DEFAULT_STREAK_STATE, loadStoredState, markTopicRead, savePreferences } from './src/lib/storage';
+import type { ContentSyncMetadata, FeedTab, NewsCard, Preferences, StreakState, Topic, TopicFeed, TopicStatus } from './src/types';
 import {
   FONT_SERIF,
   HEADER_BOTTOM_GAP,
@@ -82,6 +84,7 @@ function AppContent() {
   const [selectedChapterId, setSelectedChapterId] = useState<string | null>(null);
   const [focusedLibraryTopicId, setFocusedLibraryTopicId] = useState<string | null>(null);
   const [celebration, setCelebration] = useState<CelebrationState | null>(null);
+  const [streakState, setStreakState] = useState<StreakState>(DEFAULT_STREAK_STATE);
   const [contentSyncMetadata, setContentSyncMetadata] = useState<ContentSyncMetadata>({
     catalogVersion: getBundledTopicFeed().catalog.version,
     lastAttemptedSyncAt: null,
@@ -120,6 +123,28 @@ function AppContent() {
   );
 
   const summary = useMemo(() => getTopicProgressSummary(sortedTopics, progressMap), [progressMap, sortedTopics]);
+  const chapterProgressSummary = useMemo(() => {
+    const totalChapters = topicFeed.books.reduce((sum, book) => sum + book.chapters.length, 0);
+    const completedChapters = topicFeed.books.reduce(
+      (count, book) =>
+        count +
+        book.chapters.filter((chapter) => {
+          const chapterSummary = getChapterProgressSummary(chapter, sortedTopics, progressMap);
+          return chapterSummary.totalCount > 0 && chapterSummary.readCount === chapterSummary.totalCount;
+        }).length,
+      0,
+    );
+
+    return { completedChapters, totalChapters };
+  }, [progressMap, sortedTopics, topicFeed.books]);
+  const bookProgressSummary = useMemo(() => {
+    const completedBooks = topicFeed.books.filter((book) => {
+      const bookSummary = getBookProgressSummary(book, sortedTopics, progressMap);
+      return bookSummary.totalCount > 0 && bookSummary.readCount === bookSummary.totalCount;
+    }).length;
+
+    return { completedBooks, totalBooks: topicFeed.books.length };
+  }, [progressMap, sortedTopics, topicFeed.books]);
 
   const learnFeedKey = useMemo(
     () => `${preferences.feedMode}-${selectedBookId ?? 'all'}-${selectedChapterId ?? 'all'}`,
@@ -129,6 +154,10 @@ function AppContent() {
   const menuActiveTab = useMemo<FeedTab>(
     () => (activeTab === 'learn' && (selectedBookId !== null || selectedChapterId !== null) ? 'library' : activeTab),
     [activeTab, selectedBookId, selectedChapterId],
+  );
+  const progressHeadline = useMemo(
+    () => `${summary.readCount}/${summary.totalCount} topics · ${streakState.currentStreak}-day streak`,
+    [streakState.currentStreak, summary.readCount, summary.totalCount],
   );
 
   const refreshContent = useCallback(
@@ -154,6 +183,7 @@ function AppContent() {
 
       setPreferences(stored.preferences);
       setProgressMap(stored.progressMap);
+      setStreakState(stored.streakState);
       setNewsDigest(digest);
       setTopicFeed(contentFeed);
       setContentSyncMetadata(syncMetadata);
@@ -177,8 +207,8 @@ function AppContent() {
       return;
     }
 
-    void syncReadingReminderSchedule(preferences.readingReminderCadence);
-  }, [isHydrated, preferences.readingReminderCadence]);
+    void syncReadingReminderSchedule(preferences.readingReminderCadence, streakState);
+  }, [isHydrated, preferences.readingReminderCadence, streakState]);
 
   useEffect(() => {
     setCurrentTopicIndex((currentIndex) => Math.min(currentIndex, Math.max(activeTopics.length - 1, 0)));
@@ -236,14 +266,14 @@ function AppContent() {
       setPreferences(nextPreferences);
       await savePreferences(nextPreferences);
 
-      const result = await syncReadingReminderSchedule(cadence);
+      const result = await syncReadingReminderSchedule(cadence, streakState);
       if (cadence !== 'off' && !result.granted) {
         const fallbackPreferences = { ...nextPreferences, readingReminderCadence: 'off' as const };
         setPreferences(fallbackPreferences);
         await savePreferences(fallbackPreferences);
       }
     },
-    [preferences],
+    [preferences, streakState],
   );
 
   const persistCelebrationSoundEnabled = useCallback(
@@ -271,11 +301,11 @@ function AppContent() {
         if (!celebrationSoundRef.current) {
           const { sound } = await Audio.Sound.createAsync(COMPLETION_SOUND, {
             shouldPlay: false,
-            volume: nextCelebration.tone === 'chapter' ? 0.45 : 0.28,
+            volume: nextCelebration.tone === 'chapter' ? 1 : 0.82,
           });
           celebrationSoundRef.current = sound;
         } else {
-          await celebrationSoundRef.current.setVolumeAsync(nextCelebration.tone === 'chapter' ? 0.45 : 0.28);
+          await celebrationSoundRef.current.setVolumeAsync(nextCelebration.tone === 'chapter' ? 1 : 0.82);
         }
 
         await celebrationSoundRef.current.setPositionAsync(0);
@@ -311,16 +341,17 @@ function AppContent() {
         return;
       }
 
-      const nextState = await markTopicRead(topicId, sortedTopics, progressMap, preferences);
+      const nextState = await markTopicRead(topicId, sortedTopics, progressMap, preferences, streakState);
       setProgressMap(nextState.progressMap);
       setPreferences(nextState.preferences);
+      setStreakState(nextState.streakState);
       const topic = sortedTopics.find((candidate) => candidate.id === topicId);
 
       if (topic) {
         triggerCelebration(topic, nextState.progressMap);
       }
     },
-    [preferences, progressMap, sortedTopics, triggerCelebration],
+    [preferences, progressMap, sortedTopics, streakState, triggerCelebration],
   );
 
   const refreshDigest = useCallback(async () => {
@@ -381,6 +412,14 @@ function AppContent() {
     setActiveTab('library');
     setIsMenuOpen(false);
   }, []);
+
+  const closeExpandedTopic = useCallback(() => {
+    if (expandedTopic) {
+      void markTopicReadIfNeeded(expandedTopic.id);
+    }
+
+    setExpandedTopic(null);
+  }, [expandedTopic, markTopicReadIfNeeded]);
 
   const switchTab = useCallback(
     (tab: FeedTab) => {
@@ -449,30 +488,37 @@ function AppContent() {
 
         <View style={styles.content}>
           {activeTab === 'learn' ? (
-            <FlatList
-              ref={topicFeedRef}
-              data={activeTopics}
-              key={learnFeedKey}
-              extraData={learnFeedKey}
-              horizontal
-              pagingEnabled
-              showsHorizontalScrollIndicator={false}
-              snapToAlignment="start"
-              decelerationRate="fast"
-              initialScrollIndex={preferences.feedMode === 'serial' && activeTopics.length > 0 ? serialStartIndex : 0}
-              onMomentumScrollEnd={handleTopicSwipeEnd}
-              getItemLayout={(_, index) => ({ index, length: width, offset: width * index })}
-              renderItem={({ item }) => (
-                <TopicCard
-                  topic={item}
-                  height={feedHeight}
-                  width={width}
-                  onExpand={() => setExpandedTopic(item)}
-                  onOpenLibrary={() => openLibraryForTopic(item)}
-                />
-              )}
-              keyExtractor={(item) => item.id}
-            />
+            <View style={styles.feedWrapper}>
+              <View style={styles.learnProgressInline}>
+                <Text numberOfLines={1} style={styles.learnProgressInlineText}>
+                  {progressHeadline}
+                </Text>
+              </View>
+              <FlatList
+                ref={topicFeedRef}
+                data={activeTopics}
+                key={learnFeedKey}
+                extraData={learnFeedKey}
+                horizontal
+                pagingEnabled
+                showsHorizontalScrollIndicator={false}
+                snapToAlignment="start"
+                decelerationRate="fast"
+                initialScrollIndex={preferences.feedMode === 'serial' && activeTopics.length > 0 ? serialStartIndex : 0}
+                onMomentumScrollEnd={handleTopicSwipeEnd}
+                getItemLayout={(_, index) => ({ index, length: width, offset: width * index })}
+                renderItem={({ item }) => (
+                  <TopicCard
+                    topic={item}
+                    height={feedHeight}
+                    width={width}
+                    onExpand={() => setExpandedTopic(item)}
+                    onOpenLibrary={() => openLibraryForTopic(item)}
+                  />
+                )}
+                keyExtractor={(item) => item.id}
+              />
+            </View>
           ) : null}
 
           {activeTab === 'library' ? (
@@ -516,6 +562,12 @@ function AppContent() {
                 onChangeCelebrationSound={(enabled) => void persistCelebrationSoundEnabled(enabled)}
                 readCount={summary.readCount}
                 totalCount={summary.totalCount}
+                currentStreak={streakState.currentStreak}
+                longestStreak={streakState.longestStreak}
+                completedChapters={chapterProgressSummary.completedChapters}
+                totalChapters={chapterProgressSummary.totalChapters}
+                completedBooks={bookProgressSummary.completedBooks}
+                totalBooks={bookProgressSummary.totalBooks}
                 onRefreshNews={() => void refreshDigest()}
                 isRefreshingNews={isRefreshingNews}
                 newsTimestamp={newsDigest.generatedAt}
@@ -528,7 +580,7 @@ function AppContent() {
         </View>
       </View>
       <CelebrationToast celebration={celebration} />
-      <ArticleModal topic={expandedTopic} visible={expandedTopic !== null} onClose={() => setExpandedTopic(null)} />
+      <ArticleModal topic={expandedTopic} visible={expandedTopic !== null} onClose={closeExpandedTopic} />
     </SafeAreaView>
   );
 }

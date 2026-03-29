@@ -208,6 +208,23 @@ export const styles = StyleSheet.create({
   feedWrapper: {
     flex: 1,
   },
+  learnProgressInline: {
+    marginHorizontal: 18,
+    marginBottom: 6,
+    alignSelf: 'flex-start',
+    paddingHorizontal: 12,
+    paddingVertical: 8,
+    borderRadius: 999,
+    backgroundColor: '#f7faff',
+    borderWidth: 1,
+    borderColor: '#e1eaf8',
+  },
+  learnProgressInlineText: {
+    color: '#5d7694',
+    fontSize: 12,
+    lineHeight: 16,
+    fontFamily: FONT_SANS_SEMIBOLD,
+  },
   page: {
     paddingHorizontal: 0,
     paddingBottom: 0,
@@ -619,15 +636,15 @@ export const styles = StyleSheet.create({
     bottom: 28,
     alignItems: 'center',
   },
-  celebrationCard: {
+  celebrationToast: {
     maxWidth: 360,
     width: '100%',
     flexDirection: 'row',
     alignItems: 'center',
-    gap: 14,
-    paddingHorizontal: 16,
-    paddingVertical: 14,
-    backgroundColor: '#fffefc',
+    gap: 12,
+    paddingHorizontal: 14,
+    paddingVertical: 12,
+    backgroundColor: 'rgba(255, 254, 252, 0.96)',
     borderWidth: 1,
     borderColor: '#dbe7fb',
     shadowColor: '#1f55ab',
@@ -639,23 +656,23 @@ export const styles = StyleSheet.create({
     },
     elevation: 5,
   },
-  celebrationCardChapter: {
+  celebrationToastChapter: {
     backgroundColor: '#fff7f4',
     borderColor: '#f0c2bb',
   },
-  celebrationIcon: {
-    width: 42,
-    height: 42,
+  celebrationToastIcon: {
+    width: 36,
+    height: 36,
     borderRadius: 999,
     backgroundColor: '#eef5ff',
     alignItems: 'center',
     justifyContent: 'center',
   },
-  celebrationIconChapter: {
+  celebrationToastIconChapter: {
     backgroundColor: '#ffe4de',
   },
-  celebrationIconText: {
-    fontSize: 20,
+  celebrationToastIconText: {
+    fontSize: 18,
   },
   celebrationText: {
     flex: 1,
@@ -663,13 +680,13 @@ export const styles = StyleSheet.create({
   },
   celebrationTitle: {
     color: '#173f7b',
-    fontSize: 16,
+    fontSize: 15,
     fontFamily: FONT_SANS_BOLD,
   },
   celebrationBody: {
     color: '#5c7390',
-    fontSize: 13,
-    lineHeight: 19,
+    fontSize: 12,
+    lineHeight: 17,
     fontFamily: FONT_SANS,
   },
   loadingScreen: {
