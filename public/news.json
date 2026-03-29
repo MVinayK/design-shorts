@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-03-29T02:54:53.203Z",
+  "generatedAt": "2026-03-29T13:07:41.206Z",
   "items": [
+    {
+      "id": "microsoft-launches-azure-copilot-migration-agent-to-accelerate-c",
+      "title": "Microsoft Launches Azure Copilot Migration Agent to Accelerate Cloud Migration Planning",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/03/azure-copilot-migration-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-03-29T10:00:00.000Z",
+      "summaryShort": "Microsoft Launches Azure Copilot Migration Agent to Accelerate Cloud Migration Planning. Microsoft has launched the Azure Copilot Migration Agent, an AI assistant built into the Azure portal that automates migration planning, agentless VMwa",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "proxysql-introduces-multi-tier-release-strategy-with-stable-inno",
+      "title": "ProxySQL Introduces Multi-Tier Release Strategy With Stable, Innovative, and AI Tracks",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/03/proxysql-multi-tier-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-03-29T07:03:00.000Z",
+      "summaryShort": "ProxySQL Introduces Multi-Tier Release Strategy With Stable, Innovative, and AI Tracks. ProxySQL 3.0.6 was recently released, along with a new multi-tier release strategy.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "teleport-report-finds-over-privileged-ai-systems-linked-to-fourf",
       "title": "Teleport Report Finds Over-Privileged AI Systems Linked to Fourfold Rise in Security Incidents",
@@ -33,28 +56,6 @@
       "summaryShort": "HashiCorp Vault 1.21 Brings SPIFFE Authentication, Granular Secret Recovery, and More. HashiCorp has released Vault 1.21.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "pick-and-mix-custom-regions-cloudflare-introduces-fine-grained-d",
-      "title": "\"Pick and Mix\" Custom Regions: Cloudflare Introduces Fine-Grained Data Residency Control",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/03/cloudflare-custom-regions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-28T06:01:00.000Z",
-      "summaryShort": "\"Pick and Mix\" Custom Regions: Cloudflare Introduces Fine-Grained Data Residency Control. Cloudflare recently introduced Custom Regions, an expansion of its Regional Services that lets customers precisely define where their data is processe",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "experimental-web-install-api-seeks-to-improve-application-discov",
-      "title": "Experimental Web Install API Seeks to Improve Application Discovery and Distribution",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/03/web-install-api-origin-trial/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-27T22:50:00.000Z",
-      "summaryShort": "Experimental Web Install API Seeks to Improve Application Discovery and Distribution. The new, experimental Web Install API is now in Origin Trial in Microsoft Edge and Chrome.",
-      "tags": [
-        "Architecture"
       ]
     },
     {
