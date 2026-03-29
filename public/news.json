@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-03-28T13:06:05.535Z",
+  "generatedAt": "2026-03-29T02:54:53.203Z",
   "items": [
+    {
+      "id": "teleport-report-finds-over-privileged-ai-systems-linked-to-fourf",
+      "title": "Teleport Report Finds Over-Privileged AI Systems Linked to Fourfold Rise in Security Incidents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/03/teleport-ai-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-03-28T21:00:00.000Z",
+      "summaryShort": "Teleport Report Finds Over-Privileged AI Systems Linked to Fourfold Rise in Security Incidents. Enterprises that grant excessive access permissions to AI systems experience 4.5 times as many security incidents as those that do not, accordin",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "discord-engineers-add-distributed-tracing-to-elixir-s-actor-mode",
       "title": "Discord Engineers Add Distributed Tracing to Elixir's Actor Model Without Performance Penalty",
@@ -46,47 +58,36 @@
       ]
     },
     {
-      "id": "qcon-london-2026-ai-agents-write-your-code-what-s-left-for-human",
-      "title": "QCon London 2026: AI Agents Write Your Code. What’s Left For Humans?",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/03/qcon-london-foxwell-dev-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-27T14:15:00.000Z",
-      "summaryShort": "QCon London 2026: AI Agents Write Your Code. What’s Left For Humans?.",
+      "id": "bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feed",
+      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "publishedAt": "2026-03-28T23:00:00.000Z",
+      "summaryShort": "Bluesky leans into AI with Attie, an app for building custom feeds. Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "what-will-power-the-grid-in-2035-the-race-is-wide-open",
-      "title": "What will power the grid in 2035? The race is wide open",
+      "id": "mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge",
+      "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/",
-      "publishedAt": "2026-03-28T13:05:00.000Z",
-      "summaryShort": "What will power the grid in 2035? The race is wide open.",
+      "sourceUrl": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
+      "publishedAt": "2026-03-28T21:23:58.000Z",
+      "summaryShort": "Mark Zuckerberg texted Elon Musk to offer help with DOGE. While the relationship was once thorny enough that Musk challenged Zuckerberg to a cagefight, things seem to have warmed up by the early days of the second Trump administration.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "let-s-take-a-look-at-the-retro-tech-making-a-comeback",
-      "title": "Let’s take a look at the retro tech making a comeback",
+      "id": "stanford-study-outlines-dangers-of-asking-ai-chatbots-for-person",
+      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/28/lets-take-a-look-at-the-retro-tech-making-a-comeback/",
-      "publishedAt": "2026-03-28T13:00:00.000Z",
-      "summaryShort": "Let’s take a look at the retro tech making a comeback. Boomboxes, instant cameras, and even landlines are making a comeback.",
+      "sourceUrl": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "publishedAt": "2026-03-28T20:45:54.000Z",
+      "summaryShort": "Stanford study outlines dangers of asking AI chatbots for personal advice. While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
       "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "from-moon-hotels-to-cattle-herding-8-startups-investors-chased-a",
-      "title": "From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/",
-      "publishedAt": "2026-03-28T12:00:00.000Z",
-      "summaryShort": "From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day. We polled nearly a dozen VCs to find out which W26 startups are the sought after in the batch.",
-      "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
