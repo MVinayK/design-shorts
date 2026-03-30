@@ -1,94 +1,92 @@
 {
-  "generatedAt": "2026-03-29T13:07:41.206Z",
+  "generatedAt": "2026-03-30T02:57:08.668Z",
   "items": [
     {
-      "id": "microsoft-launches-azure-copilot-migration-agent-to-accelerate-c",
-      "title": "Microsoft Launches Azure Copilot Migration Agent to Accelerate Cloud Migration Planning",
+      "id": "java-news-roundup-graalvm-build-tools-eclipselink-spring-milesto",
+      "title": "Java News Roundup: GraalVM Build Tools, EclipseLink, Spring Milestones, Open Liberty, Quarkus",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/03/azure-copilot-migration-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-29T10:00:00.000Z",
-      "summaryShort": "Microsoft Launches Azure Copilot Migration Agent to Accelerate Cloud Migration Planning. Microsoft has launched the Azure Copilot Migration Agent, an AI assistant built into the Azure portal that automates migration planning, agentless VMwa",
+      "sourceUrl": "https://www.infoq.com/news/2026/03/java-news-roundup-mar23-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-03-30T02:30:00.000Z",
+      "summaryShort": "Java News Roundup: GraalVM Build Tools, EclipseLink, Spring Milestones, Open Liberty, Quarkus. This week's Java roundup for March 23rd, 2026, features news highlighting: GA releases of GraalVM Native Build Tools 1.0 and EclipseLink 5.0; the",
       "tags": [
-        "AI",
+        "AI"
+      ]
+    },
+    {
+      "id": "fosdem-2026-intro-to-webtransport-the-next-websocket",
+      "title": "FOSDEM 2026: Intro to WebTransport - the Next WebSocket?!",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/03/fosdem-webtransport-vs-websocket/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-03-29T20:53:00.000Z",
+      "summaryShort": "FOSDEM 2026: Intro to WebTransport - the Next WebSocket?!. Max Inden recently explored in a talk at FOSDEM 2026 how the upcoming WebTransport protocol and Web API enhance WebSocket capabilities.",
+      "tags": [
         "Cloud"
       ]
     },
     {
-      "id": "proxysql-introduces-multi-tier-release-strategy-with-stable-inno",
-      "title": "ProxySQL Introduces Multi-Tier Release Strategy With Stable, Innovative, and AI Tracks",
+      "id": "google-unveils-appfunctions-to-connect-ai-agents-and-android-app",
+      "title": "Google Unveils AppFunctions to Connect AI Agents and Android Apps",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/03/proxysql-multi-tier-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-29T07:03:00.000Z",
-      "summaryShort": "ProxySQL Introduces Multi-Tier Release Strategy With Stable, Innovative, and AI Tracks. ProxySQL 3.0.6 was recently released, along with a new multi-tier release strategy.",
+      "sourceUrl": "https://www.infoq.com/news/2026/03/android-appfunctions-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-03-29T20:00:00.000Z",
+      "summaryShort": "Google Unveils AppFunctions to Connect AI Agents and Android Apps. In a move to transform Android into an \"agent-first\" OS, Google has introduced new early beta features to support a task-centric model in which apps provide functional build",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "teleport-report-finds-over-privileged-ai-systems-linked-to-fourf",
-      "title": "Teleport Report Finds Over-Privileged AI Systems Linked to Fourfold Rise in Security Incidents",
+      "id": "kubescape-4-0-brings-runtime-security-and-ai-agent-scanning-to-k",
+      "title": "Kubescape 4.0 Brings Runtime Security and AI Agent Scanning to Kubernetes",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/03/teleport-ai-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-28T21:00:00.000Z",
-      "summaryShort": "Teleport Report Finds Over-Privileged AI Systems Linked to Fourfold Rise in Security Incidents. Enterprises that grant excessive access permissions to AI systems experience 4.5 times as many security incidents as those that do not, accordin",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "discord-engineers-add-distributed-tracing-to-elixir-s-actor-mode",
-      "title": "Discord Engineers Add Distributed Tracing to Elixir's Actor Model Without Performance Penalty",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/03/discord-elixir-actor-tracing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-28T10:13:00.000Z",
-      "summaryShort": "Discord Engineers Add Distributed Tracing to Elixir's Actor Model Without Performance Penalty. Discord engineering detailed how they added distributed tracing to Elixir's actor model.",
+      "sourceUrl": "https://www.infoq.com/news/2026/03/kubescape-40/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-03-29T19:00:00.000Z",
+      "summaryShort": "Kubescape 4.0 Brings Runtime Security and AI Agent Scanning to Kubernetes. Version 4.0 of the open source Kubernetes security platform Kubescape has been released, bringing runtime threat detection and a new set of AI-era security features.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "hashicorp-vault-1-21-brings-spiffe-authentication-granular-secre",
-      "title": "HashiCorp Vault 1.21 Brings SPIFFE Authentication, Granular Secret Recovery, and More",
+      "id": "nuxt-test-utils-v4-vitest-v4-requirement-mocking-overhaul-and-st",
+      "title": "Nuxt Test Utils v4: Vitest v4 Requirement, Mocking Overhaul and Stricter Environment Setup",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/03/hashicorp-vault-1-21/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-28T10:05:00.000Z",
-      "summaryShort": "HashiCorp Vault 1.21 Brings SPIFFE Authentication, Granular Secret Recovery, and More. HashiCorp has released Vault 1.21.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feed",
-      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-      "publishedAt": "2026-03-28T23:00:00.000Z",
-      "summaryShort": "Bluesky leans into AI with Attie, an app for building custom feeds. Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge",
-      "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
-      "publishedAt": "2026-03-28T21:23:58.000Z",
-      "summaryShort": "Mark Zuckerberg texted Elon Musk to offer help with DOGE. While the relationship was once thorny enough that Musk challenged Zuckerberg to a cagefight, things seem to have warmed up by the early days of the second Trump administration.",
+      "sourceUrl": "https://www.infoq.com/news/2026/03/nuxt-test-utils-4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-03-29T15:49:00.000Z",
+      "summaryShort": "Nuxt Test Utils v4: Vitest v4 Requirement, Mocking Overhaul and Stricter Environment Setup. Nuxt Test Utils has released version 4.0.0, which primarily integrates Vitest v4.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "stanford-study-outlines-dangers-of-asking-ai-chatbots-for-person",
-      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "id": "the-pixel-10a-doesn-t-have-a-camera-bump-and-it-s-great",
+      "title": "The Pixel 10a doesn't have a camera bump, and it's great",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-      "publishedAt": "2026-03-28T20:45:54.000Z",
-      "summaryShort": "Stanford study outlines dangers of asking AI chatbots for personal advice. While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+      "sourceUrl": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
+      "publishedAt": "2026-03-29T21:30:00.000Z",
+      "summaryShort": "The Pixel 10a doesn't have a camera bump, and it's great. The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone.",
       "tags": [
-        "AI"
+        "Engineering"
+      ]
+    },
+    {
+      "id": "youtube-ceo-says-the-best-youtubers-will-never-leave-their-home",
+      "title": "YouTube CEO says the best YouTubers will ‘never leave their home’",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
+      "publishedAt": "2026-03-29T21:17:52.000Z",
+      "summaryShort": "YouTube CEO says the best YouTubers will ‘never leave their home’. CEO Neal Mohan insisted that he isn’t worried about Netflix luring away YouTube's most popular creators.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "project-hail-mary-becomes-amazon-mgm-s-biggest-box-office-hit",
+      "title": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
+      "publishedAt": "2026-03-29T19:50:57.000Z",
+      "summaryShort": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit. Amazon’s bet on “Project Hail Mary” has paid off handsomely.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
