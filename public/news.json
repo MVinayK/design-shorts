@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-03-30T13:46:52.598Z",
+  "generatedAt": "2026-03-31T02:50:11.451Z",
   "items": [
+    {
+      "id": "discord-open-sources-osprey-safety-rules-engine-processing-2-3-m",
+      "title": "Discord Open Sources Osprey Safety Rules Engine Processing 2.3 Million Rules per Second",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/03/discord-osprey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-03-31T00:11:00.000Z",
+      "summaryShort": "Discord Open Sources Osprey Safety Rules Engine Processing 2.3 Million Rules per Second. Discord open-sourced Osprey, a safety rules engine processing 400 million daily actions and 2.3 million rules per second.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "presentation-are-we-ready-for-the-next-cyber-security-crisis-lik",
       "title": "Presentation: Are We Ready for the Next Cyber Security Crisis Like Log4shell?",
@@ -14,11 +25,11 @@
     },
     {
       "id": "article-optimization-in-automated-driving-from-complexity-to-rea",
-      "title": "Article: Optimization in Automated Driving: From Complexity to Real-Time Engineering",
+      "title": "Article: Optimization in Automated Driving: from Complexity to Real-Time Engineering",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/articles/optimization-in-automated-driving/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-03-30T11:00:00.000Z",
-      "summaryShort": "Article: Optimization in Automated Driving: From Complexity to Real-Time Engineering. In this article, author Avraam Tolmidis discusses technical architecture of autonomous vehicles, with focus on optimization techniques like context-aware ",
+      "summaryShort": "Article: Optimization in Automated Driving: from Complexity to Real-Time Engineering. In this article, author Avraam Tolmidis discusses technical architecture of autonomous vehicles, with focus on optimization techniques like context-aware ",
       "tags": [
         "AI"
       ]
@@ -46,45 +57,34 @@
       ]
     },
     {
-      "id": "google-unveils-appfunctions-to-connect-ai-agents-and-android-app",
-      "title": "Google Unveils AppFunctions to Connect AI Agents and Android Apps",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/03/android-appfunctions-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-29T20:00:00.000Z",
-      "summaryShort": "Google Unveils AppFunctions to Connect AI Agents and Android Apps. In a move to transform Android into an \"agent-first\" OS, Google has introduced new early beta features to support a task-centric model in which apps provide functional build",
+      "id": "15-of-americans-say-they-d-be-willing-to-work-for-an-ai-boss-acc",
+      "title": "15% of Americans say they'd be willing to work for an AI boss, according to new poll",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+      "publishedAt": "2026-03-30T23:41:48.000Z",
+      "summaryShort": "15% of Americans say they'd be willing to work for an AI boss, according to new poll. According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assig",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-",
-      "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+      "id": "popular-ai-gateway-startup-litellm-ditches-controversial-startup",
+      "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
-      "publishedAt": "2026-03-30T13:00:00.000Z",
-      "summaryShort": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round. The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
+      "sourceUrl": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+      "publishedAt": "2026-03-30T23:08:12.000Z",
+      "summaryShort": "Popular AI gateway startup LiteLLM ditches controversial startup Delve. LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-pari",
-      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+      "id": "former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-age",
+      "title": "Former Coatue partner raises huge $65M seed for enterprise AI agent startup",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
-      "publishedAt": "2026-03-30T12:49:51.000Z",
-      "summaryShort": "Mistral AI raises $830M in debt to set up a data center near Paris. Mistral aims to start operating the data center by the second quarter of 2026.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "qodo-raises-70m-for-code-verification-as-ai-coding-scales",
-      "title": "Qodo raises $70M for code verification as AI coding scales",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
-      "publishedAt": "2026-03-30T12:30:00.000Z",
-      "summaryShort": "Qodo raises $70M for code verification as AI coding scales. As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
+      "sourceUrl": "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/",
+      "publishedAt": "2026-03-30T21:53:09.000Z",
+      "summaryShort": "Former Coatue partner raises huge $65M seed for enterprise AI agent startup. A few things turned investors' heads and drew them to participate in such a big round out of the gate.",
       "tags": [
         "AI"
       ]
