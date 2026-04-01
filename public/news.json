@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-03-31T13:45:54.257Z",
+  "generatedAt": "2026-04-01T03:20:14.822Z",
   "items": [
+    {
+      "id": "pypi-supply-chain-attack-compromises-litellm-enabling-the-exfilt",
+      "title": "PyPI Supply Chain Attack Compromises LiteLLM, Enabling the Exfiltration of Sensitive Information",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/03/litellm-supply-chain-attack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-03-31T21:00:00.000Z",
+      "summaryShort": "PyPI Supply Chain Attack Compromises LiteLLM, Enabling the Exfiltration of Sensitive Information. Discovered by FutureSearch researcher Callum McMahon, a supply chain attack against LiteLLM on PyPI resulted in over 40 thousand downloads of ",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "agentic-ai-patterns-reinforce-engineering-discipline",
+      "title": "Agentic AI Patterns Reinforce Engineering Discipline",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/03/agentic-engineering-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-03-31T20:30:00.000Z",
+      "summaryShort": "Agentic AI Patterns Reinforce Engineering Discipline. Paul Duvall recently discussed his library of engineering patterns for AI assisted development and practices that ground high quality delivery.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-hidden-decisions-you-don-t-know-you-re-making",
+      "title": "Presentation: Hidden Decisions You Don’t Know You’re Making",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/culture-systems-teams-careers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-03-31T13:58:00.000Z",
+      "summaryShort": "Presentation: Hidden Decisions You Don’t Know You’re Making. Dan Fike and Shawna Martell explain how \"hidden decisions\" silently shape software architecture and engineering culture.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "kubernetes-autoscaling-demands-new-observability-focus-beyond-ve",
       "title": "Kubernetes Autoscaling Demands New Observability Focus Beyond Vendor Tooling",
@@ -24,70 +57,36 @@
       ]
     },
     {
-      "id": "article-event-driven-patterns-for-cloud-native-banking-lessons-f",
-      "title": "Article: Event-Driven Patterns for Cloud-Native Banking: Lessons from What Works and What Hurts",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/event-driven-banking-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-31T09:00:00.000Z",
-      "summaryShort": "Article: Event-Driven Patterns for Cloud-Native Banking: Lessons from What Works and What Hurts. Event-driven architecture helps banks decouple systems, scale services, and create clear activity trails.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "cloudflare-adds-active-api-vulnerability-scanning-to-its-edge",
-      "title": "Cloudflare Adds Active API Vulnerability Scanning to Its Edge",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/03/cloudflare-api-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-31T09:00:00.000Z",
-      "summaryShort": "Cloudflare Adds Active API Vulnerability Scanning to Its Edge. Cloudflare has announced the open beta of its Web and API Vulnerability Scanner.",
-      "tags": [
-        "Cloud",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "podcast-failure-as-a-means-to-build-resilient-software-systems-a",
-      "title": "Podcast: Failure As a Means to Build Resilient Software Systems: A Conversation with Lorin Hochstein",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/failure-means-build-resilient-software-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-31T09:00:00.000Z",
-      "summaryShort": "Podcast: Failure As a Means to Build Resilient Software Systems: A Conversation with Lorin Hochstein. In this podcast Michael Stiefel spoke to Lorin Hochstein about how real-world failures provide insight into how software systems actually ",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "waymo-starts-robotaxi-services-at-san-antonio-international-airp",
-      "title": "Waymo starts robotaxi services at San Antonio International Airport",
+      "id": "mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open",
+      "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/31/waymo-starts-robotaxi-services-at-san-antonio-international-airport/",
-      "publishedAt": "2026-03-31T13:25:11.000Z",
-      "summaryShort": "Waymo starts robotaxi services at San Antonio International Airport. It's the fourth airport Waymo is serving, adding to Phoenix Sky Harbor, San Francisco, and San Jose International airports.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "speechify-s-windows-app-uses-local-models-for-transcription-and-",
-      "title": "Speechify's Windows app uses local models for transcription and dictation",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/31/speechifys-windows-app-uses-local-models-for-transcription-and-dictation/",
-      "publishedAt": "2026-03-31T13:11:59.000Z",
-      "summaryShort": "Speechify's Windows app uses local models for transcription and dictation. Speechify just launched a native Windows app that employs locally stored models to enable dictation and transcription across apps.",
+      "sourceUrl": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+      "publishedAt": "2026-04-01T01:42:59.000Z",
+      "summaryShort": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project. The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "with-its-new-app-store-ring-bets-on-ai-to-go-beyond-home-securit",
-      "title": "With its new app store, Ring bets on AI to go beyond home security",
+      "id": "toyota-s-woven-capital-appoints-new-cio-and-coo-in-push-for-find",
+      "title": "Toyota's Woven Capital appoints new CIO and COO in push for finding the &#8216;future of mobility'",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
-      "publishedAt": "2026-03-31T13:00:00.000Z",
-      "summaryShort": "With its new app store, Ring bets on AI to go beyond home security. Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
+      "sourceUrl": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/",
+      "publishedAt": "2026-04-01T01:00:00.000Z",
+      "summaryShort": "Toyota's Woven Capital appoints new CIO and COO in push for finding the &#8216;future of mobility'. Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomou",
       "tags": [
-        "AI"
+        "Engineering"
+      ]
+    },
+    {
+      "id": "anthropic-is-having-a-month",
+      "title": "Anthropic is having a month",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+      "publishedAt": "2026-03-31T23:58:26.000Z",
+      "summaryShort": "Anthropic is having a month. A human really borks things at Anthropic for the second time this week.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
