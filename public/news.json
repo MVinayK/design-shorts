@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-04-01T03:20:14.822Z",
+  "generatedAt": "2026-04-01T13:48:10.192Z",
   "items": [
+    {
+      "id": "presentation-the-principal-engineer-s-path-skills-strategies-and",
+      "title": "Presentation: The Principal Engineer’s Path: Skills, Strategies, and Lessons Learned",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/principal-engineer-path/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-01T11:48:00.000Z",
+      "summaryShort": "Presentation: The Principal Engineer’s Path: Skills, Strategies, and Lessons Learned. Sophie Weston explains that technical careers are winding journeys, not straight ladders.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "cloudflare-launches-dynamic-workers-open-beta-isolate-based-sand",
+      "title": "Cloudflare Launches Dynamic Workers Open Beta: Isolate-Based Sandboxing for AI Agent Code Execution",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/cloudflare-dynamic-workers-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-01T10:11:00.000Z",
+      "summaryShort": "Cloudflare Launches Dynamic Workers Open Beta: Isolate-Based Sandboxing for AI Agent Code Execution. Cloudflare has released Dynamic Worker Loader into open beta, offering V8 isolate-based sandboxing for AI-generated code execution.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "pypi-supply-chain-attack-compromises-litellm-enabling-the-exfilt",
       "title": "PyPI Supply Chain Attack Compromises LiteLLM, Enabling the Exfiltration of Sensitive Information",
@@ -35,25 +58,26 @@
       ]
     },
     {
-      "id": "kubernetes-autoscaling-demands-new-observability-focus-beyond-ve",
-      "title": "Kubernetes Autoscaling Demands New Observability Focus Beyond Vendor Tooling",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/03/kubernetes-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-31T12:00:00.000Z",
-      "summaryShort": "Kubernetes Autoscaling Demands New Observability Focus Beyond Vendor Tooling. As adoption of Kubernetes autoscalers like Karpenter accelerates, a new set of platform-agnostic observability practices is emerging, shifting focus from traditio",
+      "id": "lucid-motors-recalls-over-4-000-gravity-suvs-citing-improperly-w",
+      "title": "Lucid Motors recalls over 4,000 Gravity SUVs citing improperly welded seat belts",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/01/lucid-motors-recalls-over-4000-gravity-suvs-citing-improperly-welded-seat-belts/",
+      "publishedAt": "2026-04-01T13:40:23.000Z",
+      "summaryShort": "Lucid Motors recalls over 4,000 Gravity SUVs citing improperly welded seat belts. The company struggled with quality issues when Gravity production started last year, and the new recall shows it's not out of the woods yet.",
       "tags": [
-        "Cloud"
+        "Engineering"
       ]
     },
     {
-      "id": "tanstack-start-introduces-import-protection-to-enforce-server-an",
-      "title": "TanStack Start Introduces Import Protection to Enforce Server and Client Boundaries",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/03/tanstack-import-protection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-31T11:52:00.000Z",
-      "summaryShort": "TanStack Start Introduces Import Protection to Enforce Server and Client Boundaries. TanStack Start has introduced a import protection, which aims to prevent server and client code from being mixed in full-stack React applications.",
+      "id": "nothing-s-ai-devices-plan-reportedly-contains-smart-glasses-and-",
+      "title": "Nothing's AI devices plan reportedly contains smart glasses and earbuds",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/",
+      "publishedAt": "2026-04-01T12:33:24.000Z",
+      "summaryShort": "Nothing's AI devices plan reportedly contains smart glasses and earbuds. The glasses will reportedly feature cameras, microphones and speakers, and will connect to a smartphone and the cloud to process AI queries.",
       "tags": [
-        "Engineering"
+        "AI",
+        "Cloud"
       ]
     },
     {
@@ -65,28 +89,6 @@
       "summaryShort": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project. The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "toyota-s-woven-capital-appoints-new-cio-and-coo-in-push-for-find",
-      "title": "Toyota's Woven Capital appoints new CIO and COO in push for finding the &#8216;future of mobility'",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/",
-      "publishedAt": "2026-04-01T01:00:00.000Z",
-      "summaryShort": "Toyota's Woven Capital appoints new CIO and COO in push for finding the &#8216;future of mobility'. Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomou",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "anthropic-is-having-a-month",
-      "title": "Anthropic is having a month",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-      "publishedAt": "2026-03-31T23:58:26.000Z",
-      "summaryShort": "Anthropic is having a month. A human really borks things at Anthropic for the second time this week.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
