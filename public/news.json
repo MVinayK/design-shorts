@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-04-01T13:48:10.192Z",
+  "generatedAt": "2026-04-02T02:46:16.857Z",
   "items": [
+    {
+      "id": "eslint-v10-flat-config-completion-and-jsx-tracking",
+      "title": "ESLint v10: Flat Config Completion and JSX Tracking",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/eslint-10-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-01T15:27:00.000Z",
+      "summaryShort": "ESLint v10: Flat Config Completion and JSX Tracking. ESLint version 10 has removed the legacy eslintrc configuration system, finalizing a long transition to flat config.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "pinterest-deploys-production-scale-model-context-protocol-ecosys",
+      "title": "Pinterest Deploys Production-Scale Model Context Protocol Ecosystem for AI Agent Workflows",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/pinterest-mcp-ecosystem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-01T14:35:00.000Z",
+      "summaryShort": "Pinterest Deploys Production-Scale Model Context Protocol Ecosystem for AI Agent Workflows. Pinterest engineering teams have deployed a production-ready Model Context Protocol (MCP) ecosystem that allows AI agents to automate complex engine",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "presentation-the-principal-engineer-s-path-skills-strategies-and",
       "title": "Presentation: The Principal Engineer’s Path: Skills, Strategies, and Lessons Learned",
@@ -36,57 +58,34 @@
       ]
     },
     {
-      "id": "agentic-ai-patterns-reinforce-engineering-discipline",
-      "title": "Agentic AI Patterns Reinforce Engineering Discipline",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/03/agentic-engineering-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-31T20:30:00.000Z",
-      "summaryShort": "Agentic AI Patterns Reinforce Engineering Discipline. Paul Duvall recently discussed his library of engineering patterns for AI assisted development and practices that ground high quality delivery.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-hidden-decisions-you-don-t-know-you-re-making",
-      "title": "Presentation: Hidden Decisions You Don’t Know You’re Making",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/culture-systems-teams-careers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-31T13:58:00.000Z",
-      "summaryShort": "Presentation: Hidden Decisions You Don’t Know You’re Making. Dan Fike and Shawna Martell explain how \"hidden decisions\" silently shape software architecture and engineering culture.",
+      "id": "de-fi-platform-drift-suspends-deposits-and-withdrawals-after-mil",
+      "title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
+      "publishedAt": "2026-04-01T22:58:39.000Z",
+      "summaryShort": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack. Blockchain trackers put the cryptocurrency heist in the hundreds of millions of dollars and is already on track to be the largest crypto theft i",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "lucid-motors-recalls-over-4-000-gravity-suvs-citing-improperly-w",
-      "title": "Lucid Motors recalls over 4,000 Gravity SUVs citing improperly welded seat belts",
+      "id": "anthropic-took-down-thousands-of-github-repos-trying-to-yank-its",
+      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/01/lucid-motors-recalls-over-4000-gravity-suvs-citing-improperly-welded-seat-belts/",
-      "publishedAt": "2026-04-01T13:40:23.000Z",
-      "summaryShort": "Lucid Motors recalls over 4,000 Gravity SUVs citing improperly welded seat belts. The company struggled with quality issues when Gravity production started last year, and the new recall shows it's not out of the woods yet.",
+      "sourceUrl": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+      "publishedAt": "2026-04-01T22:12:13.000Z",
+      "summaryShort": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident. Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "nothing-s-ai-devices-plan-reportedly-contains-smart-glasses-and-",
-      "title": "Nothing's AI devices plan reportedly contains smart glasses and earbuds",
+      "id": "the-reputation-of-troubled-yc-startup-delve-has-gotten-even-wors",
+      "title": "The reputation of troubled YC startup Delve has gotten even worse",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/",
-      "publishedAt": "2026-04-01T12:33:24.000Z",
-      "summaryShort": "Nothing's AI devices plan reportedly contains smart glasses and earbuds. The glasses will reportedly feature cameras, microphones and speakers, and will connect to a smartphone and the cloud to process AI queries.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open",
-      "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-      "publishedAt": "2026-04-01T01:42:59.000Z",
-      "summaryShort": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project. The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+      "sourceUrl": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+      "publishedAt": "2026-04-01T21:23:47.000Z",
+      "summaryShort": "The reputation of troubled YC startup Delve has gotten even worse. Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own.",
       "tags": [
         "AI"
       ]
