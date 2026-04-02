@@ -1,58 +1,81 @@
 {
-  "generatedAt": "2026-04-02T02:46:16.857Z",
+  "generatedAt": "2026-04-02T13:26:56.854Z",
   "items": [
     {
-      "id": "eslint-v10-flat-config-completion-and-jsx-tracking",
-      "title": "ESLint v10: Flat Config Completion and JSX Tracking",
+      "id": "helidon-4-4-0-introduces-alignment-with-openjdk-cadence-and-supp",
+      "title": "Helidon 4.4.0 Introduces Alignment with OpenJDK Cadence and Support via Java Verified Portfolio",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/eslint-10-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-01T15:27:00.000Z",
-      "summaryShort": "ESLint v10: Flat Config Completion and JSX Tracking. ESLint version 10 has removed the legacy eslintrc configuration system, finalizing a long transition to flat config.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "pinterest-deploys-production-scale-model-context-protocol-ecosys",
-      "title": "Pinterest Deploys Production-Scale Model Context Protocol Ecosystem for AI Agent Workflows",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/pinterest-mcp-ecosystem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-01T14:35:00.000Z",
-      "summaryShort": "Pinterest Deploys Production-Scale Model Context Protocol Ecosystem for AI Agent Workflows. Pinterest engineering teams have deployed a production-ready Model Context Protocol (MCP) ecosystem that allows AI agents to automate complex engine",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/helidon-4-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-02T13:00:00.000Z",
+      "summaryShort": "Helidon 4.4.0 Introduces Alignment with OpenJDK Cadence and Support via Java Verified Portfolio. Oracle has released version 4.4.0 of Helidon, their microservices framework, featuring alignment with the OpenJDK release cadence, support via ",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "presentation-the-principal-engineer-s-path-skills-strategies-and",
-      "title": "Presentation: The Principal Engineer’s Path: Skills, Strategies, and Lessons Learned",
+      "id": "how-to-handle-trusts-and-psychological-safety-when-scaling-organ",
+      "title": "How to Handle Trusts and Psychological Safety When Scaling Organizations",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/principal-engineer-path/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-01T11:48:00.000Z",
-      "summaryShort": "Presentation: The Principal Engineer’s Path: Skills, Strategies, and Lessons Learned. Sophie Weston explains that technical careers are winding journeys, not straight ladders.",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/trust-psychological-safety-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-02T11:04:00.000Z",
+      "summaryShort": "How to Handle Trusts and Psychological Safety When Scaling Organizations. As organizations scale, communication overload, loss of shared context, and trust gaps emerge, Charlotte de Jong Schouwenburg mentioned.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "cloudflare-launches-dynamic-workers-open-beta-isolate-based-sand",
-      "title": "Cloudflare Launches Dynamic Workers Open Beta: Isolate-Based Sandboxing for AI Agent Code Execution",
+      "id": "github-will-use-copilot-interaction-data-from-free-pro-and-pro-u",
+      "title": "GitHub Will Use Copilot Interaction Data from Free, Pro, and Pro+ Users to Train AI Models",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/cloudflare-dynamic-workers-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-01T10:11:00.000Z",
-      "summaryShort": "Cloudflare Launches Dynamic Workers Open Beta: Isolate-Based Sandboxing for AI Agent Code Execution. Cloudflare has released Dynamic Worker Loader into open beta, offering V8 isolate-based sandboxing for AI-generated code execution.",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/github-copilot-training-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-02T10:17:00.000Z",
+      "summaryShort": "GitHub Will Use Copilot Interaction Data from Free, Pro, and Pro+ Users to Train AI Models. GitHub will use Copilot interaction data from Free, Pro, and Pro+ users to train AI models starting April 24, opting in by default.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-directing-a-swarm-of-agents-for-fun-and-profit",
+      "title": "Presentation: Directing a Swarm of Agents for Fun and Profit",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-02T09:19:00.000Z",
+      "summaryShort": "Presentation: Directing a Swarm of Agents for Fun and Profit. Adrian Cockcroft explains the transition from cloud-native to AI-native development.",
       "tags": [
         "AI",
         "Cloud"
       ]
     },
     {
-      "id": "pypi-supply-chain-attack-compromises-litellm-enabling-the-exfilt",
-      "title": "PyPI Supply Chain Attack Compromises LiteLLM, Enabling the Exfiltration of Sensitive Information",
+      "id": "article-beyond-rag-architecting-context-aware-ai-systems-with-sp",
+      "title": "Article: Beyond RAG: Architecting Context-Aware AI Systems with Spring Boot",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/03/litellm-supply-chain-attack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-03-31T21:00:00.000Z",
-      "summaryShort": "PyPI Supply Chain Attack Compromises LiteLLM, Enabling the Exfiltration of Sensitive Information. Discovered by FutureSearch researcher Callum McMahon, a supply chain attack against LiteLLM on PyPI resulted in over 40 thousand downloads of ",
+      "sourceUrl": "https://www.infoq.com/articles/beyond-rag-context-aware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-02T09:00:00.000Z",
+      "summaryShort": "Article: Beyond RAG: Architecting Context-Aware AI Systems with Spring Boot. This article introduces Context-Augmented Generation (CAG) as an architectural refinement of RAG for enterprise systems.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "exclusive-beehiiv-expands-into-podcasting-taking-aim-at-patreon",
+      "title": "Exclusive: Beehiiv expands into podcasting, taking aim at Patreon",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/",
+      "publishedAt": "2026-04-02T12:50:00.000Z",
+      "summaryShort": "Exclusive: Beehiiv expands into podcasting, taking aim at Patreon. One way Beehiiv is convincing creators to switch from rivals like Substack and Patreon is by not taking a cut of revenue.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "cash-app-launches-8216-pay-later-feature-for-p2p-pay-transfers",
+      "title": "Cash App launches &#8216;pay later' feature for P2P pay transfers",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/02/cash-app-launches-buy-now-pay-later-feature-for-p2p-pay-transfers/",
+      "publishedAt": "2026-04-02T12:00:00.000Z",
+      "summaryShort": "Cash App launches &#8216;pay later' feature for P2P pay transfers. Block says that the new feature has strong built-in protections to keep users from so-called debt spirals.",
       "tags": [
         "Engineering"
       ]
@@ -66,28 +89,6 @@
       "summaryShort": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack. Blockchain trackers put the cryptocurrency heist in the hundreds of millions of dollars and is already on track to be the largest crypto theft i",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "anthropic-took-down-thousands-of-github-repos-trying-to-yank-its",
-      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-      "publishedAt": "2026-04-01T22:12:13.000Z",
-      "summaryShort": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident. Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "the-reputation-of-troubled-yc-startup-delve-has-gotten-even-wors",
-      "title": "The reputation of troubled YC startup Delve has gotten even worse",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
-      "publishedAt": "2026-04-01T21:23:47.000Z",
-      "summaryShort": "The reputation of troubled YC startup Delve has gotten even worse. Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own.",
-      "tags": [
-        "AI"
       ]
     }
   ]
