@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-04-02T13:26:56.854Z",
+  "generatedAt": "2026-04-03T02:49:01.065Z",
   "items": [
+    {
+      "id": "github-integrates-ai-to-improve-accessibility-issue-management-a",
+      "title": "Github Integrates AI to Improve Accessibility Issue Management and Automate Feedback Triage",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-02T14:45:00.000Z",
+      "summaryShort": "Github Integrates AI to Improve Accessibility Issue Management and Automate Feedback Triage. GitHub has launched a continuous AI-powered workflow to manage accessibility feedback at scale.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "axios-npm-package-compromised-in-supply-chain-attack",
+      "title": "Axios npm Package Compromised in Supply Chain Attack",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/axios-supply-chain/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-02T13:53:00.000Z",
+      "summaryShort": "Axios npm Package Compromised in Supply Chain Attack. On March 31, 2026, two versions of the Axios library were compromised and found to contain a Remote Access Trojan.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "helidon-4-4-0-introduces-alignment-with-openjdk-cadence-and-supp",
       "title": "Helidon 4.4.0 Introduces Alignment with OpenJDK Cadence and Support via Java Verified Portfolio",
@@ -35,58 +57,34 @@
       ]
     },
     {
-      "id": "presentation-directing-a-swarm-of-agents-for-fun-and-profit",
-      "title": "Presentation: Directing a Swarm of Agents for Fun and Profit",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-02T09:19:00.000Z",
-      "summaryShort": "Presentation: Directing a Swarm of Agents for Fun and Profit. Adrian Cockcroft explains the transition from cloud-native to AI-native development.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "article-beyond-rag-architecting-context-aware-ai-systems-with-sp",
-      "title": "Article: Beyond RAG: Architecting Context-Aware AI Systems with Spring Boot",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/beyond-rag-context-aware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-02T09:00:00.000Z",
-      "summaryShort": "Article: Beyond RAG: Architecting Context-Aware AI Systems with Spring Boot. This article introduces Context-Augmented Generation (CAG) as an architectural refinement of RAG for enterprise systems.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "exclusive-beehiiv-expands-into-podcasting-taking-aim-at-patreon",
-      "title": "Exclusive: Beehiiv expands into podcasting, taking aim at Patreon",
+      "id": "amazon-hits-sellers-with-8216-fuel-surcharge-as-iran-war-roils-g",
+      "title": "Amazon hits sellers with &#8216;fuel surcharge' as Iran war roils global energy markets",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/",
-      "publishedAt": "2026-04-02T12:50:00.000Z",
-      "summaryShort": "Exclusive: Beehiiv expands into podcasting, taking aim at Patreon. One way Beehiiv is convincing creators to switch from rivals like Substack and Patreon is by not taking a cut of revenue.",
+      "sourceUrl": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/",
+      "publishedAt": "2026-04-02T22:56:29.000Z",
+      "summaryShort": "Amazon hits sellers with &#8216;fuel surcharge' as Iran war roils global energy markets. The e-commerce giant called the surcharge \"temporary\" but couldn't give a date for when the policy would be retired.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "cash-app-launches-8216-pay-later-feature-for-p2p-pay-transfers",
-      "title": "Cash App launches &#8216;pay later' feature for P2P pay transfers",
+      "id": "telehealth-giant-hims-038-hers-says-its-customer-support-system-",
+      "title": "Telehealth giant Hims &#038; Hers says its customer support system was hacked",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/02/cash-app-launches-buy-now-pay-later-feature-for-p2p-pay-transfers/",
-      "publishedAt": "2026-04-02T12:00:00.000Z",
-      "summaryShort": "Cash App launches &#8216;pay later' feature for P2P pay transfers. Block says that the new feature has strong built-in protections to keep users from so-called debt spirals.",
+      "sourceUrl": "https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/",
+      "publishedAt": "2026-04-02T21:26:48.000Z",
+      "summaryShort": "Telehealth giant Hims &#038; Hers says its customer support system was hacked. The U.S.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "de-fi-platform-drift-suspends-deposits-and-withdrawals-after-mil",
-      "title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
+      "id": "artemis-ii-is-nasa-s-last-moon-mission-without-silicon-valley",
+      "title": "Artemis II is NASA’s last moon mission without Silicon Valley",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
-      "publishedAt": "2026-04-01T22:58:39.000Z",
-      "summaryShort": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack. Blockchain trackers put the cryptocurrency heist in the hundreds of millions of dollars and is already on track to be the largest crypto theft i",
+      "sourceUrl": "https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/",
+      "publishedAt": "2026-04-02T20:06:29.000Z",
+      "summaryShort": "Artemis II is NASA’s last moon mission without Silicon Valley. Next time around, the pressure will be on SpaceX and Blue Origin.",
       "tags": [
         "Engineering"
       ]
