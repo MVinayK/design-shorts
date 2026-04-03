@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-04-03T02:49:01.065Z",
+  "generatedAt": "2026-04-03T13:15:20.781Z",
   "items": [
+    {
+      "id": "open-source-security-tool-trivy-hit-by-supply-chain-attack-promp",
+      "title": "Open Source Security Tool Trivy Hit by Supply Chain Attack, Prompting Urgent Industry Response",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/trivy-supply-chain-attack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-03T12:00:00.000Z",
+      "summaryShort": "Open Source Security Tool Trivy Hit by Supply Chain Attack, Prompting Urgent Industry Response. A major security incident affecting the widely used open source vulnerability scanner Trivy has exposed critical weaknesses in software supply c",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "module-federation-2-0-reaches-stable-release-with-wider-support-",
+      "title": "Module Federation 2.0 Reaches Stable Release with Wider Support Outside of Webpack",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/module-federation-2-stable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-03T10:12:00.000Z",
+      "summaryShort": "Module Federation 2.0 Reaches Stable Release with Wider Support Outside of Webpack. Module Federation 2.0, an open-source micro-frontend mechanism introduced with webpack 5, offers significant updates including dynamic TypeScript type hints",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-panel-taking-architecture-out-of-the-echo-chamber",
+      "title": "Presentation: Panel: Taking Architecture Out of the Echo Chamber",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/panel-complexity-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-03T09:19:00.000Z",
+      "summaryShort": "Presentation: Panel: Taking Architecture Out of the Echo Chamber. Andrew Harmel-Law and a panel of expert architects discuss the shifting practice of architecture in 2025.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "article-replacing-database-sequences-at-scale-without-breaking-1",
+      "title": "Article: Replacing Database Sequences at Scale Without Breaking 100+ Services",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/replacing-database-sequences/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-03T09:00:00.000Z",
+      "summaryShort": "Article: Replacing Database Sequences at Scale Without Breaking 100+ Services. TBD By Saumya Tyagi",
+      "tags": [
+        "Databases"
+      ]
+    },
     {
       "id": "github-integrates-ai-to-improve-accessibility-issue-management-a",
       "title": "Github Integrates AI to Improve Accessibility Issue Management and Automate Feedback Triage",
@@ -8,50 +52,6 @@
       "sourceUrl": "https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-04-02T14:45:00.000Z",
       "summaryShort": "Github Integrates AI to Improve Accessibility Issue Management and Automate Feedback Triage. GitHub has launched a continuous AI-powered workflow to manage accessibility feedback at scale.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "axios-npm-package-compromised-in-supply-chain-attack",
-      "title": "Axios npm Package Compromised in Supply Chain Attack",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/axios-supply-chain/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-02T13:53:00.000Z",
-      "summaryShort": "Axios npm Package Compromised in Supply Chain Attack. On March 31, 2026, two versions of the Axios library were compromised and found to contain a Remote Access Trojan.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "helidon-4-4-0-introduces-alignment-with-openjdk-cadence-and-supp",
-      "title": "Helidon 4.4.0 Introduces Alignment with OpenJDK Cadence and Support via Java Verified Portfolio",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/helidon-4-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-02T13:00:00.000Z",
-      "summaryShort": "Helidon 4.4.0 Introduces Alignment with OpenJDK Cadence and Support via Java Verified Portfolio. Oracle has released version 4.4.0 of Helidon, their microservices framework, featuring alignment with the OpenJDK release cadence, support via ",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "how-to-handle-trusts-and-psychological-safety-when-scaling-organ",
-      "title": "How to Handle Trusts and Psychological Safety When Scaling Organizations",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/trust-psychological-safety-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-02T11:04:00.000Z",
-      "summaryShort": "How to Handle Trusts and Psychological Safety When Scaling Organizations. As organizations scale, communication overload, loss of shared context, and trust gaps emerge, Charlotte de Jong Schouwenburg mentioned.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "github-will-use-copilot-interaction-data-from-free-pro-and-pro-u",
-      "title": "GitHub Will Use Copilot Interaction Data from Free, Pro, and Pro+ Users to Train AI Models",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/github-copilot-training-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-02T10:17:00.000Z",
-      "summaryShort": "GitHub Will Use Copilot Interaction Data from Free, Pro, and Pro+ Users to Train AI Models. GitHub will use Copilot interaction data from Free, Pro, and Pro+ users to train AI models starting April 24, opting in by default.",
       "tags": [
         "AI"
       ]
