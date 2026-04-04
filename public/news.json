@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-04-04T02:39:13.993Z",
+  "generatedAt": "2026-04-04T13:07:24.903Z",
   "items": [
+    {
+      "id": "tigerfs-mounts-postgresql-databases-as-a-filesystem-for-develope",
+      "title": "TigerFS Mounts PostgreSQL Databases as a Filesystem for Developers and AI Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/tigerfs-postgresql-filesystem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-04T08:18:00.000Z",
+      "summaryShort": "TigerFS Mounts PostgreSQL Databases as a Filesystem for Developers and AI Agents. TigerFS is a new experimental filesystem that mounts a database as a directory and stores files directly in PostgreSQL.",
+      "tags": [
+        "AI",
+        "Databases"
+      ]
+    },
     {
       "id": "swift-6-3-stabilizes-android-sdk-extends-c-interop-and-more",
       "title": "Swift 6.3 Stabilizes Android SDK, Extends C Interop, and More",
@@ -46,14 +58,14 @@
       ]
     },
     {
-      "id": "article-replacing-database-sequences-at-scale-without-breaking-1",
-      "title": "Article: Replacing Database Sequences at Scale Without Breaking 100+ Services",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/replacing-database-sequences/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-03T09:00:00.000Z",
-      "summaryShort": "Article: Replacing Database Sequences at Scale Without Breaking 100+ Services. The article discusses the challenges faced during a migration from a relational database to NoSQL, focusing on the importance of database sequences for unique id",
+      "id": "after-fighting-malware-for-decades-this-cybersecurity-veteran-is",
+      "title": "After fighting malware for decades, this cybersecurity veteran is now hacking drones",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/",
+      "publishedAt": "2026-04-04T13:00:00.000Z",
+      "summaryShort": "After fighting malware for decades, this cybersecurity veteran is now hacking drones. Mikko Hyppönen is one of the most recognizable faces of the cybersecurity industry.",
       "tags": [
-        "Databases"
+        "Engineering"
       ]
     },
     {
@@ -74,17 +86,6 @@
       "sourceUrl": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
       "publishedAt": "2026-04-04T01:03:13.000Z",
       "summaryShort": "Lucid blames dip in Q1 sales on seat supplier issue. Lucid said it has resolved the problem and is not changing its guidance for 2026.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia",
-      "title": "The anonymous social app that thinks it can work in Saudi Arabia",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/",
-      "publishedAt": "2026-04-03T22:24:57.000Z",
-      "summaryShort": "The anonymous social app that thinks it can work in Saudi Arabia. When Fizz quietly debuted in Saudi Arabia, founder and CEO Teddy Solomon wasn’t expecting the app to catch on like it did.",
       "tags": [
         "Engineering"
       ]
