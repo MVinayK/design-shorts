@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-03T13:15:20.781Z",
+  "generatedAt": "2026-04-04T02:39:13.993Z",
   "items": [
+    {
+      "id": "swift-6-3-stabilizes-android-sdk-extends-c-interop-and-more",
+      "title": "Swift 6.3 Stabilizes Android SDK, Extends C Interop, and More",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/swift-6-3-android-c-interop/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-03T17:00:00.000Z",
+      "summaryShort": "Swift 6.3 Stabilizes Android SDK, Extends C Interop, and More. Swift 6.3 advances Swift cross-platform story with official Android support, improves significantly C interoperability through the new @c attribute, and continues extending embe",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "open-source-security-tool-trivy-hit-by-supply-chain-attack-promp",
       "title": "Open Source Security Tool Trivy Hit by Supply Chain Attack, Prompting Urgent Industry Response",
@@ -40,51 +51,40 @@
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/articles/replacing-database-sequences/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-04-03T09:00:00.000Z",
-      "summaryShort": "Article: Replacing Database Sequences at Scale Without Breaking 100+ Services. TBD By Saumya Tyagi",
+      "summaryShort": "Article: Replacing Database Sequences at Scale Without Breaking 100+ Services. The article discusses the challenges faced during a migration from a relational database to NoSQL, focusing on the importance of database sequences for unique id",
       "tags": [
         "Databases"
       ]
     },
     {
-      "id": "github-integrates-ai-to-improve-accessibility-issue-management-a",
-      "title": "Github Integrates AI to Improve Accessibility Issue Management and Automate Feedback Triage",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-02T14:45:00.000Z",
-      "summaryShort": "Github Integrates AI to Improve Accessibility Issue Management and Automate Feedback Triage. GitHub has launched a continuous AI-powered workflow to manage accessibility feedback at scale.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "amazon-hits-sellers-with-8216-fuel-surcharge-as-iran-war-roils-g",
-      "title": "Amazon hits sellers with &#8216;fuel surcharge' as Iran war roils global energy markets",
+      "id": "anthropic-is-having-a-moment-in-the-private-markets-spacex-could",
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/",
-      "publishedAt": "2026-04-02T22:56:29.000Z",
-      "summaryShort": "Amazon hits sellers with &#8216;fuel surcharge' as Iran war roils global energy markets. The e-commerce giant called the surcharge \"temporary\" but couldn't give a date for when the policy would be retired.",
+      "sourceUrl": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "publishedAt": "2026-04-04T01:31:00.000Z",
+      "summaryShort": "Anthropic is having a moment in the private markets; SpaceX could spoil the party. Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade ",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "telehealth-giant-hims-038-hers-says-its-customer-support-system-",
-      "title": "Telehealth giant Hims &#038; Hers says its customer support system was hacked",
+      "id": "lucid-blames-dip-in-q1-sales-on-seat-supplier-issue",
+      "title": "Lucid blames dip in Q1 sales on seat supplier issue",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/",
-      "publishedAt": "2026-04-02T21:26:48.000Z",
-      "summaryShort": "Telehealth giant Hims &#038; Hers says its customer support system was hacked. The U.S.",
+      "sourceUrl": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
+      "publishedAt": "2026-04-04T01:03:13.000Z",
+      "summaryShort": "Lucid blames dip in Q1 sales on seat supplier issue. Lucid said it has resolved the problem and is not changing its guidance for 2026.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "artemis-ii-is-nasa-s-last-moon-mission-without-silicon-valley",
-      "title": "Artemis II is NASA’s last moon mission without Silicon Valley",
+      "id": "the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia",
+      "title": "The anonymous social app that thinks it can work in Saudi Arabia",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/",
-      "publishedAt": "2026-04-02T20:06:29.000Z",
-      "summaryShort": "Artemis II is NASA’s last moon mission without Silicon Valley. Next time around, the pressure will be on SpaceX and Blue Origin.",
+      "sourceUrl": "https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/",
+      "publishedAt": "2026-04-03T22:24:57.000Z",
+      "summaryShort": "The anonymous social app that thinks it can work in Saudi Arabia. When Fizz quietly debuted in Saudi Arabia, founder and CEO Teddy Solomon wasn’t expecting the app to catch on like it did.",
       "tags": [
         "Engineering"
       ]
