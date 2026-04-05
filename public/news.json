@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-04T13:07:24.903Z",
+  "generatedAt": "2026-04-05T02:57:01.509Z",
   "items": [
+    {
+      "id": "anthropic-s-designs-three-agent-harness-supports-long-running-fu",
+      "title": "Anthropic’s Designs Three-Agent Harness Supports Long-Running Full-Stack AI Development",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/anthropic-three-agent-harness-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-04T14:24:00.000Z",
+      "summaryShort": "Anthropic’s Designs Three-Agent Harness Supports Long-Running Full-Stack AI Development. Anthropic introduces a three-agent harness separating planning, generation, and evaluation to improve long-running autonomous AI workflows for frontend",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "tigerfs-mounts-postgresql-databases-as-a-filesystem-for-develope",
       "title": "TigerFS Mounts PostgreSQL Databases as a Filesystem for Developers and AI Agents",
@@ -47,45 +58,34 @@
       ]
     },
     {
-      "id": "presentation-panel-taking-architecture-out-of-the-echo-chamber",
-      "title": "Presentation: Panel: Taking Architecture Out of the Echo Chamber",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/panel-complexity-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-03T09:19:00.000Z",
-      "summaryShort": "Presentation: Panel: Taking Architecture Out of the Echo Chamber. Andrew Harmel-Law and a panel of expert architects discuss the shifting practice of architecture in 2025.",
+      "id": "peter-thiel-s-big-bet-on-solar-powered-cow-collars",
+      "title": "Peter Thiel's big bet on solar-powered cow collars",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/",
+      "publishedAt": "2026-04-04T21:30:00.000Z",
+      "summaryShort": "Peter Thiel's big bet on solar-powered cow collars. Why did Founders Fund invest $220 million in cattle management startup Halter?",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "after-fighting-malware-for-decades-this-cybersecurity-veteran-is",
-      "title": "After fighting malware for decades, this cybersecurity veteran is now hacking drones",
+      "id": "embattled-startup-delve-has-parted-ways-with-y-combinator",
+      "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/",
-      "publishedAt": "2026-04-04T13:00:00.000Z",
-      "summaryShort": "After fighting malware for decades, this cybersecurity veteran is now hacking drones. Mikko Hyppönen is one of the most recognizable faces of the cybersecurity industry.",
+      "sourceUrl": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
+      "publishedAt": "2026-04-04T21:03:43.000Z",
+      "summaryShort": "Embattled startup Delve has ‘parted ways’ with Y Combinator. The controversy around Delve appears to have cost the compliance startup its relationship with accelerator Y Combinator.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "anthropic-is-having-a-moment-in-the-private-markets-spacex-could",
-      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "id": "anthropic-says-claude-code-subscribers-will-need-to-pay-extra-fo",
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-      "publishedAt": "2026-04-04T01:31:00.000Z",
-      "summaryShort": "Anthropic is having a moment in the private markets; SpaceX could spoil the party. Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade ",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "lucid-blames-dip-in-q1-sales-on-seat-supplier-issue",
-      "title": "Lucid blames dip in Q1 sales on seat supplier issue",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
-      "publishedAt": "2026-04-04T01:03:13.000Z",
-      "summaryShort": "Lucid blames dip in Q1 sales on seat supplier issue. Lucid said it has resolved the problem and is not changing its guidance for 2026.",
+      "sourceUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "publishedAt": "2026-04-04T16:32:22.000Z",
+      "summaryShort": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage. It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
       "tags": [
         "Engineering"
       ]
