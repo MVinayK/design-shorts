@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-04-06T03:18:09.956Z",
+  "generatedAt": "2026-04-06T13:21:59.090Z",
   "items": [
+    {
+      "id": "presentation-duolingo-s-kubernetes-leap",
+      "title": "Presentation: Duolingo's Kubernetes Leap",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/duolingo-eks-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-06T12:11:00.000Z",
+      "summaryShort": "Presentation: Duolingo's Kubernetes Leap. Franka Passing discusses the architectural shift of Duolingo’s 500+ backend services to Kubernetes.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "article-a-better-alternative-to-reducing-ci-regression-test-suit",
+      "title": "Article: A Better Alternative to Reducing CI Regression Test Suite Sizes",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/alternative-reduce-test-suite-size/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-06T11:00:00.000Z",
+      "summaryShort": "Article: A Better Alternative to Reducing CI Regression Test Suite Sizes. How can you focus in a sea of results from a large regression test suite?",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "podcast-context-engineering-with-adi-polak",
+      "title": "Podcast: Context Engineering with Adi Polak",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/context-engineering-large-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-06T11:00:00.000Z",
+      "summaryShort": "Podcast: Context Engineering with Adi Polak. In this episode, Thomas Betts and Adi Polak talk about the need for context engineering when interacting with LLMs and designing agentic systems.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "dynamic-languages-faster-and-cheaper-in-13-language-claude-code-",
+      "title": "Dynamic Languages Faster and Cheaper in 13-Language Claude Code Benchmark",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/ai-coding-language-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-06T04:01:00.000Z",
+      "summaryShort": "Dynamic Languages Faster and Cheaper in 13-Language Claude Code Benchmark. A 600-run benchmark by Ruby committer Yusuke Endoh tested Claude Code across 13 languages, implementing a simplified Git.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "java-news-roundup-tornadovm-4-0-google-adk-for-java-1-0-grails-t",
       "title": "Java News Roundup: TornadoVM 4.0, Google ADK for Java 1.0, Grails, Tomcat, Log4j, Gradle",
@@ -13,79 +57,34 @@
       ]
     },
     {
-      "id": "anthropic-designs-three-agent-harness-supports-long-running-full",
-      "title": "Anthropic Designs Three-Agent Harness Supports Long-Running Full-Stack AI Development",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/anthropic-three-agent-harness-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-04T14:24:00.000Z",
-      "summaryShort": "Anthropic Designs Three-Agent Harness Supports Long-Running Full-Stack AI Development. Anthropic introduces a three-agent harness separating planning, generation, and evaluation to improve long-running autonomous AI workflows for frontend a",
+      "id": "convicted-spyware-maker-bryan-fleming-avoids-jail-at-sentencing",
+      "title": "Convicted spyware maker Bryan Fleming avoids jail at sentencing",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/06/convicted-spyware-maker-bryan-fleming-avoids-jail-at-sentencing/",
+      "publishedAt": "2026-04-06T13:03:04.000Z",
+      "summaryShort": "Convicted spyware maker Bryan Fleming avoids jail at sentencing. The pcTattletale founder escapes a custodial sentence following the first successful prosecution of a spyware maker in the U.S.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "spain-s-xoople-raises-130-million-series-b-to-map-the-earth-for-",
+      "title": "Spain's Xoople raises $130 million Series B to map the Earth for AI",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
+      "publishedAt": "2026-04-06T13:00:00.000Z",
+      "summaryShort": "Spain's Xoople raises $130 million Series B to map the Earth for AI. The company is also announcing a deal with L3Harris to build the sensors for Xoople's spacecraft.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "tigerfs-mounts-postgresql-databases-as-a-filesystem-for-develope",
-      "title": "TigerFS Mounts PostgreSQL Databases as a Filesystem for Developers and AI Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/tigerfs-postgresql-filesystem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-04T08:18:00.000Z",
-      "summaryShort": "TigerFS Mounts PostgreSQL Databases as a Filesystem for Developers and AI Agents. TigerFS is a new experimental filesystem that mounts a database as a directory and stores files directly in PostgreSQL.",
-      "tags": [
-        "AI",
-        "Databases"
-      ]
-    },
-    {
-      "id": "swift-6-3-stabilizes-android-sdk-extends-c-interop-and-more",
-      "title": "Swift 6.3 Stabilizes Android SDK, Extends C Interop, and More",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/swift-6-3-android-c-interop/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-03T17:00:00.000Z",
-      "summaryShort": "Swift 6.3 Stabilizes Android SDK, Extends C Interop, and More. Swift 6.3 advances Swift cross-platform story with official Android support, improves significantly C interoperability through the new @c attribute, and continues extending embe",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "open-source-security-tool-trivy-hit-by-supply-chain-attack-promp",
-      "title": "Open Source Security Tool Trivy Hit by Supply Chain Attack, Prompting Urgent Industry Response",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/trivy-supply-chain-attack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-03T12:00:00.000Z",
-      "summaryShort": "Open Source Security Tool Trivy Hit by Supply Chain Attack, Prompting Urgent Industry Response. A major security incident affecting the widely used open source vulnerability scanner Trivy has exposed critical weaknesses in software supply c",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-o",
-      "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
+      "id": "the-xiaomi-17-ultra-has-some-impressive-add-ons-that-make-snappi",
+      "title": "The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
-      "publishedAt": "2026-04-05T19:36:03.000Z",
-      "summaryShort": "Polymarket took down wagers tied to rescue of downed Air Force officer. A Democratic congressman had harsh criticism for Polymarket for allowing users to bet on the date the U.S.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "copilot-is-for-entertainment-purposes-only-according-to-microsof",
-      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-      "publishedAt": "2026-04-05T18:51:37.000Z",
-      "summaryShort": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use. AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of se",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "as-people-look-for-ways-to-make-new-friends-here-are-the-apps-pr",
-      "title": "As people look for ways to make new friends, here are the apps promising to help",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/05/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-      "publishedAt": "2026-04-05T18:01:37.000Z",
-      "summaryShort": "As people look for ways to make new friends, here are the apps promising to help. We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "sourceUrl": "https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/",
+      "publishedAt": "2026-04-06T07:00:00.000Z",
+      "summaryShort": "The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun. The Xiaomi 17 Ultra gives you a ton of options to play around with images, including preset filters and hardware add-ons.",
       "tags": [
         "Engineering"
       ]
