@@ -1,13 +1,24 @@
 {
-  "generatedAt": "2026-04-05T13:09:31.723Z",
+  "generatedAt": "2026-04-06T03:18:09.956Z",
   "items": [
     {
-      "id": "anthropic-s-designs-three-agent-harness-supports-long-running-fu",
-      "title": "Anthropic’s Designs Three-Agent Harness Supports Long-Running Full-Stack AI Development",
+      "id": "java-news-roundup-tornadovm-4-0-google-adk-for-java-1-0-grails-t",
+      "title": "Java News Roundup: TornadoVM 4.0, Google ADK for Java 1.0, Grails, Tomcat, Log4j, Gradle",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/java-news-roundup-mar30-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-06T02:30:00.000Z",
+      "summaryShort": "Java News Roundup: TornadoVM 4.0, Google ADK for Java 1.0, Grails, Tomcat, Log4j, Gradle. This week's Java roundup for March 30th, 2026, features news highlighting: the GA release of TornadoVM 4.0 and Google ADK for Java 1.0; first release ",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "anthropic-designs-three-agent-harness-supports-long-running-full",
+      "title": "Anthropic Designs Three-Agent Harness Supports Long-Running Full-Stack AI Development",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/news/2026/04/anthropic-three-agent-harness-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-04-04T14:24:00.000Z",
-      "summaryShort": "Anthropic’s Designs Three-Agent Harness Supports Long-Running Full-Stack AI Development. Anthropic introduces a three-agent harness separating planning, generation, and evaluation to improve long-running autonomous AI workflows for frontend",
+      "summaryShort": "Anthropic Designs Three-Agent Harness Supports Long-Running Full-Stack AI Development. Anthropic introduces a three-agent harness separating planning, generation, and evaluation to improve long-running autonomous AI workflows for frontend a",
       "tags": [
         "AI"
       ]
@@ -47,45 +58,34 @@
       ]
     },
     {
-      "id": "module-federation-2-0-reaches-stable-release-with-wider-support-",
-      "title": "Module Federation 2.0 Reaches Stable Release with Wider Support Outside of Webpack",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/module-federation-2-stable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-03T10:12:00.000Z",
-      "summaryShort": "Module Federation 2.0 Reaches Stable Release with Wider Support Outside of Webpack. Module Federation 2.0, an open-source micro-frontend mechanism introduced with webpack 5, offers significant updates including dynamic TypeScript type hints",
+      "id": "polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-o",
+      "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
+      "publishedAt": "2026-04-05T19:36:03.000Z",
+      "summaryShort": "Polymarket took down wagers tied to rescue of downed Air Force officer. A Democratic congressman had harsh criticism for Polymarket for allowing users to bet on the date the U.S.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "peter-thiel-s-big-bet-on-solar-powered-cow-collars",
-      "title": "Peter Thiel's big bet on solar-powered cow collars",
+      "id": "copilot-is-for-entertainment-purposes-only-according-to-microsof",
+      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/",
-      "publishedAt": "2026-04-04T21:30:00.000Z",
-      "summaryShort": "Peter Thiel's big bet on solar-powered cow collars. Why did Founders Fund invest $220 million in cattle management startup Halter?",
+      "sourceUrl": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "publishedAt": "2026-04-05T18:51:37.000Z",
+      "summaryShort": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use. AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of se",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "embattled-startup-delve-has-parted-ways-with-y-combinator",
-      "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
+      "id": "as-people-look-for-ways-to-make-new-friends-here-are-the-apps-pr",
+      "title": "As people look for ways to make new friends, here are the apps promising to help",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
-      "publishedAt": "2026-04-04T21:03:43.000Z",
-      "summaryShort": "Embattled startup Delve has ‘parted ways’ with Y Combinator. The controversy around Delve appears to have cost the compliance startup its relationship with accelerator Y Combinator.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "anthropic-says-claude-code-subscribers-will-need-to-pay-extra-fo",
-      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-      "publishedAt": "2026-04-04T16:32:22.000Z",
-      "summaryShort": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage. It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+      "sourceUrl": "https://techcrunch.com/2026/04/05/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "publishedAt": "2026-04-05T18:01:37.000Z",
+      "summaryShort": "As people look for ways to make new friends, here are the apps promising to help. We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
       "tags": [
         "Engineering"
       ]
