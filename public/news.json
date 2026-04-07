@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-04-07T02:51:38.660Z",
+  "generatedAt": "2026-04-07T13:41:58.753Z",
   "items": [
+    {
+      "id": "istio-evolves-for-the-ai-era-with-multicluster-ambient-mode-and-",
+      "title": "Istio Evolves for the AI Era with Multicluster, Ambient Mode, and Inference Capabilities",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/istio-ai-multicluster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-07T12:00:00.000Z",
+      "summaryShort": "Istio Evolves for the AI Era with Multicluster, Ambient Mode, and Inference Capabilities. The Cloud Native Computing Foundation (CNCF) has announced a major evolution of Istio, introducing new capabilities aimed at making service meshes “fu",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "article-bloom-filters-theory-engineering-trade-offs-and-implemen",
+      "title": "Article: Bloom Filters: Theory, Engineering Trade‑offs, and Implementation in Go",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/bloom-filters-practice-go-recommender/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-07T09:00:00.000Z",
+      "summaryShort": "Article: Bloom Filters: Theory, Engineering Trade‑offs, and Implementation in Go. This article walks you through the Go implementation of Bloom filters to optimize the performance of a recommender.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "anthropic-accidentally-exposes-claude-code-source-via-npm-source",
+      "title": "Anthropic Accidentally Exposes Claude Code Source via npm Source Map File",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/claude-code-source-leak/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-07T08:00:00.000Z",
+      "summaryShort": "Anthropic Accidentally Exposes Claude Code Source via npm Source Map File. Anthropic's Claude Code CLI had its full TypeScript source exposed after a source map file was accidentally included in version 2.1.88 of its npm package.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "google-open-sources-experimental-multi-agent-orchestration-testb",
+      "title": "Google Open Sources Experimental Multi-Agent Orchestration Testbed Scion",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-07T08:00:00.000Z",
+      "summaryShort": "Google Open Sources Experimental Multi-Agent Orchestration Testbed Scion. Designed to manage concurrent agents running in containers across local and remote compute, Scion is an experimental orchestration testbed that enables developers to ",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "pinterest-reduces-spark-oom-failures-by-96-through-auto-memory-r",
       "title": "Pinterest Reduces Spark OOM Failures by 96% Through Auto Memory Retries",
@@ -13,78 +58,34 @@
       ]
     },
     {
-      "id": "presentation-duolingo-s-kubernetes-leap",
-      "title": "Presentation: Duolingo's Kubernetes Leap",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/duolingo-eks-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-06T12:11:00.000Z",
-      "summaryShort": "Presentation: Duolingo's Kubernetes Leap. Franka Passing discusses the architectural shift of Duolingo’s 500+ backend services to Kubernetes.",
+      "id": "why-a-former-airpods-engineer-is-now-building-heat-pumps",
+      "title": "Why a former AirPods engineer is now building heat pumps",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/why-a-former-airpods-engineer-is-now-building-heat-pumps/",
+      "publishedAt": "2026-04-07T13:00:27.000Z",
+      "summaryShort": "Why a former AirPods engineer is now building heat pumps. Merino Energy has simplified the heat pump dramatically in a quest to make them cheaper and easier to install.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "article-a-better-alternative-to-reducing-ci-regression-test-suit",
-      "title": "Article: A Better Alternative to Reducing CI Regression Test Suite Sizes",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/alternative-reduce-test-suite-size/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-06T11:00:00.000Z",
-      "summaryShort": "Article: A Better Alternative to Reducing CI Regression Test Suite Sizes. How can you focus in a sea of results from a large regression test suite?",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "podcast-context-engineering-with-adi-polak",
-      "title": "Podcast: Context Engineering with Adi Polak",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/context-engineering-large-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-06T11:00:00.000Z",
-      "summaryShort": "Podcast: Context Engineering with Adi Polak. In this episode, Thomas Betts and Adi Polak talk about the need for context engineering when interacting with LLMs and designing agentic systems.",
+      "id": "the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-",
+      "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
+      "publishedAt": "2026-04-07T13:00:00.000Z",
+      "summaryShort": "The AI gold rush is pulling private wealth into riskier, earlier bets. On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "dynamic-languages-faster-and-cheaper-in-13-language-claude-code-",
-      "title": "Dynamic Languages Faster and Cheaper in 13-Language Claude Code Benchmark",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/ai-coding-language-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-06T04:01:00.000Z",
-      "summaryShort": "Dynamic Languages Faster and Cheaper in 13-Language Claude Code Benchmark. A 600-run benchmark by Ruby committer Yusuke Endoh tested Claude Code across 13 languages, implementing a simplified Git.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "openai-alums-have-been-quietly-investing-from-a-new-potentially-",
-      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+      "id": "adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-s",
+      "title": "Adobe launches Acrobat Spaces, a free AI-powered study tool for students",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
-      "publishedAt": "2026-04-06T21:54:26.000Z",
-      "summaryShort": "OpenAI alums have been quietly investing from a new, potentially $100M fund. Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "gas-prices-aren-t-the-only-factor-fueling-used-ev-sales",
-      "title": "Gas prices aren't the only factor fueling used EV sales",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/06/gas-prices-arent-the-only-factor-fueling-used-ev-sales/",
-      "publishedAt": "2026-04-06T21:15:09.000Z",
-      "summaryShort": "Gas prices aren't the only factor fueling used EV sales. The most recent electric vehicle sales data provided a grim picture — at least for new EVs.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "google-quietly-launched-an-ai-dictation-app-that-works-offline",
-      "title": "Google quietly launched an AI dictation app that works offline",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-      "publishedAt": "2026-04-06T18:54:33.000Z",
-      "summaryShort": "Google quietly launched an AI dictation app that works offline. Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-students/",
+      "publishedAt": "2026-04-07T13:00:00.000Z",
+      "summaryShort": "Adobe launches Acrobat Spaces, a free AI-powered study tool for students. Adobe Acrobat Spaces is a free tool for students to use AI and create different kind of study material from documents",
       "tags": [
         "AI"
       ]
