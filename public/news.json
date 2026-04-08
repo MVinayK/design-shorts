@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-04-08T02:52:53.282Z",
+  "generatedAt": "2026-04-08T13:44:18.866Z",
   "items": [
+    {
+      "id": "presentation-local-first-how-to-build-software-which-still-works",
+      "title": "Presentation: Local First – How To Build Software Which Still Works After the Acquihire",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/local-first-build-software/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-08T10:37:00.000Z",
+      "summaryShort": "Presentation: Local First – How To Build Software Which Still Works After the Acquihire. Alex Good discusses the fragility of modern cloud-dependent apps and shares a roadmap for \"local-first\" software.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "article-stateful-continuation-for-ai-agents-why-transport-layers",
+      "title": "Article: Stateful Continuation for AI Agents: Why Transport Layers Now Matter",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/ai-agent-transport-layer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-08T09:00:00.000Z",
+      "summaryShort": "Article: Stateful Continuation for AI Agents: Why Transport Layers Now Matter. Agent workflows make transport a first-order concern.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-state-of-play-ai-coding-assistants",
+      "title": "Presentation: State of Play: AI Coding Assistants",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-coding-assistants/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-08T08:34:00.000Z",
+      "summaryShort": "Presentation: State of Play: AI Coding Assistants. Birgitta Böckeler discusses the rapid evolution of AI agents, moving beyond \"vibe coding\" to sophisticated context engineering.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "inside-spotify-s-2025-wrapped-archive-ai-narratives-at-scale-and",
+      "title": "Inside Spotify’s 2025 Wrapped Archive: AI Narratives at Scale and the Privacy Trade‑Off",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/spotify-wrapped-privacy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-08T07:00:00.000Z",
+      "summaryShort": "Inside Spotify’s 2025 Wrapped Archive: AI Narratives at Scale and the Privacy Trade‑Off. Spotify's engineering team developed the 2025 \"Wrapped Archive,\" generating 1.4 billion personalized reports for 350 million users.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "presentation-when-every-bit-counts-how-valkey-rebuilt-its-hashta",
       "title": "Presentation: When Every Bit Counts: How Valkey Rebuilt Its Hashtable for Modern Hardware",
@@ -13,81 +58,36 @@
       ]
     },
     {
-      "id": "istio-evolves-for-the-ai-era-with-multicluster-ambient-mode-and-",
-      "title": "Istio Evolves for the AI Era with Multicluster, Ambient Mode, and Inference Capabilities",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/istio-ai-multicluster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-07T12:00:00.000Z",
-      "summaryShort": "Istio Evolves for the AI Era with Multicluster, Ambient Mode, and Inference Capabilities. The Cloud Native Computing Foundation (CNCF) has announced a major evolution of Istio, introducing new capabilities aimed at making service meshes “fu",
+      "id": "atlassian-launches-visual-ai-tools-and-third-party-agents-in-con",
+      "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+      "publishedAt": "2026-04-08T13:00:00.000Z",
+      "summaryShort": "Atlassian launches visual AI tools and third-party agents in Confluence. Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma.",
       "tags": [
-        "AI",
-        "Cloud"
+        "AI"
       ]
     },
     {
-      "id": "article-bloom-filters-theory-engineering-trade-offs-and-implemen",
-      "title": "Article: Bloom Filters: Theory, Engineering Trade‑offs, and Implementation in Go",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/bloom-filters-practice-go-recommender/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-07T09:00:00.000Z",
-      "summaryShort": "Article: Bloom Filters: Theory, Engineering Trade‑offs, and Implementation in Go. This article walks you through the Go implementation of Bloom filters to optimize the performance of a recommender.",
+      "id": "x-is-rolling-out-automatic-translation-and-photo-editing-powered",
+      "title": "X is rolling out automatic translation and photo editing powered by Grok",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/",
+      "publishedAt": "2026-04-08T12:06:22.000Z",
+      "summaryShort": "X is rolling out automatic translation and photo editing powered by Grok. New automatic translations and photo editing on X are powered by the company's flagship AI model.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "how-nuclear-batteries-could-speed-the-race-to-fusion-power",
+      "title": "How nuclear batteries could speed the race to fusion power",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/how-nuclear-batteries-could-speed-the-race-to-fusion-power/",
+      "publishedAt": "2026-04-08T11:30:00.000Z",
+      "summaryShort": "How nuclear batteries could speed the race to fusion power. Avalanche Energy is working on an DARPA project to build a new class of materials capable of turning damaging radiation into electricity.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "anthropic-accidentally-exposes-claude-code-source-via-npm-source",
-      "title": "Anthropic Accidentally Exposes Claude Code Source via npm Source Map File",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/claude-code-source-leak/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-07T08:00:00.000Z",
-      "summaryShort": "Anthropic Accidentally Exposes Claude Code Source via npm Source Map File. Anthropic's Claude Code CLI had its full TypeScript source exposed after a source map file was accidentally included in version 2.1.88 of its npm package.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "google-open-sources-experimental-multi-agent-orchestration-testb",
-      "title": "Google Open Sources Experimental Multi-Agent Orchestration Testbed Scion",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-07T08:00:00.000Z",
-      "summaryShort": "Google Open Sources Experimental Multi-Agent Orchestration Testbed Scion. Designed to manage concurrent agents running in containers across local and remote compute, Scion is an experimental orchestration testbed that enables developers to ",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "i-can-t-help-rooting-for-tiny-open-source-ai-model-maker-arcee",
-      "title": "I can't help rooting for tiny open source AI model maker Arcee",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
-      "publishedAt": "2026-04-07T21:35:02.000Z",
-      "summaryShort": "I can't help rooting for tiny open source AI model maker Arcee. Arcee is a tiny 26-person U.S.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "vc-eclipse-has-a-new-1-3b-fund-to-back-and-build-physical-ai-sta",
-      "title": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
-      "publishedAt": "2026-04-07T21:24:54.000Z",
-      "summaryShort": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups. Eclipse will put some of that money towards incubating, or building startups.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "iranian-hackers-are-targeting-american-critical-infrastructure-u",
-      "title": "Iranian hackers are targeting American critical infrastructure, US agencies warn",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/",
-      "publishedAt": "2026-04-07T19:59:06.000Z",
-      "summaryShort": "Iranian hackers are targeting American critical infrastructure, US agencies warn. A joint FBI, NSA, and CISA advisory warns that Iranian hackers have \"escalated\" their tactics in response to the ongoing U.S.-Israel war with Iran.",
-      "tags": [
-        "Cloud"
       ]
     }
   ]
