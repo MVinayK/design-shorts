@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-07T13:41:58.753Z",
+  "generatedAt": "2026-04-08T02:52:53.282Z",
   "items": [
+    {
+      "id": "presentation-when-every-bit-counts-how-valkey-rebuilt-its-hashta",
+      "title": "Presentation: When Every Bit Counts: How Valkey Rebuilt Its Hashtable for Modern Hardware",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/hashtable-modern-hardware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-07T13:40:00.000Z",
+      "summaryShort": "Presentation: When Every Bit Counts: How Valkey Rebuilt Its Hashtable for Modern Hardware. Madelyn Olson discusses the evolution of Valkey's data structures, moving away from \"textbook\" pointer-chasing HashMaps to more cache-aware designs.",
+      "tags": [
+        "Architecture"
+      ]
+    },
     {
       "id": "istio-evolves-for-the-ai-era-with-multicluster-ambient-mode-and-",
       "title": "Istio Evolves for the AI Era with Multicluster, Ambient Mode, and Inference Capabilities",
@@ -47,47 +58,36 @@
       ]
     },
     {
-      "id": "pinterest-reduces-spark-oom-failures-by-96-through-auto-memory-r",
-      "title": "Pinterest Reduces Spark OOM Failures by 96% Through Auto Memory Retries",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/pinterest-spark-oom-reduction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-06T14:32:00.000Z",
-      "summaryShort": "Pinterest Reduces Spark OOM Failures by 96% Through Auto Memory Retries. Pinterest Engineering cut Apache Spark out-of-memory failures by 96% using improved observability, configuration tuning, and automatic memory retries.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "why-a-former-airpods-engineer-is-now-building-heat-pumps",
-      "title": "Why a former AirPods engineer is now building heat pumps",
+      "id": "i-can-t-help-rooting-for-tiny-open-source-ai-model-maker-arcee",
+      "title": "I can't help rooting for tiny open source AI model maker Arcee",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/why-a-former-airpods-engineer-is-now-building-heat-pumps/",
-      "publishedAt": "2026-04-07T13:00:27.000Z",
-      "summaryShort": "Why a former AirPods engineer is now building heat pumps. Merino Energy has simplified the heat pump dramatically in a quest to make them cheaper and easier to install.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-",
-      "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
-      "publishedAt": "2026-04-07T13:00:00.000Z",
-      "summaryShort": "The AI gold rush is pulling private wealth into riskier, earlier bets. On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+      "publishedAt": "2026-04-07T21:35:02.000Z",
+      "summaryShort": "I can't help rooting for tiny open source AI model maker Arcee. Arcee is a tiny 26-person U.S.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-s",
-      "title": "Adobe launches Acrobat Spaces, a free AI-powered study tool for students",
+      "id": "vc-eclipse-has-a-new-1-3b-fund-to-back-and-build-physical-ai-sta",
+      "title": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-students/",
-      "publishedAt": "2026-04-07T13:00:00.000Z",
-      "summaryShort": "Adobe launches Acrobat Spaces, a free AI-powered study tool for students. Adobe Acrobat Spaces is a free tool for students to use AI and create different kind of study material from documents",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
+      "publishedAt": "2026-04-07T21:24:54.000Z",
+      "summaryShort": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups. Eclipse will put some of that money towards incubating, or building startups.",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "iranian-hackers-are-targeting-american-critical-infrastructure-u",
+      "title": "Iranian hackers are targeting American critical infrastructure, US agencies warn",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/",
+      "publishedAt": "2026-04-07T19:59:06.000Z",
+      "summaryShort": "Iranian hackers are targeting American critical infrastructure, US agencies warn. A joint FBI, NSA, and CISA advisory warns that Iranian hackers have \"escalated\" their tactics in response to the ongoing U.S.-Israel war with Iran.",
+      "tags": [
+        "Cloud"
       ]
     }
   ]
