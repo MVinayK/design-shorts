@@ -1,6 +1,41 @@
 {
-  "generatedAt": "2026-04-08T13:44:18.866Z",
+  "generatedAt": "2026-04-09T02:47:34.445Z",
   "items": [
+    {
+      "id": "tailwind-css-4-2-ships-webpack-plugin-new-palettes-and-logical-p",
+      "title": "Tailwind CSS 4.2 Ships Webpack Plugin, New Palettes and Logical Property Utilities",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/tailwind-css-4-2-webpack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-08T14:48:00.000Z",
+      "summaryShort": "Tailwind CSS 4.2 Ships Webpack Plugin, New Palettes and Logical Property Utilities. Tailwind CSS version 4.2.0, released on February 18, 2026, includes a webpack plugin for streamlined integration and four new color palettes.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "cloudflare-and-eth-zurich-outline-approaches-for-ai-driven-cache",
+      "title": "Cloudflare and ETH Zurich Outline Approaches for AI-Driven Cache Optimization",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/cloudflare-ai-caching-strategies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-08T14:20:00.000Z",
+      "summaryShort": "Cloudflare and ETH Zurich Outline Approaches for AI-Driven Cache Optimization. Cloudflare and ETH Zurich highlight how AI-driven crawler traffic challenges traditional caching in CDNs and databases.",
+      "tags": [
+        "AI",
+        "Databases",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "github-actions-custom-runner-images-reach-general-availability",
+      "title": "GitHub Actions Custom Runner Images Reach General Availability",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/github-actions-custom-runners/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-08T14:00:00.000Z",
+      "summaryShort": "GitHub Actions Custom Runner Images Reach General Availability. GitHub has just announced the availability of custom images for its hosted runners.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "presentation-local-first-how-to-build-software-which-still-works",
       "title": "Presentation: Local First – How To Build Software Which Still Works After the Acquihire",
@@ -25,69 +60,36 @@
       ]
     },
     {
-      "id": "presentation-state-of-play-ai-coding-assistants",
-      "title": "Presentation: State of Play: AI Coding Assistants",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-coding-assistants/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-08T08:34:00.000Z",
-      "summaryShort": "Presentation: State of Play: AI Coding Assistants. Birgitta Böckeler discusses the rapid evolution of AI agents, moving beyond \"vibe coding\" to sophisticated context engineering.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "inside-spotify-s-2025-wrapped-archive-ai-narratives-at-scale-and",
-      "title": "Inside Spotify’s 2025 Wrapped Archive: AI Narratives at Scale and the Privacy Trade‑Off",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/spotify-wrapped-privacy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "summaryShort": "Inside Spotify’s 2025 Wrapped Archive: AI Narratives at Scale and the Privacy Trade‑Off. Spotify's engineering team developed the 2025 \"Wrapped Archive,\" generating 1.4 billion personalized reports for 350 million users.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-when-every-bit-counts-how-valkey-rebuilt-its-hashta",
-      "title": "Presentation: When Every Bit Counts: How Valkey Rebuilt Its Hashtable for Modern Hardware",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/hashtable-modern-hardware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-07T13:40:00.000Z",
-      "summaryShort": "Presentation: When Every Bit Counts: How Valkey Rebuilt Its Hashtable for Modern Hardware. Madelyn Olson discusses the evolution of Valkey's data structures, moving away from \"textbook\" pointer-chasing HashMaps to more cache-aware designs.",
-      "tags": [
-        "Architecture"
-      ]
-    },
-    {
-      "id": "atlassian-launches-visual-ai-tools-and-third-party-agents-in-con",
-      "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
+      "id": "wireguard-vpn-developer-can-t-ship-software-updates-after-micros",
+      "title": "WireGuard VPN developer can't ship software updates after Microsoft locks account",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
-      "publishedAt": "2026-04-08T13:00:00.000Z",
-      "summaryShort": "Atlassian launches visual AI tools and third-party agents in Confluence. Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "x-is-rolling-out-automatic-translation-and-photo-editing-powered",
-      "title": "X is rolling out automatic translation and photo editing powered by Grok",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/",
-      "publishedAt": "2026-04-08T12:06:22.000Z",
-      "summaryShort": "X is rolling out automatic translation and photo editing powered by Grok. New automatic translations and photo editing on X are powered by the company's flagship AI model.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "how-nuclear-batteries-could-speed-the-race-to-fusion-power",
-      "title": "How nuclear batteries could speed the race to fusion power",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/08/how-nuclear-batteries-could-speed-the-race-to-fusion-power/",
-      "publishedAt": "2026-04-08T11:30:00.000Z",
-      "summaryShort": "How nuclear batteries could speed the race to fusion power. Avalanche Energy is working on an DARPA project to build a new class of materials capable of turning damaging radiation into electricity.",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
+      "publishedAt": "2026-04-08T21:50:41.000Z",
+      "summaryShort": "WireGuard VPN developer can't ship software updates after Microsoft locks account. The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their abilit",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "a-self-driving-car-in-texas-hit-and-killed-a-mother-duck-sparkin",
+      "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
+      "publishedAt": "2026-04-08T21:19:07.000Z",
+      "summaryShort": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage. An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "poke-makes-using-ai-agents-as-easy-as-sending-a-text",
+      "title": "Poke makes using AI agents as easy as sending a text",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "publishedAt": "2026-04-08T21:05:13.000Z",
+      "summaryShort": "Poke makes using AI agents as easy as sending a text. Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "tags": [
+        "AI"
       ]
     }
   ]
