@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-04-10T03:18:55.625Z",
+  "generatedAt": "2026-04-10T13:22:32.369Z",
   "items": [
+    {
+      "id": "cncf-and-kusari-partner-to-strengthen-software-supply-chain-secu",
+      "title": "CNCF and Kusari Partner to Strengthen Software Supply Chain Security Across Cloud-Native Projects",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/cncf-kusari-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-10T12:00:00.000Z",
+      "summaryShort": "CNCF and Kusari Partner to Strengthen Software Supply Chain Security Across Cloud-Native Projects. The Cloud Native Computing Foundation (CNCF) and Kusari have announced a new collaboration aimed at strengthening software supply chain secur",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "google-cloud-highlights-ongoing-work-on-postgresql-core-capabili",
+      "title": "Google Cloud Highlights Ongoing Work on PostgreSQL Core Capabilities",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/google-cloud-postgresql/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-10T09:30:00.000Z",
+      "summaryShort": "Google Cloud Highlights Ongoing Work on PostgreSQL Core Capabilities. Google Cloud has outlined its recent technical contributions to PostgreSQL, emphasizing improvements in logical replication, upgrade processes, and overall system stabili",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "safari-adds-scrollend-event-support-completing-baseline-browser-",
+      "title": "Safari Adds scrollend Event Support, Completing Baseline Browser Coverage",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/safari-scrollend-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-10T09:06:00.000Z",
+      "summaryShort": "Safari Adds scrollend Event Support, Completing Baseline Browser Coverage. Safari's release of version 26.2 in December introduced support for the scrollend event, completing its alignment with major browsers.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "podcast-tiger-teams-evals-and-agents-the-new-ai-engineering-play",
+      "title": "Podcast: Tiger Teams, Evals and Agents: The New AI Engineering Playbook",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/tiger-teams-evals-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-10T09:00:00.000Z",
+      "summaryShort": "Podcast: Tiger Teams, Evals and Agents: The New AI Engineering Playbook. In this podcast Shane Hastie, Lead Editor for Culture & Methods spoke to Sam Bhagwat, co-founder and CEO of Mastra, about building and sustaining open source communiti",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "cloudflare-introduces-emdash-typescript-cms-positioned-as-wordpr",
       "title": "Cloudflare Introduces EmDash: TypeScript CMS Positioned as WordPress Successor",
@@ -14,47 +59,14 @@
       ]
     },
     {
-      "id": "uber-s-hive-federation-decentralizes-16k-datasets-and-10-pb-for-",
-      "title": "Uber’s Hive Federation Decentralizes 16K Datasets and 10+ PB for Zero-Downtime Analytics at Scale",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/uber-hive-decentralized-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-09T13:54:00.000Z",
-      "summaryShort": "Uber’s Hive Federation Decentralizes 16K Datasets and 10+ PB for Zero-Downtime Analytics at Scale. Uber has decentralized its Hive data warehouse, migrating 16,000 datasets totaling over 10 petabytes using pointer-based federation.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "aaif-s-mcp-dev-summit-gateways-grpc-and-observability-signal-pro",
-      "title": "AAIF's MCP Dev Summit: Gateways, gRPC, and Observability Signal Protocol Hardening",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/aaif-mcp-summit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-09T13:10:00.000Z",
-      "summaryShort": "AAIF's MCP Dev Summit: Gateways, gRPC, and Observability Signal Protocol Hardening. The MCP Dev Summit North America 2026, held on April 2-3 at the New York Marriott Marquis, gathered about 1,200 attendees.",
+      "id": "snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hi",
+      "title": "Snap gets closer to releasing new AI glasses after years-long hiatus",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
+      "publishedAt": "2026-04-10T12:00:00.000Z",
+      "summaryShort": "Snap gets closer to releasing new AI glasses after years-long hiatus. Specs has long been teasing the next version of its augmented reality glasses.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "presentation-choosing-your-ai-copilot-maximizing-developer-produ",
-      "title": "Presentation: Choosing Your AI Copilot: Maximizing Developer Productivity",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-coding-agents-copilot/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-09T12:00:00.000Z",
-      "summaryShort": "Presentation: Choosing Your AI Copilot: Maximizing Developer Productivity. Sepehr Khosravi discusses the current state of AI-assisted coding, moving beyond basic autocompletion to sophisticated agentic workflows.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "developing-your-leadership-skills-toward-principal-engineering",
-      "title": "Developing Your Leadership Skills toward Principal Engineering",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/leadership-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-09T11:10:00.000Z",
-      "summaryShort": "Developing Your Leadership Skills toward Principal Engineering. Work isn’t the only place where you can develop valuable leadership skills, Sophie Weston mentioned in the video The Principal Engineer’s Path from her QCon London talk.",
-      "tags": [
-        "Engineering"
       ]
     },
     {
@@ -75,17 +87,6 @@
       "sourceUrl": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
       "publishedAt": "2026-04-09T21:29:11.000Z",
       "summaryShort": "ChatGPT finally offers $100/month Pro plan. OpenAI announced on Thursday something that power users have been asking for: a $100/month plan.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "eff-is-the-latest-organization-to-leave-x",
-      "title": "EFF is the latest organization to leave X",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/",
-      "publishedAt": "2026-04-09T21:26:18.000Z",
-      "summaryShort": "EFF is the latest organization to leave X. The EFF follows the departure of various news organizations and others who no longer find X a viable source of traffic.",
       "tags": [
         "Engineering"
       ]
