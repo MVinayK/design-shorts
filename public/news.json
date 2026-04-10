@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-04-09T13:55:25.504Z",
+  "generatedAt": "2026-04-10T03:18:55.625Z",
   "items": [
+    {
+      "id": "cloudflare-introduces-emdash-typescript-cms-positioned-as-wordpr",
+      "title": "Cloudflare Introduces EmDash: TypeScript CMS Positioned as WordPress Successor",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/cloudflare-emdash-wordpress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-09T20:39:00.000Z",
+      "summaryShort": "Cloudflare Introduces EmDash: TypeScript CMS Positioned as WordPress Successor. Cloudflare recently announced the preview of EmDash, a new open-source CMS it describes as a “spiritual successor to WordPress.” Designed to rebuild the CMS mod",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "uber-s-hive-federation-decentralizes-16k-datasets-and-10-pb-for-",
       "title": "Uber’s Hive Federation Decentralizes 16K Datasets and 10+ PB for Zero-Downtime Analytics at Scale",
@@ -46,45 +58,34 @@
       ]
     },
     {
-      "id": "article-building-hierarchical-agentic-rag-systems-multi-modal-re",
-      "title": "Article: Building Hierarchical Agentic RAG Systems: Multi-Modal Reasoning with Autonomous Error Recovery",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/building-hierarchical-agentic-rag-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-09T09:00:00.000Z",
-      "summaryShort": "Article: Building Hierarchical Agentic RAG Systems: Multi-Modal Reasoning with Autonomous Error Recovery. In this article, the author explores how hierarchical agentic RAG systems coordinate specialized workers through structured orchestrat",
+      "id": "florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-s",
+      "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
+      "publishedAt": "2026-04-09T22:13:26.000Z",
+      "summaryShort": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting. Florida Attorney General James Uthmeier plans to investigate OpenAI for its alleged harm to minors, potential to threaten national security, and its possible link to ",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "spotify-now-lets-everyone-turn-off-all-videos-in-its-app",
-      "title": "Spotify now lets everyone turn off all videos in its app",
+      "id": "chatgpt-finally-offers-100-month-pro-plan",
+      "title": "ChatGPT finally offers $100/month Pro plan",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/spotify-now-lets-everyone-turn-off-all-videos-in-its-app/",
-      "publishedAt": "2026-04-09T13:49:56.000Z",
-      "summaryShort": "Spotify now lets everyone turn off all videos in its app. The controls can be used to choose an audio-first experience on the app or a video-enhanced one, Spotify says.",
+      "sourceUrl": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+      "publishedAt": "2026-04-09T21:29:11.000Z",
+      "summaryShort": "ChatGPT finally offers $100/month Pro plan. OpenAI announced on Thursday something that power users have been asking for: a $100/month plan.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "instagram-expands-its-movie-inspired-content-restrictions-for-te",
-      "title": "Instagram expands its movie inspired content restrictions for teens internationally",
+      "id": "eff-is-the-latest-organization-to-leave-x",
+      "title": "EFF is the latest organization to leave X",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/instagram-expands-its-movie-inspired-content-restriction-for-teens-internationally/",
-      "publishedAt": "2026-04-09T13:26:29.000Z",
-      "summaryShort": "Instagram expands its movie inspired content restrictions for teens internationally. Instagram first debuted its movie rating inspired content settings in limited countries in 2025.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "this-founder-helped-build-spacex-s-most-powerful-rocket-engine-n",
-      "title": "This founder helped build SpaceX's most powerful rocket engine. Now he's building a &#8216;fighter jet for orbit'",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/",
-      "publishedAt": "2026-04-09T13:00:00.000Z",
-      "summaryShort": "This founder helped build SpaceX's most powerful rocket engine. Now he's building a &#8216;fighter jet for orbit'.",
+      "sourceUrl": "https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/",
+      "publishedAt": "2026-04-09T21:26:18.000Z",
+      "summaryShort": "EFF is the latest organization to leave X. The EFF follows the departure of various news organizations and others who no longer find X a viable source of traffic.",
       "tags": [
         "Engineering"
       ]
