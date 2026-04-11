@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-11T02:43:51.549Z",
+  "generatedAt": "2026-04-11T13:10:29.936Z",
   "items": [
+    {
+      "id": "etsy-migrates-1000-shard-425-tb-mysql-sharding-architecture-to-v",
+      "title": "Etsy Migrates 1000-Shard, 425 TB MySQL Sharding Architecture to Vitess",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/etsy-vitess-sharding-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-11T07:13:00.000Z",
+      "summaryShort": "Etsy Migrates 1000-Shard, 425 TB MySQL Sharding Architecture to Vitess. The Etsy engineering team recently described how the company migrated its long-running MySQL sharding infrastructure to Vitess.",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "presentation-latency-the-race-to-zero-are-we-there-yet",
       "title": "Presentation: Latency: The Race to Zero...Are We There Yet?",
@@ -44,17 +55,6 @@
       "summaryShort": "Safari Adds scrollend Event Support, Completing Baseline Browser Coverage. Safari's release of version 26.2 in December introduced support for the scrollend event, completing its alignment with major browsers.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "podcast-tiger-teams-evals-and-agents-the-new-ai-engineering-play",
-      "title": "Podcast: Tiger Teams, Evals and Agents: The New AI Engineering Playbook",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/tiger-teams-evals-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-10T09:00:00.000Z",
-      "summaryShort": "Podcast: Tiger Teams, Evals and Agents: The New AI Engineering Playbook. In this podcast Shane Hastie, Lead Editor for Culture & Methods spoke to Sam Bhagwat, co-founder and CEO of Mastra, about building and sustaining open source communiti",
-      "tags": [
-        "AI"
       ]
     },
     {
