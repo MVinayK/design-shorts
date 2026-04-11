@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-10T13:22:32.369Z",
+  "generatedAt": "2026-04-11T02:43:51.549Z",
   "items": [
+    {
+      "id": "presentation-latency-the-race-to-zero-are-we-there-yet",
+      "title": "Presentation: Latency: The Race to Zero...Are We There Yet?",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/latency-techniques/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-10T14:28:00.000Z",
+      "summaryShort": "Presentation: Latency: The Race to Zero...Are We There Yet?. Amir Langer discusses the evolution of latency reduction, from the Pony Express to modern hardware.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "cncf-and-kusari-partner-to-strengthen-software-supply-chain-secu",
       "title": "CNCF and Kusari Partner to Strengthen Software Supply Chain Security Across Cloud-Native Projects",
@@ -47,46 +58,34 @@
       ]
     },
     {
-      "id": "cloudflare-introduces-emdash-typescript-cms-positioned-as-wordpr",
-      "title": "Cloudflare Introduces EmDash: TypeScript CMS Positioned as WordPress Successor",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/cloudflare-emdash-wordpress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-09T20:39:00.000Z",
-      "summaryShort": "Cloudflare Introduces EmDash: TypeScript CMS Positioned as WordPress Successor. Cloudflare recently announced the preview of EmDash, a new open-source CMS it describes as a “spiritual successor to WordPress.” Designed to rebuild the CMS mod",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hi",
-      "title": "Snap gets closer to releasing new AI glasses after years-long hiatus",
+      "id": "nasa-artemis-ii-splashes-down-in-pacific-ocean-in-8216-perfect-l",
+      "title": "NASA Artemis II splashes down in Pacific Ocean in &#8216;perfect' landing for Moon mission",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
-      "publishedAt": "2026-04-10T12:00:00.000Z",
-      "summaryShort": "Snap gets closer to releasing new AI glasses after years-long hiatus. Specs has long been teasing the next version of its augmented reality glasses.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-s",
-      "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
-      "publishedAt": "2026-04-09T22:13:26.000Z",
-      "summaryShort": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting. Florida Attorney General James Uthmeier plans to investigate OpenAI for its alleged harm to minors, potential to threaten national security, and its possible link to ",
+      "sourceUrl": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
+      "publishedAt": "2026-04-11T00:44:17.000Z",
+      "summaryShort": "NASA Artemis II splashes down in Pacific Ocean in &#8216;perfect' landing for Moon mission. The Integrity craft splashed down in the Pacific Ocean off the coast of San Diego just after 5:07 p.m.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "chatgpt-finally-offers-100-month-pro-plan",
-      "title": "ChatGPT finally offers $100/month Pro plan",
+      "id": "how-to-watch-nasa-s-artemis-ii-splash-back-down-to-earth",
+      "title": "How to watch NASA's Artemis II splash back down to Earth",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-      "publishedAt": "2026-04-09T21:29:11.000Z",
-      "summaryShort": "ChatGPT finally offers $100/month Pro plan. OpenAI announced on Thursday something that power users have been asking for: a $100/month plan.",
+      "sourceUrl": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/",
+      "publishedAt": "2026-04-10T21:18:09.000Z",
+      "summaryShort": "How to watch NASA's Artemis II splash back down to Earth. NASA's Artemis II mission has traveled farther from Earth than any mission before.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "anthropic-temporarily-banned-openclaw-s-creator-from-accessing-c",
+      "title": "Anthropic temporarily banned OpenClaw's creator from accessing Claude",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "publishedAt": "2026-04-10T20:27:52.000Z",
+      "summaryShort": "Anthropic temporarily banned OpenClaw's creator from accessing Claude. This ban took place after Claude's pricing changed for OpenClaw users last week.",
       "tags": [
         "Engineering"
       ]
