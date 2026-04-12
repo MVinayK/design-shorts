@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-12T03:22:12.989Z",
+  "generatedAt": "2026-04-12T13:12:33.358Z",
   "items": [
+    {
+      "id": "github-copilot-cli-reaches-general-availability",
+      "title": "GitHub Copilot CLI Reaches General Availability",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/github-copilot-cli-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-12T09:00:00.000Z",
+      "summaryShort": "GitHub Copilot CLI Reaches General Availability. GitHub has launched Copilot CLI into general availability, bringing generative AI directly to the terminal.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "etsy-migrates-1000-shard-425-tb-mysql-sharding-architecture-to-v",
       "title": "Etsy Migrates 1000-Shard, 425 TB MySQL Sharding Architecture to Vitess",
@@ -44,17 +55,6 @@
       "summaryShort": "Google Cloud Highlights Ongoing Work on PostgreSQL Core Capabilities. Google Cloud has outlined its recent technical contributions to PostgreSQL, emphasizing improvements in logical replication, upgrade processes, and overall system stabili",
       "tags": [
         "Cloud"
-      ]
-    },
-    {
-      "id": "safari-adds-scrollend-event-support-completing-baseline-browser-",
-      "title": "Safari Adds scrollend Event Support, Completing Baseline Browser Coverage",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/safari-scrollend-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-10T09:06:00.000Z",
-      "summaryShort": "Safari Adds scrollend Event Support, Completing Baseline Browser Coverage. Safari's release of version 26.2 in December introduced support for the scrollend event, completing its alignment with major browsers.",
-      "tags": [
-        "Engineering"
       ]
     },
     {
