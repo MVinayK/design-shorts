@@ -1,91 +1,90 @@
 {
-  "generatedAt": "2026-04-13T03:28:55.555Z",
+  "generatedAt": "2026-04-13T13:52:24.184Z",
   "items": [
     {
-      "id": "java-news-roundup-jdk-27-release-schedule-hibernate-langchain4j-",
-      "title": "Java News Roundup: JDK 27 Release Schedule, Hibernate, LangChain4j, Keycloak, Helidon, Junie CLI",
+      "id": "lyft-scales-global-localization-using-ai-and-human-in-the-loop-r",
+      "title": "Lyft Scales Global Localization Using AI and Human-in-the-Loop Review",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/java-news-roundup-apr06-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-13T02:30:00.000Z",
-      "summaryShort": "Java News Roundup: JDK 27 Release Schedule, Hibernate, LangChain4j, Keycloak, Helidon, Junie CLI. This week's Java roundup for April 6th, 2026, features news highlighting: the fifth preview of Primitive Types in Patterns, instanceof and swi",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "github-copilot-cli-reaches-general-availability",
-      "title": "GitHub Copilot CLI Reaches General Availability",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/github-copilot-cli-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-12T09:00:00.000Z",
-      "summaryShort": "GitHub Copilot CLI Reaches General Availability. GitHub has launched Copilot CLI into general availability, bringing generative AI directly to the terminal.",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/lyft-ai-localization-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-13T13:45:00.000Z",
+      "summaryShort": "Lyft Scales Global Localization Using AI and Human-in-the-Loop Review. Lyft has implemented an AI-driven localization system to accelerate translations of its app and web content.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "etsy-migrates-1000-shard-425-tb-mysql-sharding-architecture-to-v",
-      "title": "Etsy Migrates 1000-Shard, 425 TB MySQL Sharding Architecture to Vitess",
+      "id": "presentation-reimagining-platform-engagement-with-graph-neural-n",
+      "title": "Presentation: Reimagining Platform Engagement with Graph Neural Networks",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/etsy-vitess-sharding-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-11T07:13:00.000Z",
-      "summaryShort": "Etsy Migrates 1000-Shard, 425 TB MySQL Sharding Architecture to Vitess. The Etsy engineering team recently described how the company migrated its long-running MySQL sharding infrastructure to Vitess.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-latency-the-race-to-zero-are-we-there-yet",
-      "title": "Presentation: Latency: the Race to Zero...Are We There Yet?",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/latency-techniques/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-10T14:28:00.000Z",
-      "summaryShort": "Presentation: Latency: the Race to Zero...Are We There Yet?. Amir Langer discusses the evolution of latency reduction, from the Pony Express to modern hardware.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "cncf-and-kusari-partner-to-strengthen-software-supply-chain-secu",
-      "title": "CNCF and Kusari Partner to Strengthen Software Supply Chain Security across Cloud-Native Projects",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/cncf-kusari-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-10T12:00:00.000Z",
-      "summaryShort": "CNCF and Kusari Partner to Strengthen Software Supply Chain Security across Cloud-Native Projects. The Cloud Native Computing Foundation (CNCF) and Kusari have announced a new collaboration aimed at strengthening software supply chain secur",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "trump-officials-may-be-encouraging-banks-to-test-anthropic-s-myt",
-      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-      "publishedAt": "2026-04-12T21:14:38.000Z",
-      "summaryShort": "Trump officials may be encouraging banks to test Anthropic’s Mythos model. The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+      "sourceUrl": "https://www.infoq.com/presentations/graph-neural-networks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-13T13:23:00.000Z",
+      "summaryShort": "Presentation: Reimagining Platform Engagement with Graph Neural Networks. Mariia Bulycheva discusses the transition from classic deep learning to GNNs for Zalando's landing page.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "apple-reportedly-testing-four-designs-for-upcoming-smart-glasses",
-      "title": "Apple reportedly testing four designs for upcoming smart glasses",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-      "publishedAt": "2026-04-12T19:58:42.000Z",
-      "summaryShort": "Apple reportedly testing four designs for upcoming smart glasses. These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+      "id": "article-the-spring-team-on-spring-framework-7-and-spring-boot-4",
+      "title": "Article: The Spring Team on Spring Framework 7 and Spring Boot 4",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/spring-team-spring-7-boot-4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-13T11:00:00.000Z",
+      "summaryShort": "Article: The Spring Team on Spring Framework 7 and Spring Boot 4. InfoQ recently spoke with key members of the Spring team about the significant architectural and functional advancements in Spring Framework 7 and Spring Boot 4.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "x-says-it-s-reducing-payments-to-clickbait-accounts",
-      "title": "X says it’s reducing payments to clickbait accounts",
+      "id": "podcast-how-sboms-and-engineering-discipline-can-help-you-avoid-",
+      "title": "Podcast: How SBOMs and Engineering Discipline Can Help You Avoid Trivy’s Compromise",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/help-avoid-trivy-compromise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-13T11:00:00.000Z",
+      "summaryShort": "Podcast: How SBOMs and Engineering Discipline Can Help You Avoid Trivy’s Compromise. Viktor Peterson, part of the CISA task force working on SBOM blueprints and co-founder of sbomify, explores the shifting landscape of software supply chain",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "aws-launches-sustainability-console-with-api-access-and-scope-1-",
+      "title": "AWS Launches Sustainability Console with API Access and Scope 1-3 Emissions Reporting",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/aws-sustainability-console/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-13T08:00:00.000Z",
+      "summaryShort": "AWS Launches Sustainability Console with API Access and Scope 1-3 Emissions Reporting. AWS launched a standalone Sustainability console with API access, configurable CSV exports, and Scope 1-3 emissions data by service and Region.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans",
+      "title": "Slate Auto raises $650M to fund its affordable EV truck plans",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
-      "publishedAt": "2026-04-12T17:02:20.000Z",
-      "summaryShort": "X says it’s reducing payments to clickbait accounts. X is cutting back on payments to accounts that are “flooding the timeline” with clickbait and rapid-fire news aggregation, according to its head of product Nikita Bier",
+      "sourceUrl": "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/",
+      "publishedAt": "2026-04-13T13:26:33.000Z",
+      "summaryShort": "Slate Auto raises $650M to fund its affordable EV truck plans. Slate Auto's latest funding round was led by existing investor TWG Global, a firm run by LA Dodgers owner Mark Walter.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "roblox-introduces-8216-kids-and-8216-select-accounts-for-age-app",
+      "title": "Roblox introduces &#8216;Kids' and &#8216;Select' accounts for age-appropriate access to games and chat",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat/",
+      "publishedAt": "2026-04-13T12:15:00.000Z",
+      "summaryShort": "Roblox introduces &#8216;Kids' and &#8216;Select' accounts for age-appropriate access to games and chat. Users aged five to nine will be assigned to a \"Roblox Kids\" account, and users aged nine to 15 to will be put in a \"Roblox Select\" acco",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "the-largest-orbital-compute-cluster-is-open-for-business",
+      "title": "The largest orbital compute cluster is open for business",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+      "publishedAt": "2026-04-13T07:01:00.000Z",
+      "summaryShort": "The largest orbital compute cluster is open for business. Kepler Communications is flying 40 GPUs in Earth orbit.",
       "tags": [
         "Engineering"
       ]
