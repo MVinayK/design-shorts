@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-12T13:12:33.358Z",
+  "generatedAt": "2026-04-13T03:28:55.555Z",
   "items": [
+    {
+      "id": "java-news-roundup-jdk-27-release-schedule-hibernate-langchain4j-",
+      "title": "Java News Roundup: JDK 27 Release Schedule, Hibernate, LangChain4j, Keycloak, Helidon, Junie CLI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/java-news-roundup-apr06-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-13T02:30:00.000Z",
+      "summaryShort": "Java News Roundup: JDK 27 Release Schedule, Hibernate, LangChain4j, Keycloak, Helidon, Junie CLI. This week's Java roundup for April 6th, 2026, features news highlighting: the fifth preview of Primitive Types in Patterns, instanceof and swi",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "github-copilot-cli-reaches-general-availability",
       "title": "GitHub Copilot CLI Reaches General Availability",
@@ -25,67 +36,56 @@
     },
     {
       "id": "presentation-latency-the-race-to-zero-are-we-there-yet",
-      "title": "Presentation: Latency: The Race to Zero...Are We There Yet?",
+      "title": "Presentation: Latency: the Race to Zero...Are We There Yet?",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/presentations/latency-techniques/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-04-10T14:28:00.000Z",
-      "summaryShort": "Presentation: Latency: The Race to Zero...Are We There Yet?. Amir Langer discusses the evolution of latency reduction, from the Pony Express to modern hardware.",
+      "summaryShort": "Presentation: Latency: the Race to Zero...Are We There Yet?. Amir Langer discusses the evolution of latency reduction, from the Pony Express to modern hardware.",
       "tags": [
         "Engineering"
       ]
     },
     {
       "id": "cncf-and-kusari-partner-to-strengthen-software-supply-chain-secu",
-      "title": "CNCF and Kusari Partner to Strengthen Software Supply Chain Security Across Cloud-Native Projects",
+      "title": "CNCF and Kusari Partner to Strengthen Software Supply Chain Security across Cloud-Native Projects",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/news/2026/04/cncf-kusari-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-04-10T12:00:00.000Z",
-      "summaryShort": "CNCF and Kusari Partner to Strengthen Software Supply Chain Security Across Cloud-Native Projects. The Cloud Native Computing Foundation (CNCF) and Kusari have announced a new collaboration aimed at strengthening software supply chain secur",
+      "summaryShort": "CNCF and Kusari Partner to Strengthen Software Supply Chain Security across Cloud-Native Projects. The Cloud Native Computing Foundation (CNCF) and Kusari have announced a new collaboration aimed at strengthening software supply chain secur",
       "tags": [
         "AI",
         "Cloud"
       ]
     },
     {
-      "id": "google-cloud-highlights-ongoing-work-on-postgresql-core-capabili",
-      "title": "Google Cloud Highlights Ongoing Work on PostgreSQL Core Capabilities",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/google-cloud-postgresql/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-10T09:30:00.000Z",
-      "summaryShort": "Google Cloud Highlights Ongoing Work on PostgreSQL Core Capabilities. Google Cloud has outlined its recent technical contributions to PostgreSQL, emphasizing improvements in logical replication, upgrade processes, and overall system stabili",
+      "id": "trump-officials-may-be-encouraging-banks-to-test-anthropic-s-myt",
+      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "publishedAt": "2026-04-12T21:14:38.000Z",
+      "summaryShort": "Trump officials may be encouraging banks to test Anthropic’s Mythos model. The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
       "tags": [
-        "Cloud"
+        "AI"
       ]
     },
     {
-      "id": "walmart-owned-flipkart-amazon-are-squeezing-india-s-quick-commer",
-      "title": "Walmart-owned Flipkart, Amazon are squeezing India's quick commerce startups",
+      "id": "apple-reportedly-testing-four-designs-for-upcoming-smart-glasses",
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
-      "publishedAt": "2026-04-12T03:00:00.000Z",
-      "summaryShort": "Walmart-owned Flipkart, Amazon are squeezing India's quick commerce startups. Flipkart's ongoing expansion beyond major cities and heavy discounting is raising risks for India's quick commerce startups, analysts say.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "kalshi-wins-temporary-pause-in-arizona-criminal-case",
-      "title": "Kalshi wins temporary pause in Arizona criminal case",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
-      "publishedAt": "2026-04-11T21:20:24.000Z",
-      "summaryShort": "Kalshi wins temporary pause in Arizona criminal case. The Commodity Futures Trading Commission announced Friday that it has won a temporary restraining order preventing Arizona from pursuing its criminal case against Kalshi.",
+      "sourceUrl": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "publishedAt": "2026-04-12T19:58:42.000Z",
+      "summaryShort": "Apple reportedly testing four designs for upcoming smart glasses. These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok",
-      "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
+      "id": "x-says-it-s-reducing-payments-to-clickbait-accounts",
+      "title": "X says it’s reducing payments to clickbait accounts",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
-      "publishedAt": "2026-04-11T20:32:23.000Z",
-      "summaryShort": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok. Is this a smart way to build buzz, or just an odd attempt to recreate Quibi?",
+      "sourceUrl": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+      "publishedAt": "2026-04-12T17:02:20.000Z",
+      "summaryShort": "X says it’s reducing payments to clickbait accounts. X is cutting back on payments to accounts that are “flooding the timeline” with clickbait and rapid-fire news aggregation, according to its head of product Nikita Bier",
       "tags": [
         "Engineering"
       ]
