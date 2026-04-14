@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-13T13:52:24.184Z",
+  "generatedAt": "2026-04-14T03:19:07.047Z",
   "items": [
+    {
+      "id": "google-released-gemma-4-with-a-focus-on-local-first-on-device-ai",
+      "title": "Google Released Gemma 4 with a Focus On Local-First, On-Device AI Inference",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/gemma-4-android-ai-inference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-13T21:00:00.000Z",
+      "summaryShort": "Google Released Gemma 4 with a Focus On Local-First, On-Device AI Inference. With the release of Gemma 4, Google aims to enable local, agentic AI for Android development through a family of models designed to support the entire software lif",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "lyft-scales-global-localization-using-ai-and-human-in-the-loop-r",
       "title": "Lyft Scales Global Localization Using AI and Human-in-the-Loop Review",
@@ -46,45 +57,34 @@
       ]
     },
     {
-      "id": "aws-launches-sustainability-console-with-api-access-and-scope-1-",
-      "title": "AWS Launches Sustainability Console with API Access and Scope 1-3 Emissions Reporting",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/aws-sustainability-console/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-13T08:00:00.000Z",
-      "summaryShort": "AWS Launches Sustainability Console with API Access and Scope 1-3 Emissions Reporting. AWS launched a standalone Sustainability console with API access, configurable CSV exports, and Scope 1-3 emissions data by service and Region.",
+      "id": "an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility",
+      "title": "An Amazon warehouse worker died on the job at Oregon facility",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/",
+      "publishedAt": "2026-04-14T00:26:18.000Z",
+      "summaryShort": "An Amazon warehouse worker died on the job at Oregon facility. Though Amazon has faced issues with warehouse safety, the company said that the death was not work related.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans",
-      "title": "Slate Auto raises $650M to fund its affordable EV truck plans",
+      "id": "openai-has-bought-ai-personal-finance-startup-hiro",
+      "title": "OpenAI has bought AI personal finance startup Hiro",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/",
-      "publishedAt": "2026-04-13T13:26:33.000Z",
-      "summaryShort": "Slate Auto raises $650M to fund its affordable EV truck plans. Slate Auto's latest funding round was led by existing investor TWG Global, a firm run by LA Dodgers owner Mark Walter.",
+      "sourceUrl": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "publishedAt": "2026-04-14T00:23:33.000Z",
+      "summaryShort": "OpenAI has bought AI personal finance startup Hiro. The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "roblox-introduces-8216-kids-and-8216-select-accounts-for-age-app",
-      "title": "Roblox introduces &#8216;Kids' and &#8216;Select' accounts for age-appropriate access to games and chat",
+      "id": "uber-and-nuro-begin-testing-premium-robotaxi-service-in-san-fran",
+      "title": "Uber and Nuro begin testing premium robotaxi service in San Francisco",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat/",
-      "publishedAt": "2026-04-13T12:15:00.000Z",
-      "summaryShort": "Roblox introduces &#8216;Kids' and &#8216;Select' accounts for age-appropriate access to games and chat. Users aged five to nine will be assigned to a \"Roblox Kids\" account, and users aged nine to 15 to will be put in a \"Roblox Select\" acco",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "the-largest-orbital-compute-cluster-is-open-for-business",
-      "title": "The largest orbital compute cluster is open for business",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
-      "publishedAt": "2026-04-13T07:01:00.000Z",
-      "summaryShort": "The largest orbital compute cluster is open for business. Kepler Communications is flying 40 GPUs in Earth orbit.",
+      "sourceUrl": "https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/",
+      "publishedAt": "2026-04-13T21:11:58.000Z",
+      "summaryShort": "Uber and Nuro begin testing premium robotaxi service in San Francisco. Uber employees can now hail a Lucid robotaxi as part of the testing.",
       "tags": [
         "Engineering"
       ]
