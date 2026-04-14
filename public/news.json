@@ -1,90 +1,90 @@
 {
-  "generatedAt": "2026-04-14T03:19:07.047Z",
+  "generatedAt": "2026-04-14T13:57:45.444Z",
   "items": [
     {
-      "id": "google-released-gemma-4-with-a-focus-on-local-first-on-device-ai",
-      "title": "Google Released Gemma 4 with a Focus On Local-First, On-Device AI Inference",
+      "id": "new-rowhammer-attacks-on-nvidia-gpus-enable-full-system-takeover",
+      "title": "New Rowhammer Attacks on NVIDIA GPUs Enable Full System Takeover",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/gemma-4-android-ai-inference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-13T21:00:00.000Z",
-      "summaryShort": "Google Released Gemma 4 with a Focus On Local-First, On-Device AI Inference. With the release of Gemma 4, Google aims to enable local, agentic AI for Android development through a family of models designed to support the entire software lif",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "lyft-scales-global-localization-using-ai-and-human-in-the-loop-r",
-      "title": "Lyft Scales Global Localization Using AI and Human-in-the-Loop Review",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/lyft-ai-localization-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-13T13:45:00.000Z",
-      "summaryShort": "Lyft Scales Global Localization Using AI and Human-in-the-Loop Review. Lyft has implemented an AI-driven localization system to accelerate translations of its app and web content.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-reimagining-platform-engagement-with-graph-neural-n",
-      "title": "Presentation: Reimagining Platform Engagement with Graph Neural Networks",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/graph-neural-networks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-13T13:23:00.000Z",
-      "summaryShort": "Presentation: Reimagining Platform Engagement with Graph Neural Networks. Mariia Bulycheva discusses the transition from classic deep learning to GNNs for Zalando's landing page.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "article-the-spring-team-on-spring-framework-7-and-spring-boot-4",
-      "title": "Article: The Spring Team on Spring Framework 7 and Spring Boot 4",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/spring-team-spring-7-boot-4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-13T11:00:00.000Z",
-      "summaryShort": "Article: The Spring Team on Spring Framework 7 and Spring Boot 4. InfoQ recently spoke with key members of the Spring team about the significant architectural and functional advancements in Spring Framework 7 and Spring Boot 4.",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/rowhammer-attacks-nvidia/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-14T12:00:00.000Z",
+      "summaryShort": "New Rowhammer Attacks on NVIDIA GPUs Enable Full System Takeover. Security researchers have demonstrated a new class of Rowhammer attacks targeting NVIDIA GPUs that can escalate from memory corruption to full system compromise, marking a si",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "podcast-how-sboms-and-engineering-discipline-can-help-you-avoid-",
-      "title": "Podcast: How SBOMs and Engineering Discipline Can Help You Avoid Trivy’s Compromise",
+      "id": "anthropic-paper-examines-behavioral-impact-of-emotion-like-mecha",
+      "title": "Anthropic Paper Examines Behavioral Impact of Emotion-Like Mechanisms in LLMs",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/help-avoid-trivy-compromise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-13T11:00:00.000Z",
-      "summaryShort": "Podcast: How SBOMs and Engineering Discipline Can Help You Avoid Trivy’s Compromise. Viktor Peterson, part of the CISA task force working on SBOM blueprints and co-founder of sbomify, explores the shifting landscape of software supply chain",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility",
-      "title": "An Amazon warehouse worker died on the job at Oregon facility",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/",
-      "publishedAt": "2026-04-14T00:26:18.000Z",
-      "summaryShort": "An Amazon warehouse worker died on the job at Oregon facility. Though Amazon has faced issues with warehouse safety, the company said that the death was not work related.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "openai-has-bought-ai-personal-finance-startup-hiro",
-      "title": "OpenAI has bought AI personal finance startup Hiro",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-      "publishedAt": "2026-04-14T00:23:33.000Z",
-      "summaryShort": "OpenAI has bought AI personal finance startup Hiro. The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/anthropic-paper-llms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-14T11:35:00.000Z",
+      "summaryShort": "Anthropic Paper Examines Behavioral Impact of Emotion-Like Mechanisms in LLMs. A recent paper from Anthropic examines how large language models internally represent concepts related to emotions and how these representations influence behavi",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "uber-and-nuro-begin-testing-premium-robotaxi-service-in-san-fran",
-      "title": "Uber and Nuro begin testing premium robotaxi service in San Francisco",
+      "id": "presentation-platform-engineering-lessons-from-the-rise-and-fall",
+      "title": "Presentation: Platform Engineering: Lessons from the Rise and Fall of eBay Velocity",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/platform-engineering-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-14T11:17:00.000Z",
+      "summaryShort": "Presentation: Platform Engineering: Lessons from the Rise and Fall of eBay Velocity. Randy Shoup discusses the \"Velocity Initiative,\" a transformation that doubled engineering productivity and modernized eBay’s DORA metrics.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "article-beyond-one-click-designing-an-enterprise-grade-observabi",
+      "title": "Article: Beyond One-Click: Designing an Enterprise-Grade Observability Extension for Docker",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/enterprise-grade-observability-extension-docker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-14T09:00:00.000Z",
+      "summaryShort": "Article: Beyond One-Click: Designing an Enterprise-Grade Observability Extension for Docker. Docker Extensions boost developer speed but create a \"visibility gap\" by isolating telemetry.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "airbnb-migrates-high-volume-metrics-pipeline-to-opentelemetry",
+      "title": "Airbnb Migrates High-Volume Metrics Pipeline to OpenTelemetry",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/airbnd-opentelemetry-vmagent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-14T08:00:00.000Z",
+      "summaryShort": "Airbnb Migrates High-Volume Metrics Pipeline to OpenTelemetry. Airbnb's observability engineering team has published details of a large-scale migration away from StatsD and a proprietary Veneur-based aggregation pipeline toward a modern, op",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-sate",
+      "title": "Amazon to buy Globalstar for $11.57B in bid to flesh out its satellite biz",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/",
-      "publishedAt": "2026-04-13T21:11:58.000Z",
-      "summaryShort": "Uber and Nuro begin testing premium robotaxi service in San Francisco. Uber employees can now hail a Lucid robotaxi as part of the testing.",
+      "sourceUrl": "https://techcrunch.com/2026/04/14/amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-satellite-biz/",
+      "publishedAt": "2026-04-14T13:55:42.000Z",
+      "summaryShort": "Amazon to buy Globalstar for $11.57B in bid to flesh out its satellite biz. Amazon on Tuesday agreed to buy satellite company Globalstar, known for powering Apple's \"Emergency SOS\" feature, for $11.57 billion in cash.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis",
+      "title": "Lucid Motors names new CEO, lands more money from Uber and Saudis",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/14/lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis/",
+      "publishedAt": "2026-04-14T12:22:22.000Z",
+      "summaryShort": "Lucid Motors names new CEO, lands more money from Uber and Saudis. The search for a new CEO, which lasted over a year following the sudden resignation of Peter Rawlinson, is finally over.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "inertia-moves-to-commercialize-one-of-the-world-s-most-elaborate",
+      "title": "Inertia moves to commercialize one of the world’s most elaborate science experiments",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/",
+      "publishedAt": "2026-04-14T09:00:00.000Z",
+      "summaryShort": "Inertia moves to commercialize one of the world’s most elaborate science experiments. Inertia has signed three agreements with the Lawrence Livermore National Lab, paving the way for the company to bring its pioneering fusion reactor to mar",
       "tags": [
         "Engineering"
       ]
