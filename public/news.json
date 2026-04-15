@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-04-15T03:16:56.794Z",
+  "generatedAt": "2026-04-15T13:50:50.770Z",
   "items": [
+    {
+      "id": "presentation-empower-your-developers-how-open-source-dependencie",
+      "title": "Presentation: Empower Your Developers: How Open Source Dependencies Risk Management Can Unlock Innovation",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/open-source-dependencies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-15T12:50:00.000Z",
+      "summaryShort": "Presentation: Empower Your Developers: How Open Source Dependencies Risk Management Can Unlock Innovation. Celine Pypaert discusses the ubiquitous nature of open-source software and shares a blueprint for securing modern applications.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "zendesk-says-ai-makes-code-abundant-shifting-the-bottleneck-to-a",
+      "title": "Zendesk Says AI Makes Code Abundant, Shifting the Bottleneck to “Absorption Capacity”",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/zendesk-absorption-capacity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-15T12:30:00.000Z",
+      "summaryShort": "Zendesk Says AI Makes Code Abundant, Shifting the Bottleneck to “Absorption Capacity”. Zendesk argues that GenAI shifts the bottleneck in software delivery from writing code to “absorption capacity”, which is the organisation’s ability to d",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "claude-code-used-to-find-remotely-exploitable-linux-kernel-vulne",
+      "title": "Claude Code Used to Find Remotely Exploitable Linux Kernel Vulnerability Hidden for 23 Years",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/claude-code-linux-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-15T09:36:00.000Z",
+      "summaryShort": "Claude Code Used to Find Remotely Exploitable Linux Kernel Vulnerability Hidden for 23 Years. Anthropic researcher Nicholas Carlini used Claude Code to find a remotely exploitable heap buffer overflow in the Linux kernel's NFS driver, undis",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "article-using-aws-lambda-extensions-to-run-post-response-telemet",
+      "title": "Article: Using AWS Lambda Extensions to Run Post-Response Telemetry Flush",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/lambda-extension-deferred-flush/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-15T09:00:00.000Z",
+      "summaryShort": "Article: Using AWS Lambda Extensions to Run Post-Response Telemetry Flush. At Lead Bank, synchronous telemetry flushing caused intermittent exporter stalls to become user-facing 504 gateway timeouts.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "new-rowhammer-attacks-on-nvidia-gpus-enable-full-system-takeover",
       "title": "New Rowhammer Attacks on NVIDIA GPUs Enable Full System Takeover",
@@ -13,78 +57,35 @@
       ]
     },
     {
-      "id": "anthropic-paper-examines-behavioral-impact-of-emotion-like-mecha",
-      "title": "Anthropic Paper Examines Behavioral Impact of Emotion-Like Mechanisms in LLMs",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/anthropic-paper-llms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-14T11:35:00.000Z",
-      "summaryShort": "Anthropic Paper Examines Behavioral Impact of Emotion-Like Mechanisms in LLMs. A recent paper from Anthropic examines how large language models internally represent concepts related to emotions and how these representations influence behavi",
+      "id": "reid-hoffman-weighs-in-on-the-8216-tokenmaxxing-debate",
+      "title": "Reid Hoffman weighs in on the &#8216;tokenmaxxing' debate",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
+      "publishedAt": "2026-04-15T13:06:54.000Z",
+      "summaryShort": "Reid Hoffman weighs in on the &#8216;tokenmaxxing' debate. Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "presentation-platform-engineering-lessons-from-the-rise-and-fall",
-      "title": "Presentation: Platform Engineering: Lessons from the Rise and Fall of eBay Velocity",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/platform-engineering-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-14T11:17:00.000Z",
-      "summaryShort": "Presentation: Platform Engineering: Lessons from the Rise and Fall of eBay Velocity. Randy Shoup discusses the \"Velocity Initiative,\" a transformation that doubled engineering productivity and modernized eBay’s DORA metrics.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "article-beyond-one-click-designing-an-enterprise-grade-observabi",
-      "title": "Article: Beyond One-Click: Designing an Enterprise-Grade Observability Extension for Docker",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/enterprise-grade-observability-extension-docker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-14T09:00:00.000Z",
-      "summaryShort": "Article: Beyond One-Click: Designing an Enterprise-Grade Observability Extension for Docker. Docker Extensions boost developer speed but create a \"visibility gap\" by isolating telemetry.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "airbnb-migrates-high-volume-metrics-pipeline-to-opentelemetry",
-      "title": "Airbnb Migrates High-Volume Metrics Pipeline to OpenTelemetry",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/airbnd-opentelemetry-vmagent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-14T08:00:00.000Z",
-      "summaryShort": "Airbnb Migrates High-Volume Metrics Pipeline to OpenTelemetry. Airbnb's observability engineering team has published details of a large-scale migration away from StatsD and a proprietary Veneur-based aggregation pipeline toward a modern, op",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "anthropic-s-rise-is-giving-some-openai-investors-second-thoughts",
-      "title": "Anthropic's rise is giving some OpenAI investors second thoughts",
+      "id": "adobe-s-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-",
+      "title": "Adobe's new Firefly AI assistant can use Creative Cloud apps to complete tasks",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-      "publishedAt": "2026-04-15T02:31:04.000Z",
-      "summaryShort": "Anthropic's rise is giving some OpenAI investors second thoughts. One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's ",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
+      "publishedAt": "2026-04-15T13:01:00.000Z",
+      "summaryShort": "Adobe's new Firefly AI assistant can use Creative Cloud apps to complete tasks. Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express, Illustrator and its other apps to do tasks for you.",
       "tags": [
-        "Engineering"
+        "AI",
+        "Cloud"
       ]
     },
     {
-      "id": "ai-data-center-startup-fluidstack-in-talks-for-1b-round-at-18b-v",
-      "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
+      "id": "this-energy-startup-s-bet-on-100-year-old-grid-tech-is-paying-of",
+      "title": "This energy startup’s bet on 100-year-old grid tech is paying off",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
-      "publishedAt": "2026-04-14T21:33:38.000Z",
-      "summaryShort": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report. Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "someone-planted-backdoors-in-dozens-of-wordpress-plug-ins-used-i",
-      "title": "Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/",
-      "publishedAt": "2026-04-14T18:31:34.000Z",
-      "summaryShort": "Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites. Dozens of WordPress plug-ins were allegedly hijacked to push malware after they were sold to a new corporate owner.",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/this-energy-startups-bet-on-100-year-old-grid-tech-is-paying-off/",
+      "publishedAt": "2026-04-15T13:00:00.000Z",
+      "summaryShort": "This energy startup’s bet on 100-year-old grid tech is paying off. Ayr Energy is using a shortage of power conversion equipment to break open a decades-old market.",
       "tags": [
         "Engineering"
       ]
