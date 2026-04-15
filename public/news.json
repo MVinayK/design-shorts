@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T13:57:45.444Z",
+  "generatedAt": "2026-04-15T03:16:56.794Z",
   "items": [
     {
       "id": "new-rowhammer-attacks-on-nvidia-gpus-enable-full-system-takeover",
@@ -57,34 +57,34 @@
       ]
     },
     {
-      "id": "amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-sate",
-      "title": "Amazon to buy Globalstar for $11.57B in bid to flesh out its satellite biz",
+      "id": "anthropic-s-rise-is-giving-some-openai-investors-second-thoughts",
+      "title": "Anthropic's rise is giving some OpenAI investors second thoughts",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-satellite-biz/",
-      "publishedAt": "2026-04-14T13:55:42.000Z",
-      "summaryShort": "Amazon to buy Globalstar for $11.57B in bid to flesh out its satellite biz. Amazon on Tuesday agreed to buy satellite company Globalstar, known for powering Apple's \"Emergency SOS\" feature, for $11.57 billion in cash.",
+      "sourceUrl": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+      "publishedAt": "2026-04-15T02:31:04.000Z",
+      "summaryShort": "Anthropic's rise is giving some OpenAI investors second thoughts. One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's ",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis",
-      "title": "Lucid Motors names new CEO, lands more money from Uber and Saudis",
+      "id": "ai-data-center-startup-fluidstack-in-talks-for-1b-round-at-18b-v",
+      "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis/",
-      "publishedAt": "2026-04-14T12:22:22.000Z",
-      "summaryShort": "Lucid Motors names new CEO, lands more money from Uber and Saudis. The search for a new CEO, which lasted over a year following the sudden resignation of Peter Rawlinson, is finally over.",
+      "sourceUrl": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
+      "publishedAt": "2026-04-14T21:33:38.000Z",
+      "summaryShort": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report. Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "inertia-moves-to-commercialize-one-of-the-world-s-most-elaborate",
-      "title": "Inertia moves to commercialize one of the world’s most elaborate science experiments",
+      "id": "someone-planted-backdoors-in-dozens-of-wordpress-plug-ins-used-i",
+      "title": "Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/",
-      "publishedAt": "2026-04-14T09:00:00.000Z",
-      "summaryShort": "Inertia moves to commercialize one of the world’s most elaborate science experiments. Inertia has signed three agreements with the Lawrence Livermore National Lab, paving the way for the company to bring its pioneering fusion reactor to mar",
+      "sourceUrl": "https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/",
+      "publishedAt": "2026-04-14T18:31:34.000Z",
+      "summaryShort": "Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites. Dozens of WordPress plug-ins were allegedly hijacked to push malware after they were sold to a new corporate owner.",
       "tags": [
         "Engineering"
       ]
