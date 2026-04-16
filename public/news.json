@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-04-16T03:25:08.250Z",
+  "generatedAt": "2026-04-16T13:59:43.628Z",
   "items": [
+    {
+      "id": "platform-as-a-product-delivering-value-while-balancing-competing",
+      "title": "Platform as a Product: Delivering Value While Balancing Competing Priorities",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/platform-product-deliver-value/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-16T11:52:00.000Z",
+      "summaryShort": "Platform as a Product: Delivering Value While Balancing Competing Priorities. Software platforms must be treated as products.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "cursor-3-introduces-agent-first-interface-moving-beyond-the-ide-",
+      "title": "Cursor 3 Introduces Agent-First Interface, Moving Beyond the IDE Model",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/cursor-3-agent-first-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-16T09:37:00.000Z",
+      "summaryShort": "Cursor 3 Introduces Agent-First Interface, Moving Beyond the IDE Model. Anysphere released Cursor 3, a redesigned interface built from scratch that shifts the primary model from file editing to managing parallel coding agents.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "opentelemetry-declarative-configuration-reaches-stability-milest",
       "title": "OpenTelemetry Declarative Configuration Reaches Stability Milestone",
@@ -36,56 +59,34 @@
       ]
     },
     {
-      "id": "zendesk-says-ai-makes-code-abundant-shifting-the-bottleneck-to-a",
-      "title": "Zendesk Says AI Makes Code Abundant, Shifting the Bottleneck to “Absorption Capacity”",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/zendesk-absorption-capacity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-15T12:30:00.000Z",
-      "summaryShort": "Zendesk Says AI Makes Code Abundant, Shifting the Bottleneck to “Absorption Capacity”. Zendesk argues that GenAI shifts the bottleneck in software delivery from writing code to “absorption capacity”, which is the organisation’s ability to d",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "claude-code-used-to-find-remotely-exploitable-linux-kernel-vulne",
-      "title": "Claude Code Used to Find Remotely Exploitable Linux Kernel Vulnerability Hidden for 23 Years",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/claude-code-linux-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-15T09:36:00.000Z",
-      "summaryShort": "Claude Code Used to Find Remotely Exploitable Linux Kernel Vulnerability Hidden for 23 Years. Anthropic researcher Nicholas Carlini used Claude Code to find a remotely exploitable heap buffer overflow in the Linux kernel's NFS driver, undis",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo",
-      "title": "Amazon-backed X-energy files to raise up to $800M in IPO",
+      "id": "meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage",
+      "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/",
-      "publishedAt": "2026-04-15T22:44:26.000Z",
-      "summaryShort": "Amazon-backed X-energy files to raise up to $800M in IPO. Nuclear startup X-energy hit the road today to sell prospective investors on its initial public offering.",
+      "sourceUrl": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
+      "publishedAt": "2026-04-16T13:49:32.000Z",
+      "summaryShort": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage. Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349.99 and $449.99, respectively.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "ford-ev-and-tech-chief-leaving-automaker",
-      "title": "Ford EV and tech chief leaving automaker",
+      "id": "canva-s-ai-assistant-can-now-call-various-tools-to-make-designs-",
+      "title": "Canva's AI assistant can now call various tools to make designs for you",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/",
-      "publishedAt": "2026-04-15T21:52:05.000Z",
-      "summaryShort": "Ford EV and tech chief leaving automaker. Doug Field had stints at Apple and Tesla before joining Ford in 2021.",
+      "sourceUrl": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+      "publishedAt": "2026-04-16T13:00:00.000Z",
+      "summaryShort": "Canva's AI assistant can now call various tools to make designs for you. The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "wait-could-they-still-actually-break-up-live-nation",
-      "title": "Wait, could they still actually break up Live Nation?",
+      "id": "fashion-retailer-express-left-customers-personal-data-and-order-",
+      "title": "Fashion retailer Express left customers' personal data and order details exposed to the internet",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/",
-      "publishedAt": "2026-04-15T21:38:09.000Z",
-      "summaryShort": "Wait, could they still actually break up Live Nation?. A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month.",
+      "sourceUrl": "https://techcrunch.com/2026/04/16/fashion-retailer-express-left-customers-personal-data-and-order-details-exposed-to-the-internet/",
+      "publishedAt": "2026-04-16T12:39:56.000Z",
+      "summaryShort": "Fashion retailer Express left customers' personal data and order details exposed to the internet. Retail giant Express was publicly spilling customer information to the open web.",
       "tags": [
         "Engineering"
       ]
