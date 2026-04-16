@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-04-15T13:50:50.770Z",
+  "generatedAt": "2026-04-16T03:25:08.250Z",
   "items": [
+    {
+      "id": "opentelemetry-declarative-configuration-reaches-stability-milest",
+      "title": "OpenTelemetry Declarative Configuration Reaches Stability Milestone",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/opentelemetry-declarative-config/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-15T23:45:00.000Z",
+      "summaryShort": "OpenTelemetry Declarative Configuration Reaches Stability Milestone. The OpenTelemetry project has announced that key portions of its declarative configuration specification have reached stable status.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "google-s-turboquant-compression-may-support-faster-inference-sam",
+      "title": "Google’s TurboQuant Compression May Support Faster Inference, Same Accuracy on Less Capable Hardware",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/turboquant-compression-kv-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-15T16:53:00.000Z",
+      "summaryShort": "Google’s TurboQuant Compression May Support Faster Inference, Same Accuracy on Less Capable Hardware. Google Research unveiled TurboQuant, a novel quantization algorithm that compresses large language models’ Key-Value caches by up to 6x.",
+      "tags": [
+        "AI",
+        "Architecture"
+      ]
+    },
     {
       "id": "presentation-empower-your-developers-how-open-source-dependencie",
       "title": "Presentation: Empower Your Developers: How Open Source Dependencies Risk Management Can Unlock Innovation",
@@ -35,57 +58,34 @@
       ]
     },
     {
-      "id": "article-using-aws-lambda-extensions-to-run-post-response-telemet",
-      "title": "Article: Using AWS Lambda Extensions to Run Post-Response Telemetry Flush",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/lambda-extension-deferred-flush/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-15T09:00:00.000Z",
-      "summaryShort": "Article: Using AWS Lambda Extensions to Run Post-Response Telemetry Flush. At Lead Bank, synchronous telemetry flushing caused intermittent exporter stalls to become user-facing 504 gateway timeouts.",
+      "id": "amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo",
+      "title": "Amazon-backed X-energy files to raise up to $800M in IPO",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/",
+      "publishedAt": "2026-04-15T22:44:26.000Z",
+      "summaryShort": "Amazon-backed X-energy files to raise up to $800M in IPO. Nuclear startup X-energy hit the road today to sell prospective investors on its initial public offering.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "new-rowhammer-attacks-on-nvidia-gpus-enable-full-system-takeover",
-      "title": "New Rowhammer Attacks on NVIDIA GPUs Enable Full System Takeover",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/rowhammer-attacks-nvidia/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-14T12:00:00.000Z",
-      "summaryShort": "New Rowhammer Attacks on NVIDIA GPUs Enable Full System Takeover. Security researchers have demonstrated a new class of Rowhammer attacks targeting NVIDIA GPUs that can escalate from memory corruption to full system compromise, marking a si",
+      "id": "ford-ev-and-tech-chief-leaving-automaker",
+      "title": "Ford EV and tech chief leaving automaker",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/",
+      "publishedAt": "2026-04-15T21:52:05.000Z",
+      "summaryShort": "Ford EV and tech chief leaving automaker. Doug Field had stints at Apple and Tesla before joining Ford in 2021.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "reid-hoffman-weighs-in-on-the-8216-tokenmaxxing-debate",
-      "title": "Reid Hoffman weighs in on the &#8216;tokenmaxxing' debate",
+      "id": "wait-could-they-still-actually-break-up-live-nation",
+      "title": "Wait, could they still actually break up Live Nation?",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
-      "publishedAt": "2026-04-15T13:06:54.000Z",
-      "summaryShort": "Reid Hoffman weighs in on the &#8216;tokenmaxxing' debate. Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "adobe-s-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-",
-      "title": "Adobe's new Firefly AI assistant can use Creative Cloud apps to complete tasks",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
-      "publishedAt": "2026-04-15T13:01:00.000Z",
-      "summaryShort": "Adobe's new Firefly AI assistant can use Creative Cloud apps to complete tasks. Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express, Illustrator and its other apps to do tasks for you.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "this-energy-startup-s-bet-on-100-year-old-grid-tech-is-paying-of",
-      "title": "This energy startup’s bet on 100-year-old grid tech is paying off",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/this-energy-startups-bet-on-100-year-old-grid-tech-is-paying-off/",
-      "publishedAt": "2026-04-15T13:00:00.000Z",
-      "summaryShort": "This energy startup’s bet on 100-year-old grid tech is paying off. Ayr Energy is using a shortage of power conversion equipment to break open a decades-old market.",
+      "sourceUrl": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/",
+      "publishedAt": "2026-04-15T21:38:09.000Z",
+      "summaryShort": "Wait, could they still actually break up Live Nation?. A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month.",
       "tags": [
         "Engineering"
       ]
