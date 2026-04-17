@@ -1,91 +1,92 @@
 {
-  "generatedAt": "2026-04-17T03:19:59.999Z",
+  "generatedAt": "2026-04-17T13:42:37.521Z",
   "items": [
     {
-      "id": "aws-introduces-s3-files-bringing-file-system-access-to-s3-bucket",
-      "title": "AWS Introduces S3 Files, Bringing File System Access to S3 Buckets",
+      "id": "cncf-warns-kubernetes-alone-is-not-enough-to-secure-llm-workload",
+      "title": "CNCF Warns Kubernetes Alone Is Not Enough to Secure LLM Workloads",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/aws-s3-files/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-16T18:08:00.000Z",
-      "summaryShort": "AWS Introduces S3 Files, Bringing File System Access to S3 Buckets. AWS recently introduced S3 Files, which lets users mount an Amazon S3 bucket and access its data through a standard file system interface.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "google-opens-gemma-4-under-apache-2-0-with-multimodal-and-agenti",
-      "title": "Google Opens Gemma 4 Under Apache 2.0 with Multimodal and Agentic Capabilities",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/google-gemm4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-16T17:05:00.000Z",
-      "summaryShort": "Google Opens Gemma 4 Under Apache 2.0 with Multimodal and Agentic Capabilities. Google has announced the release of Gemma 4, a series of open-weight AI models, including variants with 2B, 4B, 26B, and 31B parameters, under the Apache 2.0 li",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "cloudflare-launches-code-mode-mcp-server-to-optimize-token-usage",
-      "title": "Cloudflare Launches Code Mode MCP Server to Optimize Token Usage for AI Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/cloudflare-code-mode-mcp-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-16T14:17:00.000Z",
-      "summaryShort": "Cloudflare Launches Code Mode MCP Server to Optimize Token Usage for AI Agents. Cloudflare has launched a new Model Context Protocol (MCP) server powered by Code Mode, enabling AI agents to interact with large APIs with minimal token usage.",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/kubernetes-secure-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-17T12:00:00.000Z",
+      "summaryShort": "CNCF Warns Kubernetes Alone Is Not Enough to Secure LLM Workloads. A new blog from the Cloud Native Computing Foundation highlights a critical gap in how organizations are deploying large language models (LLMs) on Kubernetes: while Kubernet",
       "tags": [
         "AI",
         "Cloud"
       ]
     },
     {
-      "id": "presentation-from-vr-to-flat-screens-bridging-the-input-and-imme",
-      "title": "Presentation: From VR to Flat Screens: Bridging the Input and Immersion Gap",
+      "id": "anthropic-introduces-agent-based-code-review-for-claude-code",
+      "title": "Anthropic Introduces Agent-Based Code Review for Claude Code",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/game-vr-flat-screens/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-16T14:10:00.000Z",
-      "summaryShort": "Presentation: From VR to Flat Screens: Bridging the Input and Immersion Gap. Dany Lepage discusses the architectural journey of porting a hit VR title to seven non-VR platforms.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "platform-as-a-product-delivering-value-while-balancing-competing",
-      "title": "Platform as a Product: Delivering Value While Balancing Competing Priorities",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/platform-product-deliver-value/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-16T11:52:00.000Z",
-      "summaryShort": "Platform as a Product: Delivering Value While Balancing Competing Priorities. Software platforms must be treated as products.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets",
-      "title": "New leaders, new fund: Sequoia has raised $7B to expand its AI bets",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/",
-      "publishedAt": "2026-04-17T02:55:06.000Z",
-      "summaryShort": "New leaders, new fund: Sequoia has raised $7B to expand its AI bets. The fundraise is the first major capital raise under Sequoia's new leadership, with Alfred Lin and Pat Grady now serving as co-stewards of the 54-year-old firm.",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-17T10:16:00.000Z",
+      "summaryShort": "Anthropic Introduces Agent-Based Code Review for Claude Code. Anthropic has introduced a new Code Review feature for Claude Code, adding an agent-based pull request review system that analyzes code changes using multiple AI reviewers.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises",
-      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+      "id": "presentation-speed-at-scale-optimizing-the-largest-cx-platform-o",
+      "title": "Presentation: Speed at Scale: Optimizing the Largest CX Platform Out There",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/optimize-performance-cx-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-17T09:20:00.000Z",
+      "summaryShort": "Presentation: Speed at Scale: Optimizing the Largest CX Platform Out There. Matheus Albuquerque shares strategies for optimizing a massive CX platform, moving from React 15 and Webpack 1 to modern standards.",
+      "tags": [
+        "Architecture"
+      ]
+    },
+    {
+      "id": "article-lakehouse-tower-of-babel-handling-identifier-resolution-",
+      "title": "Article: Lakehouse Tower of Babel: Handling Identifier Resolution Rules Across Database Engines",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/lakehouse-sql-identifier-rules/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-17T09:00:00.000Z",
+      "summaryShort": "Article: Lakehouse Tower of Babel: Handling Identifier Resolution Rules Across Database Engines. Lakehouse architectures enable multiple engines to operate on shared data using open table formats such as Apache Iceberg.",
+      "tags": [
+        "Databases"
+      ]
+    },
+    {
+      "id": "aws-launches-agent-registry-in-preview-to-govern-ai-agent-sprawl",
+      "title": "AWS Launches Agent Registry in Preview to Govern AI Agent Sprawl Across Enterprises",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/aws-agent-registry-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-17T06:54:00.000Z",
+      "summaryShort": "AWS Launches Agent Registry in Preview to Govern AI Agent Sprawl Across Enterprises. AWS released Agent Registry in preview as part of Amazon Bedrock AgentCore, providing a centralized catalog for discovering, governing, and reusing AI agen",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "bluesky-confirms-ddos-attack-is-cause-of-continued-app-outages",
+      "title": "Bluesky confirms DDoS attack is cause of continued app outages",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
-      "publishedAt": "2026-04-16T22:55:30.000Z",
-      "summaryShort": "Factory hits $1.5B valuation to build AI coding for enterprises. The three-year-old startup raised $150 million led by Khosla Ventures.",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/its-not-just-you-bluesky-is-sorta-down/",
+      "publishedAt": "2026-04-17T13:22:04.000Z",
+      "summaryShort": "Bluesky confirms DDoS attack is cause of continued app outages. Bluesky has been experiencing ongoing service disruptions since just before 3 a.m.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommenda",
+      "title": "Netflix plans to add a vertical video feed, use AI for recommendations",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
+      "publishedAt": "2026-04-17T13:17:18.000Z",
+      "summaryShort": "Netflix plans to add a vertical video feed, use AI for recommendations. Netflix is going to launch a TikTok-like vertical video feed within its apps this month, and plans to use AI broadly for content creation and recommendations.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "luma-launches-ai-powered-production-studio-with-faith-focused-wo",
-      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+      "id": "sayso-is-a-new-short-form-video-app-that-aims-to-restore-users-t",
+      "title": "SaySo is a new short-form video app that aims to restore users' trust in news",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
-      "publishedAt": "2026-04-16T21:58:08.000Z",
-      "summaryShort": "Luma launches AI-powered production studio with faith-focused Wonder Project. The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/sayso-is-a-new-short-form-video-app-that-aims-to-restore-users-trust-in-news/",
+      "publishedAt": "2026-04-17T13:00:00.000Z",
+      "summaryShort": "SaySo is a new short-form video app that aims to restore users' trust in news. Users are fed up with misinformation and AI slop cluttering their feeds.",
       "tags": [
         "AI"
       ]
