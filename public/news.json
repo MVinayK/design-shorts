@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-04-16T13:59:43.628Z",
+  "generatedAt": "2026-04-17T03:19:59.999Z",
   "items": [
+    {
+      "id": "aws-introduces-s3-files-bringing-file-system-access-to-s3-bucket",
+      "title": "AWS Introduces S3 Files, Bringing File System Access to S3 Buckets",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/aws-s3-files/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-16T18:08:00.000Z",
+      "summaryShort": "AWS Introduces S3 Files, Bringing File System Access to S3 Buckets. AWS recently introduced S3 Files, which lets users mount an Amazon S3 bucket and access its data through a standard file system interface.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "google-opens-gemma-4-under-apache-2-0-with-multimodal-and-agenti",
+      "title": "Google Opens Gemma 4 Under Apache 2.0 with Multimodal and Agentic Capabilities",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/google-gemm4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-16T17:05:00.000Z",
+      "summaryShort": "Google Opens Gemma 4 Under Apache 2.0 with Multimodal and Agentic Capabilities. Google has announced the release of Gemma 4, a series of open-weight AI models, including variants with 2B, 4B, 26B, and 31B parameters, under the Apache 2.0 li",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "cloudflare-launches-code-mode-mcp-server-to-optimize-token-usage",
+      "title": "Cloudflare Launches Code Mode MCP Server to Optimize Token Usage for AI Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/cloudflare-code-mode-mcp-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-16T14:17:00.000Z",
+      "summaryShort": "Cloudflare Launches Code Mode MCP Server to Optimize Token Usage for AI Agents. Cloudflare has launched a new Model Context Protocol (MCP) server powered by Code Mode, enabling AI agents to interact with large APIs with minimal token usage.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "presentation-from-vr-to-flat-screens-bridging-the-input-and-imme",
+      "title": "Presentation: From VR to Flat Screens: Bridging the Input and Immersion Gap",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/game-vr-flat-screens/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-16T14:10:00.000Z",
+      "summaryShort": "Presentation: From VR to Flat Screens: Bridging the Input and Immersion Gap. Dany Lepage discusses the architectural journey of porting a hit VR title to seven non-VR platforms.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "platform-as-a-product-delivering-value-while-balancing-competing",
       "title": "Platform as a Product: Delivering Value While Balancing Competing Priorities",
@@ -13,82 +58,36 @@
       ]
     },
     {
-      "id": "cursor-3-introduces-agent-first-interface-moving-beyond-the-ide-",
-      "title": "Cursor 3 Introduces Agent-First Interface, Moving Beyond the IDE Model",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/cursor-3-agent-first-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-16T09:37:00.000Z",
-      "summaryShort": "Cursor 3 Introduces Agent-First Interface, Moving Beyond the IDE Model. Anysphere released Cursor 3, a redesigned interface built from scratch that shifts the primary model from file editing to managing parallel coding agents.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "opentelemetry-declarative-configuration-reaches-stability-milest",
-      "title": "OpenTelemetry Declarative Configuration Reaches Stability Milestone",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/opentelemetry-declarative-config/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-15T23:45:00.000Z",
-      "summaryShort": "OpenTelemetry Declarative Configuration Reaches Stability Milestone. The OpenTelemetry project has announced that key portions of its declarative configuration specification have reached stable status.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "google-s-turboquant-compression-may-support-faster-inference-sam",
-      "title": "Google’s TurboQuant Compression May Support Faster Inference, Same Accuracy on Less Capable Hardware",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/turboquant-compression-kv-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-15T16:53:00.000Z",
-      "summaryShort": "Google’s TurboQuant Compression May Support Faster Inference, Same Accuracy on Less Capable Hardware. Google Research unveiled TurboQuant, a novel quantization algorithm that compresses large language models’ Key-Value caches by up to 6x.",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "presentation-empower-your-developers-how-open-source-dependencie",
-      "title": "Presentation: Empower Your Developers: How Open Source Dependencies Risk Management Can Unlock Innovation",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/open-source-dependencies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-15T12:50:00.000Z",
-      "summaryShort": "Presentation: Empower Your Developers: How Open Source Dependencies Risk Management Can Unlock Innovation. Celine Pypaert discusses the ubiquitous nature of open-source software and shares a blueprint for securing modern applications.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage",
-      "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
+      "id": "new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets",
+      "title": "New leaders, new fund: Sequoia has raised $7B to expand its AI bets",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
-      "publishedAt": "2026-04-16T13:49:32.000Z",
-      "summaryShort": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage. Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349.99 and $449.99, respectively.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "canva-s-ai-assistant-can-now-call-various-tools-to-make-designs-",
-      "title": "Canva's AI assistant can now call various tools to make designs for you",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
-      "publishedAt": "2026-04-16T13:00:00.000Z",
-      "summaryShort": "Canva's AI assistant can now call various tools to make designs for you. The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
+      "sourceUrl": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/",
+      "publishedAt": "2026-04-17T02:55:06.000Z",
+      "summaryShort": "New leaders, new fund: Sequoia has raised $7B to expand its AI bets. The fundraise is the first major capital raise under Sequoia's new leadership, with Alfred Lin and Pat Grady now serving as co-stewards of the 54-year-old firm.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "fashion-retailer-express-left-customers-personal-data-and-order-",
-      "title": "Fashion retailer Express left customers' personal data and order details exposed to the internet",
+      "id": "factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises",
+      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/fashion-retailer-express-left-customers-personal-data-and-order-details-exposed-to-the-internet/",
-      "publishedAt": "2026-04-16T12:39:56.000Z",
-      "summaryShort": "Fashion retailer Express left customers' personal data and order details exposed to the internet. Retail giant Express was publicly spilling customer information to the open web.",
+      "sourceUrl": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+      "publishedAt": "2026-04-16T22:55:30.000Z",
+      "summaryShort": "Factory hits $1.5B valuation to build AI coding for enterprises. The three-year-old startup raised $150 million led by Khosla Ventures.",
       "tags": [
-        "Engineering"
+        "AI"
+      ]
+    },
+    {
+      "id": "luma-launches-ai-powered-production-studio-with-faith-focused-wo",
+      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+      "publishedAt": "2026-04-16T21:58:08.000Z",
+      "summaryShort": "Luma launches AI-powered production studio with faith-focused Wonder Project. The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+      "tags": [
+        "AI"
       ]
     }
   ]
