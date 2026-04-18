@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-04-18T02:52:04.601Z",
+  "generatedAt": "2026-04-18T13:13:19.605Z",
   "items": [
+    {
+      "id": "aws-announces-general-availability-of-devops-agent-for-automated",
+      "title": "AWS Announces General Availability of DevOps Agent for Automated Incident Investigation",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/aws-devops-agent-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-18T11:31:00.000Z",
+      "summaryShort": "AWS Announces General Availability of DevOps Agent for Automated Incident Investigation. AWS has announced the general availability of DevOps Agent, a generative AI–powered assistant designed to help developers and operators troubleshoot is",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "pulumi-adds-full-bun-runtime-support",
+      "title": "Pulumi Adds Full Bun Runtime Support",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/pulumi-bun-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-18T08:00:00.000Z",
+      "summaryShort": "Pulumi Adds Full Bun Runtime Support. Pulumi has announced that Bun is now a fully supported runtime for Pulumi, going beyond its previous role as merely a package manager option.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "effect-v4-beta-rewritten-runtime-smaller-bundles-and-unified-pac",
+      "title": "Effect v4 Beta: Rewritten Runtime, Smaller Bundles and Unified Package System",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/effect-v4-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-18T07:00:00.000Z",
+      "summaryShort": "Effect v4 Beta: Rewritten Runtime, Smaller Bundles and Unified Package System. Effect v4 beta, a TypeScript framework for building applications, features a complete rewrite of its core fiber runtime, offering reduced memory usage and smalle",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "c-26-reflection-memory-safety-contracts-and-a-new-async-model",
       "title": "C++26: Reflection, Memory Safety, Contracts, and a New Async Model",
@@ -24,37 +57,25 @@
       ]
     },
     {
-      "id": "cncf-warns-kubernetes-alone-is-not-enough-to-secure-llm-workload",
-      "title": "CNCF Warns Kubernetes Alone Is Not Enough to Secure LLM Workloads",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/kubernetes-secure-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-17T12:00:00.000Z",
-      "summaryShort": "CNCF Warns Kubernetes Alone Is Not Enough to Secure LLM Workloads. A new blog from the Cloud Native Computing Foundation highlights a critical gap in how organizations are deploying large language models (LLMs) on Kubernetes: while Kubernet",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "anthropic-introduces-agent-based-code-review-for-claude-code",
-      "title": "Anthropic Introduces Agent-Based Code Review for Claude Code",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-17T10:16:00.000Z",
-      "summaryShort": "Anthropic Introduces Agent-Based Code Review for Claude Code. Anthropic has introduced a new Code Review feature for Claude Code, adding an agent-based pull request review system that analyzes code changes using multiple AI reviewers.",
+      "id": "the-app-store-is-booming-again-and-ai-may-be-why",
+      "title": "The App Store is booming again, and AI may be why",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "publishedAt": "2026-04-18T13:00:00.000Z",
+      "summaryShort": "The App Store is booming again, and AI may be why. New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "presentation-speed-at-scale-optimizing-the-largest-cx-platform-o",
-      "title": "Presentation: Speed at Scale: Optimizing the Largest CX Platform Out There",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/optimize-performance-cx-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-17T09:20:00.000Z",
-      "summaryShort": "Presentation: Speed at Scale: Optimizing the Largest CX Platform Out There. Matheus Albuquerque shares strategies for optimizing a massive CX platform, moving from React 15 and Webpack 1 to modern standards.",
+      "id": "once-close-enough-for-an-acquisition-stripe-and-airwallex-are-no",
+      "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
+      "publishedAt": "2026-04-18T05:20:11.000Z",
+      "summaryShort": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other. For most of its life, Airwallex and Stripe have mostly operated in different geographies, selling to different buyers.",
       "tags": [
-        "Architecture"
+        "Engineering"
       ]
     },
     {
@@ -64,28 +85,6 @@
       "sourceUrl": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
       "publishedAt": "2026-04-17T22:34:02.000Z",
       "summaryShort": "Sam Altman's project World looks to scale its human verification empire. First stop: Tinder..",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-",
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed &#8216;side quests'",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-      "publishedAt": "2026-04-17T20:38:17.000Z",
-      "summaryShort": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed &#8216;side quests'. Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer m",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "man-who-hacked-us-supreme-court-filing-system-sentenced-to-proba",
-      "title": "Man who hacked US Supreme Court filing system sentenced to probation",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
-      "publishedAt": "2026-04-17T20:16:13.000Z",
-      "summaryShort": "Man who hacked US Supreme Court filing system sentenced to probation. Nicholas Moore hacked into three U.S.",
       "tags": [
         "Engineering"
       ]
