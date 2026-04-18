@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-04-17T13:42:37.521Z",
+  "generatedAt": "2026-04-18T02:52:04.601Z",
   "items": [
+    {
+      "id": "c-26-reflection-memory-safety-contracts-and-a-new-async-model",
+      "title": "C++26: Reflection, Memory Safety, Contracts, and a New Async Model",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-17T15:00:00.000Z",
+      "summaryShort": "C++26: Reflection, Memory Safety, Contracts, and a New Async Model. The C++26 standard draft is now complete, reports Herb Sutter, long-time C++ expert and former chair of the ISO C++ standards committee.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "meta-reports-4x-higher-bug-detection-with-just-in-time-testing",
+      "title": "Meta Reports 4x Higher Bug Detection with Just-in-Time Testing",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/meta-jit-testing-ai-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-17T14:49:00.000Z",
+      "summaryShort": "Meta Reports 4x Higher Bug Detection with Just-in-Time Testing. Meta introduces Just-in-Time (JiT) testing, a dynamic approach that generates tests during code review instead of relying on static test suites.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "cncf-warns-kubernetes-alone-is-not-enough-to-secure-llm-workload",
       "title": "CNCF Warns Kubernetes Alone Is Not Enough to Secure LLM Workloads",
@@ -36,59 +58,36 @@
       ]
     },
     {
-      "id": "article-lakehouse-tower-of-babel-handling-identifier-resolution-",
-      "title": "Article: Lakehouse Tower of Babel: Handling Identifier Resolution Rules Across Database Engines",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/lakehouse-sql-identifier-rules/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-17T09:00:00.000Z",
-      "summaryShort": "Article: Lakehouse Tower of Babel: Handling Identifier Resolution Rules Across Database Engines. Lakehouse architectures enable multiple engines to operate on shared data using open table formats such as Apache Iceberg.",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "aws-launches-agent-registry-in-preview-to-govern-ai-agent-sprawl",
-      "title": "AWS Launches Agent Registry in Preview to Govern AI Agent Sprawl Across Enterprises",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/aws-agent-registry-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-17T06:54:00.000Z",
-      "summaryShort": "AWS Launches Agent Registry in Preview to Govern AI Agent Sprawl Across Enterprises. AWS released Agent Registry in preview as part of Amazon Bedrock AgentCore, providing a centralized catalog for discovering, governing, and reusing AI agen",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "bluesky-confirms-ddos-attack-is-cause-of-continued-app-outages",
-      "title": "Bluesky confirms DDoS attack is cause of continued app outages",
+      "id": "sam-altman-s-project-world-looks-to-scale-its-human-verification",
+      "title": "Sam Altman's project World looks to scale its human verification empire. First stop: Tinder.",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/its-not-just-you-bluesky-is-sorta-down/",
-      "publishedAt": "2026-04-17T13:22:04.000Z",
-      "summaryShort": "Bluesky confirms DDoS attack is cause of continued app outages. Bluesky has been experiencing ongoing service disruptions since just before 3 a.m.",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "publishedAt": "2026-04-17T22:34:02.000Z",
+      "summaryShort": "Sam Altman's project World looks to scale its human verification empire. First stop: Tinder..",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommenda",
-      "title": "Netflix plans to add a vertical video feed, use AI for recommendations",
+      "id": "kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-",
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed &#8216;side quests'",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
-      "publishedAt": "2026-04-17T13:17:18.000Z",
-      "summaryShort": "Netflix plans to add a vertical video feed, use AI for recommendations. Netflix is going to launch a TikTok-like vertical video feed within its apps this month, and plans to use AI broadly for content creation and recommendations.",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "publishedAt": "2026-04-17T20:38:17.000Z",
+      "summaryShort": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed &#8216;side quests'. Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer m",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "sayso-is-a-new-short-form-video-app-that-aims-to-restore-users-t",
-      "title": "SaySo is a new short-form video app that aims to restore users' trust in news",
+      "id": "man-who-hacked-us-supreme-court-filing-system-sentenced-to-proba",
+      "title": "Man who hacked US Supreme Court filing system sentenced to probation",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/sayso-is-a-new-short-form-video-app-that-aims-to-restore-users-trust-in-news/",
-      "publishedAt": "2026-04-17T13:00:00.000Z",
-      "summaryShort": "SaySo is a new short-form video app that aims to restore users' trust in news. Users are fed up with misinformation and AI slop cluttering their feeds.",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
+      "publishedAt": "2026-04-17T20:16:13.000Z",
+      "summaryShort": "Man who hacked US Supreme Court filing system sentenced to probation. Nicholas Moore hacked into three U.S.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
