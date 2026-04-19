@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-19T03:26:48.740Z",
+  "generatedAt": "2026-04-19T13:13:03.982Z",
   "items": [
+    {
+      "id": "google-s-aletheia-advances-the-state-of-the-art-of-fully-autonom",
+      "title": "Google’s Aletheia Advances the State of the Art of Fully Autonomous Agentic Math Research",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/deepmind-aletheia-agentic-math/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-19T04:38:00.000Z",
+      "summaryShort": "Google’s Aletheia Advances the State of the Art of Fully Autonomous Agentic Math Research. Google announced Aletheia, an AI using Gemini 3 Deep Think that solved 6/10 novel math problems in the FirstProof challenge.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "aws-announces-general-availability-of-devops-agent-for-automated",
       "title": "AWS Announces General Availability of DevOps Agent for Automated Incident Investigation",
@@ -46,14 +57,25 @@
       ]
     },
     {
-      "id": "meta-reports-4x-higher-bug-detection-with-just-in-time-testing",
-      "title": "Meta Reports 4x Higher Bug Detection with Just-in-Time Testing",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/meta-jit-testing-ai-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-17T14:49:00.000Z",
-      "summaryShort": "Meta Reports 4x Higher Bug Detection with Just-in-Time Testing. Meta introduces Just-in-Time (JiT) testing, a dynamic approach that generates tests during code review instead of relying on static test suites.",
+      "id": "cracks-are-starting-to-form-on-fusion-energy-s-funding-boom",
+      "title": "Cracks are starting to form on fusion energy’s funding boom",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/",
+      "publishedAt": "2026-04-19T12:51:10.000Z",
+      "summaryShort": "Cracks are starting to form on fusion energy’s funding boom. Fusion startups and investors risk deepening fissures if some key disagreements aren't settled amicably.",
       "tags": [
-        "AI"
+        "Engineering"
+      ]
+    },
+    {
+      "id": "blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-firs",
+      "title": "Blue Origin successfully re-uses a New Glenn rocket for the first time ever",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/",
+      "publishedAt": "2026-04-19T11:45:38.000Z",
+      "summaryShort": "Blue Origin successfully re-uses a New Glenn rocket for the first time ever. It's a major milestone for the company's new mega-rocket system, putting it in position to challenge SpaceX's dominance of the global launch market.",
+      "tags": [
+        "Engineering"
       ]
     },
     {
@@ -62,31 +84,9 @@
       "sourceName": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
       "publishedAt": "2026-04-18T21:37:15.000Z",
-      "summaryShort": "Tesla brings its robotaxi service to Dallas and Houston. Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company.",
+      "summaryShort": "Tesla brings its robotaxi service to Dallas and Houston. The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "vc-ron-conway-says-he-has-a-rare-form-of-cancer",
-      "title": "VC Ron Conway says he has a ‘rare form of cancer’",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
-      "publishedAt": "2026-04-18T20:00:00.000Z",
-      "summaryShort": "VC Ron Conway says he has a ‘rare form of cancer’. Conway wrote that he “will be stepping back from some of my usual activities,” but he will “continue to support” founders backed by his firm SV Angel.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "ai-chip-startup-cerebras-files-for-ipo",
-      "title": "AI chip startup Cerebras files for IPO",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-      "publishedAt": "2026-04-18T19:19:11.000Z",
-      "summaryShort": "AI chip startup Cerebras files for IPO. In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
-      "tags": [
-        "AI"
       ]
     }
   ]
