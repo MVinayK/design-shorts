@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-19T13:13:03.982Z",
+  "generatedAt": "2026-04-20T03:29:23.072Z",
   "items": [
+    {
+      "id": "java-news-roundup-openjdk-jeps-jakarta-ee-12-spring-framework-mi",
+      "title": "Java News Roundup: OpenJDK JEPs, Jakarta EE 12, Spring Framework, Micrometer, Camel, JBang",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/java-news-roundup-apr13-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-20T02:30:00.000Z",
+      "summaryShort": "Java News Roundup: OpenJDK JEPs, Jakarta EE 12, Spring Framework, Micrometer, Camel, JBang. This week's Java roundup for April 13th, 2026, features news highlighting: new OpenJDK JEPs; point releases of Apache Grails, Apache Camel and JBang",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "google-s-aletheia-advances-the-state-of-the-art-of-fully-autonom",
       "title": "Google’s Aletheia Advances the State of the Art of Fully Autonomous Agentic Math Research",
@@ -46,45 +57,35 @@
       ]
     },
     {
-      "id": "c-26-reflection-memory-safety-contracts-and-a-new-async-model",
-      "title": "C++26: Reflection, Memory Safety, Contracts, and a New Async Model",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-17T15:00:00.000Z",
-      "summaryShort": "C++26: Reflection, Memory Safety, Contracts, and a New Async Model. The C++26 standard draft is now complete, reports Herb Sutter, long-time C++ expert and former chair of the ISO C++ standards committee.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "cracks-are-starting-to-form-on-fusion-energy-s-funding-boom",
-      "title": "Cracks are starting to form on fusion energy’s funding boom",
+      "id": "openai-s-existential-questions",
+      "title": "OpenAI’s existential questions",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/",
-      "publishedAt": "2026-04-19T12:51:10.000Z",
-      "summaryShort": "Cracks are starting to form on fusion energy’s funding boom. Fusion startups and investors risk deepening fissures if some key disagreements aren't settled amicably.",
+      "sourceUrl": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "publishedAt": "2026-04-19T21:24:06.000Z",
+      "summaryShort": "OpenAI’s existential questions. On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-firs",
-      "title": "Blue Origin successfully re-uses a New Glenn rocket for the first time ever",
+      "id": "the-12-month-window",
+      "title": "The 12-month window",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/",
-      "publishedAt": "2026-04-19T11:45:38.000Z",
-      "summaryShort": "Blue Origin successfully re-uses a New Glenn rocket for the first time ever. It's a major milestone for the company's new mega-rocket system, putting it in position to challenge SpaceX's dominance of the global launch market.",
+      "sourceUrl": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "publishedAt": "2026-04-19T19:30:00.000Z",
+      "summaryShort": "The 12-month window. A lot of AI startups exist partly because the foundation models haven't expanded into their category yet.",
       "tags": [
-        "Engineering"
+        "AI",
+        "Architecture"
       ]
     },
     {
-      "id": "tesla-brings-its-robotaxi-service-to-dallas-and-houston",
-      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "id": "blue-origin-s-new-glenn-put-a-customer-satellite-in-the-wrong-or",
+      "title": "Blue Origin's New Glenn put a customer satellite in the wrong orbit during its third launch",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
-      "publishedAt": "2026-04-18T21:37:15.000Z",
-      "summaryShort": "Tesla brings its robotaxi service to Dallas and Houston. The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
+      "sourceUrl": "https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/",
+      "publishedAt": "2026-04-19T19:02:09.000Z",
+      "summaryShort": "Blue Origin's New Glenn put a customer satellite in the wrong orbit during its third launch. The first major failure of Blue Origin's new heavy-launch system could create delays to its ambition to help NASA and the Trump administration retu",
       "tags": [
         "Engineering"
       ]
