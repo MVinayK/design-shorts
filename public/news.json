@@ -1,57 +1,68 @@
 {
-  "generatedAt": "2026-04-20T03:29:23.072Z",
+  "generatedAt": "2026-04-20T13:55:08.110Z",
   "items": [
     {
-      "id": "java-news-roundup-openjdk-jeps-jakarta-ee-12-spring-framework-mi",
-      "title": "Java News Roundup: OpenJDK JEPs, Jakarta EE 12, Spring Framework, Micrometer, Camel, JBang",
+      "id": "pretext-js-bypasses-dom-layout-reflow-enabling-advanced-ux-patte",
+      "title": "Pretext.js Bypasses DOM Layout Reflow, Enabling Advanced UX Patterns at 120 FPS",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/java-news-roundup-apr13-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-20T02:30:00.000Z",
-      "summaryShort": "Java News Roundup: OpenJDK JEPs, Jakarta EE 12, Spring Framework, Micrometer, Camel, JBang. This week's Java roundup for April 13th, 2026, features news highlighting: new OpenJDK JEPs; point releases of Apache Grails, Apache Camel and JBang",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "google-s-aletheia-advances-the-state-of-the-art-of-fully-autonom",
-      "title": "Google’s Aletheia Advances the State of the Art of Fully Autonomous Agentic Math Research",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/deepmind-aletheia-agentic-math/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-19T04:38:00.000Z",
-      "summaryShort": "Google’s Aletheia Advances the State of the Art of Fully Autonomous Agentic Math Research. Google announced Aletheia, an AI using Gemini 3 Deep Think that solved 6/10 novel math problems in the FirstProof challenge.",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/pretext-js-120fps-text-layout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-20T12:59:00.000Z",
+      "summaryShort": "Pretext.js Bypasses DOM Layout Reflow, Enabling Advanced UX Patterns at 120 FPS. Cheng Lou, a Midjourney engineer, recently released Pretext, a 15KB open-source TypeScript library that measures and lays out text without browser layout reflo",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "aws-announces-general-availability-of-devops-agent-for-automated",
-      "title": "AWS Announces General Availability of DevOps Agent for Automated Incident Investigation",
+      "id": "subagents-in-gemini-cli-enable-task-delegation-and-parallel-agen",
+      "title": "Subagents in Gemini CLI Enable Task Delegation and Parallel Agent Workflows",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/aws-devops-agent-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-18T11:31:00.000Z",
-      "summaryShort": "AWS Announces General Availability of DevOps Agent for Automated Incident Investigation. AWS has announced the general availability of DevOps Agent, a generative AI–powered assistant designed to help developers and operators troubleshoot is",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/subagents-gemini-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-20T12:26:00.000Z",
+      "summaryShort": "Subagents in Gemini CLI Enable Task Delegation and Parallel Agent Workflows. Google has introduced subagents in Gemini CLI, a new capability designed to help developers delegate complex or repetitive tasks to specialized AI agents operating",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "pulumi-adds-full-bun-runtime-support",
-      "title": "Pulumi Adds Full Bun Runtime Support",
+      "id": "presentation-event-driven-patterns-for-cloud-native-banking-what",
+      "title": "Presentation: Event-Driven Patterns for Cloud-Native Banking - What Works, What Hurts?",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/pulumi-bun-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-18T08:00:00.000Z",
-      "summaryShort": "Pulumi Adds Full Bun Runtime Support. Pulumi has announced that Bun is now a fully supported runtime for Pulumi, going beyond its previous role as merely a package manager option.",
+      "sourceUrl": "https://www.infoq.com/presentations/patterns-payment-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-20T11:20:00.000Z",
+      "summaryShort": "Presentation: Event-Driven Patterns for Cloud-Native Banking - What Works, What Hurts?. Chris Tacey-Green discusses the shift from synchronous commands to asynchronous events within highly regulated environments.",
       "tags": [
         "Cloud"
       ]
     },
     {
-      "id": "effect-v4-beta-rewritten-runtime-smaller-bundles-and-unified-pac",
-      "title": "Effect v4 Beta: Rewritten Runtime, Smaller Bundles and Unified Package System",
+      "id": "article-building-production-ready-trpc-apis-the-typescript-alter",
+      "title": "Article: Building Production-Ready tRPC APIs: The TypeScript Alternative to Apollo Federation",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/effect-v4-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-18T07:00:00.000Z",
-      "summaryShort": "Effect v4 Beta: Rewritten Runtime, Smaller Bundles and Unified Package System. Effect v4 beta, a TypeScript framework for building applications, features a complete rewrite of its core fiber runtime, offering reduced memory usage and smalle",
+      "sourceUrl": "https://www.infoq.com/articles/building-trpc-api-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-20T11:00:00.000Z",
+      "summaryShort": "Article: Building Production-Ready tRPC APIs: The TypeScript Alternative to Apollo Federation. This article details our migration from Apollo Federation to a TypeScript-based tRPC stack, which resulted in an 89% reduction in bugs and 67% fa",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "podcast-engineering-stable-secure-and-scalable-platforms-a-conve",
+      "title": "Podcast: Engineering Stable, Secure and Scalable Platforms: A Conversation with Matthew Liste",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/engineering-stable-secure-scalable-platforms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-20T11:00:00.000Z",
+      "summaryShort": "Podcast: Engineering Stable, Secure and Scalable Platforms: A Conversation with Matthew Liste. In this podcast, Michael Stiefel spoke to Matthew Liste about building and managing software platforms.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "rivian-s-factory-hit-by-tornado-ahead-of-r2-launch",
+      "title": "Rivian's factory hit by tornado ahead of R2 launch",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/rivians-factory-hit-by-tornado-ahead-of-r2-launch/",
+      "publishedAt": "2026-04-20T13:47:51.000Z",
+      "summaryShort": "Rivian's factory hit by tornado ahead of R2 launch. Nobody was hurt after an EF-1 tornado hit the part of the factory where the R2 SUV is supposed to be built.",
       "tags": [
         "Engineering"
       ]
@@ -77,17 +88,6 @@
       "tags": [
         "AI",
         "Architecture"
-      ]
-    },
-    {
-      "id": "blue-origin-s-new-glenn-put-a-customer-satellite-in-the-wrong-or",
-      "title": "Blue Origin's New Glenn put a customer satellite in the wrong orbit during its third launch",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/",
-      "publishedAt": "2026-04-19T19:02:09.000Z",
-      "summaryShort": "Blue Origin's New Glenn put a customer satellite in the wrong orbit during its third launch. The first major failure of Blue Origin's new heavy-launch system could create delays to its ambition to help NASA and the Trump administration retu",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
