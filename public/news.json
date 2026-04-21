@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-04-20T13:55:08.110Z",
+  "generatedAt": "2026-04-21T03:20:50.168Z",
   "items": [
+    {
+      "id": "cloudflare-introduces-project-think-a-durable-runtime-for-ai-age",
+      "title": "Cloudflare Introduces Project Think: A Durable Runtime for AI Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/cloudflare-project-think/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-21T02:34:00.000Z",
+      "summaryShort": "Cloudflare Introduces Project Think: A Durable Runtime for AI Agents. Cloudflare's Project Think introduces a new framework for AI agents, shifting from stateless orchestration to a durable actor-based infrastructure.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "designing-memory-for-ai-agents-inside-linkedin-s-cognitive-memor",
+      "title": "Designing Memory for AI Agents: Inside Linkedin’s Cognitive Memory Agent",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/linkedin-cognitive-memory-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-20T14:59:00.000Z",
+      "summaryShort": "Designing Memory for AI Agents: Inside Linkedin’s Cognitive Memory Agent. LinkedIn introduces Cognitive Memory Agent (CMA), generative AI infrastructure layer enabling stateful, context-aware systems.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "pretext-js-bypasses-dom-layout-reflow-enabling-advanced-ux-patte",
       "title": "Pretext.js Bypasses DOM Layout Reflow, Enabling Advanced UX Patterns at 120 FPS",
@@ -35,59 +59,38 @@
       ]
     },
     {
-      "id": "article-building-production-ready-trpc-apis-the-typescript-alter",
-      "title": "Article: Building Production-Ready tRPC APIs: The TypeScript Alternative to Apollo Federation",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/building-trpc-api-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-20T11:00:00.000Z",
-      "summaryShort": "Article: Building Production-Ready tRPC APIs: The TypeScript Alternative to Apollo Federation. This article details our migration from Apollo Federation to a TypeScript-based tRPC stack, which resulted in an 89% reduction in bugs and 67% fa",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "podcast-engineering-stable-secure-and-scalable-platforms-a-conve",
-      "title": "Podcast: Engineering Stable, Secure and Scalable Platforms: A Conversation with Matthew Liste",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/engineering-stable-secure-scalable-platforms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-20T11:00:00.000Z",
-      "summaryShort": "Podcast: Engineering Stable, Secure and Scalable Platforms: A Conversation with Matthew Liste. In this podcast, Michael Stiefel spoke to Matthew Liste about building and managing software platforms.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "rivian-s-factory-hit-by-tornado-ahead-of-r2-launch",
-      "title": "Rivian's factory hit by tornado ahead of R2 launch",
+      "id": "who-is-john-ternus-the-incoming-apple-ceo",
+      "title": "Who is John Ternus, the incoming Apple CEO?",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/20/rivians-factory-hit-by-tornado-ahead-of-r2-launch/",
-      "publishedAt": "2026-04-20T13:47:51.000Z",
-      "summaryShort": "Rivian's factory hit by tornado ahead of R2 launch. Nobody was hurt after an EF-1 tornado hit the part of the factory where the R2 SUV is supposed to be built.",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/",
+      "publishedAt": "2026-04-21T01:02:04.000Z",
+      "summaryShort": "Who is John Ternus, the incoming Apple CEO?. Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely rema",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "openai-s-existential-questions",
-      "title": "OpenAI’s existential questions",
+      "id": "anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spendin",
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-      "publishedAt": "2026-04-19T21:24:06.000Z",
-      "summaryShort": "OpenAI’s existential questions. On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "the-12-month-window",
-      "title": "The 12-month window",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-      "publishedAt": "2026-04-19T19:30:00.000Z",
-      "summaryShort": "The 12-month window. A lot of AI startups exist partly because the foundation models haven't expanded into their category yet.",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "publishedAt": "2026-04-20T23:10:27.000Z",
+      "summaryShort": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return. Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic.",
       "tags": [
         "AI",
+        "Cloud",
         "Architecture"
+      ]
+    },
+    {
+      "id": "google-rolls-out-gemini-in-chrome-in-7-new-countries",
+      "title": "Google rolls out Gemini in Chrome in 7 new countries",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+      "publishedAt": "2026-04-20T22:00:00.000Z",
+      "summaryShort": "Google rolls out Gemini in Chrome in 7 new countries. Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
