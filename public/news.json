@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-04-21T03:20:50.168Z",
+  "generatedAt": "2026-04-21T13:55:49.529Z",
   "items": [
+    {
+      "id": "github-acknowledges-recent-outages-cites-scaling-challenges-and-",
+      "title": "GitHub Acknowledges Recent Outages, Cites Scaling Challenges and Architectural Weaknesses",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/github-outages-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-21T12:00:00.000Z",
+      "summaryShort": "GitHub Acknowledges Recent Outages, Cites Scaling Challenges and Architectural Weaknesses. GitHub has publicly addressed a series of recent availability and performance issues that disrupted services across its platform, attributing the inc",
+      "tags": [
+        "Architecture"
+      ]
+    },
+    {
+      "id": "presentation-dynamic-moments-weaving-llms-into-deep-personalizat",
+      "title": "Presentation: Dynamic Moments: Weaving LLMs into Deep Personalization at DoorDash",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/llm-personalization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-21T10:35:00.000Z",
+      "summaryShort": "Presentation: Dynamic Moments: Weaving LLMs into Deep Personalization at DoorDash. Sudeep Das and Pradeep Muthukrishnan explain the shift from static merchandising to dynamic, moment-aware personalization at DoorDash.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "article-redesigning-banking-pdf-table-extraction-a-layered-appro",
+      "title": "Article: Redesigning Banking PDF Table Extraction: A Layered Approach with Java",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/redesign-pdf-table-extraction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-21T09:00:00.000Z",
+      "summaryShort": "Article: Redesigning Banking PDF Table Extraction: A Layered Approach with Java. PDF table extraction often looks easy until it fails in production.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "cloudflare-introduces-project-think-a-durable-runtime-for-ai-age",
       "title": "Cloudflare Introduces Project Think: A Durable Runtime for AI Agents",
@@ -26,69 +59,34 @@
       ]
     },
     {
-      "id": "pretext-js-bypasses-dom-layout-reflow-enabling-advanced-ux-patte",
-      "title": "Pretext.js Bypasses DOM Layout Reflow, Enabling Advanced UX Patterns at 120 FPS",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/pretext-js-120fps-text-layout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-20T12:59:00.000Z",
-      "summaryShort": "Pretext.js Bypasses DOM Layout Reflow, Enabling Advanced UX Patterns at 120 FPS. Cheng Lou, a Midjourney engineer, recently released Pretext, a 15KB open-source TypeScript library that measures and lays out text without browser layout reflo",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "subagents-in-gemini-cli-enable-task-delegation-and-parallel-agen",
-      "title": "Subagents in Gemini CLI Enable Task Delegation and Parallel Agent Workflows",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/subagents-gemini-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-20T12:26:00.000Z",
-      "summaryShort": "Subagents in Gemini CLI Enable Task Delegation and Parallel Agent Workflows. Google has introduced subagents in Gemini CLI, a new capability designed to help developers delegate complex or repetitive tasks to specialized AI agents operating",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-event-driven-patterns-for-cloud-native-banking-what",
-      "title": "Presentation: Event-Driven Patterns for Cloud-Native Banking - What Works, What Hurts?",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/patterns-payment-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-20T11:20:00.000Z",
-      "summaryShort": "Presentation: Event-Driven Patterns for Cloud-Native Banking - What Works, What Hurts?. Chris Tacey-Green discusses the shift from synchronous commands to asynchronous events within highly regulated environments.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "who-is-john-ternus-the-incoming-apple-ceo",
-      "title": "Who is John Ternus, the incoming Apple CEO?",
+      "id": "revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo",
+      "title": "Revolut eyes valuation of up to $200B in eventual IPO",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/",
-      "publishedAt": "2026-04-21T01:02:04.000Z",
-      "summaryShort": "Who is John Ternus, the incoming Apple CEO?. Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely rema",
+      "sourceUrl": "https://techcrunch.com/2026/04/21/revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo/",
+      "publishedAt": "2026-04-21T13:41:44.000Z",
+      "summaryShort": "Revolut eyes valuation of up to $200B in eventual IPO. Fintech giant Revolut, which secured a full banking license in the U.K.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spendin",
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "id": "with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecti",
+      "title": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-      "publishedAt": "2026-04-20T23:10:27.000Z",
-      "summaryShort": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return. Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic.",
+      "sourceUrl": "https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/",
+      "publishedAt": "2026-04-21T13:00:00.000Z",
+      "summaryShort": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance. Some lawmakers are calling for widespread reforms following years of surveillance scandals and abuses across successive U.S.",
       "tags": [
-        "AI",
-        "Cloud",
-        "Architecture"
+        "Engineering"
       ]
     },
     {
-      "id": "google-rolls-out-gemini-in-chrome-in-7-new-countries",
-      "title": "Google rolls out Gemini in Chrome in 7 new countries",
+      "id": "what-s-the-key-to-better-vegan-cheese-microbreweries-one-startup",
+      "title": "What’s the key to better vegan cheese? Microbreweries, one startup says",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-      "publishedAt": "2026-04-20T22:00:00.000Z",
-      "summaryShort": "Google rolls out Gemini in Chrome in 7 new countries. Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam.",
+      "sourceUrl": "https://techcrunch.com/2026/04/21/whats-the-key-to-better-vegan-cheese-microbreweries-one-startup-says/",
+      "publishedAt": "2026-04-21T13:00:00.000Z",
+      "summaryShort": "What’s the key to better vegan cheese? Microbreweries, one startup says.",
       "tags": [
         "Engineering"
       ]
