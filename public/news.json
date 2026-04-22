@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-04-21T13:55:49.529Z",
+  "generatedAt": "2026-04-22T03:19:17.976Z",
   "items": [
+    {
+      "id": "pnpm-11-release-candidate-esm-distribution-supply-chain-defaults",
+      "title": "pnpm 11 Release Candidate: ESM Distribution, Supply Chain Defaults and a New Store Format",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/pnpm-11-rc-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-21T16:00:00.000Z",
+      "summaryShort": "pnpm 11 Release Candidate: ESM Distribution, Supply Chain Defaults and a New Store Format. pnpm 11 RC has been released, featuring significant changes in performance, security, and configuration.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "anthropic-introduces-managed-agents-to-simplify-ai-agent-deploym",
+      "title": "Anthropic Introduces Managed Agents to Simplify AI Agent Deployment",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/anthropic-managed-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-21T14:36:00.000Z",
+      "summaryShort": "Anthropic Introduces Managed Agents to Simplify AI Agent Deployment. Anthropic introduces Managed Agents on Claude, a managed execution layer for agent-based workflows.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "slack-rebuilds-notification-system-reports-5x-increase-in-settin",
+      "title": "Slack Rebuilds Notification System, Reports 5X Increase in Settings Engagement",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/slack-new-notification-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-21T14:05:00.000Z",
+      "summaryShort": "Slack Rebuilds Notification System, Reports 5X Increase in Settings Engagement. Slack has rebuilt its notification system with a unified architecture that separates activity from delivery, improving consistency across platforms.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "github-acknowledges-recent-outages-cites-scaling-challenges-and-",
       "title": "GitHub Acknowledges Recent Outages, Cites Scaling Challenges and Architectural Weaknesses",
@@ -24,69 +57,34 @@
       ]
     },
     {
-      "id": "article-redesigning-banking-pdf-table-extraction-a-layered-appro",
-      "title": "Article: Redesigning Banking PDF Table Extraction: A Layered Approach with Java",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/redesign-pdf-table-extraction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-21T09:00:00.000Z",
-      "summaryShort": "Article: Redesigning Banking PDF Table Extraction: A Layered Approach with Java. PDF table extraction often looks easy until it fails in production.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "cloudflare-introduces-project-think-a-durable-runtime-for-ai-age",
-      "title": "Cloudflare Introduces Project Think: A Durable Runtime for AI Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/cloudflare-project-think/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-21T02:34:00.000Z",
-      "summaryShort": "Cloudflare Introduces Project Think: A Durable Runtime for AI Agents. Cloudflare's Project Think introduces a new framework for AI agents, shifting from stateless orchestration to a durable actor-based infrastructure.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "designing-memory-for-ai-agents-inside-linkedin-s-cognitive-memor",
-      "title": "Designing Memory for AI Agents: Inside Linkedin’s Cognitive Memory Agent",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/linkedin-cognitive-memory-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-20T14:59:00.000Z",
-      "summaryShort": "Designing Memory for AI Agents: Inside Linkedin’s Cognitive Memory Agent. LinkedIn introduces Cognitive Memory Agent (CMA), generative AI infrastructure layer enabling stateful, context-aware systems.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo",
-      "title": "Revolut eyes valuation of up to $200B in eventual IPO",
+      "id": "redwood-materials-lays-off-10-in-restructuring-to-chase-energy-s",
+      "title": "Redwood Materials lays off 10% in restructuring to chase energy storage business",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo/",
-      "publishedAt": "2026-04-21T13:41:44.000Z",
-      "summaryShort": "Revolut eyes valuation of up to $200B in eventual IPO. Fintech giant Revolut, which secured a full banking license in the U.K.",
+      "sourceUrl": "https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/",
+      "publishedAt": "2026-04-22T00:37:33.000Z",
+      "summaryShort": "Redwood Materials lays off 10% in restructuring to chase energy storage business. The company is restructuring some teams to accommodate a booming energy storage business, according to emails viewed by TechCrunch.",
       "tags": [
-        "Engineering"
+        "Databases"
       ]
     },
     {
-      "id": "with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecti",
-      "title": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance",
+      "id": "meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai",
+      "title": "Meta will record employees' keystrokes and use it to train its AI models",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/",
-      "publishedAt": "2026-04-21T13:00:00.000Z",
-      "summaryShort": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance. Some lawmakers are calling for widespread reforms following years of surveillance scandals and abuses across successive U.S.",
+      "sourceUrl": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "publishedAt": "2026-04-21T23:45:21.000Z",
+      "summaryShort": "Meta will record employees' keystrokes and use it to train its AI models. Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "what-s-the-key-to-better-vegan-cheese-microbreweries-one-startup",
-      "title": "What’s the key to better vegan cheese? Microbreweries, one startup says",
+      "id": "unauthorized-group-has-gained-access-to-anthropic-s-exclusive-cy",
+      "title": "Unauthorized group has gained access to Anthropic's exclusive cyber tool Mythos, report claims",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/whats-the-key-to-better-vegan-cheese-microbreweries-one-startup-says/",
-      "publishedAt": "2026-04-21T13:00:00.000Z",
-      "summaryShort": "What’s the key to better vegan cheese? Microbreweries, one startup says.",
+      "sourceUrl": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "publishedAt": "2026-04-21T23:26:45.000Z",
+      "summaryShort": "Unauthorized group has gained access to Anthropic's exclusive cyber tool Mythos, report claims. Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
       "tags": [
         "Engineering"
       ]
