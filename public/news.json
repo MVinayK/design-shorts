@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-04-22T03:19:17.976Z",
+  "generatedAt": "2026-04-22T13:55:42.574Z",
   "items": [
+    {
+      "id": "presentation-panel-building-a-culture-that-works",
+      "title": "Presentation: Panel: Building a Culture that Works",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/panel-positive-culture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-22T10:10:00.000Z",
+      "summaryShort": "Presentation: Panel: Building a Culture that Works. The panelists share insights on evolving company culture.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "cloudflare-sandboxes-reach-general-availability-giving-ai-agents",
+      "title": "Cloudflare Sandboxes Reach General Availability, Giving AI Agents Persistent Isolated Environments",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/cloudflare-sandboxes-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-22T10:00:00.000Z",
+      "summaryShort": "Cloudflare Sandboxes Reach General Availability, Giving AI Agents Persistent Isolated Environments. Cloudflare has released Sandboxes and Containers into general availability, providing persistent isolated Linux environments for AI agent wo",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "article-when-a-cloud-region-fails-rethinking-high-availability-i",
+      "title": "Article: When a Cloud Region Fails: Rethinking High Availability in a Geopolitically Unstable World",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/sovereign-fault-domains-cloud-resilience/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-22T09:00:00.000Z",
+      "summaryShort": "Article: When a Cloud Region Fails: Rethinking High Availability in a Geopolitically Unstable World. Sovereign fault domains are failure boundaries defined by legal, political, or physical jurisdiction rather than hardware topology.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "cloudflare-outlines-mcp-architecture-as-enterprises-confront-sec",
+      "title": "Cloudflare Outlines MCP Architecture as Enterprises Confront Security and Governance Risks",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/cloudflare-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-22T07:38:00.000Z",
+      "summaryShort": "Cloudflare Outlines MCP Architecture as Enterprises Confront Security and Governance Risks. Cloudflare has outlined a reference architecture for scaling Model Context Protocol (MCP) deployments across the enterprise, positioning centralized",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "pnpm-11-release-candidate-esm-distribution-supply-chain-defaults",
       "title": "pnpm 11 Release Candidate: ESM Distribution, Supply Chain Defaults and a New Store Format",
@@ -13,80 +60,36 @@
       ]
     },
     {
-      "id": "anthropic-introduces-managed-agents-to-simplify-ai-agent-deploym",
-      "title": "Anthropic Introduces Managed Agents to Simplify AI Agent Deployment",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/anthropic-managed-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-21T14:36:00.000Z",
-      "summaryShort": "Anthropic Introduces Managed Agents to Simplify AI Agent Deployment. Anthropic introduces Managed Agents on Claude, a managed execution layer for agent-based workflows.",
+      "id": "x-makes-it-more-expensive-to-post-links-through-its-api",
+      "title": "X makes it more expensive to post links through its API",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/x-makes-it-more-expensive-to-post-links-through-its-api/",
+      "publishedAt": "2026-04-22T13:42:51.000Z",
+      "summaryShort": "X makes it more expensive to post links through its API. Posting links on X through its API is now 1,900% more costly",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "amazon-music-partners-with-bandsintown-for-concert-listings",
+      "title": "Amazon Music partners with Bandsintown for concert listings",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/amazon-music-partners-with-bandsintowns-for-concert-listings/",
+      "publishedAt": "2026-04-22T13:00:00.000Z",
+      "summaryShort": "Amazon Music partners with Bandsintown for concert listings. Users will be able to see live events of an artist on their Amazon Music profile",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-",
+      "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+      "publishedAt": "2026-04-22T13:00:00.000Z",
+      "summaryShort": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter..",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "slack-rebuilds-notification-system-reports-5x-increase-in-settin",
-      "title": "Slack Rebuilds Notification System, Reports 5X Increase in Settings Engagement",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/slack-new-notification-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-21T14:05:00.000Z",
-      "summaryShort": "Slack Rebuilds Notification System, Reports 5X Increase in Settings Engagement. Slack has rebuilt its notification system with a unified architecture that separates activity from delivery, improving consistency across platforms.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "github-acknowledges-recent-outages-cites-scaling-challenges-and-",
-      "title": "GitHub Acknowledges Recent Outages, Cites Scaling Challenges and Architectural Weaknesses",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/github-outages-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-21T12:00:00.000Z",
-      "summaryShort": "GitHub Acknowledges Recent Outages, Cites Scaling Challenges and Architectural Weaknesses. GitHub has publicly addressed a series of recent availability and performance issues that disrupted services across its platform, attributing the inc",
-      "tags": [
-        "Architecture"
-      ]
-    },
-    {
-      "id": "presentation-dynamic-moments-weaving-llms-into-deep-personalizat",
-      "title": "Presentation: Dynamic Moments: Weaving LLMs into Deep Personalization at DoorDash",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/llm-personalization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-21T10:35:00.000Z",
-      "summaryShort": "Presentation: Dynamic Moments: Weaving LLMs into Deep Personalization at DoorDash. Sudeep Das and Pradeep Muthukrishnan explain the shift from static merchandising to dynamic, moment-aware personalization at DoorDash.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "redwood-materials-lays-off-10-in-restructuring-to-chase-energy-s",
-      "title": "Redwood Materials lays off 10% in restructuring to chase energy storage business",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/",
-      "publishedAt": "2026-04-22T00:37:33.000Z",
-      "summaryShort": "Redwood Materials lays off 10% in restructuring to chase energy storage business. The company is restructuring some teams to accommodate a booming energy storage business, according to emails viewed by TechCrunch.",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai",
-      "title": "Meta will record employees' keystrokes and use it to train its AI models",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-      "publishedAt": "2026-04-21T23:45:21.000Z",
-      "summaryShort": "Meta will record employees' keystrokes and use it to train its AI models. Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "unauthorized-group-has-gained-access-to-anthropic-s-exclusive-cy",
-      "title": "Unauthorized group has gained access to Anthropic's exclusive cyber tool Mythos, report claims",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-      "publishedAt": "2026-04-21T23:26:45.000Z",
-      "summaryShort": "Unauthorized group has gained access to Anthropic's exclusive cyber tool Mythos, report claims. Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
