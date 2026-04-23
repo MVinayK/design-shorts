@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-04-23T03:22:40.454Z",
+  "generatedAt": "2026-04-23T13:57:32.016Z",
   "items": [
+    {
+      "id": "grafana-rearchitects-loki-with-kafka-and-ships-a-cli-to-bring-ob",
+      "title": "Grafana Rearchitects Loki with Kafka and Ships a CLI to Bring Observability Into Coding Agent",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/grafana-loki-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-23T13:00:00.000Z",
+      "summaryShort": "Grafana Rearchitects Loki with Kafka and Ships a CLI to Bring Observability Into Coding Agent. At GrafanaCON 2026 in Barcelona, Grafana Labs announced Grafana 13 with the new Loki Kafka-backed architecture at the ingestion layer and the AI ",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "how-observability-and-telemetry-can-enhance-the-practice-of-soft",
+      "title": "How Observability and Telemetry Can Enhance the Practice of Software Engineering",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/observability-telemetry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-23T11:04:00.000Z",
+      "summaryShort": "How Observability and Telemetry Can Enhance the Practice of Software Engineering. Observability must evolve with serverless, event-driven architectures.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-how-to-build-an-exchange-sub-millisecond-response-t",
+      "title": "Presentation: How to Build an Exchange: Sub Millisecond Response Times and 24/7 Uptimes in the Cloud",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/exchange-systems-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-23T09:29:00.000Z",
+      "summaryShort": "Presentation: How to Build an Exchange: Sub Millisecond Response Times and 24/7 Uptimes in the Cloud. Frank Yu shares Coinbase’s engineering philosophy for building resilient, fair, and fast financial exchanges.",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "dropbox-collaborates-with-github-to-reduce-monorepo-size-from-87",
       "title": "Dropbox Collaborates with GitHub to Reduce Monorepo Size from 87GB to 20GB",
@@ -24,72 +58,36 @@
       ]
     },
     {
-      "id": "cloudflare-sandboxes-reach-general-availability-giving-ai-agents",
-      "title": "Cloudflare Sandboxes Reach General Availability, Giving AI Agents Persistent Isolated Environments",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/cloudflare-sandboxes-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-22T10:00:00.000Z",
-      "summaryShort": "Cloudflare Sandboxes Reach General Availability, Giving AI Agents Persistent Isolated Environments. Cloudflare has released Sandboxes and Containers into general availability, providing persistent isolated Linux environments for AI agent wo",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "article-when-a-cloud-region-fails-rethinking-high-availability-i",
-      "title": "Article: When a Cloud Region Fails: Rethinking High Availability in a Geopolitically Unstable World",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/sovereign-fault-domains-cloud-resilience/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-22T09:00:00.000Z",
-      "summaryShort": "Article: When a Cloud Region Fails: Rethinking High Availability in a Geopolitically Unstable World. Sovereign fault domains are failure boundaries defined by legal, political, or physical jurisdiction rather than hardware topology.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "cloudflare-outlines-mcp-architecture-as-enterprises-confront-sec",
-      "title": "Cloudflare Outlines MCP Architecture as Enterprises Confront Security and Governance Risks",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/cloudflare-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-22T07:38:00.000Z",
-      "summaryShort": "Cloudflare Outlines MCP Architecture as Enterprises Confront Security and Governance Risks. Cloudflare has outlined a reference architecture for scaling Model Context Protocol (MCP) deployments across the enterprise, positioning centralized",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "tesla-just-increased-its-spending-plan-to-25b-here-s-where-the-m",
-      "title": "Tesla just increased its spending plan to $25B — here's where the money is going",
+      "id": "tesla-drops-musk-s-29b-8216-interim-award-after-delaware-court-r",
+      "title": "Tesla drops Musk's $29B &#8216;interim' award after Delaware court restored larger pay package",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
-      "publishedAt": "2026-04-22T23:56:52.000Z",
-      "summaryShort": "Tesla just increased its spending plan to $25B — here's where the money is going. Tesla's planned capex for 2026 is three times higher than what the company has historically spent.",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/tesla-drops-musks-29b-interim-award-after-delaware-court-restored-larger-pay-package/",
+      "publishedAt": "2026-04-23T13:40:33.000Z",
+      "summaryShort": "Tesla drops Musk's $29B &#8216;interim' award after Delaware court restored larger pay package. The company is following through on its promise to not let Musk \"double dip\" if he won his appeal to restore Tesla's 2018 compensation package, ",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "google-updates-workspace-to-make-ai-your-new-office-intern",
-      "title": "Google updates Workspace to make AI your new office intern",
+      "id": "whatsapp-adds-prepaid-phone-recharges-in-india-as-its-payments-u",
+      "title": "WhatsApp adds prepaid phone recharges in India as its payments usage still lags",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-      "publishedAt": "2026-04-22T22:44:26.000Z",
-      "summaryShort": "Google updates Workspace to make AI your new office intern. Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/whatsapp-adds-prepaid-phone-recharges-in-india-as-its-payments-usage-still-lags/",
+      "publishedAt": "2026-04-23T13:28:56.000Z",
+      "summaryShort": "WhatsApp adds prepaid phone recharges in India as its payments usage still lags. WhatsApp is rolling out prepaid phone recharges to its 500 million users in India via PayU.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch",
+      "title": "AI galaxy hunters are adding to the global GPU crunch",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+      "publishedAt": "2026-04-23T13:00:00.000Z",
+      "summaryShort": "AI galaxy hunters are adding to the global GPU crunch. Astronomers are turning to GPUs to find needles in the galactic haystack.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true",
-      "title": "Elon Musk admits millions of Tesla owners need upgrades for true &#8216;Full Self-Driving'",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
-      "publishedAt": "2026-04-22T22:39:58.000Z",
-      "summaryShort": "Elon Musk admits millions of Tesla owners need upgrades for true &#8216;Full Self-Driving'. The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning full",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
