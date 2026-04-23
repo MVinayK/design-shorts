@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-22T13:55:42.574Z",
+  "generatedAt": "2026-04-23T03:22:40.454Z",
   "items": [
+    {
+      "id": "dropbox-collaborates-with-github-to-reduce-monorepo-size-from-87",
+      "title": "Dropbox Collaborates with GitHub to Reduce Monorepo Size from 87GB to 20GB",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/dropbox-reduces-git-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-22T14:14:00.000Z",
+      "summaryShort": "Dropbox Collaborates with GitHub to Reduce Monorepo Size from 87GB to 20GB. Dropbox reduced its backend monorepo from 87GB to 20GB by optimizing Git delta compression in collaboration with GitHub.",
+      "tags": [
+        "Databases"
+      ]
+    },
     {
       "id": "presentation-panel-building-a-culture-that-works",
       "title": "Presentation: Panel: Building a Culture that Works",
@@ -49,47 +60,36 @@
       ]
     },
     {
-      "id": "pnpm-11-release-candidate-esm-distribution-supply-chain-defaults",
-      "title": "pnpm 11 Release Candidate: ESM Distribution, Supply Chain Defaults and a New Store Format",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/pnpm-11-rc-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-21T16:00:00.000Z",
-      "summaryShort": "pnpm 11 Release Candidate: ESM Distribution, Supply Chain Defaults and a New Store Format. pnpm 11 RC has been released, featuring significant changes in performance, security, and configuration.",
+      "id": "tesla-just-increased-its-spending-plan-to-25b-here-s-where-the-m",
+      "title": "Tesla just increased its spending plan to $25B — here's where the money is going",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+      "publishedAt": "2026-04-22T23:56:52.000Z",
+      "summaryShort": "Tesla just increased its spending plan to $25B — here's where the money is going. Tesla's planned capex for 2026 is three times higher than what the company has historically spent.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "x-makes-it-more-expensive-to-post-links-through-its-api",
-      "title": "X makes it more expensive to post links through its API",
+      "id": "google-updates-workspace-to-make-ai-your-new-office-intern",
+      "title": "Google updates Workspace to make AI your new office intern",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/x-makes-it-more-expensive-to-post-links-through-its-api/",
-      "publishedAt": "2026-04-22T13:42:51.000Z",
-      "summaryShort": "X makes it more expensive to post links through its API. Posting links on X through its API is now 1,900% more costly",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "amazon-music-partners-with-bandsintown-for-concert-listings",
-      "title": "Amazon Music partners with Bandsintown for concert listings",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/amazon-music-partners-with-bandsintowns-for-concert-listings/",
-      "publishedAt": "2026-04-22T13:00:00.000Z",
-      "summaryShort": "Amazon Music partners with Bandsintown for concert listings. Users will be able to see live events of an artist on their Amazon Music profile",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-",
-      "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
-      "publishedAt": "2026-04-22T13:00:00.000Z",
-      "summaryShort": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter..",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "publishedAt": "2026-04-22T22:44:26.000Z",
+      "summaryShort": "Google updates Workspace to make AI your new office intern. Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true",
+      "title": "Elon Musk admits millions of Tesla owners need upgrades for true &#8216;Full Self-Driving'",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
+      "publishedAt": "2026-04-22T22:39:58.000Z",
+      "summaryShort": "Elon Musk admits millions of Tesla owners need upgrades for true &#8216;Full Self-Driving'. The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning full",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
