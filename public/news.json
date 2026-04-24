@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-04-24T03:25:04.354Z",
+  "generatedAt": "2026-04-24T13:49:02.281Z",
   "items": [
+    {
+      "id": "yelp-achieves-zero-downtime-upgrade-of-over-1-000-cassandra-node",
+      "title": "Yelp Achieves Zero-Downtime Upgrade of Over 1,000 Cassandra Nodes",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/yelp-cassandra-upgrade/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-24T12:00:00.000Z",
+      "summaryShort": "Yelp Achieves Zero-Downtime Upgrade of Over 1,000 Cassandra Nodes. Yelp has completed a large-scale upgrade of its Apache Cassandra infrastructure, spanning more than 1,000 nodes, without any service downtime, offering a blueprint for manag",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "presentation-deepfakes-disinformation-and-ai-content-are-taking-",
+      "title": "Presentation: Deepfakes, Disinformation, and AI Content Are Taking Over the Internet",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/deepfakes-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-24T09:55:00.000Z",
+      "summaryShort": "Presentation: Deepfakes, Disinformation, and AI Content Are Taking Over the Internet. Shuman Ghosemajumder explains how generative AI has transformed from a creative curiosity into a high-scale tool for disinformation and fraud.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "article-orchestrating-agentic-and-multimodal-ai-pipelines-with-a",
+      "title": "Article: Orchestrating Agentic and Multimodal AI Pipelines with Apache Camel",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/orchestrating-agentic-multimodal-ai-pipelines-apache-camel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-24T09:00:00.000Z",
+      "summaryShort": "Article: Orchestrating Agentic and Multimodal AI Pipelines with Apache Camel. In this article, author Vignesh Durai discusses how agentic and multimodal AI systems can be engineered using Apache Camel and LangChain4j technologies.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "hashicorp-vault-2-0-marks-shift-to-ibm-lifecycle-with-new-identi",
+      "title": "HashiCorp Vault 2.0 Marks Shift to IBM Lifecycle with New Identity Federation",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/vault-2-0-ibm-identity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-24T07:00:00.000Z",
+      "summaryShort": "HashiCorp Vault 2.0 Marks Shift to IBM Lifecycle with New Identity Federation. HashiCorp has released Vault 2.0, moving to the IBM versioning and support model following its acquisition.",
+      "tags": [
+        "AI",
+        "Databases"
+      ]
+    },
     {
       "id": "react-navigation-8-0-alpha-with-native-bottom-tabs-reworked-type",
       "title": "React Navigation 8.0 Alpha with Native Bottom Tabs, Reworked TypeScript Inference and History",
@@ -13,81 +58,36 @@
       ]
     },
     {
-      "id": "google-introduces-room-3-0-a-kotlin-first-async-multiplatform-pe",
-      "title": "Google Introduces Room 3.0: A Kotlin-First, Async, Multiplatform Persistence Library",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/room-3-kotlin-async-sqlite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-23T15:00:00.000Z",
-      "summaryShort": "Google Introduces Room 3.0: A Kotlin-First, Async, Multiplatform Persistence Library. Room 3.0 is a major update to Android's persistence library that introduces breaking changes in key areas.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "grafana-rearchitects-loki-with-kafka-and-ships-a-cli-to-bring-ob",
-      "title": "Grafana Rearchitects Loki with Kafka and Ships a CLI to Bring Observability Into Coding Agent",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/grafana-loki-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-23T13:00:00.000Z",
-      "summaryShort": "Grafana Rearchitects Loki with Kafka and Ships a CLI to Bring Observability Into Coding Agent. At GrafanaCON 2026 in Barcelona, Grafana Labs announced Grafana 13 with the new Loki Kafka-backed architecture at the ingestion layer and the AI ",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "how-observability-and-telemetry-can-enhance-the-practice-of-soft",
-      "title": "How Observability and Telemetry Can Enhance the Practice of Software Engineering",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/observability-telemetry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-23T11:04:00.000Z",
-      "summaryShort": "How Observability and Telemetry Can Enhance the Practice of Software Engineering. Observability must evolve with serverless, event-driven architectures.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-how-to-build-an-exchange-sub-millisecond-response-t",
-      "title": "Presentation: How to Build an Exchange: Sub Millisecond Response Times and 24/7 Uptimes in the Cloud",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/exchange-systems-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-23T09:29:00.000Z",
-      "summaryShort": "Presentation: How to Build an Exchange: Sub Millisecond Response Times and 24/7 Uptimes in the Cloud. Frank Yu shares Coinbase’s engineering philosophy for building resilient, fair, and fast financial exchanges.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit",
-      "title": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
+      "id": "nothing-introduces-an-ai-powered-dictation-tool",
+      "title": "Nothing introduces an AI-powered dictation tool",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/",
-      "publishedAt": "2026-04-24T00:11:25.000Z",
-      "summaryShort": "Bob Iger rejoins Thrive Capital as advisor after Disney exit. The former Disney CEO hold a stake in Thrive, and has previously held the role of the venture partner at the firm.",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+      "publishedAt": "2026-04-24T13:41:42.000Z",
+      "summaryShort": "Nothing introduces an AI-powered dictation tool. Nothing's new on-device dictation tool supports over 100 languages.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "authorities-arrest-special-forces-soldier-who-allegedly-made-400",
-      "title": "Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation",
+      "id": "deepseek-previews-new-ai-model-that-8216-closes-the-gap-with-fro",
+      "title": "DeepSeek previews new AI model that &#8216;closes the gap' with frontier models",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/",
-      "publishedAt": "2026-04-23T23:32:33.000Z",
-      "summaryShort": "Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation. The soldier is accused of using classified government information to inform a wager on the prediction market Polymarket.",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "publishedAt": "2026-04-24T13:30:59.000Z",
+      "summaryShort": "DeepSeek previews new AI model that &#8216;closes the gap' with frontier models. DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "redwood-materials-loses-coo-amid-layoffs-restructuring",
-      "title": "Redwood Materials loses COO amid layoffs, restructuring",
+      "id": "in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-o",
+      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/",
-      "publishedAt": "2026-04-23T22:44:12.000Z",
-      "summaryShort": "Redwood Materials loses COO amid layoffs, restructuring. Former Tesla executive Chris Lister is retiring, and at least three other VPs have left Redwood around the recent restructuring, TechCrunch has learned.",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "publishedAt": "2026-04-24T12:00:00.000Z",
+      "summaryShort": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs. Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
