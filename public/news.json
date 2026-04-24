@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-04-23T13:57:32.016Z",
+  "generatedAt": "2026-04-24T03:25:04.354Z",
   "items": [
+    {
+      "id": "react-navigation-8-0-alpha-with-native-bottom-tabs-reworked-type",
+      "title": "React Navigation 8.0 Alpha with Native Bottom Tabs, Reworked TypeScript Inference and History",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/react-navigation-8-alpha/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-23T15:36:00.000Z",
+      "summaryShort": "React Navigation 8.0 Alpha with Native Bottom Tabs, Reworked TypeScript Inference and History. React Navigation has released version 8.0 in alpha, updating its routing library for React Native and web applications.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "google-introduces-room-3-0-a-kotlin-first-async-multiplatform-pe",
+      "title": "Google Introduces Room 3.0: A Kotlin-First, Async, Multiplatform Persistence Library",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/room-3-kotlin-async-sqlite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-23T15:00:00.000Z",
+      "summaryShort": "Google Introduces Room 3.0: A Kotlin-First, Async, Multiplatform Persistence Library. Room 3.0 is a major update to Android's persistence library that introduces breaking changes in key areas.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "grafana-rearchitects-loki-with-kafka-and-ships-a-cli-to-bring-ob",
       "title": "Grafana Rearchitects Loki with Kafka and Ships a CLI to Bring Observability Into Coding Agent",
@@ -36,58 +58,36 @@
       ]
     },
     {
-      "id": "dropbox-collaborates-with-github-to-reduce-monorepo-size-from-87",
-      "title": "Dropbox Collaborates with GitHub to Reduce Monorepo Size from 87GB to 20GB",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/dropbox-reduces-git-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-22T14:14:00.000Z",
-      "summaryShort": "Dropbox Collaborates with GitHub to Reduce Monorepo Size from 87GB to 20GB. Dropbox reduced its backend monorepo from 87GB to 20GB by optimizing Git delta compression in collaboration with GitHub.",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "presentation-panel-building-a-culture-that-works",
-      "title": "Presentation: Panel: Building a Culture that Works",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/panel-positive-culture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-22T10:10:00.000Z",
-      "summaryShort": "Presentation: Panel: Building a Culture that Works. The panelists share insights on evolving company culture.",
+      "id": "bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit",
+      "title": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/",
+      "publishedAt": "2026-04-24T00:11:25.000Z",
+      "summaryShort": "Bob Iger rejoins Thrive Capital as advisor after Disney exit. The former Disney CEO hold a stake in Thrive, and has previously held the role of the venture partner at the firm.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "tesla-drops-musk-s-29b-8216-interim-award-after-delaware-court-r",
-      "title": "Tesla drops Musk's $29B &#8216;interim' award after Delaware court restored larger pay package",
+      "id": "authorities-arrest-special-forces-soldier-who-allegedly-made-400",
+      "title": "Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/tesla-drops-musks-29b-interim-award-after-delaware-court-restored-larger-pay-package/",
-      "publishedAt": "2026-04-23T13:40:33.000Z",
-      "summaryShort": "Tesla drops Musk's $29B &#8216;interim' award after Delaware court restored larger pay package. The company is following through on its promise to not let Musk \"double dip\" if he won his appeal to restore Tesla's 2018 compensation package, ",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/",
+      "publishedAt": "2026-04-23T23:32:33.000Z",
+      "summaryShort": "Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation. The soldier is accused of using classified government information to inform a wager on the prediction market Polymarket.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "whatsapp-adds-prepaid-phone-recharges-in-india-as-its-payments-u",
-      "title": "WhatsApp adds prepaid phone recharges in India as its payments usage still lags",
+      "id": "redwood-materials-loses-coo-amid-layoffs-restructuring",
+      "title": "Redwood Materials loses COO amid layoffs, restructuring",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/whatsapp-adds-prepaid-phone-recharges-in-india-as-its-payments-usage-still-lags/",
-      "publishedAt": "2026-04-23T13:28:56.000Z",
-      "summaryShort": "WhatsApp adds prepaid phone recharges in India as its payments usage still lags. WhatsApp is rolling out prepaid phone recharges to its 500 million users in India via PayU.",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/",
+      "publishedAt": "2026-04-23T22:44:12.000Z",
+      "summaryShort": "Redwood Materials loses COO amid layoffs, restructuring. Former Tesla executive Chris Lister is retiring, and at least three other VPs have left Redwood around the recent restructuring, TechCrunch has learned.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch",
-      "title": "AI galaxy hunters are adding to the global GPU crunch",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
-      "publishedAt": "2026-04-23T13:00:00.000Z",
-      "summaryShort": "AI galaxy hunters are adding to the global GPU crunch. Astronomers are turning to GPUs to find needles in the galactic haystack.",
-      "tags": [
-        "AI"
       ]
     }
   ]
