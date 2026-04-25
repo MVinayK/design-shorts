@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T13:49:02.281Z",
+  "generatedAt": "2026-04-25T02:53:50.422Z",
   "items": [
     {
       "id": "yelp-achieves-zero-downtime-upgrade-of-over-1-000-cassandra-node",
@@ -58,34 +58,34 @@
       ]
     },
     {
-      "id": "nothing-introduces-an-ai-powered-dictation-tool",
-      "title": "Nothing introduces an AI-powered dictation tool",
+      "id": "steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fra",
+      "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: &#8216;I was duped and feel silly'",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
-      "publishedAt": "2026-04-24T13:41:42.000Z",
-      "summaryShort": "Nothing introduces an AI-powered dictation tool. Nothing's new on-device dictation tool supports over 100 languages.",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+      "publishedAt": "2026-04-24T23:32:11.000Z",
+      "summaryShort": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: &#8216;I was duped and feel silly'. Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him a",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "deepseek-previews-new-ai-model-that-8216-closes-the-gap-with-fro",
-      "title": "DeepSeek previews new AI model that &#8216;closes the gap' with frontier models",
+      "id": "palantir-is-reportedly-helping-the-irs-investigate-financial-cri",
+      "title": "Palantir is reportedly helping the IRS investigate financial crimes",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
-      "publishedAt": "2026-04-24T13:30:59.000Z",
-      "summaryShort": "DeepSeek previews new AI model that &#8216;closes the gap' with frontier models. DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
+      "publishedAt": "2026-04-24T21:53:44.000Z",
+      "summaryShort": "Palantir is reportedly helping the IRS investigate financial crimes. The IRS has used Palantir's software since at least 2018, The Intercept reports.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-o",
-      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      "id": "cohere-acquires-merges-with-germany-based-startup-to-create-a-82",
+      "title": "Cohere acquires, merges with Germany-based startup to create a &#8216;transatlantic AI powerhouse'",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
-      "publishedAt": "2026-04-24T12:00:00.000Z",
-      "summaryShort": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs. Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
+      "publishedAt": "2026-04-24T21:35:30.000Z",
+      "summaryShort": "Cohere acquires, merges with Germany-based startup to create a &#8216;transatlantic AI powerhouse'. Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph A",
       "tags": [
         "AI"
       ]
