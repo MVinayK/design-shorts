@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-04-25T02:53:50.422Z",
+  "generatedAt": "2026-04-25T13:16:28.604Z",
   "items": [
+    {
+      "id": "cloudflare-optimizes-edge-stack-for-high-core-cpus-instead-of-la",
+      "title": "Cloudflare Optimizes Edge Stack for High-Core CPUs Instead of Large Cache",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/cache-parallelism-cloudflare/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-25T06:06:00.000Z",
+      "summaryShort": "Cloudflare Optimizes Edge Stack for High-Core CPUs Instead of Large Cache. Cloudflare recently introduced its Gen 13 servers, marking a shift in how its network handles traffic.",
+      "tags": [
+        "Cloud",
+        "Architecture"
+      ]
+    },
     {
       "id": "yelp-achieves-zero-downtime-upgrade-of-over-1-000-cassandra-node",
       "title": "Yelp Achieves Zero-Downtime Upgrade of Over 1,000 Cassandra Nodes",
@@ -47,12 +59,12 @@
       ]
     },
     {
-      "id": "react-navigation-8-0-alpha-with-native-bottom-tabs-reworked-type",
-      "title": "React Navigation 8.0 Alpha with Native Bottom Tabs, Reworked TypeScript Inference and History",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/react-navigation-8-alpha/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-23T15:36:00.000Z",
-      "summaryShort": "React Navigation 8.0 Alpha with Native Bottom Tabs, Reworked TypeScript Inference and History. React Navigation has released version 8.0 in alpha, updating its routing library for React Native and web applications.",
+      "id": "lachy-groom-to-back-india-startup-pronto-at-a-200m-valuation-sou",
+      "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
+      "publishedAt": "2026-04-25T03:30:00.000Z",
+      "summaryShort": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say. This round, should it occur, would double the house-help startup's valuation in a matter of weeks.",
       "tags": [
         "Engineering"
       ]
@@ -77,17 +89,6 @@
       "summaryShort": "Palantir is reportedly helping the IRS investigate financial crimes. The IRS has used Palantir's software since at least 2018, The Intercept reports.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "cohere-acquires-merges-with-germany-based-startup-to-create-a-82",
-      "title": "Cohere acquires, merges with Germany-based startup to create a &#8216;transatlantic AI powerhouse'",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
-      "publishedAt": "2026-04-24T21:35:30.000Z",
-      "summaryShort": "Cohere acquires, merges with Germany-based startup to create a &#8216;transatlantic AI powerhouse'. Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph A",
-      "tags": [
-        "AI"
       ]
     }
   ]
