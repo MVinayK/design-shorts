@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T13:16:28.604Z",
+  "generatedAt": "2026-04-26T03:32:05.447Z",
   "items": [
     {
       "id": "cloudflare-optimizes-edge-stack-for-high-core-cpus-instead-of-la",
@@ -15,11 +15,11 @@
     },
     {
       "id": "yelp-achieves-zero-downtime-upgrade-of-over-1-000-cassandra-node",
-      "title": "Yelp Achieves Zero-Downtime Upgrade of Over 1,000 Cassandra Nodes",
+      "title": "Yelp Achieves Zero-Downtime Upgrade of over 1,000 Cassandra Nodes",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/news/2026/04/yelp-cassandra-upgrade/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-04-24T12:00:00.000Z",
-      "summaryShort": "Yelp Achieves Zero-Downtime Upgrade of Over 1,000 Cassandra Nodes. Yelp has completed a large-scale upgrade of its Apache Cassandra infrastructure, spanning more than 1,000 nodes, without any service downtime, offering a blueprint for manag",
+      "summaryShort": "Yelp Achieves Zero-Downtime Upgrade of over 1,000 Cassandra Nodes. Yelp has completed a large-scale upgrade of its Apache Cassandra infrastructure, spanning more than 1,000 nodes, without any service downtime, offering a blueprint for manag",
       "tags": [
         "Cloud"
       ]
@@ -59,34 +59,34 @@
       ]
     },
     {
-      "id": "lachy-groom-to-back-india-startup-pronto-at-a-200m-valuation-sou",
-      "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
+      "id": "anthropic-created-a-test-marketplace-for-agent-on-agent-commerce",
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
-      "publishedAt": "2026-04-25T03:30:00.000Z",
-      "summaryShort": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say. This round, should it occur, would double the house-help startup's valuation in a matter of weeks.",
+      "sourceUrl": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "publishedAt": "2026-04-25T21:43:37.000Z",
+      "summaryShort": "Anthropic created a test marketplace for agent-on-agent commerce. In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "maine-s-governor-vetoes-data-center-moratorium",
+      "title": "Maine's governor vetoes data center moratorium",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "publishedAt": "2026-04-25T20:57:08.000Z",
+      "summaryShort": "Maine's governor vetoes data center moratorium. L.D.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fra",
-      "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: &#8216;I was duped and feel silly'",
+      "id": "openai-ceo-apologizes-to-tumbler-ridge-community",
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
-      "publishedAt": "2026-04-24T23:32:11.000Z",
-      "summaryShort": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: &#8216;I was duped and feel silly'. Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him a",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "palantir-is-reportedly-helping-the-irs-investigate-financial-cri",
-      "title": "Palantir is reportedly helping the IRS investigate financial crimes",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
-      "publishedAt": "2026-04-24T21:53:44.000Z",
-      "summaryShort": "Palantir is reportedly helping the IRS investigate financial crimes. The IRS has used Palantir's software since at least 2018, The Intercept reports.",
+      "sourceUrl": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "publishedAt": "2026-04-25T17:17:56.000Z",
+      "summaryShort": "OpenAI CEO apologizes to Tumbler Ridge community. In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass sho",
       "tags": [
         "Engineering"
       ]
