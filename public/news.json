@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-26T03:32:05.447Z",
+  "generatedAt": "2026-04-26T13:17:28.995Z",
   "items": [
+    {
+      "id": "aws-ends-workmail-and-moves-app-runner-to-maintenance-mode",
+      "title": "AWS Ends WorkMail and Moves App Runner to Maintenance Mode",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/aws-deprecates-workmail-apprunne/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-26T06:53:00.000Z",
+      "summaryShort": "AWS Ends WorkMail and Moves App Runner to Maintenance Mode. AWS has recently announced that WorkMail will be discontinued and that App Runner will stop accepting new customers and move into maintenance mode.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "cloudflare-optimizes-edge-stack-for-high-core-cpus-instead-of-la",
       "title": "Cloudflare Optimizes Edge Stack for High-Core CPUs Instead of Large Cache",
@@ -44,18 +55,6 @@
       "summaryShort": "Article: Orchestrating Agentic and Multimodal AI Pipelines with Apache Camel. In this article, author Vignesh Durai discusses how agentic and multimodal AI systems can be engineered using Apache Camel and LangChain4j technologies.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "hashicorp-vault-2-0-marks-shift-to-ibm-lifecycle-with-new-identi",
-      "title": "HashiCorp Vault 2.0 Marks Shift to IBM Lifecycle with New Identity Federation",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/vault-2-0-ibm-identity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-24T07:00:00.000Z",
-      "summaryShort": "HashiCorp Vault 2.0 Marks Shift to IBM Lifecycle with New Identity Federation. HashiCorp has released Vault 2.0, moving to the IBM versioning and support model following its acquisition.",
-      "tags": [
-        "AI",
-        "Databases"
       ]
     },
     {
