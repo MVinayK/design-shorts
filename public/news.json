@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-26T13:17:28.995Z",
+  "generatedAt": "2026-04-27T03:35:53.563Z",
   "items": [
+    {
+      "id": "spring-news-roundup-first-release-candidates-of-boot-security-in",
+      "title": "Spring News Roundup: First Release Candidates of Boot, Security, Integration, Modulith, AMQP",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/spring-news-roundup-apr20-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-27T02:30:00.000Z",
+      "summaryShort": "Spring News Roundup: First Release Candidates of Boot, Security, Integration, Modulith, AMQP. There was a flurry of activity in the Spring ecosystem during the week of April 20th, 2026, highlighting the first release candidates of: Spring B",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "aws-ends-workmail-and-moves-app-runner-to-maintenance-mode",
       "title": "AWS Ends WorkMail and Moves App Runner to Maintenance Mode",
@@ -14,11 +25,11 @@
     },
     {
       "id": "cloudflare-optimizes-edge-stack-for-high-core-cpus-instead-of-la",
-      "title": "Cloudflare Optimizes Edge Stack for High-Core CPUs Instead of Large Cache",
+      "title": "Cloudflare Optimizes Edge Stack for High-Core CPUs instead of Large Cache",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/news/2026/04/cache-parallelism-cloudflare/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-04-25T06:06:00.000Z",
-      "summaryShort": "Cloudflare Optimizes Edge Stack for High-Core CPUs Instead of Large Cache. Cloudflare recently introduced its Gen 13 servers, marking a shift in how its network handles traffic.",
+      "summaryShort": "Cloudflare Optimizes Edge Stack for High-Core CPUs instead of Large Cache. Cloudflare recently introduced its Gen 13 servers, marking a shift in how its network handles traffic.",
       "tags": [
         "Cloud",
         "Architecture"
@@ -37,55 +48,44 @@
     },
     {
       "id": "presentation-deepfakes-disinformation-and-ai-content-are-taking-",
-      "title": "Presentation: Deepfakes, Disinformation, and AI Content Are Taking Over the Internet",
+      "title": "Presentation: Deepfakes, Disinformation, and AI Content are Taking over the Internet",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/presentations/deepfakes-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-04-24T09:55:00.000Z",
-      "summaryShort": "Presentation: Deepfakes, Disinformation, and AI Content Are Taking Over the Internet. Shuman Ghosemajumder explains how generative AI has transformed from a creative curiosity into a high-scale tool for disinformation and fraud.",
+      "summaryShort": "Presentation: Deepfakes, Disinformation, and AI Content are Taking over the Internet. Shuman Ghosemajumder explains how generative AI has transformed from a creative curiosity into a high-scale tool for disinformation and fraud.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "article-orchestrating-agentic-and-multimodal-ai-pipelines-with-a",
-      "title": "Article: Orchestrating Agentic and Multimodal AI Pipelines with Apache Camel",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/orchestrating-agentic-multimodal-ai-pipelines-apache-camel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-24T09:00:00.000Z",
-      "summaryShort": "Article: Orchestrating Agentic and Multimodal AI Pipelines with Apache Camel. In this article, author Vignesh Durai discusses how agentic and multimodal AI systems can be engineered using Apache Camel and LangChain4j technologies.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "anthropic-created-a-test-marketplace-for-agent-on-agent-commerce",
-      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "id": "truecaller-faces-mounting-pressures-as-its-growth-matures",
+      "title": "Truecaller faces mounting pressures as its growth matures",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-      "publishedAt": "2026-04-25T21:43:37.000Z",
-      "summaryShort": "Anthropic created a test marketplace for agent-on-agent commerce. In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "maine-s-governor-vetoes-data-center-moratorium",
-      "title": "Maine's governor vetoes data center moratorium",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-      "publishedAt": "2026-04-25T20:57:08.000Z",
-      "summaryShort": "Maine's governor vetoes data center moratorium. L.D.",
+      "sourceUrl": "https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/",
+      "publishedAt": "2026-04-27T03:00:00.000Z",
+      "summaryShort": "Truecaller faces mounting pressures as its growth matures. As growth slows, Truecaller is leaning on subscriptions, business services, and new features to sustain momentum beyond India.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "openai-ceo-apologizes-to-tumbler-ridge-community",
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "id": "the-stanford-freshmen-who-want-to-rule-the-world-will-probably-r",
+      "title": "The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "publishedAt": "2026-04-25T17:17:56.000Z",
-      "summaryShort": "OpenAI CEO apologizes to Tumbler Ridge community. In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass sho",
+      "sourceUrl": "https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/",
+      "publishedAt": "2026-04-26T22:00:46.000Z",
+      "summaryShort": "The Stanford freshmen who want to rule the world . .",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "amazon-s-new-podcast-strategy-monetize-everything",
+      "title": "Amazon’s new podcast strategy: Monetize everything",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/",
+      "publishedAt": "2026-04-26T21:38:08.000Z",
+      "summaryShort": "Amazon’s new podcast strategy: Monetize everything. Amazon's podcasting business seems to have transformed over the past six months.",
       "tags": [
         "Engineering"
       ]
