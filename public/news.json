@@ -1,93 +1,92 @@
 {
-  "generatedAt": "2026-04-27T03:35:53.563Z",
+  "generatedAt": "2026-04-27T14:07:22.302Z",
   "items": [
     {
-      "id": "spring-news-roundup-first-release-candidates-of-boot-security-in",
-      "title": "Spring News Roundup: First Release Candidates of Boot, Security, Integration, Modulith, AMQP",
+      "id": "presentation-building-a-future-proof-observability-platform-to-e",
+      "title": "Presentation: Building a Future-Proof Observability Platform to Empower Engineers",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/spring-news-roundup-apr20-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-27T02:30:00.000Z",
-      "summaryShort": "Spring News Roundup: First Release Candidates of Boot, Security, Integration, Modulith, AMQP. There was a flurry of activity in the Spring ecosystem during the week of April 20th, 2026, highlighting the first release candidates of: Spring B",
+      "sourceUrl": "https://www.infoq.com/presentations/OpenTelemetry-instrumentation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-27T13:14:00.000Z",
+      "summaryShort": "Presentation: Building a Future-Proof Observability Platform to Empower Engineers. Wayne Bell and Dan Gomez Blanco discuss the architectural and cultural shift required to scale observability at Skyscanner.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "aws-ends-workmail-and-moves-app-runner-to-maintenance-mode",
-      "title": "AWS Ends WorkMail and Moves App Runner to Maintenance Mode",
+      "id": "article-mcp-in-the-java-world-bringing-architectural-strategy-to",
+      "title": "Article: MCP in the Java World: Bringing Architectural Strategy to LLM Integrations",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/aws-deprecates-workmail-apprunne/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-26T06:53:00.000Z",
-      "summaryShort": "AWS Ends WorkMail and Moves App Runner to Maintenance Mode. AWS has recently announced that WorkMail will be discontinued and that App Runner will stop accepting new customers and move into maintenance mode.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "cloudflare-optimizes-edge-stack-for-high-core-cpus-instead-of-la",
-      "title": "Cloudflare Optimizes Edge Stack for High-Core CPUs instead of Large Cache",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/cache-parallelism-cloudflare/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-25T06:06:00.000Z",
-      "summaryShort": "Cloudflare Optimizes Edge Stack for High-Core CPUs instead of Large Cache. Cloudflare recently introduced its Gen 13 servers, marking a shift in how its network handles traffic.",
-      "tags": [
-        "Cloud",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "yelp-achieves-zero-downtime-upgrade-of-over-1-000-cassandra-node",
-      "title": "Yelp Achieves Zero-Downtime Upgrade of over 1,000 Cassandra Nodes",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/yelp-cassandra-upgrade/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-24T12:00:00.000Z",
-      "summaryShort": "Yelp Achieves Zero-Downtime Upgrade of over 1,000 Cassandra Nodes. Yelp has completed a large-scale upgrade of its Apache Cassandra infrastructure, spanning more than 1,000 nodes, without any service downtime, offering a blueprint for manag",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-deepfakes-disinformation-and-ai-content-are-taking-",
-      "title": "Presentation: Deepfakes, Disinformation, and AI Content are Taking over the Internet",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/deepfakes-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-24T09:55:00.000Z",
-      "summaryShort": "Presentation: Deepfakes, Disinformation, and AI Content are Taking over the Internet. Shuman Ghosemajumder explains how generative AI has transformed from a creative curiosity into a high-scale tool for disinformation and fraud.",
+      "sourceUrl": "https://www.infoq.com/articles/mcp-java-architectural-strategy-llm-integrations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-27T11:00:00.000Z",
+      "summaryShort": "Article: MCP in the Java World: Bringing Architectural Strategy to LLM Integrations. Discover how the Model Context Protocol (MCP) Java SDK is establishing a new architectural discipline for enterprise LLM integrations.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "truecaller-faces-mounting-pressures-as-its-growth-matures",
-      "title": "Truecaller faces mounting pressures as its growth matures",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/",
-      "publishedAt": "2026-04-27T03:00:00.000Z",
-      "summaryShort": "Truecaller faces mounting pressures as its growth matures. As growth slows, Truecaller is leaning on subscriptions, business services, and new features to sustain momentum beyond India.",
+      "id": "podcast-a-java-performance-quest-taming-unsafe-code-embracing-id",
+      "title": "Podcast: A Java Performance Quest: Taming Unsafe Code, Embracing Idiomatic Style & Debugging the Linux Kernel",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/java-performance-quest/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-27T11:00:00.000Z",
+      "summaryShort": "Podcast: A Java Performance Quest: Taming Unsafe Code, Embracing Idiomatic Style & Debugging the Linux Kernel. In this podcast, Jaromir Hamala, a seasoned Java engineer specialising in high-throughput data systems, shares his thoughts on ho",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "the-stanford-freshmen-who-want-to-rule-the-world-will-probably-r",
-      "title": "The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/",
-      "publishedAt": "2026-04-26T22:00:46.000Z",
-      "summaryShort": "The Stanford freshmen who want to rule the world . .",
+      "id": "microsoft-s-russinovich-and-hanselman-warn-ai-is-hollowing-out-t",
+      "title": "Microsoft's Russinovich and Hanselman Warn AI Is Hollowing Out the Junior Developer Pipeline",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/junior-developer-pipeline-crisis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-27T09:17:00.000Z",
+      "summaryShort": "Microsoft's Russinovich and Hanselman Warn AI Is Hollowing Out the Junior Developer Pipeline. Microsoft's Russinovich and Hanselman argue in a CACM paper that agentic AI creates an \"AI drag\" on junior developers while boosting seniors, ince",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "amazon-s-new-podcast-strategy-monetize-everything",
-      "title": "Amazon’s new podcast strategy: Monetize everything",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/",
-      "publishedAt": "2026-04-26T21:38:08.000Z",
-      "summaryShort": "Amazon’s new podcast strategy: Monetize everything. Amazon's podcasting business seems to have transformed over the past six months.",
+      "id": "gitlab-adds-flat-rate-code-reviews-free-tier-ai-access-and-spend",
+      "title": "GitLab Adds Flat-Rate Code Reviews, Free-Tier AI Access, and Spending Caps",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/gitlab-flatrate-view-ai-access/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-27T08:00:00.000Z",
+      "summaryShort": "GitLab Adds Flat-Rate Code Reviews, Free-Tier AI Access, and Spending Caps. Open-core DevOps vendor GitLab has shipped versions 18.10 and 18.11 of its DevSecOps platform, with changes that give agentic AI to users on the free tier, that cut",
       "tags": [
-        "Engineering"
+        "AI"
+      ]
+    },
+    {
+      "id": "china-vetoes-meta-s-2b-manus-deal-after-months-long-probe",
+      "title": "China vetoes Meta’s $2B Manus deal after months-long probe",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "publishedAt": "2026-04-27T13:16:55.000Z",
+      "summaryShort": "China vetoes Meta’s $2B Manus deal after months-long probe. China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "openai-could-be-making-a-phone-with-ai-agents-replacing-apps",
+      "title": "OpenAI could be making a phone with AI agents replacing apps",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "publishedAt": "2026-04-27T13:08:59.000Z",
+      "summaryShort": "OpenAI could be making a phone with AI agents replacing apps. The phone could go in mass production in 2028, an analyst says.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "critical-infrastructure-giant-itron-says-it-was-hacked",
+      "title": "Critical infrastructure giant Itron says it was hacked",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/critical-infrastructure-giant-itron-says-it-was-hacked/",
+      "publishedAt": "2026-04-27T13:03:36.000Z",
+      "summaryShort": "Critical infrastructure giant Itron says it was hacked. The American technology giant provides water and energy monitoring and utility meters to hundreds of millions of homes and businesses.",
+      "tags": [
+        "Cloud"
       ]
     }
   ]
