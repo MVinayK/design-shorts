@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-04-27T14:07:22.302Z",
+  "generatedAt": "2026-04-28T03:40:53.991Z",
   "items": [
+    {
+      "id": "java-news-roundup-openjdk-oracle-critical-patches-open-liberty-t",
+      "title": "Java News Roundup: OpenJDK, Oracle Critical Patches, Open Liberty, Testcontainers, IntelliJ IDEA",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/java-news-roundup-apr20-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-28T02:30:00.000Z",
+      "summaryShort": "Java News Roundup: OpenJDK, Oracle Critical Patches, Open Liberty, Testcontainers, IntelliJ IDEA. This week's Java roundup for April 20th, 2026, features news highlighting: updates on OpenJDK JEPs; JDK 27 release schedule finalized; the Ora",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "qcon-san-francisco-2026-12-tracks-announced",
+      "title": "QCon San Francisco 2026: 12 Tracks Announced",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-27T15:30:00.000Z",
+      "summaryShort": "QCon San Francisco 2026: 12 Tracks Announced. The 12 tracks for QCon San Francisco 2026 (November 16-20) are now live.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "uber-migrates-75-000-test-classes-from-junit-4-to-junit-5-using-",
+      "title": "Uber Migrates 75,000+ Test Classes from Junit 4 to Junit 5 Using Automated Code Transformation",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/uber-junit4-junit5-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-27T14:07:00.000Z",
+      "summaryShort": "Uber Migrates 75,000+ Test Classes from Junit 4 to Junit 5 Using Automated Code Transformation. Uber engineers migrated over 75,000 test classes from JUnit 4 to JUnit 5 using automated code transformation with OpenRewrite and internal orche",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "presentation-building-a-future-proof-observability-platform-to-e",
       "title": "Presentation: Building a Future-Proof Observability Platform to Empower Engineers",
@@ -24,69 +57,36 @@
       ]
     },
     {
-      "id": "podcast-a-java-performance-quest-taming-unsafe-code-embracing-id",
-      "title": "Podcast: A Java Performance Quest: Taming Unsafe Code, Embracing Idiomatic Style & Debugging the Linux Kernel",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/java-performance-quest/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-27T11:00:00.000Z",
-      "summaryShort": "Podcast: A Java Performance Quest: Taming Unsafe Code, Embracing Idiomatic Style & Debugging the Linux Kernel. In this podcast, Jaromir Hamala, a seasoned Java engineer specialising in high-throughput data systems, shares his thoughts on ho",
+      "id": "india-s-snabbit-closes-56m-round-as-investor-interest-in-on-dema",
+      "title": "India's Snabbit closes $56M round as investor interest in on-demand home services heats up",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/",
+      "publishedAt": "2026-04-28T03:30:00.000Z",
+      "summaryShort": "India's Snabbit closes $56M round as investor interest in on-demand home services heats up. Snabbit now processes over 40,000 daily jobs and has cut costs sharply as it expands across cities and services.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "microsoft-s-russinovich-and-hanselman-warn-ai-is-hollowing-out-t",
-      "title": "Microsoft's Russinovich and Hanselman Warn AI Is Hollowing Out the Junior Developer Pipeline",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/junior-developer-pipeline-crisis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-27T09:17:00.000Z",
-      "summaryShort": "Microsoft's Russinovich and Hanselman Warn AI Is Hollowing Out the Junior Developer Pipeline. Microsoft's Russinovich and Hanselman argue in a CACM paper that agentic AI creates an \"AI drag\" on junior developers while boosting seniors, ince",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "gitlab-adds-flat-rate-code-reviews-free-tier-ai-access-and-spend",
-      "title": "GitLab Adds Flat-Rate Code Reviews, Free-Tier AI Access, and Spending Caps",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/gitlab-flatrate-view-ai-access/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-27T08:00:00.000Z",
-      "summaryShort": "GitLab Adds Flat-Rate Code Reviews, Free-Tier AI Access, and Spending Caps. Open-core DevOps vendor GitLab has shipped versions 18.10 and 18.11 of its DevSecOps platform, with changes that give agentic AI to users on the free tier, that cut",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "china-vetoes-meta-s-2b-manus-deal-after-months-long-probe",
-      "title": "China vetoes Meta’s $2B Manus deal after months-long probe",
+      "id": "letterboxd-the-social-platform-for-film-buffs-reportedly-looking",
+      "title": "Letterboxd, the social platform for film buffs, reportedly looking for new owner",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-      "publishedAt": "2026-04-27T13:16:55.000Z",
-      "summaryShort": "China vetoes Meta’s $2B Manus deal after months-long probe. China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/",
+      "publishedAt": "2026-04-27T20:37:49.000Z",
+      "summaryShort": "Letterboxd, the social platform for film buffs, reportedly looking for new owner. Potential buyers of Letterboxd include Versant, the parent company of CNBC and MS NOW, and Hollywood media company The Ankler, according to Semafor.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "openai-could-be-making-a-phone-with-ai-agents-replacing-apps",
-      "title": "OpenAI could be making a phone with AI agents replacing apps",
+      "id": "consumers-lost-2-1b-to-social-media-scams-in-2025-ftc-reports",
+      "title": "Consumers lost $2.1B to social media scams in 2025, FTC reports",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-      "publishedAt": "2026-04-27T13:08:59.000Z",
-      "summaryShort": "OpenAI could be making a phone with AI agents replacing apps. The phone could go in mass production in 2028, an analyst says.",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/",
+      "publishedAt": "2026-04-27T19:09:53.000Z",
+      "summaryShort": "Consumers lost $2.1B to social media scams in 2025, FTC reports. The agency reports that losses from social media scams have increased eightfold and that social media scams resulted in higher losses than any other method scammers used to co",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "critical-infrastructure-giant-itron-says-it-was-hacked",
-      "title": "Critical infrastructure giant Itron says it was hacked",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/27/critical-infrastructure-giant-itron-says-it-was-hacked/",
-      "publishedAt": "2026-04-27T13:03:36.000Z",
-      "summaryShort": "Critical infrastructure giant Itron says it was hacked. The American technology giant provides water and energy monitoring and utility meters to hundreds of millions of homes and businesses.",
-      "tags": [
-        "Cloud"
+        "Engineering"
       ]
     }
   ]
