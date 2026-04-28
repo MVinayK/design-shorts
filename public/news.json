@@ -1,90 +1,90 @@
 {
-  "generatedAt": "2026-04-28T03:40:53.991Z",
+  "generatedAt": "2026-04-28T14:29:08.208Z",
   "items": [
     {
-      "id": "java-news-roundup-openjdk-oracle-critical-patches-open-liberty-t",
-      "title": "Java News Roundup: OpenJDK, Oracle Critical Patches, Open Liberty, Testcontainers, IntelliJ IDEA",
+      "id": "github-uses-ebpf-to-eliminate-deployment-risks-and-prevent-circu",
+      "title": "GitHub Uses eBPF to Eliminate Deployment Risks and Prevent Circular Failures",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/java-news-roundup-apr20-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-28T02:30:00.000Z",
-      "summaryShort": "Java News Roundup: OpenJDK, Oracle Critical Patches, Open Liberty, Testcontainers, IntelliJ IDEA. This week's Java roundup for April 20th, 2026, features news highlighting: updates on OpenJDK JEPs; JDK 27 release schedule finalized; the Ora",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/github-ebpf-deployment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-28T12:00:00.000Z",
+      "summaryShort": "GitHub Uses eBPF to Eliminate Deployment Risks and Prevent Circular Failures. GitHub has introduced a new approach to improving deployment safety by leveraging eBPF, enabling the company to detect and prevent hidden circular dependencies th",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "qcon-san-francisco-2026-12-tracks-announced",
-      "title": "QCon San Francisco 2026: 12 Tracks Announced",
+      "id": "presentation-ai-powered-sre-for-autonomous-incident-response",
+      "title": "Presentation: AI-Powered SRE for Autonomous Incident Response",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-27T15:30:00.000Z",
-      "summaryShort": "QCon San Francisco 2026: 12 Tracks Announced. The 12 tracks for QCon San Francisco 2026 (November 16-20) are now live.",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-sre-incident-response/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-28T11:21:00.000Z",
+      "summaryShort": "Presentation: AI-Powered SRE for Autonomous Incident Response. The presenters discuss incident response, how AI-enhanced SRE platforms connect signals from logs, metrics, traces, and historical incidents to enable autonomous decisions.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "uber-migrates-75-000-test-classes-from-junit-4-to-junit-5-using-",
-      "title": "Uber Migrates 75,000+ Test Classes from Junit 4 to Junit 5 Using Automated Code Transformation",
+      "id": "presentation-week-long-outage-lifelong-lessons",
+      "title": "Presentation: Week-Long Outage: Lifelong Lessons",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/uber-junit4-junit5-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-27T14:07:00.000Z",
-      "summaryShort": "Uber Migrates 75,000+ Test Classes from Junit 4 to Junit 5 Using Automated Code Transformation. Uber engineers migrated over 75,000 test classes from JUnit 4 to JUnit 5 using automated code transformation with OpenRewrite and internal orche",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-building-a-future-proof-observability-platform-to-e",
-      "title": "Presentation: Building a Future-Proof Observability Platform to Empower Engineers",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/OpenTelemetry-instrumentation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-27T13:14:00.000Z",
-      "summaryShort": "Presentation: Building a Future-Proof Observability Platform to Empower Engineers. Wayne Bell and Dan Gomez Blanco discuss the architectural and cultural shift required to scale observability at Skyscanner.",
+      "sourceUrl": "https://www.infoq.com/presentations/outage-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-28T10:13:00.000Z",
+      "summaryShort": "Presentation: Week-Long Outage: Lifelong Lessons. Molly Struve discusses a brutal six-day outage that nearly sank a company.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "article-mcp-in-the-java-world-bringing-architectural-strategy-to",
-      "title": "Article: MCP in the Java World: Bringing Architectural Strategy to LLM Integrations",
+      "id": "legare-kerrison-and-cedric-clyburn-on-llm-performance-and-evalua",
+      "title": "Legare Kerrison and Cedric Clyburn on LLM Performance and Evaluations",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/mcp-java-architectural-strategy-llm-integrations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-27T11:00:00.000Z",
-      "summaryShort": "Article: MCP in the Java World: Bringing Architectural Strategy to LLM Integrations. Discover how the Model Context Protocol (MCP) Java SDK is establishing a new architectural discipline for enterprise LLM integrations.",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/kerrison-clyburn-llm-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-28T09:05:00.000Z",
+      "summaryShort": "Legare Kerrison and Cedric Clyburn on LLM Performance and Evaluations. Effectively measuring the performance of applications that are leveraging Large Language Models (LLM) is critical to the adoption of AI technologies in organizations.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "india-s-snabbit-closes-56m-round-as-investor-interest-in-on-dema",
-      "title": "India's Snabbit closes $56M round as investor interest in on-demand home services heats up",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/",
-      "publishedAt": "2026-04-28T03:30:00.000Z",
-      "summaryShort": "India's Snabbit closes $56M round as investor interest in on-demand home services heats up. Snabbit now processes over 40,000 daily jobs and has cut costs sharply as it expands across cities and services.",
+      "id": "article-codeguardian-a-model-context-protocol-server-for-ai-assi",
+      "title": "Article: CodeGuardian: A Model Context Protocol Server for AI-Assisted Code Quality Analysis and Security Scanning",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/ai-code-guardian/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-28T09:00:00.000Z",
+      "summaryShort": "Article: CodeGuardian: A Model Context Protocol Server for AI-Assisted Code Quality Analysis and Security Scanning. CodeGuardian is an MCP server that extends AI coding assistants with comprehensive code quality and security analysis capabi",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "letterboxd-the-social-platform-for-film-buffs-reportedly-looking",
-      "title": "Letterboxd, the social platform for film buffs, reportedly looking for new owner",
+      "id": "snapchat-brings-ai-powered-conversational-advertising-to-its-app",
+      "title": "Snapchat brings AI-powered conversational advertising to its app",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/",
-      "publishedAt": "2026-04-27T20:37:49.000Z",
-      "summaryShort": "Letterboxd, the social platform for film buffs, reportedly looking for new owner. Potential buyers of Letterboxd include Versant, the parent company of CNBC and MS NOW, and Hollywood media company The Ankler, according to Semafor.",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/",
+      "publishedAt": "2026-04-28T13:57:19.000Z",
+      "summaryShort": "Snapchat brings AI-powered conversational advertising to its app. Users will be able to chat with a brand's AI agent to do things like ask questions and get recommendations.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "consumers-lost-2-1b-to-social-media-scams-in-2025-ftc-reports",
-      "title": "Consumers lost $2.1B to social media scams in 2025, FTC reports",
+      "id": "youtube-is-testing-an-ai-powered-search-feature-that-shows-guide",
+      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/",
-      "publishedAt": "2026-04-27T19:09:53.000Z",
-      "summaryShort": "Consumers lost $2.1B to social media scams in 2025, FTC reports. The agency reports that losses from social media scams have increased eightfold and that social media scams resulted in higher losses than any other method scammers used to co",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+      "publishedAt": "2026-04-28T13:54:06.000Z",
+      "summaryShort": "YouTube is testing an AI-powered search feature that shows guided answers. YouTube is rolling out the new AI search feature to Premium subscribers in the U.S.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "bci-startup-neurable-looks-to-license-its-8216-mind-reading-tech",
+      "title": "BCI startup Neurable looks to license its &#8216;mind-reading' tech for consumer wearables",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+      "publishedAt": "2026-04-28T13:19:34.000Z",
+      "summaryShort": "BCI startup Neurable looks to license its &#8216;mind-reading' tech for consumer wearables. The startup specializes in \"non-invasive\" \"mind-reading\" tech—a kind of neural data collection that, its CEO hopes, will have all sorts of consumer ",
       "tags": [
         "Engineering"
       ]
