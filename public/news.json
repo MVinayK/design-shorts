@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-04-28T14:29:08.208Z",
+  "generatedAt": "2026-04-29T03:38:33.394Z",
   "items": [
+    {
+      "id": "how-slack-manages-context-in-long-running-multi-agent-systems",
+      "title": "How Slack Manages Context in Long-running Multi-agent Systems",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/slack-agent-context-management/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-28T21:00:00.000Z",
+      "summaryShort": "How Slack Manages Context in Long-running Multi-agent Systems. To sustain productivity in long-running agent systems, Slack engineers moved away from accumulating chat logs and started using structured memory, validation, and distilled trut",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "google-cloud-introduces-agents-cli-to-streamline-ai-agent-develo",
+      "title": "Google Cloud Introduces Agents CLI to Streamline AI Agent Development Lifecycle",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/agents-cli-google-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-28T17:55:00.000Z",
+      "summaryShort": "Google Cloud Introduces Agents CLI to Streamline AI Agent Development Lifecycle. Google Cloud has introduced Agents CLI within its Agent Platform, aiming to streamline the development lifecycle of AI agents from local prototyping to product",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "github-uses-ebpf-to-eliminate-deployment-risks-and-prevent-circu",
       "title": "GitHub Uses eBPF to Eliminate Deployment Risks and Prevent Circular Failures",
@@ -35,58 +58,36 @@
       ]
     },
     {
-      "id": "legare-kerrison-and-cedric-clyburn-on-llm-performance-and-evalua",
-      "title": "Legare Kerrison and Cedric Clyburn on LLM Performance and Evaluations",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/kerrison-clyburn-llm-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-28T09:05:00.000Z",
-      "summaryShort": "Legare Kerrison and Cedric Clyburn on LLM Performance and Evaluations. Effectively measuring the performance of applications that are leveraging Large Language Models (LLM) is critical to the adoption of AI technologies in organizations.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "article-codeguardian-a-model-context-protocol-server-for-ai-assi",
-      "title": "Article: CodeGuardian: A Model Context Protocol Server for AI-Assisted Code Quality Analysis and Security Scanning",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/ai-code-guardian/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-28T09:00:00.000Z",
-      "summaryShort": "Article: CodeGuardian: A Model Context Protocol Server for AI-Assisted Code Quality Analysis and Security Scanning. CodeGuardian is an MCP server that extends AI coding assistants with comprehensive code quality and security analysis capabi",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "snapchat-brings-ai-powered-conversational-advertising-to-its-app",
-      "title": "Snapchat brings AI-powered conversational advertising to its app",
+      "id": "how-one-venture-firm-is-investing-in-an-increasingly-fragmented-",
+      "title": "How one venture firm is investing in an increasingly fragmented world",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/",
-      "publishedAt": "2026-04-28T13:57:19.000Z",
-      "summaryShort": "Snapchat brings AI-powered conversational advertising to its app. Users will be able to chat with a brand's AI agent to do things like ask questions and get recommendations.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "youtube-is-testing-an-ai-powered-search-feature-that-shows-guide",
-      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
-      "publishedAt": "2026-04-28T13:54:06.000Z",
-      "summaryShort": "YouTube is testing an AI-powered search feature that shows guided answers. YouTube is rolling out the new AI search feature to Premium subscribers in the U.S.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "bci-startup-neurable-looks-to-license-its-8216-mind-reading-tech",
-      "title": "BCI startup Neurable looks to license its &#8216;mind-reading' tech for consumer wearables",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
-      "publishedAt": "2026-04-28T13:19:34.000Z",
-      "summaryShort": "BCI startup Neurable looks to license its &#8216;mind-reading' tech for consumer wearables. The startup specializes in \"non-invasive\" \"mind-reading\" tech—a kind of neural data collection that, its CEO hopes, will have all sorts of consumer ",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/",
+      "publishedAt": "2026-04-29T03:00:00.000Z",
+      "summaryShort": "How one venture firm is investing in an increasingly fragmented world. Geopolitical turmoil has made venture investing challenging, leading Kompas VC to carve out a niche in startups focused on the physical world.",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "at-his-openai-trial-musk-relitigates-an-old-friendship",
+      "title": "At his OpenAI trial, Musk relitigates an old friendship",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+      "publishedAt": "2026-04-29T00:40:16.000Z",
+      "summaryShort": "At his OpenAI trial, Musk relitigates an old friendship. It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "amazon-is-already-offering-new-openai-products-on-aws",
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "publishedAt": "2026-04-28T19:48:02.000Z",
+      "summaryShort": "Amazon is already offering new OpenAI products on AWS. A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+      "tags": [
+        "AI"
       ]
     }
   ]
