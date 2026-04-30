@@ -1,93 +1,94 @@
 {
-  "generatedAt": "2026-04-30T03:39:55.389Z",
+  "generatedAt": "2026-04-30T14:09:27.594Z",
   "items": [
     {
-      "id": "voidzero-s-experimental-oxc-angular-compiler-with-up-to-20x-fast",
-      "title": "VoidZero’s Experimental Oxc Angular Compiler with Up to 20x Faster Build Performance",
+      "id": "driving-and-measuring-the-impact-of-platform-engineering",
+      "title": "Driving and Measuring the Impact of Platform Engineering",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/angular-compiler-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-29T15:32:00.000Z",
-      "summaryShort": "VoidZero’s Experimental Oxc Angular Compiler with Up to 20x Faster Build Performance. VoidZero has released an experimental Angular compiler in Rust, promising improved build performance compared to Angular CLI.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "microsoft-releases-net-11-preview-3-with-updates-across-runtime-",
-      "title": "Microsoft Releases .NET 11 Preview 3 with Updates Across Runtime, SDK, MAUI, and ASP.NET Core",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/dotnet-11-preview-3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-29T14:43:00.000Z",
-      "summaryShort": "Microsoft Releases .NET 11 Preview 3 with Updates Across Runtime, SDK, MAUI, and ASP.NET Core. Microsoft has released .NET 11 Preview 3, the third preview of its upcoming Standard Term Support version due in November 2026.",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/measure-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-30T11:22:00.000Z",
+      "summaryShort": "Driving and Measuring the Impact of Platform Engineering. Platform engineering has to be approached from a socio-technical perspective, and shaped by all stakeholders, not just developers, Sergiu Petean said in his talk Driving the Future o",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "presentation-agents-architecture-amnesia-becoming-ai-native-with",
-      "title": "Presentation: Agents, Architecture, & Amnesia: Becoming AI-Native Without Losing Our Minds",
+      "id": "cloudflare-announces-agent-memory-a-managed-persistent-memory-se",
+      "title": "Cloudflare Announces Agent Memory, a Managed Persistent Memory Service for AI Agents",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-autonomy-continuum/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-29T14:15:00.000Z",
-      "summaryShort": "Presentation: Agents, Architecture, & Amnesia: Becoming AI-Native Without Losing Our Minds. Tracy Bannon shares a cautionary tale of \"The Sorcerer’s Apprentice\" to illustrate the risks of unbridled AI autonomy.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "sauce-labs-launches-ai-agent-to-automate-test-creation-and-close",
-      "title": "Sauce Labs Launches AI Agent to Automate Test Creation and Close the DevOps “Velocity Gap”",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/sauce-labs-ai-test-creation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-29T12:00:00.000Z",
-      "summaryShort": "Sauce Labs Launches AI Agent to Automate Test Creation and Close the DevOps “Velocity Gap”. Sauce Labs has announced the general availability of Sauce AI for Test Authoring, an AI-driven agent designed to translate business intent directly ",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "mistral-ai-introduces-workflows-for-orchestrating-enterprise-ai-",
-      "title": "Mistral AI Introduces Workflows for Orchestrating Enterprise AI Processes",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/mistral-ai-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-29T10:20:00.000Z",
-      "summaryShort": "Mistral AI Introduces Workflows for Orchestrating Enterprise AI Processes. Mistral AI has launched Workflows, an orchestration layer for enterprise AI that is now in public preview.",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/cloudflare-agent-memory-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-30T10:10:00.000Z",
+      "summaryShort": "Cloudflare Announces Agent Memory, a Managed Persistent Memory Service for AI Agents. Cloudflare announced Agent Memory in private beta, a managed service that extracts structured memories from AI agent conversations and retrieves them on d",
       "tags": [
         "AI",
-        "Cloud"
+        "Cloud",
+        "Architecture"
       ]
     },
     {
-      "id": "amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-in",
-      "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/",
-      "publishedAt": "2026-04-30T01:00:00.000Z",
-      "summaryShort": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India. PhonePe and Google Pay command 80% of India's UPI instant payments network.",
+      "id": "meta-s-approach-to-migrating-their-systems-to-post-quantum-crypt",
+      "title": "Meta's Approach to Migrating their Systems to Post-Quantum Cryptography",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/meta-quantum-crypto-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-30T10:00:00.000Z",
+      "summaryShort": "Meta's Approach to Migrating their Systems to Post-Quantum Cryptography. Meta has already begun preparing for the threats posed by quantum computing and migrating its systems to post-quantum cryptography, a complex process that will take mu",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "amazon-s-cloud-business-is-surging-and-so-is-its-capital-spendin",
-      "title": "Amazon's cloud business is surging — and so is its capital spending",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
-      "publishedAt": "2026-04-30T00:14:23.000Z",
-      "summaryShort": "Amazon's cloud business is surging — and so is its capital spending. The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+      "id": "presentation-stripe-s-docdb-how-zero-downtime-data-movement-powe",
+      "title": "Presentation: Stripe’s Docdb: How Zero-Downtime Data Movement Powers Trillion-Dollar Payment Processing",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/docdb-online-database/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-30T09:52:00.000Z",
+      "summaryShort": "Presentation: Stripe’s Docdb: How Zero-Downtime Data Movement Powers Trillion-Dollar Payment Processing. Jimmy Morzaria discusses the evolution of Stripe’s database tier to support 5 million QPS with 5.5 nines of reliability.",
       "tags": [
-        "Cloud"
+        "Databases"
       ]
     },
     {
-      "id": "sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-",
-      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+      "id": "dropbox-redesigns-compaction-to-reclaim-space-from-underfilled-s",
+      "title": "Dropbox Redesigns Compaction to Reclaim Space from Underfilled Storage Volumes",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/dropbox-tiered-compaction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-30T09:23:00.000Z",
+      "summaryShort": "Dropbox Redesigns Compaction to Reclaim Space from Underfilled Storage Volumes. Dropbox recently explained how it improved storage efficiency in Magic Pocket, the company's internal immutable blob store for storing user files at scale, by r",
+      "tags": [
+        "Databases"
+      ]
+    },
+    {
+      "id": "spotify-introduces-verified-artist-badges-to-help-distinguish-hu",
+      "title": "Spotify introduces verified artist badges to help distinguish humans from AI",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-      "publishedAt": "2026-04-30T00:07:15.000Z",
-      "summaryShort": "Sources: Anthropic could raise a new $50B round at a valuation of $900B. The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/",
+      "publishedAt": "2026-04-30T13:00:00.000Z",
+      "summaryShort": "Spotify introduces verified artist badges to help distinguish humans from AI. As AI-generated artists and tracks flood music streaming platforms, Spotify is rolling out a new “Verified by Spotify” badge to help listeners more easily identif",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "netflix-wants-you-to-watch-8216-clips-its-tiktok-like-vertical-v",
+      "title": "Netflix wants you to watch &#8216;Clips,' its TikTok-like vertical video feed",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/netflix-wants-you-to-watch-clips-its-tiktok-like-vertical-video-feed/",
+      "publishedAt": "2026-04-30T13:00:00.000Z",
+      "summaryShort": "Netflix wants you to watch &#8216;Clips,' its TikTok-like vertical video feed. Netflix is redesigning its mobile app and introducing Clips, a vertical video feed intended to help users discover new content by sharing highlights from origina",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "meta-says-its-business-ai-now-facilitates-10-million-conversatio",
+      "title": "Meta says its business AI now facilitates 10 million conversations a week",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+      "publishedAt": "2026-04-30T12:08:45.000Z",
+      "summaryShort": "Meta says its business AI now facilitates 10 million conversations a week. Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+      "tags": [
+        "AI"
       ]
     }
   ]
