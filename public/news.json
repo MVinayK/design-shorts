@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-04-30T14:09:27.594Z",
+  "generatedAt": "2026-05-01T03:52:42.601Z",
   "items": [
+    {
+      "id": "nvidia-launches-ising-open-models-for-quantum-computing",
+      "title": "NVIDIA Launches Ising Open Models for Quantum Computing",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/nvidia-ising-quantum/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-30T20:44:00.000Z",
+      "summaryShort": "NVIDIA Launches Ising Open Models for Quantum Computing. NVIDIA has announced a new family of open models called NVIDIA Ising, designed to address quantum processor calibration and quantum error correction.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "nestjs-v12-roadmap-full-esm-migration-standard-schema-validation",
+      "title": "NestJS v12 Roadmap: Full ESM Migration, Standard Schema Validation and Modernised Toolchain",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/04/nestjs-12-roadmap-esm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-04-30T16:00:00.000Z",
+      "summaryShort": "NestJS v12 Roadmap: Full ESM Migration, Standard Schema Validation and Modernised Toolchain. NestJS has announced a draft pull request for its upcoming v12.0.0 release, scheduled for early Q3 2026.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "driving-and-measuring-the-impact-of-platform-engineering",
       "title": "Driving and Measuring the Impact of Platform Engineering",
@@ -37,58 +59,36 @@
       ]
     },
     {
-      "id": "presentation-stripe-s-docdb-how-zero-downtime-data-movement-powe",
-      "title": "Presentation: Stripe’s Docdb: How Zero-Downtime Data Movement Powers Trillion-Dollar Payment Processing",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/docdb-online-database/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-30T09:52:00.000Z",
-      "summaryShort": "Presentation: Stripe’s Docdb: How Zero-Downtime Data Movement Powers Trillion-Dollar Payment Processing. Jimmy Morzaria discusses the evolution of Stripe’s database tier to support 5 million QPS with 5.5 nines of reliability.",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "dropbox-redesigns-compaction-to-reclaim-space-from-underfilled-s",
-      "title": "Dropbox Redesigns Compaction to Reclaim Space from Underfilled Storage Volumes",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/dropbox-tiered-compaction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-30T09:23:00.000Z",
-      "summaryShort": "Dropbox Redesigns Compaction to Reclaim Space from Underfilled Storage Volumes. Dropbox recently explained how it improved storage efficiency in Magic Pocket, the company's internal immutable blob store for storing user files at scale, by r",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "spotify-introduces-verified-artist-badges-to-help-distinguish-hu",
-      "title": "Spotify introduces verified artist badges to help distinguish humans from AI",
+      "id": "chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewh",
+      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/",
-      "publishedAt": "2026-04-30T13:00:00.000Z",
-      "summaryShort": "Spotify introduces verified artist badges to help distinguish humans from AI. As AI-generated artists and tracks flood music streaming platforms, Spotify is rolling out a new “Verified by Spotify” badge to help listeners more easily identif",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "netflix-wants-you-to-watch-8216-clips-its-tiktok-like-vertical-v",
-      "title": "Netflix wants you to watch &#8216;Clips,' its TikTok-like vertical video feed",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/netflix-wants-you-to-watch-clips-its-tiktok-like-vertical-video-feed/",
-      "publishedAt": "2026-04-30T13:00:00.000Z",
-      "summaryShort": "Netflix wants you to watch &#8216;Clips,' its TikTok-like vertical video feed. Netflix is redesigning its mobile app and introducing Clips, a vertical video feed intended to help users discover new content by sharing highlights from origina",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+      "publishedAt": "2026-05-01T02:00:00.000Z",
+      "summaryShort": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet. Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "meta-says-its-business-ai-now-facilitates-10-million-conversatio",
-      "title": "Meta says its business AI now facilitates 10 million conversations a week",
+      "id": "as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortag",
+      "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
-      "publishedAt": "2026-04-30T12:08:45.000Z",
-      "summaryShort": "Meta says its business AI now facilitates 10 million conversations a week. Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
+      "publishedAt": "2026-04-30T23:59:15.000Z",
+      "summaryShort": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms. Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
       "tags": [
-        "AI"
+        "Engineering"
+      ]
+    },
+    {
+      "id": "y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founde",
+      "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
+      "publishedAt": "2026-04-30T23:58:52.000Z",
+      "summaryShort": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says. Subscription billing fintech Skio sold to its competitor Recharge in what was a healthy exit, according to its founder and former CEO.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
