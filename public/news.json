@@ -1,59 +1,71 @@
 {
-  "generatedAt": "2026-05-01T03:52:42.601Z",
+  "generatedAt": "2026-05-01T13:38:18.585Z",
   "items": [
     {
-      "id": "nvidia-launches-ising-open-models-for-quantum-computing",
-      "title": "NVIDIA Launches Ising Open Models for Quantum Computing",
+      "id": "meta-deploys-unified-ai-agents-to-automate-performance-optimizat",
+      "title": "Meta Deploys Unified AI Agents to Automate Performance Optimization at Hyperscale",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/nvidia-ising-quantum/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-30T20:44:00.000Z",
-      "summaryShort": "NVIDIA Launches Ising Open Models for Quantum Computing. NVIDIA has announced a new family of open models called NVIDIA Ising, designed to address quantum processor calibration and quantum error correction.",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/meta-ai-agents-hyperscale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-01T12:00:00.000Z",
+      "summaryShort": "Meta Deploys Unified AI Agents to Automate Performance Optimization at Hyperscale. Meta has unveiled a new AI-driven capacity efficiency platform that uses unified AI agents to automatically detect and resolve performance issues across its ",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "presentation-the-next-generation-of-ai-products",
+      "title": "Presentation: The Next Generation of AI Products",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-products/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-01T09:23:00.000Z",
+      "summaryShort": "Presentation: The Next Generation of AI Products. Hilary Mason shares her journey from academia to building AI products at scale.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "nestjs-v12-roadmap-full-esm-migration-standard-schema-validation",
-      "title": "NestJS v12 Roadmap: Full ESM Migration, Standard Schema Validation and Modernised Toolchain",
+      "id": "vitest-4-1-test-tags-native-node-js-execution-and-ai-agent-repor",
+      "title": "Vitest 4.1: Test Tags, Native Node.js Execution and AI Agent Reporter",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/nestjs-12-roadmap-esm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-30T16:00:00.000Z",
-      "summaryShort": "NestJS v12 Roadmap: Full ESM Migration, Standard Schema Validation and Modernised Toolchain. NestJS has announced a draft pull request for its upcoming v12.0.0 release, scheduled for early Q3 2026.",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/vitest-4-1-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-01T09:03:00.000Z",
+      "summaryShort": "Vitest 4.1: Test Tags, Native Node.js Execution and AI Agent Reporter. Vitest 4.1, developed by VoidZero, enhances JavaScript testing with features like test tags for filtering and configuring tests, an experimental mode to bypass Vite's mo",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "driving-and-measuring-the-impact-of-platform-engineering",
-      "title": "Driving and Measuring the Impact of Platform Engineering",
+      "id": "article-securing-autonomous-ai-agents-on-kubernetes-trust-bounda",
+      "title": "Article: Securing Autonomous AI Agents on Kubernetes: Trust Boundaries, Secrets, and Observability for a New Category of Cloud Workload",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/measure-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-30T11:22:00.000Z",
-      "summaryShort": "Driving and Measuring the Impact of Platform Engineering. Platform engineering has to be approached from a socio-technical perspective, and shaped by all stakeholders, not just developers, Sergiu Petean said in his talk Driving the Future o",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "cloudflare-announces-agent-memory-a-managed-persistent-memory-se",
-      "title": "Cloudflare Announces Agent Memory, a Managed Persistent Memory Service for AI Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/cloudflare-agent-memory-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-30T10:10:00.000Z",
-      "summaryShort": "Cloudflare Announces Agent Memory, a Managed Persistent Memory Service for AI Agents. Cloudflare announced Agent Memory in private beta, a managed service that extracts structured memories from AI agent conversations and retrieves them on d",
+      "sourceUrl": "https://www.infoq.com/articles/securing-autonomous-ai-agents-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-01T09:00:00.000Z",
+      "summaryShort": "Article: Securing Autonomous AI Agents on Kubernetes: Trust Boundaries, Secrets, and Observability for a New Category of Cloud Workload. Autonomous AI agents break Kubernetes security assumptions with dynamic dependencies, multi-domain cred",
       "tags": [
         "AI",
-        "Cloud",
-        "Architecture"
+        "Cloud"
       ]
     },
     {
-      "id": "meta-s-approach-to-migrating-their-systems-to-post-quantum-crypt",
-      "title": "Meta's Approach to Migrating their Systems to Post-Quantum Cryptography",
+      "id": "broadcom-donates-velero-to-cncf-shifting-kubernetes-backup-to-co",
+      "title": "Broadcom Donates Velero to CNCF, Shifting Kubernetes Backup to Community Governance",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/04/meta-quantum-crypto-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-04-30T10:00:00.000Z",
-      "summaryShort": "Meta's Approach to Migrating their Systems to Post-Quantum Cryptography. Meta has already begun preparing for the threats posed by quantum computing and migrating its systems to post-quantum cryptography, a complex process that will take mu",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/broadcom-velero-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "summaryShort": "Broadcom Donates Velero to CNCF, Shifting Kubernetes Backup to Community Governance. Broadcom has announced the contribution of Velero, its Kubernetes-native backup, restore and migration project, to the Cloud Native Computing Foundation (C",
+      "tags": [
+        "Databases",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "people-are-finally-using-reddit-s-search",
+      "title": "People are finally using Reddit's search",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
+      "publishedAt": "2026-05-01T12:00:11.000Z",
+      "summaryShort": "People are finally using Reddit's search. The company saw a 30% year-on-year jump in the number of people using search every week, CEO Steve Huffman said on Thursday.",
       "tags": [
         "Engineering"
       ]
@@ -76,17 +88,6 @@
       "sourceUrl": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
       "publishedAt": "2026-04-30T23:59:15.000Z",
       "summaryShort": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms. Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founde",
-      "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
-      "publishedAt": "2026-04-30T23:58:52.000Z",
-      "summaryShort": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says. Subscription billing fintech Skio sold to its competitor Recharge in what was a healthy exit, according to its founder and former CEO.",
       "tags": [
         "Engineering"
       ]
