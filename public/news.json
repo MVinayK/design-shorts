@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-05-01T13:38:18.585Z",
+  "generatedAt": "2026-05-02T03:25:54.458Z",
   "items": [
+    {
+      "id": "jobrunr-introduces-clawrunr-an-open-source-java-ai-agent",
+      "title": "JobRunr Introduces ClawRunr, an Open-Source Java AI Agent",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/clawrunr/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-01T15:00:00.000Z",
+      "summaryShort": "JobRunr Introduces ClawRunr, an Open-Source Java AI Agent. JobRunr has introduced ClawRunr, an open-source Java AI agent for scheduled, recurring, and one-off background tasks.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "confluent-moves-schema-ids-to-kafka-headers-to-simplify-schema-g",
+      "title": "Confluent Moves Schema IDs to Kafka Headers to Simplify Schema Governance",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/confluent-kafka-header-schema-id/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-01T14:06:00.000Z",
+      "summaryShort": "Confluent Moves Schema IDs to Kafka Headers to Simplify Schema Governance. Confluent introduces a new approach in Apache Kafka that moves schema IDs from message payloads to record headers, aiming to simplify schema governance and evolution",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "meta-deploys-unified-ai-agents-to-automate-performance-optimizat",
       "title": "Meta Deploys Unified AI Agents to Automate Performance Optimization at Hyperscale",
@@ -36,60 +58,36 @@
       ]
     },
     {
-      "id": "article-securing-autonomous-ai-agents-on-kubernetes-trust-bounda",
-      "title": "Article: Securing Autonomous AI Agents on Kubernetes: Trust Boundaries, Secrets, and Observability for a New Category of Cloud Workload",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/securing-autonomous-ai-agents-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-01T09:00:00.000Z",
-      "summaryShort": "Article: Securing Autonomous AI Agents on Kubernetes: Trust Boundaries, Secrets, and Observability for a New Category of Cloud Workload. Autonomous AI agents break Kubernetes security assumptions with dynamic dependencies, multi-domain cred",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "broadcom-donates-velero-to-cncf-shifting-kubernetes-backup-to-co",
-      "title": "Broadcom Donates Velero to CNCF, Shifting Kubernetes Backup to Community Governance",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/broadcom-velero-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-01T08:00:00.000Z",
-      "summaryShort": "Broadcom Donates Velero to CNCF, Shifting Kubernetes Backup to Community Governance. Broadcom has announced the contribution of Velero, its Kubernetes-native backup, restore and migration project, to the Cloud Native Computing Foundation (C",
-      "tags": [
-        "Databases",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "people-are-finally-using-reddit-s-search",
-      "title": "People are finally using Reddit's search",
+      "id": "replit-s-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-h",
+      "title": "Replit's Amjad Masad on the Cursor deal, fighting Apple, and why he'd rather not sell",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
-      "publishedAt": "2026-05-01T12:00:11.000Z",
-      "summaryShort": "People are finally using Reddit's search. The company saw a 30% year-on-year jump in the number of people using search every week, CEO Steve Huffman said on Thursday.",
+      "sourceUrl": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+      "publishedAt": "2026-05-01T23:06:50.000Z",
+      "summaryShort": "Replit's Amjad Masad on the Cursor deal, fighting Apple, and why he'd rather not sell. At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question eve",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewh",
-      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+      "id": "musely-secures-360m-from-general-catalyst-without-giving-up-equi",
+      "title": "Musely secures $360M from General Catalyst without giving up equity",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-      "publishedAt": "2026-05-01T02:00:00.000Z",
-      "summaryShort": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet. Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+      "sourceUrl": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
+      "publishedAt": "2026-05-01T22:39:05.000Z",
+      "summaryShort": "Musely secures $360M from General Catalyst without giving up equity. The DTC skin, hair, and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortag",
-      "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
+      "id": "meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions",
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
-      "publishedAt": "2026-04-30T23:59:15.000Z",
-      "summaryShort": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms. Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
+      "sourceUrl": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "publishedAt": "2026-05-01T22:13:27.000Z",
+      "summaryShort": "Meta buys robotics startup to bolster its humanoid AI ambitions. Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
