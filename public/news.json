@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T13:23:29.502Z",
+  "generatedAt": "2026-05-03T03:45:12.888Z",
   "items": [
     {
       "id": "ducklake-1-0-data-lake-format-with-sql-catalog-metadata",
@@ -58,34 +58,34 @@
       ]
     },
     {
-      "id": "uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-fo",
-      "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+      "id": "ai-generated-actors-and-scripts-are-now-ineligible-for-oscars",
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-      "publishedAt": "2026-05-02T06:36:28.000Z",
-      "summaryShort": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies. Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursda",
+      "sourceUrl": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "publishedAt": "2026-05-02T21:54:58.000Z",
+      "summaryShort": "AI-generated actors and scripts are now ineligible for Oscars. Bad news for Tilly Norwood.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "farewell-jeeves-ask-com-shuts-down",
+      "title": "Farewell, Jeeves: Ask.com shuts down",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
+      "publishedAt": "2026-05-02T21:11:28.000Z",
+      "summaryShort": "Farewell, Jeeves: Ask.com shuts down. Owner IAC says it's discontinuing its search business.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "replit-s-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-h",
-      "title": "Replit's Amjad Masad on the Cursor deal, fighting Apple, and why he'd rather not sell",
+      "id": "netflix-delays-greta-gerwig-s-narnia-movie-for-big-theatrical-pu",
+      "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
-      "publishedAt": "2026-05-01T23:06:50.000Z",
-      "summaryShort": "Replit's Amjad Masad on the Cursor deal, fighting Apple, and why he'd rather not sell. At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question eve",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "musely-secures-360m-from-general-catalyst-without-giving-up-equi",
-      "title": "Musely secures $360M from General Catalyst without giving up equity",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
-      "publishedAt": "2026-05-01T22:39:05.000Z",
-      "summaryShort": "Musely secures $360M from General Catalyst without giving up equity. The DTC skin, hair, and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.",
+      "sourceUrl": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
+      "publishedAt": "2026-05-02T17:05:41.000Z",
+      "summaryShort": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027. \"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
       "tags": [
         "Engineering"
       ]
