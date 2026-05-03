@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-05-03T03:45:12.888Z",
+  "generatedAt": "2026-05-03T13:22:34.905Z",
   "items": [
+    {
+      "id": "cloudflare-builds-high-performance-infrastructure-for-running-ll",
+      "title": "Cloudflare Builds High-Performance Infrastructure for Running LLMs",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-03T10:58:00.000Z",
+      "summaryShort": "Cloudflare Builds High-Performance Infrastructure for Running LLMs. Cloudflare has recently announced new infrastructure designed to run large AI language models across its global network.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "ducklake-1-0-data-lake-format-with-sql-catalog-metadata",
       "title": "DuckLake 1.0: Data Lake Format with SQL Catalog Metadata",
@@ -47,14 +59,14 @@
       ]
     },
     {
-      "id": "presentation-the-next-generation-of-ai-products",
-      "title": "Presentation: The Next Generation of AI Products",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-products/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-01T09:23:00.000Z",
-      "summaryShort": "Presentation: The Next Generation of AI Products. Hilary Mason shares her journey from academia to building AI products at scale.",
+      "id": "this-tiny-magnetic-e-reader-could-stop-you-from-doomscrolling",
+      "title": "This tiny, magnetic e-reader could stop you from doomscrolling",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/",
+      "publishedAt": "2026-05-03T13:00:00.000Z",
+      "summaryShort": "This tiny, magnetic e-reader could stop you from doomscrolling. The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
@@ -75,17 +87,6 @@
       "sourceUrl": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
       "publishedAt": "2026-05-02T21:11:28.000Z",
       "summaryShort": "Farewell, Jeeves: Ask.com shuts down. Owner IAC says it's discontinuing its search business.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "netflix-delays-greta-gerwig-s-narnia-movie-for-big-theatrical-pu",
-      "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
-      "publishedAt": "2026-05-02T17:05:41.000Z",
-      "summaryShort": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027. \"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
       "tags": [
         "Engineering"
       ]
