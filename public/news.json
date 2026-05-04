@@ -1,94 +1,92 @@
 {
-  "generatedAt": "2026-05-04T03:42:17.689Z",
+  "generatedAt": "2026-05-04T14:14:26.996Z",
   "items": [
     {
-      "id": "cloudflare-builds-high-performance-infrastructure-for-running-ll",
-      "title": "Cloudflare Builds High-Performance Infrastructure for Running LLMs",
+      "id": "presentation-the-human-scalability-problem-why-your-teams-don-t-",
+      "title": "Presentation: The Human Scalability Problem: Why Your Teams Don’t Scale Like Your Code",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-03T10:58:00.000Z",
-      "summaryShort": "Cloudflare Builds High-Performance Infrastructure for Running LLMs. Cloudflare has recently announced new infrastructure designed to run large AI language models across its global network.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "ducklake-1-0-data-lake-format-with-sql-catalog-metadata",
-      "title": "DuckLake 1.0: Data Lake Format with SQL Catalog Metadata",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/ducklake-sql-catalog/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-02T06:48:00.000Z",
-      "summaryShort": "DuckLake 1.0: Data Lake Format with SQL Catalog Metadata. DuckDB Labs recently released DuckLake 1.0, a data lake format that stores table metadata in a SQL database rather than across many files in object storage.",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "jobrunr-introduces-clawrunr-an-open-source-java-ai-agent",
-      "title": "JobRunr Introduces ClawRunr, an Open-Source Java AI Agent",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/clawrunr/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-01T15:00:00.000Z",
-      "summaryShort": "JobRunr Introduces ClawRunr, an Open-Source Java AI Agent. JobRunr has introduced ClawRunr, an open-source Java AI agent for scheduled, recurring, and one-off background tasks.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "confluent-moves-schema-ids-to-kafka-headers-to-simplify-schema-g",
-      "title": "Confluent Moves Schema IDs to Kafka Headers to Simplify Schema Governance",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/confluent-kafka-header-schema-id/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-01T14:06:00.000Z",
-      "summaryShort": "Confluent Moves Schema IDs to Kafka Headers to Simplify Schema Governance. Confluent introduces a new approach in Apache Kafka that moves schema IDs from message payloads to record headers, aiming to simplify schema governance and evolution",
+      "sourceUrl": "https://www.infoq.com/presentations/human-scalability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-04T12:40:00.000Z",
+      "summaryShort": "Presentation: The Human Scalability Problem: Why Your Teams Don’t Scale Like Your Code. Charlotte de Jong Schouwenburg discusses the \"human bottlenecks\" of hyper-growth.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "meta-deploys-unified-ai-agents-to-automate-performance-optimizat",
-      "title": "Meta Deploys Unified AI Agents to Automate Performance Optimization at Hyperscale",
+      "id": "article-from-batch-to-micro-batch-streaming-lessons-learned-the-",
+      "title": "Article: From Batch to Micro-Batch Streaming: Lessons Learned the Hard Way in a Delta Index Pipeline",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/meta-ai-agents-hyperscale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-01T12:00:00.000Z",
-      "summaryShort": "Meta Deploys Unified AI Agents to Automate Performance Optimization at Hyperscale. Meta has unveiled a new AI-driven capacity efficiency platform that uses unified AI agents to automatically detect and resolve performance issues across its ",
+      "sourceUrl": "https://www.infoq.com/articles/micro-batch-streaming-lessons-learned/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-04T11:00:00.000Z",
+      "summaryShort": "Article: From Batch to Micro-Batch Streaming: Lessons Learned the Hard Way in a Delta Index Pipeline. This article describes how a production delta-index pipeline migrated from scheduled batch to micro-batch Spark Structured Streaming.",
       "tags": [
-        "AI",
-        "Cloud"
+        "Engineering"
       ]
     },
     {
-      "id": "we-ll-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-",
-      "title": "We'll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
-      "publishedAt": "2026-05-04T02:02:25.000Z",
-      "summaryShort": "We'll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse. Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 \"founding patrons\" had pledged n",
+      "id": "podcast-roq-leveraging-quarkus-to-build-static-sites-at-the-spee",
+      "title": "Podcast: Roq: Leveraging Quarkus to Build Static Sites at the Speed of Go",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/leveraging-quarkus-build-static-sites/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-04T11:00:00.000Z",
+      "summaryShort": "Podcast: Roq: Leveraging Quarkus to Build Static Sites at the Speed of Go. Andy Damevin, a developer who worked on Quarkus for almost a decade, talks about Roq.",
       "tags": [
-        "Architecture"
+        "Engineering"
       ]
     },
     {
-      "id": "this-is-fine-creator-says-ai-startup-stole-his-art",
-      "title": "‘This is fine’ creator says AI startup stole his art",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-      "publishedAt": "2026-05-03T20:16:51.000Z",
-      "summaryShort": "‘This is fine’ creator says AI startup stole his art. The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "id": "doordash-used-copilot-to-convert-its-xctest-based-ios-test-suite",
+      "title": "DoorDash Used Copilot to Convert Its XCTest-Based iOS Test Suite to Swift Testing",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/doordash-copilot-swift-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-04T10:00:00.000Z",
+      "summaryShort": "DoorDash Used Copilot to Convert Its XCTest-Based iOS Test Suite to Swift Testing. Using Copilot along with strong reliability safeguards, DoorDash migrated their iOS XCTest-based test suite to Swift Testing, thus modernizing a large test s",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "java-news-roundup-openjdk-jeps-glassfish-spring-ai-jreleaser-a2a",
+      "title": "Java News Roundup: OpenJDK JEPs, GlassFish, Spring AI, JReleaser, A2A Java SDK, Google ADK, Gradle",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/java-news-roundup-apr27-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-04T09:15:00.000Z",
+      "summaryShort": "Java News Roundup: OpenJDK JEPs, GlassFish, Spring AI, JReleaser, A2A Java SDK, Google ADK, Gradle. This week's Java roundup for April 27th, 2026, features news highlighting: OpenJDK JEPs for JDK 27; the fifth milestone release of Spring AI",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "in-harvard-study-ai-offered-more-accurate-emergency-room-diagnos",
-      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "id": "amazon-opens-up-its-global-logistics-network-to-all-businesses",
+      "title": "Amazon opens up its global logistics network to all businesses",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-      "publishedAt": "2026-05-03T18:00:09.000Z",
-      "summaryShort": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors. A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one mo",
+      "sourceUrl": "https://techcrunch.com/2026/05/04/amazon-opens-up-its-global-logistics-network-to-all-businesses/",
+      "publishedAt": "2026-05-04T14:13:53.000Z",
+      "summaryShort": "Amazon opens up its global logistics network to all businesses. The new service, called Amazon Supply Chain Services, pits the e-commerce directly against UPS and FedEx.",
       "tags": [
-        "AI"
+        "Engineering"
+      ]
+    },
+    {
+      "id": "5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second",
+      "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "publishedAt": "2026-05-04T14:00:00.000Z",
+      "summaryShort": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass. The BOGO offer is live.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plas",
+      "title": "Barocal can cool your food and drink by squeezing a hunk of plastic crystals",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/04/barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plastic-crystals/",
+      "publishedAt": "2026-05-04T13:00:00.000Z",
+      "summaryShort": "Barocal can cool your food and drink by squeezing a hunk of plastic crystals. Barocal might have discovered a cheap, nonpolluting material that could dethrone today's refrigeration technology.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
