@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-05-04T14:14:26.996Z",
+  "generatedAt": "2026-05-05T03:28:13.953Z",
   "items": [
+    {
+      "id": "cloudflare-processes-10m-daily-insights-with-new-security-overvi",
+      "title": "Cloudflare Processes 10M+ Daily Insights with New Security Overview Dashboard",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/cloudflare-security-dashboard/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-04T14:33:00.000Z",
+      "summaryShort": "Cloudflare Processes 10M+ Daily Insights with New Security Overview Dashboard. Cloudflare has launched a Security Overview dashboard that consolidates security signals into prioritized action items.",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "presentation-the-human-scalability-problem-why-your-teams-don-t-",
       "title": "Presentation: The Human Scalability Problem: Why Your Teams Don’t Scale Like Your Code",
@@ -46,47 +57,36 @@
       ]
     },
     {
-      "id": "java-news-roundup-openjdk-jeps-glassfish-spring-ai-jreleaser-a2a",
-      "title": "Java News Roundup: OpenJDK JEPs, GlassFish, Spring AI, JReleaser, A2A Java SDK, Google ADK, Gradle",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/java-news-roundup-apr27-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-04T09:15:00.000Z",
-      "summaryShort": "Java News Roundup: OpenJDK JEPs, GlassFish, Spring AI, JReleaser, A2A Java SDK, Google ADK, Gradle. This week's Java roundup for April 27th, 2026, features news highlighting: OpenJDK JEPs for JDK 27; the fifth milestone release of Spring AI",
+      "id": "geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo",
+      "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
+      "publishedAt": "2026-05-05T00:13:30.000Z",
+      "summaryShort": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO. Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "us-government-warns-of-severe-copyfail-bug-affecting-major-versi",
+      "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+      "publishedAt": "2026-05-04T22:21:32.000Z",
+      "summaryShort": "US government warns of severe CopyFail bug affecting major versions of Linux. U.S.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "openai-s-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo",
+      "title": "OpenAI's cozy partner Cerebras is on track for a blockbuster IPO",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "publishedAt": "2026-05-04T21:53:21.000Z",
+      "summaryShort": "OpenAI's cozy partner Cerebras is on track for a blockbuster IPO. AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "amazon-opens-up-its-global-logistics-network-to-all-businesses",
-      "title": "Amazon opens up its global logistics network to all businesses",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/04/amazon-opens-up-its-global-logistics-network-to-all-businesses/",
-      "publishedAt": "2026-05-04T14:13:53.000Z",
-      "summaryShort": "Amazon opens up its global logistics network to all businesses. The new service, called Amazon Supply Chain Services, pits the e-commerce directly against UPS and FedEx.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second",
-      "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "publishedAt": "2026-05-04T14:00:00.000Z",
-      "summaryShort": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass. The BOGO offer is live.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plas",
-      "title": "Barocal can cool your food and drink by squeezing a hunk of plastic crystals",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/04/barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plastic-crystals/",
-      "publishedAt": "2026-05-04T13:00:00.000Z",
-      "summaryShort": "Barocal can cool your food and drink by squeezing a hunk of plastic crystals. Barocal might have discovered a cheap, nonpolluting material that could dethrone today's refrigeration technology.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
