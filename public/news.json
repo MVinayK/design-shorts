@@ -1,90 +1,91 @@
 {
-  "generatedAt": "2026-05-05T03:28:13.953Z",
+  "generatedAt": "2026-05-06T03:39:17.520Z",
   "items": [
     {
-      "id": "cloudflare-processes-10m-daily-insights-with-new-security-overvi",
-      "title": "Cloudflare Processes 10M+ Daily Insights with New Security Overview Dashboard",
+      "id": "inside-claude-code-auto-mode-anthropic-s-autonomous-coding-syste",
+      "title": "Inside Claude Code Auto Mode: Anthropic’s Autonomous Coding System with Human Approval Gates",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/cloudflare-security-dashboard/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-04T14:33:00.000Z",
-      "summaryShort": "Cloudflare Processes 10M+ Daily Insights with New Security Overview Dashboard. Cloudflare has launched a Security Overview dashboard that consolidates security signals into prioritized action items.",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/anthropic-claude-code-auto-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-05T14:38:00.000Z",
+      "summaryShort": "Inside Claude Code Auto Mode: Anthropic’s Autonomous Coding System with Human Approval Gates. Anthropic has introduced auto mode in Claude Code, enabling multi-step software development workflows with reduced manual intervention.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-how-netflix-shapes-our-fleet-for-efficiency-and-rel",
+      "title": "Presentation: How Netflix Shapes our Fleet for Efficiency and Reliability",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/strategy-workload-hardware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-05T14:00:00.000Z",
+      "summaryShort": "Presentation: How Netflix Shapes our Fleet for Efficiency and Reliability. The speakers explain the inherent tension between service efficiency and reliability at Netflix's global scale.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "github-enhances-codeql-with-declarative-security-modeling-for-fa",
+      "title": "GitHub Enhances CodeQL with Declarative Security Modeling for Faster, More Flexible Analysis",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/github-codeql-security-modeling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-05T12:00:00.000Z",
+      "summaryShort": "GitHub Enhances CodeQL with Declarative Security Modeling for Faster, More Flexible Analysis. GitHub has introduced a significant update to its CodeQL engine, enabling developers to define custom sanitizers and validators directly through \"",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "mistral-adds-remote-agents-and-work-mode-to-le-chat",
+      "title": "Mistral Adds Remote Agents and Work Mode to Le Chat",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/mistral-agents-lechat/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-05T10:08:00.000Z",
+      "summaryShort": "Mistral Adds Remote Agents and Work Mode to Le Chat. Mistral has released Mistral Medium 3.5, a 128-billion parameter model designed to handle instruction following, reasoning, and coding within a single system, and introduced new cloud-bas",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "article-three-pillars-of-platform-engineering-a-virtuous-cycle",
+      "title": "Article: Three Pillars of Platform Engineering: a Virtuous Cycle",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/platform-reliability-cycle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-05T09:00:00.000Z",
+      "summaryShort": "Article: Three Pillars of Platform Engineering: a Virtuous Cycle. Platform engineering succeeds when reliability and ergonomics reinforce each other rather than compete.",
       "tags": [
         "Cloud"
       ]
     },
     {
-      "id": "presentation-the-human-scalability-problem-why-your-teams-don-t-",
-      "title": "Presentation: The Human Scalability Problem: Why Your Teams Don’t Scale Like Your Code",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/human-scalability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-04T12:40:00.000Z",
-      "summaryShort": "Presentation: The Human Scalability Problem: Why Your Teams Don’t Scale Like Your Code. Charlotte de Jong Schouwenburg discusses the \"human bottlenecks\" of hyper-growth.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "article-from-batch-to-micro-batch-streaming-lessons-learned-the-",
-      "title": "Article: From Batch to Micro-Batch Streaming: Lessons Learned the Hard Way in a Delta Index Pipeline",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/micro-batch-streaming-lessons-learned/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-04T11:00:00.000Z",
-      "summaryShort": "Article: From Batch to Micro-Batch Streaming: Lessons Learned the Hard Way in a Delta Index Pipeline. This article describes how a production delta-index pipeline migrated from scheduled batch to micro-batch Spark Structured Streaming.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "podcast-roq-leveraging-quarkus-to-build-static-sites-at-the-spee",
-      "title": "Podcast: Roq: Leveraging Quarkus to Build Static Sites at the Speed of Go",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/leveraging-quarkus-build-static-sites/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-04T11:00:00.000Z",
-      "summaryShort": "Podcast: Roq: Leveraging Quarkus to Build Static Sites at the Speed of Go. Andy Damevin, a developer who worked on Quarkus for almost a decade, talks about Roq.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "doordash-used-copilot-to-convert-its-xctest-based-ios-test-suite",
-      "title": "DoorDash Used Copilot to Convert Its XCTest-Based iOS Test Suite to Swift Testing",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/doordash-copilot-swift-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-04T10:00:00.000Z",
-      "summaryShort": "DoorDash Used Copilot to Convert Its XCTest-Based iOS Test Suite to Swift Testing. Using Copilot along with strong reliability safeguards, DoorDash migrated their iOS XCTest-based test suite to Swift Testing, thus modernizing a large test s",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo",
-      "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+      "id": "nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-s",
+      "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
-      "publishedAt": "2026-05-05T00:13:30.000Z",
-      "summaryShort": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO. Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion.",
+      "sourceUrl": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
+      "publishedAt": "2026-05-06T00:07:47.000Z",
+      "summaryShort": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch. The Silicon Valley AV startup has not started driverless testing yet.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "us-government-warns-of-severe-copyfail-bug-affecting-major-versi",
-      "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+      "id": "sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nem",
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
-      "publishedAt": "2026-05-04T22:21:32.000Z",
-      "summaryShort": "US government warns of severe CopyFail bug affecting major versions of Linux. U.S.",
+      "sourceUrl": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "publishedAt": "2026-05-05T23:50:10.000Z",
+      "summaryShort": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw. SAP plans to buy German AI startup Prior Labs and invest heavily in it.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "openai-s-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo",
-      "title": "OpenAI's cozy partner Cerebras is on track for a blockbuster IPO",
+      "id": "bumble-s-paying-users-are-slipping-as-it-bets-on-an-overhaul-lat",
+      "title": "Bumble's paying users are slipping as it bets on an overhaul later this year",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-      "publishedAt": "2026-05-04T21:53:21.000Z",
-      "summaryShort": "OpenAI's cozy partner Cerebras is on track for a blockbuster IPO. AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more.",
+      "sourceUrl": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
+      "publishedAt": "2026-05-05T23:05:50.000Z",
+      "summaryShort": "Bumble's paying users are slipping as it bets on an overhaul later this year. The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates.",
       "tags": [
         "AI"
       ]
