@@ -1,93 +1,92 @@
 {
-  "generatedAt": "2026-05-06T03:39:17.520Z",
+  "generatedAt": "2026-05-06T14:26:59.674Z",
   "items": [
     {
-      "id": "inside-claude-code-auto-mode-anthropic-s-autonomous-coding-syste",
-      "title": "Inside Claude Code Auto Mode: Anthropic’s Autonomous Coding System with Human Approval Gates",
+      "id": "linkedin-consolidates-hiring-data-pipelines-to-power-ai-driven-t",
+      "title": "LinkedIn Consolidates Hiring Data Pipelines to Power AI Driven Talent Systems",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/anthropic-claude-code-auto-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-05T14:38:00.000Z",
-      "summaryShort": "Inside Claude Code Auto Mode: Anthropic’s Autonomous Coding System with Human Approval Gates. Anthropic has introduced auto mode in Claude Code, enabling multi-step software development workflows with reduced manual intervention.",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/linkedin-unified-hiring-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-06T14:15:00.000Z",
+      "summaryShort": "LinkedIn Consolidates Hiring Data Pipelines to Power AI Driven Talent Systems. LinkedIn introduced a unified integrations platform to standardize and reconcile hiring data across systems.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-ai-first-software-delivery-balancing-innovation-wit",
+      "title": "Presentation: AI-First Software Delivery: Balancing Innovation with Proven Practices",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-first-practices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-06T11:12:00.000Z",
+      "summaryShort": "Presentation: AI-First Software Delivery: Balancing Innovation with Proven Practices. Wes Reisz discusses the shift toward AI-first software delivery, emphasizing that agentic workflows are not one-size-fits-all.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "attacker-bought-30-wordpress-plugins-on-flippa-and-backdoored-al",
+      "title": "Attacker Bought 30 WordPress Plugins on Flippa and Backdoored All of Them",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/wordpress-plugins-supply-chain/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-06T10:00:00.000Z",
+      "summaryShort": "Attacker Bought 30 WordPress Plugins on Flippa and Backdoored All of Them. An attacker purchased 30+ WordPress plugins on Flippa for six figures, planted a PHP deserialization backdoor in the first commit, and waited eight months before act",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "presentation-how-netflix-shapes-our-fleet-for-efficiency-and-rel",
-      "title": "Presentation: How Netflix Shapes our Fleet for Efficiency and Reliability",
+      "id": "google-new-tpu-generation-is-specifically-designed-for-agents-an",
+      "title": "Google New TPU Generation is Specifically Designed for Agents and SOTA Model Training",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/strategy-workload-hardware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-05T14:00:00.000Z",
-      "summaryShort": "Presentation: How Netflix Shapes our Fleet for Efficiency and Reliability. The speakers explain the inherent tension between service efficiency and reliability at Netflix's global scale.",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/google-8th-tpu-generation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-06T10:00:00.000Z",
+      "summaryShort": "Google New TPU Generation is Specifically Designed for Agents and SOTA Model Training. Google has unvelied a new generation of Tensor Processing Units (TPUs), featuring two specialized chips designed to accelerate model training and agent w",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "github-enhances-codeql-with-declarative-security-modeling-for-fa",
-      "title": "GitHub Enhances CodeQL with Declarative Security Modeling for Faster, More Flexible Analysis",
+      "id": "article-beyond-the-benchmark-a-metrics-driven-approach-to-sustai",
+      "title": "Article: Beyond the Benchmark: A Metrics-Driven Approach to Sustained iOS Performance on Real Devices",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/github-codeql-security-modeling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-05T12:00:00.000Z",
-      "summaryShort": "GitHub Enhances CodeQL with Declarative Security Modeling for Faster, More Flexible Analysis. GitHub has introduced a significant update to its CodeQL engine, enabling developers to define custom sanitizers and validators directly through \"",
+      "sourceUrl": "https://www.infoq.com/articles/metrics-driven-approach-ios-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-06T09:00:00.000Z",
+      "summaryShort": "Article: Beyond the Benchmark: A Metrics-Driven Approach to Sustained iOS Performance on Real Devices. iOS performance engineering often defaults to a mental model where performance is a property of a component.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "mistral-adds-remote-agents-and-work-mode-to-le-chat",
-      "title": "Mistral Adds Remote Agents and Work Mode to Le Chat",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/mistral-agents-lechat/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-05T10:08:00.000Z",
-      "summaryShort": "Mistral Adds Remote Agents and Work Mode to Le Chat. Mistral has released Mistral Medium 3.5, a 128-billion parameter model designed to handle instruction following, reasoning, and coding within a single system, and introduced new cloud-bas",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "article-three-pillars-of-platform-engineering-a-virtuous-cycle",
-      "title": "Article: Three Pillars of Platform Engineering: a Virtuous Cycle",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/platform-reliability-cycle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-05T09:00:00.000Z",
-      "summaryShort": "Article: Three Pillars of Platform Engineering: a Virtuous Cycle. Platform engineering succeeds when reliability and ergonomics reinforce each other rather than compete.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-s",
-      "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
+      "id": "3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disr",
+      "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
-      "publishedAt": "2026-05-06T00:07:47.000Z",
-      "summaryShort": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch. The Silicon Valley AV startup has not started driverless testing yet.",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-05-06T14:00:00.000Z",
+      "summaryShort": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026. Three days left to lock in 50% off a second ticket to Disrupt 2026.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nem",
-      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "id": "ai-boom-pushes-samsung-to-1t",
+      "title": "AI boom pushes Samsung to $1T",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-      "publishedAt": "2026-05-05T23:50:10.000Z",
-      "summaryShort": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw. SAP plans to buy German AI startup Prior Labs and invest heavily in it.",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+      "publishedAt": "2026-05-06T13:54:09.000Z",
+      "summaryShort": "AI boom pushes Samsung to $1T. Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "bumble-s-paying-users-are-slipping-as-it-bets-on-an-overhaul-lat",
-      "title": "Bumble's paying users are slipping as it bets on an overhaul later this year",
+      "id": "some-kids-are-bypassing-age-verification-checks-with-a-fake-must",
+      "title": "Some kids are bypassing age verification checks with a fake mustache",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
-      "publishedAt": "2026-05-05T23:05:50.000Z",
-      "summaryShort": "Bumble's paying users are slipping as it bets on an overhaul later this year. The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates.",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/",
+      "publishedAt": "2026-05-06T13:49:12.000Z",
+      "summaryShort": "Some kids are bypassing age verification checks with a fake mustache. A new survey found that kids find it easy to bypass age checks, despite a rise in age verification laws around the world.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
