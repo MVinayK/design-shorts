@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T14:26:59.674Z",
+  "generatedAt": "2026-05-07T03:39:18.545Z",
   "items": [
     {
       "id": "linkedin-consolidates-hiring-data-pipelines-to-power-ai-driven-t",
@@ -57,36 +57,36 @@
       ]
     },
     {
-      "id": "3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disr",
-      "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+      "id": "a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-",
+      "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-05-06T14:00:00.000Z",
-      "summaryShort": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026. Three days left to lock in 50% off a second ticket to Disrupt 2026.",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+      "publishedAt": "2026-05-06T22:30:00.000Z",
+      "summaryShort": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom. The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "ai-boom-pushes-samsung-to-1t",
-      "title": "AI boom pushes Samsung to $1T",
+      "id": "barry-diller-trusts-sam-altman-but-8216-trust-is-irrelevant-as-a",
+      "title": "Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant' as AGI nears, he says.",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
-      "publishedAt": "2026-05-06T13:54:09.000Z",
-      "summaryShort": "AI boom pushes Samsung to $1T. Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+      "publishedAt": "2026-05-06T21:57:56.000Z",
+      "summaryShort": "Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant' as AGI nears, he says..",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "snap-says-its-400m-deal-with-perplexity-8216-amicably-ended",
+      "title": "Snap says its $400M deal with Perplexity &#8216;amicably ended'",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+      "publishedAt": "2026-05-06T21:43:24.000Z",
+      "summaryShort": "Snap says its $400M deal with Perplexity &#8216;amicably ended'. The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "some-kids-are-bypassing-age-verification-checks-with-a-fake-must",
-      "title": "Some kids are bypassing age verification checks with a fake mustache",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/",
-      "publishedAt": "2026-05-06T13:49:12.000Z",
-      "summaryShort": "Some kids are bypassing age verification checks with a fake mustache. A new survey found that kids find it easy to bypass age checks, despite a rise in age verification laws around the world.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
