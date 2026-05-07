@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-05-07T03:39:18.545Z",
+  "generatedAt": "2026-05-07T14:27:48.291Z",
   "items": [
+    {
+      "id": "presentation-engineering-at-ai-speed-lessons-from-the-first-agen",
+      "title": "Presentation: Engineering at AI Speed: Lessons from the First Agentically Accelerated Software Project",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/engineering-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-07T14:07:00.000Z",
+      "summaryShort": "Presentation: Engineering at AI Speed: Lessons from the First Agentically Accelerated Software Project. Adam Wolff discusses the evolution of Claude Code, explaining how AI shifts the SDLC bottleneck from implementation to architectural dec",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "applying-best-simple-system-for-now-for-software-design",
+      "title": "Applying Best Simple System for Now for Software Design",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/best-simple-system-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-07T11:43:00.000Z",
+      "summaryShort": "Applying Best Simple System for Now for Software Design. Choosing between building up technical debt and missing delivery deadlines is a false dichotomy, Daniel Terhorst-North argued in his talk Best Simple System for Now.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "google-announces-gke-agent-sandbox-and-hypercluster-at-next-26-p",
+      "title": "Google Announces GKE Agent Sandbox and Hypercluster at Next '26, Positioning Kubernetes as AI Agent",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/gke-agent-sandbox-hypercluster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-07T10:06:00.000Z",
+      "summaryShort": "Google Announces GKE Agent Sandbox and Hypercluster at Next '26, Positioning Kubernetes as AI Agent. Google announced GKE Agent Sandbox and hypercluster at Cloud Next '26.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "leading-open-source-author-calls-for-verification-over-trust-in-",
+      "title": "Leading Open Source Author Calls for Verification over Trust in Software Supply Chains",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/stenberg-curl-verification-trust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-07T07:00:00.000Z",
+      "summaryShort": "Leading Open Source Author Calls for Verification over Trust in Software Supply Chains. In a blog post published in March 2026, Daniel Stenberg, creator and lead developer of curl, makes the case that the software industry's default positio",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "linkedin-consolidates-hiring-data-pipelines-to-power-ai-driven-t",
       "title": "LinkedIn Consolidates Hiring Data Pipelines to Power AI Driven Talent Systems",
@@ -13,78 +58,34 @@
       ]
     },
     {
-      "id": "presentation-ai-first-software-delivery-balancing-innovation-wit",
-      "title": "Presentation: AI-First Software Delivery: Balancing Innovation with Proven Practices",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-first-practices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-06T11:12:00.000Z",
-      "summaryShort": "Presentation: AI-First Software Delivery: Balancing Innovation with Proven Practices. Wes Reisz discusses the shift toward AI-first software delivery, emphasizing that agentic workflows are not one-size-fits-all.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "attacker-bought-30-wordpress-plugins-on-flippa-and-backdoored-al",
-      "title": "Attacker Bought 30 WordPress Plugins on Flippa and Backdoored All of Them",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/wordpress-plugins-supply-chain/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-06T10:00:00.000Z",
-      "summaryShort": "Attacker Bought 30 WordPress Plugins on Flippa and Backdoored All of Them. An attacker purchased 30+ WordPress plugins on Flippa for six figures, planted a PHP deserialization backdoor in the first commit, and waited eight months before act",
+      "id": "2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026",
+      "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-05-07T14:00:00.000Z",
+      "summaryShort": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026. Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "google-new-tpu-generation-is-specifically-designed-for-agents-an",
-      "title": "Google New TPU Generation is Specifically Designed for Agents and SOTA Model Training",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/google-8th-tpu-generation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-06T10:00:00.000Z",
-      "summaryShort": "Google New TPU Generation is Specifically Designed for Agents and SOTA Model Training. Google has unvelied a new generation of Tensor Processing Units (TPUs), featuring two specialized chips designed to accelerate model training and agent w",
+      "id": "china-s-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-ope",
+      "title": "China's Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "publishedAt": "2026-05-07T13:44:25.000Z",
+      "summaryShort": "China's Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets. Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "article-beyond-the-benchmark-a-metrics-driven-approach-to-sustai",
-      "title": "Article: Beyond the Benchmark: A Metrics-Driven Approach to Sustained iOS Performance on Real Devices",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/metrics-driven-approach-ios-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-06T09:00:00.000Z",
-      "summaryShort": "Article: Beyond the Benchmark: A Metrics-Driven Approach to Sustained iOS Performance on Real Devices. iOS performance engineering often defaults to a mental model where performance is a property of a component.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-",
-      "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+      "id": "spotify-wants-to-become-the-home-for-ai-generated-personal-audio",
+      "title": "Spotify wants to become the home for AI-generated personal audio",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
-      "publishedAt": "2026-05-06T22:30:00.000Z",
-      "summaryShort": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom. The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "barry-diller-trusts-sam-altman-but-8216-trust-is-irrelevant-as-a",
-      "title": "Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant' as AGI nears, he says.",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-      "publishedAt": "2026-05-06T21:57:56.000Z",
-      "summaryShort": "Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant' as AGI nears, he says..",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "snap-says-its-400m-deal-with-perplexity-8216-amicably-ended",
-      "title": "Snap says its $400M deal with Perplexity &#8216;amicably ended'",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-      "publishedAt": "2026-05-06T21:43:24.000Z",
-      "summaryShort": "Snap says its $400M deal with Perplexity &#8216;amicably ended'. The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+      "publishedAt": "2026-05-07T13:00:00.000Z",
+      "summaryShort": "Spotify wants to become the home for AI-generated personal audio. Users will be able to create a podcast from Codex or Claude Code and import it to Spotify",
       "tags": [
         "AI"
       ]
