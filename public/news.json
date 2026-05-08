@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-05-08T03:33:27.497Z",
+  "generatedAt": "2026-05-08T14:01:55.876Z",
   "items": [
+    {
+      "id": "presentation-leadership-in-ai-assisted-engineering",
+      "title": "Presentation: Leadership in AI-Assisted Engineering",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-assisted-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-08T12:40:00.000Z",
+      "summaryShort": "Presentation: Leadership in AI-Assisted Engineering. Justin Reock discusses the reality of AI’s impact on engineering, moving past anecdotes to hard data from DORA and DX research.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "cloudflare-launches-artifacts-beta-introducing-git-like-versioni",
+      "title": "Cloudflare Launches “Artifacts” Beta, Introducing Git-Like Versioning for AI Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/cloudflare-artifacts-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-08T12:00:00.000Z",
+      "summaryShort": "Cloudflare Launches “Artifacts” Beta, Introducing Git-Like Versioning for AI Agents. Cloudflare has announced the beta release of Artifacts, a new system designed to bring Git-style version control to AI agents, enabling developers to track",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "article-implementing-the-sidecar-pattern-in-microservices-based-",
+      "title": "Article: Implementing the Sidecar Pattern in Microservices-based ASP.NET Core Applications",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/asp-net-core-side-car/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-08T09:00:00.000Z",
+      "summaryShort": "Article: Implementing the Sidecar Pattern in Microservices-based ASP.NET Core Applications. Today's applications require monitoring, logging, configuration, etc.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "podcast-the-ai-joy-gap-why-some-developers-thrive-while-others-s",
+      "title": "Podcast: The AI Joy Gap: Why Some Developers Thrive While Others Struggle",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/some-developers-thrive-while-others-struggle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-08T09:00:00.000Z",
+      "summaryShort": "Podcast: The AI Joy Gap: Why Some Developers Thrive While Others Struggle. In this podcast, Shane Hastie, Lead Editor for Culture & Methods, spoke to Michael Parker, VP of Engineering at TurinTech AI, about bringing joy back to software dev",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "openai-introduces-websocket-based-execution-mode-to-reduce-laten",
       "title": "OpenAI Introduces Websocket-Based Execution Mode to Reduce Latency in Agentic Workflows",
@@ -13,79 +58,34 @@
       ]
     },
     {
-      "id": "presentation-engineering-at-ai-speed-lessons-from-the-first-agen",
-      "title": "Presentation: Engineering at AI Speed: Lessons from the First Agentically Accelerated Software Project",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/engineering-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-07T14:07:00.000Z",
-      "summaryShort": "Presentation: Engineering at AI Speed: Lessons from the First Agentically Accelerated Software Project. Adam Wolff discusses the evolution of Claude Code, explaining how AI shifts the SDLC bottleneck from implementation to architectural dec",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "applying-best-simple-system-for-now-for-software-design",
-      "title": "Applying Best Simple System for Now for Software Design",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/best-simple-system-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-07T11:43:00.000Z",
-      "summaryShort": "Applying Best Simple System for Now for Software Design. Choosing between building up technical debt and missing delivery deadlines is a false dichotomy, Daniel Terhorst-North argued in his talk Best Simple System for Now.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "google-announces-gke-agent-sandbox-and-hypercluster-at-next-26-p",
-      "title": "Google Announces GKE Agent Sandbox and Hypercluster at Next '26, Positioning Kubernetes as AI Agent",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/gke-agent-sandbox-hypercluster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-07T10:06:00.000Z",
-      "summaryShort": "Google Announces GKE Agent Sandbox and Hypercluster at Next '26, Positioning Kubernetes as AI Agent. Google announced GKE Agent Sandbox and hypercluster at Cloud Next '26.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "leading-open-source-author-calls-for-verification-over-trust-in-",
-      "title": "Leading Open Source Author Calls for Verification over Trust in Software Supply Chains",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/stenberg-curl-verification-trust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-07T07:00:00.000Z",
-      "summaryShort": "Leading Open Source Author Calls for Verification over Trust in Software Supply Chains. In a blog post published in March 2026, Daniel Stenberg, creator and lead developer of curl, makes the case that the software industry's default positio",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b",
-      "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
+      "id": "last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-",
+      "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
-      "publishedAt": "2026-05-07T23:11:43.000Z",
-      "summaryShort": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B. The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion.",
+      "sourceUrl": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-05-08T14:00:00.000Z",
+      "summaryShort": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026. Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "openai-launches-new-voice-intelligence-features-in-its-api",
-      "title": "OpenAI launches new voice intelligence features in its API",
+      "id": "lime-the-uber-backed-micromobility-company-files-for-ipo",
+      "title": "Lime, the Uber-backed micromobility company, files for IPO",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-      "publishedAt": "2026-05-07T22:24:50.000Z",
-      "summaryShort": "OpenAI launches new voice intelligence features in its API. The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator pla",
+      "sourceUrl": "https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/",
+      "publishedAt": "2026-05-08T13:21:34.000Z",
+      "summaryShort": "Lime, the Uber-backed micromobility company, files for IPO. After years of hints and preparation, Lime plans to enter the public markets.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumb",
-      "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
+      "id": "the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is",
+      "title": "The biggest U.S. power grid is under strain from AI — and no one is happy",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
-      "publishedAt": "2026-05-07T21:49:24.000Z",
-      "summaryShort": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%. The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
+      "sourceUrl": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
+      "publishedAt": "2026-05-08T13:00:00.000Z",
+      "summaryShort": "The biggest U.S. power grid is under strain from AI — and no one is happy.",
       "tags": [
         "AI"
       ]
