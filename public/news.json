@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-05-07T14:27:48.291Z",
+  "generatedAt": "2026-05-08T03:33:27.497Z",
   "items": [
+    {
+      "id": "openai-introduces-websocket-based-execution-mode-to-reduce-laten",
+      "title": "OpenAI Introduces Websocket-Based Execution Mode to Reduce Latency in Agentic Workflows",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/openai-websocket-responses-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-07T14:48:00.000Z",
+      "summaryShort": "OpenAI Introduces Websocket-Based Execution Mode to Reduce Latency in Agentic Workflows. OpenAI introduces a WebSocket-based execution mode for its Responses API to improve agentic workflow performance in coding agents and real-time AI syst",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "presentation-engineering-at-ai-speed-lessons-from-the-first-agen",
       "title": "Presentation: Engineering at AI Speed: Lessons from the First Agentically Accelerated Software Project",
@@ -47,45 +58,34 @@
       ]
     },
     {
-      "id": "linkedin-consolidates-hiring-data-pipelines-to-power-ai-driven-t",
-      "title": "LinkedIn Consolidates Hiring Data Pipelines to Power AI Driven Talent Systems",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/linkedin-unified-hiring-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-06T14:15:00.000Z",
-      "summaryShort": "LinkedIn Consolidates Hiring Data Pipelines to Power AI Driven Talent Systems. LinkedIn introduced a unified integrations platform to standardize and reconcile hiring data across systems.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026",
-      "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
+      "id": "ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b",
+      "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-05-07T14:00:00.000Z",
-      "summaryShort": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026. Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026.",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
+      "publishedAt": "2026-05-07T23:11:43.000Z",
+      "summaryShort": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B. The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "china-s-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-ope",
-      "title": "China's Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+      "id": "openai-launches-new-voice-intelligence-features-in-its-api",
+      "title": "OpenAI launches new voice intelligence features in its API",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
-      "publishedAt": "2026-05-07T13:44:25.000Z",
-      "summaryShort": "China's Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets. Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "publishedAt": "2026-05-07T22:24:50.000Z",
+      "summaryShort": "OpenAI launches new voice intelligence features in its API. The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator pla",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "spotify-wants-to-become-the-home-for-ai-generated-personal-audio",
-      "title": "Spotify wants to become the home for AI-generated personal audio",
+      "id": "kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumb",
+      "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
-      "publishedAt": "2026-05-07T13:00:00.000Z",
-      "summaryShort": "Spotify wants to become the home for AI-generated personal audio. Users will be able to create a podcast from Codex or Claude Code and import it to Spotify",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
+      "publishedAt": "2026-05-07T21:49:24.000Z",
+      "summaryShort": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%. The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
       "tags": [
         "AI"
       ]
