@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-05-09T03:33:21.519Z",
+  "generatedAt": "2026-05-09T13:27:27.304Z",
   "items": [
+    {
+      "id": "fonttrio-launches-as-open-source-font-pairing-registry-for-shadc",
+      "title": "Fonttrio Launches as Open-Source Font Pairing Registry for shadcn/ui",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/fonttrio-shadcn-fonts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-09T09:46:00.000Z",
+      "summaryShort": "Fonttrio Launches as Open-Source Font Pairing Registry for shadcn/ui. Fonttrio is an open-source font pairing registry designed for shadcn/ui projects, featuring 49 curated font combinations that can be installed via a single command.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "cloudflare-ships-dynamic-workflows-bringing-durable-execution-to",
+      "title": "Cloudflare Ships Dynamic Workflows, Bringing Durable Execution to Per-Tenant and Per-Agent Code",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/cloudflare-dynamic-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-09T09:31:00.000Z",
+      "summaryShort": "Cloudflare Ships Dynamic Workflows, Bringing Durable Execution to Per-Tenant and Per-Agent Code. Cloudflare released Dynamic Workflows, an MIT-licensed library that extends its durable execution engine so workflow code can differ per tenant",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "aws-improves-aurora-serverless-45-faster-ramp-up-30-higher-throu",
+      "title": "AWS Improves Aurora Serverless: 45% Faster Ramp-Up, 30% Higher Throughput",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/aurora-serverless-v4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-09T06:56:00.000Z",
+      "summaryShort": "AWS Improves Aurora Serverless: 45% Faster Ramp-Up, 30% Higher Throughput. AWS has recently announced that WorkMail will be discontinued and that App Runner will stop accepting new customers and move into maintenance mode.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "how-github-is-securing-agentic-workflows-in-modern-ci-cd-systems",
       "title": "How GitHub Is Securing Agentic Workflows in Modern CI CD Systems",
@@ -19,40 +52,6 @@
       "sourceUrl": "https://www.infoq.com/presentations/ai-assisted-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-05-08T12:40:00.000Z",
       "summaryShort": "Presentation: Leadership in AI-Assisted Engineering. Justin Reock discusses the reality of AI’s impact on engineering, moving past anecdotes to hard data from DORA and DX research.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "cloudflare-launches-artifacts-beta-introducing-git-like-versioni",
-      "title": "Cloudflare Launches “Artifacts” Beta, Introducing Git-Like Versioning for AI Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/cloudflare-artifacts-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-08T12:00:00.000Z",
-      "summaryShort": "Cloudflare Launches “Artifacts” Beta, Introducing Git-Like Versioning for AI Agents. Cloudflare has announced the beta release of Artifacts, a new system designed to bring Git-style version control to AI agents, enabling developers to track",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "article-implementing-the-sidecar-pattern-in-microservices-based-",
-      "title": "Article: Implementing the Sidecar Pattern in Microservices-based ASP.NET Core Applications",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/asp-net-core-side-car/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-08T09:00:00.000Z",
-      "summaryShort": "Article: Implementing the Sidecar Pattern in Microservices-based ASP.NET Core Applications. Today's applications require monitoring, logging, configuration, etc.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "podcast-the-ai-joy-gap-why-some-developers-thrive-while-others-s",
-      "title": "Podcast: The AI Joy Gap: Why Some Developers Thrive While Others Struggle",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/some-developers-thrive-while-others-struggle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-08T09:00:00.000Z",
-      "summaryShort": "Podcast: The AI Joy Gap: Why Some Developers Thrive While Others Struggle. In this podcast, Shane Hastie, Lead Editor for Culture & Methods, spoke to Michael Parker, VP of Engineering at TurinTech AI, about bringing joy back to software dev",
       "tags": [
         "AI"
       ]
