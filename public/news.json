@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-05-08T14:01:55.876Z",
+  "generatedAt": "2026-05-09T03:33:21.519Z",
   "items": [
+    {
+      "id": "how-github-is-securing-agentic-workflows-in-modern-ci-cd-systems",
+      "title": "How GitHub Is Securing Agentic Workflows in Modern CI CD Systems",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/github-agentic-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-08T14:38:00.000Z",
+      "summaryShort": "How GitHub Is Securing Agentic Workflows in Modern CI CD Systems. GitHub detailed a defense-in-depth security architecture for agentic workflows in CI/CD pipelines, focusing on isolation, constrained execution, and auditability.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "presentation-leadership-in-ai-assisted-engineering",
       "title": "Presentation: Leadership in AI-Assisted Engineering",
@@ -47,47 +58,36 @@
       ]
     },
     {
-      "id": "openai-introduces-websocket-based-execution-mode-to-reduce-laten",
-      "title": "OpenAI Introduces Websocket-Based Execution Mode to Reduce Latency in Agentic Workflows",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/openai-websocket-responses-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-07T14:48:00.000Z",
-      "summaryShort": "OpenAI Introduces Websocket-Based Execution Mode to Reduce Latency in Agentic Workflows. OpenAI introduces a WebSocket-based execution mode for its Responses API to improve agentic workflow performance in coding agents and real-time AI syst",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-",
-      "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
+      "id": "laid-off-oracle-workers-tried-to-negotiate-better-severance-orac",
+      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-05-08T14:00:00.000Z",
-      "summaryShort": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026. Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026.",
+      "sourceUrl": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+      "publishedAt": "2026-05-08T22:59:05.000Z",
+      "summaryShort": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no..",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "lime-the-uber-backed-micromobility-company-files-for-ipo",
-      "title": "Lime, the Uber-backed micromobility company, files for IPO",
+      "id": "san-francisco-s-housing-market-has-lost-its-mind",
+      "title": "San Francisco's housing market has lost its mind",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/",
-      "publishedAt": "2026-05-08T13:21:34.000Z",
-      "summaryShort": "Lime, the Uber-backed micromobility company, files for IPO. After years of hints and preparation, Lime plans to enter the public markets.",
+      "sourceUrl": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
+      "publishedAt": "2026-05-08T22:32:31.000Z",
+      "summaryShort": "San Francisco's housing market has lost its mind. The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is",
-      "title": "The biggest U.S. power grid is under strain from AI — and no one is happy",
+      "id": "prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-8",
+      "title": "Prime Video follows Netflix and Disney by adding a TikTok-like &#8216;Clips' feed in its app",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
-      "publishedAt": "2026-05-08T13:00:00.000Z",
-      "summaryShort": "The biggest U.S. power grid is under strain from AI — and no one is happy.",
+      "sourceUrl": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/",
+      "publishedAt": "2026-05-08T20:50:03.000Z",
+      "summaryShort": "Prime Video follows Netflix and Disney by adding a TikTok-like &#8216;Clips' feed in its app. The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
