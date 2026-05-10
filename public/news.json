@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-05-10T03:48:50.177Z",
+  "generatedAt": "2026-05-10T13:39:58.168Z",
   "items": [
+    {
+      "id": "mysql-9-7-first-major-lts-since-8-4-brings-enterprise-features-t",
+      "title": "MySQL 9.7: First Major LTS Since 8.4 Brings Enterprise Features to Community Edition",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/mysql-97-lts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-10T06:30:00.000Z",
+      "summaryShort": "MySQL 9.7: First Major LTS Since 8.4 Brings Enterprise Features to Community Edition. Oracle has announced the general availability of MySQL 9.7.0, marking the start of a new 9.7 LTS release series and the first major one since MySQL 8.4.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "fonttrio-launches-as-open-source-font-pairing-registry-for-shadc",
       "title": "Fonttrio Launches as Open-Source Font Pairing Registry for shadcn/ui",
@@ -41,17 +52,6 @@
       "sourceUrl": "https://www.infoq.com/news/2026/05/github-agentic-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-05-08T14:38:00.000Z",
       "summaryShort": "How GitHub Is Securing Agentic Workflows in Modern CI CD Systems. GitHub detailed a defense-in-depth security architecture for agentic workflows in CI/CD pipelines, focusing on isolation, constrained execution, and auditability.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-leadership-in-ai-assisted-engineering",
-      "title": "Presentation: Leadership in AI-Assisted Engineering",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-assisted-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-08T12:40:00.000Z",
-      "summaryShort": "Presentation: Leadership in AI-Assisted Engineering. Justin Reock discusses the reality of AI’s impact on engineering, moving past anecdotes to hard data from DORA and DX research.",
       "tags": [
         "AI"
       ]
