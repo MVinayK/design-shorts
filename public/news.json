@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-05-10T13:39:58.168Z",
+  "generatedAt": "2026-05-11T03:59:31.709Z",
   "items": [
+    {
+      "id": "java-news-roundup-graalvm-spring-ai-jobrunr-glassfish-grails-gro",
+      "title": "Java News Roundup: GraalVM, Spring AI, JobRunr, GlassFish, Grails, Groovy, Quarkus Agent MCP",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/java-news-roundup-may04-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-11T02:30:00.000Z",
+      "summaryShort": "Java News Roundup: GraalVM, Spring AI, JobRunr, GlassFish, Grails, Groovy, Quarkus Agent MCP. This week's Java roundup for May 4th, 2026, features news highlighting: OpenJDK JEPs targeted for JDK 27; the sixth milestone release of Spring AI",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "mysql-9-7-first-major-lts-since-8-4-brings-enterprise-features-t",
       "title": "MySQL 9.7: First Major LTS Since 8.4 Brings Enterprise Features to Community Edition",
@@ -46,45 +57,34 @@
       ]
     },
     {
-      "id": "how-github-is-securing-agentic-workflows-in-modern-ci-cd-systems",
-      "title": "How GitHub Is Securing Agentic Workflows in Modern CI CD Systems",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/github-agentic-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-08T14:38:00.000Z",
-      "summaryShort": "How GitHub Is Securing Agentic Workflows in Modern CI CD Systems. GitHub detailed a defense-in-depth security architecture for agentic workflows in CI/CD pipelines, focusing on isolation, constrained execution, and auditability.",
+      "id": "get-ready-for-the-whisper-filled-office-of-the-future",
+      "title": "Get ready for the whisper-filled office of the future",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "publishedAt": "2026-05-10T21:15:30.000Z",
+      "summaryShort": "Get ready for the whisper-filled office of the future. How will work setups change if we spend more and more time talking to our computers?",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "anthropic-says-evil-portrayals-of-ai-were-responsible-for-claude",
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "publishedAt": "2026-05-10T20:40:41.000Z",
+      "summaryShort": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts. Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway",
-      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "id": "uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-",
+      "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-      "publishedAt": "2026-05-10T02:00:00.000Z",
-      "summaryShort": "Voice AI in India is hard. Wispr Flow is betting on it anyway..",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "so-you-ve-heard-these-ai-terms-and-nodded-along-let-s-fix-that",
-      "title": "So you've heard these AI terms and nodded along; let's fix that",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "publishedAt": "2026-05-09T21:45:00.000Z",
-      "summaryShort": "So you've heard these AI terms and nodded along; let's fix that. The rise of AI has brought an avalanche of new terms and slang.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "fintech-startup-parker-files-for-bankruptcy",
-      "title": "Fintech startup Parker files for bankruptcy",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
-      "publishedAt": "2026-05-09T20:32:17.000Z",
-      "summaryShort": "Fintech startup Parker files for bankruptcy. Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.",
+      "sourceUrl": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
+      "publishedAt": "2026-05-10T18:08:54.000Z",
+      "summaryShort": "Uber has always wanted to be more than a ride; now it has reason to hurry. The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may b",
       "tags": [
         "Engineering"
       ]
