@@ -1,90 +1,94 @@
 {
-  "generatedAt": "2026-05-11T03:59:31.709Z",
+  "generatedAt": "2026-05-11T15:22:40.453Z",
   "items": [
     {
-      "id": "java-news-roundup-graalvm-spring-ai-jobrunr-glassfish-grails-gro",
-      "title": "Java News Roundup: GraalVM, Spring AI, JobRunr, GlassFish, Grails, Groovy, Quarkus Agent MCP",
+      "id": "netflix-serves-84-of-query-results-from-cache-with-interval-awar",
+      "title": "Netflix Serves 84% of Query Results from Cache with Interval-Aware Caching in Apache Druid",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/java-news-roundup-may04-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-11T02:30:00.000Z",
-      "summaryShort": "Java News Roundup: GraalVM, Spring AI, JobRunr, GlassFish, Grails, Groovy, Quarkus Agent MCP. This week's Java roundup for May 4th, 2026, features news highlighting: OpenJDK JEPs targeted for JDK 27; the sixth milestone release of Spring AI",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/netflix-druid-interval-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-11T14:36:00.000Z",
+      "summaryShort": "Netflix Serves 84% of Query Results from Cache with Interval-Aware Caching in Apache Druid. Netflix improves Apache Druid performance with interval aware caching, serving 84% of analytics results from cache and reducing query load by 33%.",
       "tags": [
-        "AI"
+        "Architecture"
       ]
     },
     {
-      "id": "mysql-9-7-first-major-lts-since-8-4-brings-enterprise-features-t",
-      "title": "MySQL 9.7: First Major LTS Since 8.4 Brings Enterprise Features to Community Edition",
+      "id": "presentation-evolution-of-a-backend-for-a-streaming-application",
+      "title": "Presentation: Evolution of a Backend for a Streaming Application",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/mysql-97-lts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-10T06:30:00.000Z",
-      "summaryShort": "MySQL 9.7: First Major LTS Since 8.4 Brings Enterprise Features to Community Edition. Oracle has announced the general availability of MySQL 9.7.0, marking the start of a new 9.7 LTS release series and the first major one since MySQL 8.4.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "fonttrio-launches-as-open-source-font-pairing-registry-for-shadc",
-      "title": "Fonttrio Launches as Open-Source Font Pairing Registry for shadcn/ui",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/fonttrio-shadcn-fonts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-09T09:46:00.000Z",
-      "summaryShort": "Fonttrio Launches as Open-Source Font Pairing Registry for shadcn/ui. Fonttrio is an open-source font pairing registry designed for shadcn/ui projects, featuring 49 curated font combinations that can be installed via a single command.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "cloudflare-ships-dynamic-workflows-bringing-durable-execution-to",
-      "title": "Cloudflare Ships Dynamic Workflows, Bringing Durable Execution to Per-Tenant and Per-Agent Code",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/cloudflare-dynamic-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-09T09:31:00.000Z",
-      "summaryShort": "Cloudflare Ships Dynamic Workflows, Bringing Durable Execution to Per-Tenant and Per-Agent Code. Cloudflare released Dynamic Workflows, an MIT-licensed library that extends its durable execution engine so workflow code can differ per tenant",
+      "sourceUrl": "https://www.infoq.com/presentations/streaming-application-aws-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-11T11:45:00.000Z",
+      "summaryShort": "Presentation: Evolution of a Backend for a Streaming Application. Daniele Frasca explains the architectural evolution of Joyn, a German streaming giant.",
       "tags": [
         "Cloud"
       ]
     },
     {
-      "id": "aws-improves-aurora-serverless-45-faster-ramp-up-30-higher-throu",
-      "title": "AWS Improves Aurora Serverless: 45% Faster Ramp-Up, 30% Higher Throughput",
+      "id": "article-local-first-ai-inference-a-cloud-architecture-pattern-fo",
+      "title": "Article: Local-First AI Inference: A Cloud Architecture Pattern for Cost-Effective Document Processing",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/aurora-serverless-v4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-09T06:56:00.000Z",
-      "summaryShort": "AWS Improves Aurora Serverless: 45% Faster Ramp-Up, 30% Higher Throughput. AWS has recently announced that WorkMail will be discontinued and that App Runner will stop accepting new customers and move into maintenance mode.",
+      "sourceUrl": "https://www.infoq.com/articles/local-first-ai-inference-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-11T11:00:00.000Z",
+      "summaryShort": "Article: Local-First AI Inference: A Cloud Architecture Pattern for Cost-Effective Document Processing. The Local-First AI Inference pattern routes 70–80% of documents to deterministic local extraction at zero API cost, reserving Azure Open",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "podcast-from-java-ee-to-quarkus-and-llms-adam-bien-s-playbook-fo",
+      "title": "Podcast: From Java EE to Quarkus and LLMs: Adam Bien’s Playbook for Boring, Future‑Proof Systems",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/java-ee-quarkus-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-11T11:00:00.000Z",
+      "summaryShort": "Podcast: From Java EE to Quarkus and LLMs: Adam Bien’s Playbook for Boring, Future‑Proof Systems. Adam Bien, an independent consultant and pioneer of zero dependencies in the enterprise world of Java, highlights the benefits of consistently",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "new-dora-report-claims-strong-engineering-foundations-drive-ai-r",
+      "title": "New DORA Report Claims Strong Engineering Foundations Drive AI Return on Investment",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/dora-roi-ai-assisted-dev-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-11T08:00:00.000Z",
+      "summaryShort": "New DORA Report Claims Strong Engineering Foundations Drive AI Return on Investment. Google Cloud's DORA team released a report detailing a framework for assessing the ROI of AI in software development.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "nyt-s-wordle-to-become-a-tv-game-show",
+      "title": "NYT's Wordle to become a TV game show",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
+      "publishedAt": "2026-05-11T14:23:25.000Z",
+      "summaryShort": "NYT's Wordle to become a TV game show. The popular mobile puzzle game will become a TV game show next year.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "get-ready-for-the-whisper-filled-office-of-the-future",
-      "title": "Get ready for the whisper-filled office of the future",
+      "id": "tiktok-launches-an-ad-free-subscription-plan-in-the-uk",
+      "title": "TikTok launches an ad-free subscription plan in the UK",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
-      "publishedAt": "2026-05-10T21:15:30.000Z",
-      "summaryShort": "Get ready for the whisper-filled office of the future. How will work setups change if we spend more and more time talking to our computers?",
+      "sourceUrl": "https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/",
+      "publishedAt": "2026-05-11T14:05:47.000Z",
+      "summaryShort": "TikTok launches an ad-free subscription plan in the UK. Users who sign up for the plan won’t see ads on TikTok, and their data won’t be used for advertising purposes.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "anthropic-says-evil-portrayals-of-ai-were-responsible-for-claude",
-      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "id": "there-aren-t-enough-rockets-for-space-data-centers-cowboy-space-",
+      "title": "There aren't enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-      "publishedAt": "2026-05-10T20:40:41.000Z",
-      "summaryShort": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts. Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-",
-      "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
-      "publishedAt": "2026-05-10T18:08:54.000Z",
-      "summaryShort": "Uber has always wanted to be more than a ride; now it has reason to hurry. The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may b",
+      "sourceUrl": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+      "publishedAt": "2026-05-11T13:00:00.000Z",
+      "summaryShort": "There aren't enough rockets for space data centers. Cowboy Space raised $275 million to build them..",
       "tags": [
         "Engineering"
       ]
