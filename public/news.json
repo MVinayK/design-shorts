@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T14:38:55.525Z",
+  "generatedAt": "2026-05-13T03:52:24.189Z",
   "items": [
     {
       "id": "presentation-beyond-coding-how-senior-ics-grow-influence-and-dri",
@@ -57,34 +57,34 @@
       ]
     },
     {
-      "id": "instructure-strikes-deal-with-hackers-who-breached-it-twice",
-      "title": "Instructure strikes deal with hackers who breached it twice",
+      "id": "medicare-s-new-payment-model-is-built-for-ai-and-most-of-the-tec",
+      "title": "Medicare's new payment model is built for AI, and most of the tech world has no idea",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
-      "publishedAt": "2026-05-12T13:34:04.000Z",
-      "summaryShort": "Instructure strikes deal with hackers who breached it twice. The maker of the Canvas school software said it \"reached an agreement\" with the hackers, but provided no guarantees that the hackers would not release the data or keep their word.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "dessn-raises-6m-for-its-production-focused-design-tool",
-      "title": "Dessn raises $6M for its production focused design tool",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
-      "publishedAt": "2026-05-12T13:00:00.000Z",
-      "summaryShort": "Dessn raises $6M for its production focused design tool. A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+      "sourceUrl": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "publishedAt": "2026-05-13T00:26:48.000Z",
+      "summaryShort": "Medicare's new payment model is built for AI, and most of the tech world has no idea. There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or ma",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-",
-      "title": "TikTok now wants to be the place you book the trip you just saw on TikTok",
+      "id": "kevin-hartz-s-a-just-closed-its-third-fund-with-450m",
+      "title": "Kevin Hartz’s A* just closed its third fund with $450M",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
-      "publishedAt": "2026-05-12T13:00:00.000Z",
-      "summaryShort": "TikTok now wants to be the place you book the trip you just saw on TikTok. TikTok is systematically converting its discovery engine into a transaction layer, which both deepens user retention and opens entirely new revenue streams for its n",
+      "sourceUrl": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
+      "publishedAt": "2026-05-12T18:45:05.000Z",
+      "summaryShort": "Kevin Hartz’s A* just closed its third fund with $450M. The firm takes a generalist approach, backing companies across categories such as AI applications, fintech, healthcare, and security.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a",
+      "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
+      "publishedAt": "2026-05-12T18:14:58.000Z",
+      "summaryShort": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup. Sadi Thermal Machines is Drew Baglino's second startup since leaving Tesla in 2024.",
       "tags": [
         "Engineering"
       ]
