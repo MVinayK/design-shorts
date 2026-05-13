@@ -1,90 +1,90 @@
 {
-  "generatedAt": "2026-05-13T03:52:24.189Z",
+  "generatedAt": "2026-05-13T14:46:09.499Z",
   "items": [
     {
-      "id": "presentation-beyond-coding-how-senior-ics-grow-influence-and-dri",
-      "title": "Presentation: Beyond Coding: How Senior ICs Grow Influence and Drive Impact",
+      "id": "jep-533-tightens-exception-handling-in-java-s-structured-concurr",
+      "title": "JEP 533 Tightens Exception Handling in Java's Structured Concurrency for JDK 27",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/lessons-building-engineering-team/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-12T13:00:00.000Z",
-      "summaryShort": "Presentation: Beyond Coding: How Senior ICs Grow Influence and Drive Impact. Netflix’s Kasia Trapszo discusses the transition from writing code to scaling organizations.",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/jep-533-jdk-27/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-13T14:36:00.000Z",
+      "summaryShort": "JEP 533 Tightens Exception Handling in Java's Structured Concurrency for JDK 27. JEP 533, Structured Concurrency, has reached integrated status for JDK 27.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "github-expands-secret-scanning-with-general-availability-of-mcp-",
-      "title": "GitHub Expands Secret Scanning with General Availability of MCP Server Integration",
+      "id": "presentation-what-i-learned-building-multi-agent-systems-from-sc",
+      "title": "Presentation: What I Learned Building Multi-Agent Systems From Scratch",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/github-mcp-secret-scanning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-12T12:00:00.000Z",
-      "summaryShort": "GitHub Expands Secret Scanning with General Availability of MCP Server Integration. GitHub has announced the general availability of secret scanning support through its MCP Server, extending automated credential detection and remediation ca",
+      "sourceUrl": "https://www.infoq.com/presentations/multi-agent-system-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-13T12:01:00.000Z",
+      "summaryShort": "Presentation: What I Learned Building Multi-Agent Systems From Scratch. Paulo Arruda discusses Shopify’s evolution in AI adoption, moving from simple chat tools to a sophisticated swarm of specialized agents.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "adonisjs-v7-ships-end-to-end-type-safety-reworked-starter-kits-a",
-      "title": "AdonisJS v7 Ships End-to-End Type Safety, Reworked Starter Kits and Zero-Config OpenTelemetry",
+      "id": "article-the-mathematics-of-backlogs-capacity-planning-for-queue-",
+      "title": "Article: The Mathematics of Backlogs: Capacity Planning for Queue Recovery",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/adonis-v7-opentelemetry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-12T11:26:00.000Z",
-      "summaryShort": "AdonisJS v7 Ships End-to-End Type Safety, Reworked Starter Kits and Zero-Config OpenTelemetry. AdonisJS version 7 introduces end-to-end type safety and reworked starter kits, alongside improved documentation.",
+      "sourceUrl": "https://www.infoq.com/articles/capacity-planning-queue-recovery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-13T09:00:00.000Z",
+      "summaryShort": "Article: The Mathematics of Backlogs: Capacity Planning for Queue Recovery. Backlogs in distributed systems are arithmetic problems, not mysteries.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "article-time-series-storage-design-choices-that-shape-cost-and-p",
-      "title": "Article: Time-Series Storage: Design Choices That Shape Cost and Performance",
+      "id": "grafana-s-pyroscope-2-0-makes-continuous-profiling-practical-at-",
+      "title": "Grafana's Pyroscope 2.0 Makes Continuous Profiling Practical at Scale",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/time-series-storage-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-12T09:00:00.000Z",
-      "summaryShort": "Article: Time-Series Storage: Design Choices That Shape Cost and Performance. Every time-series database makes a set of storage design decisions: how to lay out rows, when to compress, what to partition on.",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/pyroscope-2-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-13T08:00:00.000Z",
+      "summaryShort": "Grafana's Pyroscope 2.0 Makes Continuous Profiling Practical at Scale. Grafana Labs has launched Pyroscope 2.0, a rearchitected open-source continuous profiling database.",
       "tags": [
         "Databases"
       ]
     },
     {
-      "id": "copy-fail-and-dirty-frag-linux-page-cache-exploits-target-every-",
-      "title": "Copy Fail and Dirty Frag: Linux Page-Cache Exploits Target Every Major Distribution",
+      "id": "aws-workspaces-now-lets-ai-agents-operate-legacy-desktop-applica",
+      "title": "AWS WorkSpaces Now Lets AI Agents Operate Legacy Desktop Applications Without APIs",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/copy-fail-dirty-frag-linux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-12T08:00:00.000Z",
-      "summaryShort": "Copy Fail and Dirty Frag: Linux Page-Cache Exploits Target Every Major Distribution. Two recent Linux kernel vulnerabilities have been disclosed: Copy Fail (CVE-2026-31431) on April 29, 2026, and Dirty Frag (CVE-2026-43284 and CVE-2026-4350",
-      "tags": [
-        "Architecture"
-      ]
-    },
-    {
-      "id": "medicare-s-new-payment-model-is-built-for-ai-and-most-of-the-tec",
-      "title": "Medicare's new payment model is built for AI, and most of the tech world has no idea",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-      "publishedAt": "2026-05-13T00:26:48.000Z",
-      "summaryShort": "Medicare's new payment model is built for AI, and most of the tech world has no idea. There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or ma",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/aws-workspaces-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-13T07:31:00.000Z",
+      "summaryShort": "AWS WorkSpaces Now Lets AI Agents Operate Legacy Desktop Applications Without APIs. AWS announced that Amazon WorkSpaces can now serve as managed virtual desktops for AI agents in public preview.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "kevin-hartz-s-a-just-closed-its-third-fund-with-450m",
-      "title": "Kevin Hartz’s A* just closed its third fund with $450M",
+      "id": "anduril-raises-5b-doubles-valuation-to-61b",
+      "title": "Anduril raises $5B, doubles valuation to $61B",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
-      "publishedAt": "2026-05-12T18:45:05.000Z",
-      "summaryShort": "Kevin Hartz’s A* just closed its third fund with $450M. The firm takes a generalist approach, backing companies across categories such as AI applications, fintech, healthcare, and security.",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
+      "publishedAt": "2026-05-13T14:44:25.000Z",
+      "summaryShort": "Anduril raises $5B, doubles valuation to $61B. After achieving $2.2 billion in revenue in 2025, the defense tech startup has raised another massive round, led by Thrive and a16z, it says.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a",
-      "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
+      "id": "r-wallstreetbets-really-hates-the-sec-s-proposal-to-weaken-quart",
+      "title": "r/WallStreetBets really hates the SEC's proposal to weaken quarterly reporting",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
-      "publishedAt": "2026-05-12T18:14:58.000Z",
-      "summaryShort": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup. Sadi Thermal Machines is Drew Baglino's second startup since leaving Tesla in 2024.",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/r-wallstreetbets-really-hates-the-secs-proposal-to-weaken-quarterly-reporting/",
+      "publishedAt": "2026-05-13T14:42:11.000Z",
+      "summaryShort": "r/WallStreetBets really hates the SEC's proposal to weaken quarterly reporting. The retail trading subreddit submitted the sharpest criticism yet in response to the financial regulator's idea of letting companies report twice per year.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "us-lawmakers-demand-answers-from-instructure-after-canvas-data-b",
+      "title": "US lawmakers demand answers from Instructure after Canvas data breaches",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/us-lawmakers-demand-answers-from-instructure-after-canvas-data-breaches/",
+      "publishedAt": "2026-05-13T14:32:45.000Z",
+      "summaryShort": "US lawmakers demand answers from Instructure after Canvas data breaches. U.S.",
       "tags": [
         "Engineering"
       ]
