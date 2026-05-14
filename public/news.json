@@ -1,90 +1,90 @@
 {
-  "generatedAt": "2026-05-14T03:51:59.280Z",
+  "generatedAt": "2026-05-14T14:26:15.928Z",
   "items": [
     {
-      "id": "anthropic-launches-claude-platform-on-aws",
-      "title": "Anthropic Launches Claude Platform on AWS",
+      "id": "presentation-accelerating-llm-driven-developer-productivity-at-z",
+      "title": "Presentation: Accelerating LLM-Driven Developer Productivity at Zoox",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/anthropic-claude-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-13T19:20:00.000Z",
-      "summaryShort": "Anthropic Launches Claude Platform on AWS. Anthropic has announced the general availability of Claude Platform on AWS, a new deployment option that gives AWS customers direct access to Anthropic’s native Claude platform using AWS authentica",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "airbnb-implements-context-aware-identity-model-to-support-privac",
-      "title": "Airbnb Implements Context-Aware Identity Model to Support Privacy-First Social Features",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/airbnb-privacy-identity-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-13T14:46:00.000Z",
-      "summaryShort": "Airbnb Implements Context-Aware Identity Model to Support Privacy-First Social Features. Airbnb has redesigned its identity system to support privacy-first social features in Experiences.",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-software-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-14T13:05:00.000Z",
+      "summaryShort": "Presentation: Accelerating LLM-Driven Developer Productivity at Zoox. Amit Navindgi discusses the systematic shift at Zoox from fragmented documentation to an AI-driven ecosystem.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "jep-533-tightens-exception-handling-in-java-s-structured-concurr",
-      "title": "JEP 533 Tightens Exception Handling in Java's Structured Concurrency for JDK 27",
+      "id": "moonrepo-releases-moon-v2-0-with-wasm-plugin-toolchains-and-over",
+      "title": "Moonrepo Releases Moon v2.0 with WASM Plugin Toolchains and Overhauled CLI",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/jep-533-jdk-27/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-13T14:36:00.000Z",
-      "summaryShort": "JEP 533 Tightens Exception Handling in Java's Structured Concurrency for JDK 27. JEP 533, Structured Concurrency, has reached integrated status for JDK 27.",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/moonrepo-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-14T12:47:00.000Z",
+      "summaryShort": "Moonrepo Releases Moon v2.0 with WASM Plugin Toolchains and Overhauled CLI. Moonrepo has released moon v2.0, its first major update since v1, featuring a plugin-based toolchain system and support for multiple configuration formats including",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "presentation-what-i-learned-building-multi-agent-systems-from-sc",
-      "title": "Presentation: What I Learned Building Multi-Agent Systems From Scratch",
+      "id": "scaling-social-systems-in-software-organizations",
+      "title": "Scaling Social Systems in Software Organizations",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/multi-agent-system-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-13T12:01:00.000Z",
-      "summaryShort": "Presentation: What I Learned Building Multi-Agent Systems From Scratch. Paulo Arruda discusses Shopify’s evolution in AI adoption, moving from simple chat tools to a sophisticated swarm of specialized agents.",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/scale-social-system-software-org/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-14T11:41:00.000Z",
+      "summaryShort": "Scaling Social Systems in Software Organizations. Fast-scaling teams must rebuild trust and psychological safety as their social systems expand.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "article-the-mathematics-of-backlogs-capacity-planning-for-queue-",
-      "title": "Article: The Mathematics of Backlogs: Capacity Planning for Queue Recovery",
+      "id": "pinterest-engineers-eliminate-cpu-zombies-to-resolve-production-",
+      "title": "Pinterest Engineers Eliminate CPU Zombies to Resolve Production Bottlenecks",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/capacity-planning-queue-recovery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-13T09:00:00.000Z",
-      "summaryShort": "Article: The Mathematics of Backlogs: Capacity Planning for Queue Recovery. Backlogs in distributed systems are arithmetic problems, not mysteries.",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/pinterest-cpu-zombies-bottleneck/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-14T10:00:00.000Z",
+      "summaryShort": "Pinterest Engineers Eliminate CPU Zombies to Resolve Production Bottlenecks. Pinterest identified and resolved CPU starvation issues that affected machine learning training jobs on its Kubernetes-based platform, PinCompute.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "notion-just-turned-its-workspace-into-a-hub-for-ai-agents",
-      "title": "Notion just turned its workspace into a hub for AI agents",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-      "publishedAt": "2026-05-13T21:45:09.000Z",
-      "summaryShort": "Notion just turned its workspace into a hub for AI agents. Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic producti",
+      "id": "anthropic-traces-six-weeks-of-claude-code-quality-complaints-to-",
+      "title": "Anthropic Traces Six Weeks of Claude Code Quality Complaints to Three Overlapping Product Changes",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/anthropic-claude-code-postmortem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-14T09:16:00.000Z",
+      "summaryShort": "Anthropic Traces Six Weeks of Claude Code Quality Complaints to Three Overlapping Product Changes. Anthropic published a postmortem tracing six weeks of Claude Code quality complaints to three overlapping product-layer changes: a reasoning ",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "musk-s-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mi",
-      "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+      "id": "a-spyware-investigator-exposed-russian-government-hackers-trying",
+      "title": "A spyware investigator exposed Russian government hackers trying to hijack Signal accounts",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-      "publishedAt": "2026-05-13T19:49:42.000Z",
-      "summaryShort": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center. Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/a-spyware-investigator-exposed-russian-government-hackers-trying-to-hijack-signal-accounts/",
+      "publishedAt": "2026-05-14T14:07:40.000Z",
+      "summaryShort": "A spyware investigator exposed Russian government hackers trying to hijack Signal accounts. A group of likely Russian government hackers tried to hack a security researcher who investigates spyware attacks.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "anthropic-s-cat-wu-says-that-in-the-future-ai-will-anticipate-yo",
-      "title": "Anthropic's Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+      "id": "cisco-cuts-nearly-4-000-jobs-to-spend-more-on-ai-reports-8216-re",
+      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports &#8216;record quarterly revenue'",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-      "publishedAt": "2026-05-13T19:28:06.000Z",
-      "summaryShort": "Anthropic's Cat Wu says that, in the future, AI will anticipate your needs before you know what they are. The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+      "publishedAt": "2026-05-14T14:01:14.000Z",
+      "summaryShort": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports &#8216;record quarterly revenue'. This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "wirestock-raises-23m-to-supply-creative-multi-modal-data-to-ai-l",
+      "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+      "publishedAt": "2026-05-14T14:00:00.000Z",
+      "summaryShort": "Wirestock raises $23M to supply creative multi-modal data to AI labs. Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs.",
       "tags": [
         "AI"
       ]
