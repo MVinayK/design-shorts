@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T14:26:15.928Z",
+  "generatedAt": "2026-05-15T03:55:32.262Z",
   "items": [
     {
       "id": "presentation-accelerating-llm-driven-developer-productivity-at-z",
@@ -57,36 +57,36 @@
       ]
     },
     {
-      "id": "a-spyware-investigator-exposed-russian-government-hackers-trying",
-      "title": "A spyware investigator exposed Russian government hackers trying to hijack Signal accounts",
+      "id": "what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-s",
+      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/a-spyware-investigator-exposed-russian-government-hackers-trying-to-hijack-signal-accounts/",
-      "publishedAt": "2026-05-14T14:07:40.000Z",
-      "summaryShort": "A spyware investigator exposed Russian government hackers trying to hijack Signal accounts. A group of likely Russian government hackers tried to hack a security researcher who investigates spyware attacks.",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "publishedAt": "2026-05-14T22:47:51.000Z",
+      "summaryShort": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "cisco-cuts-nearly-4-000-jobs-to-spend-more-on-ai-reports-8216-re",
-      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports &#8216;record quarterly revenue'",
+      "id": "elon-musk-s-spacexai-has-been-bleeding-staff-since-its-merger",
+      "title": "Elon Musk's SpaceXAI has been bleeding staff since its merger",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-      "publishedAt": "2026-05-14T14:01:14.000Z",
-      "summaryShort": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports &#8216;record quarterly revenue'. This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+      "publishedAt": "2026-05-14T21:30:44.000Z",
+      "summaryShort": "Elon Musk's SpaceXAI has been bleeding staff since its merger. More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether l",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "wirestock-raises-23m-to-supply-creative-multi-modal-data-to-ai-l",
-      "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+      "id": "openai-says-codex-is-coming-to-your-phone",
+      "title": "OpenAI says Codex is coming to your phone",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
-      "publishedAt": "2026-05-14T14:00:00.000Z",
-      "summaryShort": "Wirestock raises $23M to supply creative multi-modal data to AI labs. Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs.",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "publishedAt": "2026-05-14T20:58:55.000Z",
+      "summaryShort": "OpenAI says Codex is coming to your phone. The update gives users enhanced flexibility over how they can manage their workflows.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
