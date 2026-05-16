@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-05-15T14:19:47.802Z",
+  "generatedAt": "2026-05-16T03:37:21.751Z",
   "items": [
+    {
+      "id": "anthropic-introduces-routines-for-claude-code-automation",
+      "title": "Anthropic Introduces Routines for Claude Code Automation",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/anthropic-routines-claude/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-15T15:51:00.000Z",
+      "summaryShort": "Anthropic Introduces Routines for Claude Code Automation. Anthropic has introduced a new feature called Routines for Claude Code, allowing developers to configure automated coding workflows that run on schedules, through API calls, or in re",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "cloudflare-introduces-workflows-v2-with-deterministic-execution-",
       "title": "Cloudflare Introduces Workflows V2 with Deterministic Execution and 50K Concurrent Workflows",
@@ -48,47 +59,37 @@
       ]
     },
     {
-      "id": "benchmarking-ai-agents-on-kubernetes",
-      "title": "Benchmarking AI Agents on Kubernetes",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/ai-agents-kubernetes-rag/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-15T10:00:00.000Z",
-      "summaryShort": "Benchmarking AI Agents on Kubernetes. Brandon Foley published a benchmarking study on the CNCF blog showing that AI coding agents can find and fix isolated bugs.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "runway-started-by-helping-filmmakers-now-it-wants-to-beat-google",
-      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+      "id": "rj-scaringe-has-raised-more-than-12b-across-three-startups-and-i",
+      "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-      "publishedAt": "2026-05-15T14:00:00.000Z",
-      "summaryShort": "Runway started by helping filmmakers. Now it wants to beat Google at AI..",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "even-gopro-is-pivoting-to-defense",
-      "title": "Even GoPro is pivoting to defense",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/",
-      "publishedAt": "2026-05-15T13:14:13.000Z",
-      "summaryShort": "Even GoPro is pivoting to defense. The action camera maker, like so many other companies these days, is looking to defense applications as it evaluates a possible sale.",
+      "sourceUrl": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
+      "publishedAt": "2026-05-15T20:30:20.000Z",
+      "summaryShort": "RJ Scaringe has raised more than $12B across three startups and investors still want more. Investors can't seem to get enough of RJ Scaringe or his ideas.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "meridian-ventures-launched-35m-fund-to-back-mba-deferred-founder",
-      "title": "Meridian Ventures launched $35M fund to back MBA-deferred founders",
+      "id": "general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on",
+      "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
-      "publishedAt": "2026-05-15T13:00:00.000Z",
-      "summaryShort": "Meridian Ventures launched $35M fund to back MBA-deferred founders. Meridian Ventures, the venture firm founded by Devon Gethers and Karlton Haney, announced on Friday the raise of a $35 million second fund to back pre-seed and seed-stage c",
+      "sourceUrl": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
+      "publishedAt": "2026-05-15T20:25:35.000Z",
+      "summaryShort": "General Catalyst posted VC rage bait and it worked, especially on a16z. Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "a-hotel-check-in-system-left-a-million-passports-and-driver-s-li",
+      "title": "A hotel check-in system left a million passports and driver's licenses open for anyone to see",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/",
+      "publishedAt": "2026-05-15T18:51:33.000Z",
+      "summaryShort": "A hotel check-in system left a million passports and driver's licenses open for anyone to see. The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a pa",
+      "tags": [
+        "Databases",
+        "Cloud"
       ]
     }
   ]
