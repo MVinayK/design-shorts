@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-05-16T03:37:21.751Z",
+  "generatedAt": "2026-05-16T13:42:58.695Z",
   "items": [
+    {
+      "id": "google-introduces-cloud-fraud-defense-as-successor-to-recaptcha",
+      "title": "Google Introduces Cloud Fraud Defense as Successor to reCAPTCHA",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/cloud-fraud-defense-recaptcha/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-16T08:39:00.000Z",
+      "summaryShort": "Google Introduces Cloud Fraud Defense as Successor to reCAPTCHA. At the recent Next ‘26 conference, Google introduced Google Cloud Fraud Defense, the successor to reCAPTCHA.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "microsoft-releases-aspire-13-3-with-major-deployment-and-fronten",
+      "title": "Microsoft Releases Aspire 13.3 with Major Deployment and Frontend Updates",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/aspire-13-3-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-16T08:34:00.000Z",
+      "summaryShort": "Microsoft Releases Aspire 13.3 with Major Deployment and Frontend Updates. Microsoft has released Aspire 13.3, introducing a new aspire destroy command for tearing down deployments across Azure, Kubernetes, and Compose.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "anthropic-introduces-routines-for-claude-code-automation",
       "title": "Anthropic Introduces Routines for Claude Code Automation",
@@ -33,29 +55,6 @@
       "summaryShort": "Presentation: Using AI as a Thinking Partner for Large-Scale Engineering Systems. Julie Qiu explains how AI serves as a \"thinking partner\" for engineering leaders.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "discord-reveals-how-a-hidden-circular-dependency-triggered-its-m",
-      "title": "Discord Reveals How a Hidden Circular Dependency Triggered Its March Voice Outage",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/discord-circular-dependency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-15T12:00:00.000Z",
-      "summaryShort": "Discord Reveals How a Hidden Circular Dependency Triggered Its March Voice Outage. Discord has released a detailed postmortem on its March 25, 2026, voice outage, revealing that a previously undetected circular dependency in its voice infra",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "mini-book-architecting-autonomy-decentralising-architecture-insi",
-      "title": "Mini book: Architecting Autonomy: Decentralising Architecture Inside an Organization",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/minibooks/architecting-autonomy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-15T11:00:00.000Z",
-      "summaryShort": "Mini book: Architecting Autonomy: Decentralising Architecture Inside an Organization. As AI accelerates delivery cycles, traditional centralized architecture becomes a bottleneck.",
-      "tags": [
-        "AI",
-        "Architecture"
       ]
     },
     {
