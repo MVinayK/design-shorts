@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-05-17T03:56:13.167Z",
+  "generatedAt": "2026-05-17T13:42:09.979Z",
   "items": [
+    {
+      "id": "neobank-monzo-builds-governed-data-mesh-across-100-teams-and-120",
+      "title": "Neobank Monzo Builds Governed Data Mesh Across 100 Teams and 12000 dbt Models",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/monzo-data-mesh/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-17T11:02:00.000Z",
+      "summaryShort": "Neobank Monzo Builds Governed Data Mesh Across 100 Teams and 12000 dbt Models. Monzo recently redesigned its data warehouse to support more than 100 teams working on over 12000 dbt models.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "ubuntu-embraces-local-ai-instead-of-cloud-first-os-integration",
       "title": "Ubuntu Embraces Local AI Instead of Cloud-First OS Integration",
@@ -44,18 +55,6 @@
       "summaryShort": "Anthropic Introduces Routines for Claude Code Automation. Anthropic has introduced a new feature called Routines for Claude Code, allowing developers to configure automated coding workflows that run on schedules, through API calls, or in re",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "cloudflare-introduces-workflows-v2-with-deterministic-execution-",
-      "title": "Cloudflare Introduces Workflows V2 with Deterministic Execution and 50K Concurrent Workflows",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/cloudflare-workflows-v2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-15T14:04:00.000Z",
-      "summaryShort": "Cloudflare Introduces Workflows V2 with Deterministic Execution and 50K Concurrent Workflows. Cloudflare introduces Workflows V2, a redesigned distributed workflow orchestration system with deterministic replayable execution, improved obser",
-      "tags": [
-        "AI",
-        "Cloud"
       ]
     },
     {
