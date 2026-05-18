@@ -1,93 +1,92 @@
 {
-  "generatedAt": "2026-05-18T04:08:33.528Z",
+  "generatedAt": "2026-05-18T15:43:00.164Z",
   "items": [
     {
-      "id": "openai-open-sources-symphony-a-spec-md-for-autonomous-coding-age",
-      "title": "OpenAI Open-Sources Symphony, a SPEC.md for Autonomous Coding Agent Orchestration",
+      "id": "swiggy-improves-search-autocomplete-using-real-time-machine-lear",
+      "title": "Swiggy Improves Search Autocomplete Using Real Time Machine Learning Ranking",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/openai-symphony-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-17T20:00:00.000Z",
-      "summaryShort": "OpenAI Open-Sources Symphony, a SPEC.md for Autonomous Coding Agent Orchestration. OpenAI Symphony is an agent orchestrator that uses project-management tools, like issue trackers, as a control plan to coordinate multiple coding agents.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "neobank-monzo-builds-governed-data-mesh-across-100-teams-and-120",
-      "title": "Neobank Monzo Builds Governed Data Mesh Across 100 Teams and 12000 dbt Models",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/monzo-data-mesh/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-17T11:02:00.000Z",
-      "summaryShort": "Neobank Monzo Builds Governed Data Mesh Across 100 Teams and 12000 dbt Models. Monzo recently redesigned its data warehouse to support more than 100 teams working on over 12000 dbt models.",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/swiggy-autocomplete-rt-ranking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-18T14:38:00.000Z",
+      "summaryShort": "Swiggy Improves Search Autocomplete Using Real Time Machine Learning Ranking. Swiggy detailed real-time machine-learning ranking system for autocomplete built on OpenSearch.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "ubuntu-embraces-local-ai-instead-of-cloud-first-os-integration",
-      "title": "Ubuntu Embraces Local AI Instead of Cloud-First OS Integration",
+      "id": "anthropic-s-code-with-claude-announces-managed-agents-proactive-",
+      "title": "Anthropic's Code With Claude Announces Managed Agents, Proactive Workflows, Capability Curve",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/ubuntu-on-device-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-16T20:00:00.000Z",
-      "summaryShort": "Ubuntu Embraces Local AI Instead of Cloud-First OS Integration. Ubuntu has outlined its AI strategy, describing it as a deliberate departure from industry trends towards cloud-centric, AI-first operating systems.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "google-introduces-cloud-fraud-defense-as-successor-to-recaptcha",
-      "title": "Google Introduces Cloud Fraud Defense as Successor to reCAPTCHA",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/cloud-fraud-defense-recaptcha/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-16T08:39:00.000Z",
-      "summaryShort": "Google Introduces Cloud Fraud Defense as Successor to reCAPTCHA. At the recent Next ‘26 conference, Google introduced Google Cloud Fraud Defense, the successor to reCAPTCHA.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "microsoft-releases-aspire-13-3-with-major-deployment-and-fronten",
-      "title": "Microsoft Releases Aspire 13.3 with Major Deployment and Frontend Updates",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/aspire-13-3-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-16T08:34:00.000Z",
-      "summaryShort": "Microsoft Releases Aspire 13.3 with Major Deployment and Frontend Updates. Microsoft has released Aspire 13.3, introducing a new aspire destroy command for tearing down deployments across Azure, Kubernetes, and Compose.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "apple-s-siri-revamp-could-include-auto-deleting-chats",
-      "title": "Apple’s Siri revamp could include auto-deleting chats",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-      "publishedAt": "2026-05-17T20:15:00.000Z",
-      "summaryShort": "Apple’s Siri revamp could include auto-deleting chats. Privacy will be a major theme when Apple unveils a new version of Siri.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "why-trust-is-a-big-question-at-the-elon-musk-openai-trial",
-      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-      "publishedAt": "2026-05-17T19:46:34.000Z",
-      "summaryShort": "Why trust is a big question at the Elon Musk-OpenAI trial. A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "if-you-re-giving-a-commencement-speech-in-2026-maybe-don-t-menti",
-      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-      "publishedAt": "2026-05-17T16:32:04.000Z",
-      "summaryShort": "If you’re giving a commencement speech in 2026, maybe don’t mention AI. It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/code-with-claude/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-18T13:14:00.000Z",
+      "summaryShort": "Anthropic's Code With Claude Announces Managed Agents, Proactive Workflows, Capability Curve. Anthropic hosted \"Code with Claude 2026\" in San Francisco, featuring livestream sessions focused on Claude Code, the Claude API platform, and othe",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "java-news-roundup-openjdk-jeps-azul-payara-wildfly-langchain4j-o",
+      "title": "Java News Roundup: OpenJDK JEPs, Azul Payara, WildFly, LangChain4j, OpenXava, Google ADK",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/java-news-roundup-may11-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-18T12:45:00.000Z",
+      "summaryShort": "Java News Roundup: OpenJDK JEPs, Azul Payara, WildFly, LangChain4j, OpenXava, Google ADK. This week's Java roundup for May 11th, 2026, features news highlighting: three OpenJDK JEPs targeted for JDK 27; introducting Azul Payara Community an",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "article-building-a-secure-mcp-server-on-aws-for-a-million-compan",
+      "title": "Article: Building a Secure MCP Server on AWS for a Million-Company B2B Platform",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/secure-mcp-server-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-18T11:00:00.000Z",
+      "summaryShort": "Article: Building a Secure MCP Server on AWS for a Million-Company B2B Platform. We wanted to expose a B2B intelligence platform built on more than one million company profiles to an LLM client through an MCP server so a user can ask “find ",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "podcast-context-is-the-key-to-the-agentic-architecture-revolutio",
+      "title": "Podcast: Context is the Key to the Agentic Architecture Revolution: A Conversation with Baruch Sadogursky",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/context-key-agentic-architecture-revolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-18T11:00:00.000Z",
+      "summaryShort": "Podcast: Context is the Key to the Agentic Architecture Revolution: A Conversation with Baruch Sadogursky. Michael Stiefel spoke to Baruch Sadogursky about software architecture in the age of agentic AI.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "kin-health-raises-9m-to-build-an-ai-notetaker-for-patients",
+      "title": "Kin Health raises $9M to build an AI notetaker for patients",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
+      "publishedAt": "2026-05-18T15:26:00.000Z",
+      "summaryShort": "Kin Health raises $9M to build an AI notetaker for patients. The app is similar to a meeting notetaker: you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family a",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "amazon-s-new-alexa-powered-feature-can-generate-podcast-episodes",
+      "title": "Amazon's new Alexa+ powered feature can generate podcast episodes",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+      "publishedAt": "2026-05-18T14:56:47.000Z",
+      "summaryShort": "Amazon's new Alexa+ powered feature can generate podcast episodes. Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-",
+      "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
+      "publishedAt": "2026-05-18T13:42:19.000Z",
+      "summaryShort": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom. The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
