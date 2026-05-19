@@ -18,6 +18,7 @@ import {
 } from 'react-native';
 import { SafeAreaProvider, SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { BUNDLED_NEWS_DIGEST } from './src/data/bundledNews';
+import { HealthView } from './src/features/health/HealthView';
 import {
   getBundledTopicFeed,
   loadTopicFeed,
@@ -475,6 +476,7 @@ function AppContent() {
                   ['learn', 'Learn'],
                   ['library', 'Library'],
                   ['news', 'News'],
+                  ['health', 'Health'],
                   ['settings', 'Settings'],
                 ] as const).map(([tab, label]) => (
                   <Pressable key={tab} onPress={() => switchTab(tab)} style={styles.menuItem}>
@@ -552,6 +554,8 @@ function AppContent() {
               {newsError ? <Text style={styles.errorText}>{newsError}</Text> : null}
             </View>
           ) : null}
+
+          {activeTab === 'health' ? <HealthView /> : null}
 
           {activeTab === 'settings' ? (
             <View style={styles.feedWrapper}>

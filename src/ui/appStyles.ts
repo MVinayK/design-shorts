@@ -353,6 +353,23 @@ export const styles = StyleSheet.create({
     fontSize: 15,
     fontFamily: FONT_SANS_BOLD,
   },
+  secondaryButton: {
+    paddingHorizontal: 18,
+    paddingVertical: 15,
+    backgroundColor: '#fffefc',
+    borderWidth: 1,
+    borderColor: '#dbe7fb',
+    borderRadius: 18,
+    alignItems: 'center',
+  },
+  secondaryButtonText: {
+    color: '#2158b1',
+    fontSize: 15,
+    fontFamily: FONT_SANS_BOLD,
+  },
+  disabledButton: {
+    opacity: 0.48,
+  },
   tagsRow: {
     flexDirection: 'row',
     flexWrap: 'wrap',
@@ -628,6 +645,43 @@ export const styles = StyleSheet.create({
     fontSize: 14,
     lineHeight: 21,
     fontFamily: FONT_SANS,
+  },
+  healthActionRow: {
+    gap: 10,
+  },
+  healthErrorText: {
+    color: '#cf4339',
+    fontSize: 14,
+    lineHeight: 21,
+    fontFamily: FONT_SANS,
+  },
+  healthMetricGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 10,
+  },
+  healthMetricTile: {
+    width: '48%',
+    minHeight: 92,
+    padding: 14,
+    backgroundColor: '#f7faff',
+    borderWidth: 1,
+    borderColor: '#e1eaf8',
+    justifyContent: 'space-between',
+  },
+  healthMetricLabel: {
+    color: '#6b86ad',
+    fontSize: 11,
+    textTransform: 'uppercase',
+    letterSpacing: 0.8,
+    fontFamily: FONT_SANS_BOLD,
+  },
+  healthMetricValue: {
+    marginTop: 10,
+    color: '#173f7b',
+    fontSize: 18,
+    lineHeight: 24,
+    fontFamily: FONT_SANS_SEMIBOLD,
   },
   celebrationOverlay: {
     position: 'absolute',
