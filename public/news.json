@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T15:43:00.164Z",
+  "generatedAt": "2026-05-19T04:02:04.388Z",
   "items": [
     {
       "id": "swiggy-improves-search-autocomplete-using-real-time-machine-lear",
@@ -57,36 +57,37 @@
       ]
     },
     {
-      "id": "kin-health-raises-9m-to-build-an-ai-notetaker-for-patients",
-      "title": "Kin Health raises $9M to build an AI notetaker for patients",
+      "id": "osha-probing-worker-death-at-spacex-s-starbase-site",
+      "title": "OSHA probing worker death at SpaceX's Starbase site",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
-      "publishedAt": "2026-05-18T15:26:00.000Z",
-      "summaryShort": "Kin Health raises $9M to build an AI notetaker for patients. The app is similar to a meeting notetaker: you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family a",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "amazon-s-new-alexa-powered-feature-can-generate-podcast-episodes",
-      "title": "Amazon's new Alexa+ powered feature can generate podcast episodes",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-      "publishedAt": "2026-05-18T14:56:47.000Z",
-      "summaryShort": "Amazon's new Alexa+ powered feature can generate podcast episodes. Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-",
-      "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
-      "publishedAt": "2026-05-18T13:42:19.000Z",
-      "summaryShort": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom. The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.",
+      "sourceUrl": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
+      "publishedAt": "2026-05-18T21:55:02.000Z",
+      "summaryShort": "OSHA probing worker death at SpaceX's Starbase site. The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-c",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "publishedAt": "2026-05-18T21:29:31.000Z",
+      "summaryShort": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required. Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "anthropic-has-acquired-the-dev-tools-startup-used-by-openai-goog",
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "publishedAt": "2026-05-18T19:27:52.000Z",
+      "summaryShort": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare. Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of softwar",
+      "tags": [
+        "AI",
+        "Cloud"
       ]
     }
   ]
