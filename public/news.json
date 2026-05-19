@@ -1,93 +1,93 @@
 {
-  "generatedAt": "2026-05-19T04:02:04.388Z",
+  "generatedAt": "2026-05-19T15:35:43.322Z",
   "items": [
     {
-      "id": "swiggy-improves-search-autocomplete-using-real-time-machine-lear",
-      "title": "Swiggy Improves Search Autocomplete Using Real Time Machine Learning Ranking",
+      "id": "agoda-builds-multimodal-content-system-to-bridge-images-and-revi",
+      "title": "Agoda Builds Multimodal Content System to Bridge Images and Reviews in Travel Discovery",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/swiggy-autocomplete-rt-ranking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-18T14:38:00.000Z",
-      "summaryShort": "Swiggy Improves Search Autocomplete Using Real Time Machine Learning Ranking. Swiggy detailed real-time machine-learning ranking system for autocomplete built on OpenSearch.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "anthropic-s-code-with-claude-announces-managed-agents-proactive-",
-      "title": "Anthropic's Code With Claude Announces Managed Agents, Proactive Workflows, Capability Curve",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/code-with-claude/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-18T13:14:00.000Z",
-      "summaryShort": "Anthropic's Code With Claude Announces Managed Agents, Proactive Workflows, Capability Curve. Anthropic hosted \"Code with Claude 2026\" in San Francisco, featuring livestream sessions focused on Claude Code, the Claude API platform, and othe",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "java-news-roundup-openjdk-jeps-azul-payara-wildfly-langchain4j-o",
-      "title": "Java News Roundup: OpenJDK JEPs, Azul Payara, WildFly, LangChain4j, OpenXava, Google ADK",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/java-news-roundup-may11-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-18T12:45:00.000Z",
-      "summaryShort": "Java News Roundup: OpenJDK JEPs, Azul Payara, WildFly, LangChain4j, OpenXava, Google ADK. This week's Java roundup for May 11th, 2026, features news highlighting: three OpenJDK JEPs targeted for JDK 27; introducting Azul Payara Community an",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/agoda-multimodal-content-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-19T14:29:00.000Z",
+      "summaryShort": "Agoda Builds Multimodal Content System to Bridge Images and Reviews in Travel Discovery. Agoda Multimodal Content System https://example.com/agoda-multimodal-content-system Agoda unifies hotel images and guest reviews using a shared topic t",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "article-building-a-secure-mcp-server-on-aws-for-a-million-compan",
-      "title": "Article: Building a Secure MCP Server on AWS for a Million-Company B2B Platform",
+      "id": "presentation-powering-the-future-building-your-genai-infrastruct",
+      "title": "Presentation: Powering the Future: Building Your GenAI Infrastructure Stack",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/secure-mcp-server-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-18T11:00:00.000Z",
-      "summaryShort": "Article: Building a Secure MCP Server on AWS for a Million-Company B2B Platform. We wanted to expose a B2B intelligence platform built on more than one million company profiles to an LLM client through an MCP server so a user can ask “find ",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "podcast-context-is-the-key-to-the-agentic-architecture-revolutio",
-      "title": "Podcast: Context is the Key to the Agentic Architecture Revolution: A Conversation with Baruch Sadogursky",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/context-key-agentic-architecture-revolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-18T11:00:00.000Z",
-      "summaryShort": "Podcast: Context is the Key to the Agentic Architecture Revolution: A Conversation with Baruch Sadogursky. Michael Stiefel spoke to Baruch Sadogursky about software architecture in the age of agentic AI.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "osha-probing-worker-death-at-spacex-s-starbase-site",
-      "title": "OSHA probing worker death at SpaceX's Starbase site",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
-      "publishedAt": "2026-05-18T21:55:02.000Z",
-      "summaryShort": "OSHA probing worker death at SpaceX's Starbase site. The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-c",
-      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-      "publishedAt": "2026-05-18T21:29:31.000Z",
-      "summaryShort": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required. Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "anthropic-has-acquired-the-dev-tools-startup-used-by-openai-goog",
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "publishedAt": "2026-05-18T19:27:52.000Z",
-      "summaryShort": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare. Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of softwar",
+      "sourceUrl": "https://www.infoq.com/presentations/infrastructure-ai-agent-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-19T12:43:00.000Z",
+      "summaryShort": "Presentation: Powering the Future: Building Your GenAI Infrastructure Stack. Merrin Kurian shares the architectural blueprints and organizational processes behind Intuit’s AI transformation.",
       "tags": [
         "AI",
         "Cloud"
+      ]
+    },
+    {
+      "id": "tanstack-details-sophisticated-npm-supply-chain-attack-that-comp",
+      "title": "TanStack Details Sophisticated npm Supply Chain Attack That Compromised 42 Packages",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/tanstack-supply-chain-attack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-19T12:00:00.000Z",
+      "summaryShort": "TanStack Details Sophisticated npm Supply Chain Attack That Compromised 42 Packages. TanStack has released a detailed postmortem describing a sophisticated supply-chain attack that compromised 42 npm packages and published 84 malicious pack",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "article-kernel-level-ground-truth-why-ebpf-is-replacing-user-spa",
+      "title": "Article: Kernel-Level Ground Truth: Why eBPF is Replacing User-Space Agents for Security Observability",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/ebpf-for-security-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-19T09:00:00.000Z",
+      "summaryShort": "Article: Kernel-Level Ground Truth: Why eBPF is Replacing User-Space Agents for Security Observability. eBPF is emerging as a preferred method for security observability over traditional user-space agents.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "vite-version-8-unified-rust-based-bundler-and-up-to-30x-faster-b",
+      "title": "Vite Version 8: Unified Rust-Based Bundler and Up to 30x Faster Builds",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/vite-v8-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-19T06:57:00.000Z",
+      "summaryShort": "Vite Version 8: Unified Rust-Based Bundler and Up to 30x Faster Builds. Vite 8.0 introduces a significant architectural change, migrating from a dual-bundler setup to a single Rust-based bundler called Rolldown.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "hackers-have-compromised-dozens-of-popular-open-source-packages-",
+      "title": "Hackers have compromised dozens of popular open source packages in an ongoing supply chain attack",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/19/hackers-have-compromised-dozens-of-popular-open-source-packages-in-an-ongoing-supply-chain-attack/",
+      "publishedAt": "2026-05-19T15:32:46.000Z",
+      "summaryShort": "Hackers have compromised dozens of popular open source packages in an ongoing supply chain attack. The attacks are part of a wider campaign known as Mini Shai-Hulud, which has already compromised several open source projects and, in turn, d",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "us-cyber-agency-cisa-exposed-reams-of-passwords-and-cloud-keys-t",
+      "title": "US cyber agency CISA exposed reams of passwords and cloud keys to the open web",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/19/us-cyber-agency-cisa-exposed-reams-of-passwords-and-cloud-keys-to-the-open-web/",
+      "publishedAt": "2026-05-19T15:06:42.000Z",
+      "summaryShort": "US cyber agency CISA exposed reams of passwords and cloud keys to the open web. The federal cybersecurity agency left plaintext passwords in a spreadsheet uploaded to a public GitHub repository, per a report by independent journalist Brian ",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "apple-announces-apple-intelligence-powered-accessibility-feature",
+      "title": "Apple announces Apple Intelligence powered accessibility feature updates",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
+      "publishedAt": "2026-05-19T14:01:07.000Z",
+      "summaryShort": "Apple announces Apple Intelligence powered accessibility feature updates. Apple is introducing a feature to let Vision Pro control a compatible wheelchair with their eyes",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
