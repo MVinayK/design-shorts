@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-05-19T15:35:43.322Z",
+  "generatedAt": "2026-05-20T04:02:51.261Z",
   "items": [
+    {
+      "id": "anthropic-introduces-mcp-tunnels-for-private-agent-access-to-int",
+      "title": "Anthropic Introduces MCP Tunnels for Private Agent Access to Internal Systems",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/claude-mcp-tunnels/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-19T19:20:00.000Z",
+      "summaryShort": "Anthropic Introduces MCP Tunnels for Private Agent Access to Internal Systems. Anthropic has expanded its Claude Managed Agents platform with two enterprise-focused capabilities: self-hosted sandboxes and MCP tunnels.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "agoda-builds-multimodal-content-system-to-bridge-images-and-revi",
       "title": "Agoda Builds Multimodal Content System to Bridge Images and Reviews in Travel Discovery",
@@ -47,47 +58,36 @@
       ]
     },
     {
-      "id": "vite-version-8-unified-rust-based-bundler-and-up-to-30x-faster-b",
-      "title": "Vite Version 8: Unified Rust-Based Bundler and Up to 30x Faster Builds",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/vite-v8-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-19T06:57:00.000Z",
-      "summaryShort": "Vite Version 8: Unified Rust-Based Bundler and Up to 30x Faster Builds. Vite 8.0 introduces a significant architectural change, migrating from a dual-bundler setup to a single Rust-based bundler called Rolldown.",
+      "id": "google-just-declared-itself-a-contender-in-ai-design-at-io-2026",
+      "title": "Google just declared itself a contender in AI design at IO 2026",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+      "publishedAt": "2026-05-19T21:33:30.000Z",
+      "summaryShort": "Google just declared itself a contender in AI design at IO 2026. Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "hackers-have-compromised-dozens-of-popular-open-source-packages-",
-      "title": "Hackers have compromised dozens of popular open source packages in an ongoing supply chain attack",
+      "id": "you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026",
+      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/19/hackers-have-compromised-dozens-of-popular-open-source-packages-in-an-ongoing-supply-chain-attack/",
-      "publishedAt": "2026-05-19T15:32:46.000Z",
-      "summaryShort": "Hackers have compromised dozens of popular open source packages in an ongoing supply chain attack. The attacks are part of a wider campaign known as Mini Shai-Hulud, which has already compromised several open source projects and, in turn, d",
+      "sourceUrl": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+      "publishedAt": "2026-05-19T21:25:31.000Z",
+      "summaryShort": "You can now talk to your Gmail inbox, as seen at Google IO 2026. Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "us-cyber-agency-cisa-exposed-reams-of-passwords-and-cloud-keys-t",
-      "title": "US cyber agency CISA exposed reams of passwords and cloud keys to the open web",
+      "id": "how-to-use-google-s-new-ai-agents-to-go-beyond-your-standard-sea",
+      "title": "How to use Google’s new AI agents to go beyond your standard searches",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/19/us-cyber-agency-cisa-exposed-reams-of-passwords-and-cloud-keys-to-the-open-web/",
-      "publishedAt": "2026-05-19T15:06:42.000Z",
-      "summaryShort": "US cyber agency CISA exposed reams of passwords and cloud keys to the open web. The federal cybersecurity agency left plaintext passwords in a spreadsheet uploaded to a public GitHub repository, per a report by independent journalist Brian ",
+      "sourceUrl": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+      "publishedAt": "2026-05-19T21:16:25.000Z",
+      "summaryShort": "How to use Google’s new AI agents to go beyond your standard searches. Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
       "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "apple-announces-apple-intelligence-powered-accessibility-feature",
-      "title": "Apple announces Apple Intelligence powered accessibility feature updates",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
-      "publishedAt": "2026-05-19T14:01:07.000Z",
-      "summaryShort": "Apple announces Apple Intelligence powered accessibility feature updates. Apple is introducing a feature to let Vision Pro control a compatible wheelchair with their eyes",
-      "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
