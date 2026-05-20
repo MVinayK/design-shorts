@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-05-20T04:02:51.261Z",
+  "generatedAt": "2026-05-20T15:35:14.959Z",
   "items": [
+    {
+      "id": "designing-a-multi-agent-system-for-engineering-support-at-scale-",
+      "title": "Designing a Multi-Agent System for Engineering Support at Scale: A Case Study From Grab",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/grab-multi-agent-support-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-20T14:38:00.000Z",
+      "summaryShort": "Designing a Multi-Agent System for Engineering Support at Scale: A Case Study From Grab. Grab’s Central Data Team built a multi-agent AI system to automate repetitive engineering support tasks across its data warehouse platform.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-the-ai-gateway-scaling-centralized-inference-across",
+      "title": "Presentation: The AI Gateway: Scaling Centralized Inference Across Decentralized Teams",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-gateway-scalability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-20T12:40:00.000Z",
+      "summaryShort": "Presentation: The AI Gateway: Scaling Centralized Inference Across Decentralized Teams. Meryem Arik discusses why modern engineering teams face \"inference chaos\" and how AI model gateways provide a critical control layer.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "openai-outlines-webrtc-architecture-for-low-latency-voice-ai-at-",
+      "title": "OpenAI Outlines WebRTC Architecture for Low-Latency Voice AI at Scale",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/openai-voice-ai-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-20T12:30:00.000Z",
+      "summaryShort": "OpenAI Outlines WebRTC Architecture for Low-Latency Voice AI at Scale. OpenAI recently outlined how it adapted WebRTC for low-latency voice AI at global scale.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "pip-26-1-ships-dependency-cooldowns-and-experimental-lockfile-su",
+      "title": "Pip 26.1 Ships Dependency Cooldowns and Experimental Lockfile Support to Combat Supply Chain Attacks",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/pip-261-dependency-cooldowns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-20T10:04:00.000Z",
+      "summaryShort": "Pip 26.1 Ships Dependency Cooldowns and Experimental Lockfile Support to Combat Supply Chain Attacks. Pip 26.1 ships dependency cooldowns that enforce a waiting period before newly published packages can be installed, and experimental pyloc",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "anthropic-introduces-mcp-tunnels-for-private-agent-access-to-int",
       "title": "Anthropic Introduces MCP Tunnels for Private Agent Access to Internal Systems",
@@ -13,79 +59,34 @@
       ]
     },
     {
-      "id": "agoda-builds-multimodal-content-system-to-bridge-images-and-revi",
-      "title": "Agoda Builds Multimodal Content System to Bridge Images and Reviews in Travel Discovery",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/agoda-multimodal-content-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-19T14:29:00.000Z",
-      "summaryShort": "Agoda Builds Multimodal Content System to Bridge Images and Reviews in Travel Discovery. Agoda Multimodal Content System https://example.com/agoda-multimodal-content-system Agoda unifies hotel images and guest reviews using a shared topic t",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-powering-the-future-building-your-genai-infrastruct",
-      "title": "Presentation: Powering the Future: Building Your GenAI Infrastructure Stack",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/infrastructure-ai-agent-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-19T12:43:00.000Z",
-      "summaryShort": "Presentation: Powering the Future: Building Your GenAI Infrastructure Stack. Merrin Kurian shares the architectural blueprints and organizational processes behind Intuit’s AI transformation.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "tanstack-details-sophisticated-npm-supply-chain-attack-that-comp",
-      "title": "TanStack Details Sophisticated npm Supply Chain Attack That Compromised 42 Packages",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/tanstack-supply-chain-attack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-19T12:00:00.000Z",
-      "summaryShort": "TanStack Details Sophisticated npm Supply Chain Attack That Compromised 42 Packages. TanStack has released a detailed postmortem describing a sophisticated supply-chain attack that compromised 42 npm packages and published 84 malicious pack",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "article-kernel-level-ground-truth-why-ebpf-is-replacing-user-spa",
-      "title": "Article: Kernel-Level Ground Truth: Why eBPF is Replacing User-Space Agents for Security Observability",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/ebpf-for-security-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-19T09:00:00.000Z",
-      "summaryShort": "Article: Kernel-Level Ground Truth: Why eBPF is Replacing User-Space Agents for Security Observability. eBPF is emerging as a preferred method for security observability over traditional user-space agents.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "google-just-declared-itself-a-contender-in-ai-design-at-io-2026",
-      "title": "Google just declared itself a contender in AI design at IO 2026",
+      "id": "customers-say-trump-mobile-is-leaking-their-personal-information",
+      "title": "Customers say Trump Mobile is leaking their personal information",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-      "publishedAt": "2026-05-19T21:33:30.000Z",
-      "summaryShort": "Google just declared itself a contender in AI design at IO 2026. Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
+      "publishedAt": "2026-05-20T15:28:55.000Z",
+      "summaryShort": "Customers say Trump Mobile is leaking their personal information. Trump Mobile is leaking customers’ email and home addresses, but has not responded to people alerting the company of the data exposure, according to two YouTubers who said th",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "intuit-to-lay-off-over-3-000-employees-to-refocus-on-ai",
+      "title": "Intuit to lay off over 3,000 employees to refocus on AI",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "publishedAt": "2026-05-20T15:14:31.000Z",
+      "summaryShort": "Intuit to lay off over 3,000 employees to refocus on AI. In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026",
-      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+      "id": "ai-search-startups-are-blowing-up",
+      "title": "AI search startups are blowing up",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-      "publishedAt": "2026-05-19T21:25:31.000Z",
-      "summaryShort": "You can now talk to your Gmail inbox, as seen at Google IO 2026. Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "how-to-use-google-s-new-ai-agents-to-go-beyond-your-standard-sea",
-      "title": "How to use Google’s new AI agents to go beyond your standard searches",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-      "publishedAt": "2026-05-19T21:16:25.000Z",
-      "summaryShort": "How to use Google’s new AI agents to go beyond your standard searches. Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+      "publishedAt": "2026-05-20T15:04:45.000Z",
+      "summaryShort": "AI search startups are blowing up. AI search has quietly become one of the most attractive targets in consumer AI.",
       "tags": [
         "AI"
       ]
