@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T15:35:14.959Z",
+  "generatedAt": "2026-05-21T04:12:21.581Z",
   "items": [
     {
       "id": "designing-a-multi-agent-system-for-engineering-support-at-scale-",
@@ -59,36 +59,36 @@
       ]
     },
     {
-      "id": "customers-say-trump-mobile-is-leaking-their-personal-information",
-      "title": "Customers say Trump Mobile is leaking their personal information",
+      "id": "imperagen-raises-5-million-to-use-quantum-physics-ai-on-enzyme-e",
+      "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
-      "publishedAt": "2026-05-20T15:28:55.000Z",
-      "summaryShort": "Customers say Trump Mobile is leaking their personal information. Trump Mobile is leaking customers’ email and home addresses, but has not responded to people alerting the company of the data exposure, according to two YouTubers who said th",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
+      "publishedAt": "2026-05-21T04:00:00.000Z",
+      "summaryShort": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering. Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritst",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "jensen-huang-says-he-s-found-a-8216-brand-new-200b-market-for-nv",
+      "title": "Jensen Huang says he's found a &#8216;brand new' $200B market for Nvidia",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "publishedAt": "2026-05-21T00:28:31.000Z",
+      "summaryShort": "Jensen Huang says he's found a &#8216;brand new' $200B market for Nvidia. The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "anthropic-says-it-s-about-to-have-its-first-profitable-quarter",
+      "title": "Anthropic says it's about to have its first profitable quarter",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "publishedAt": "2026-05-21T00:21:21.000Z",
+      "summaryShort": "Anthropic says it's about to have its first profitable quarter. Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "intuit-to-lay-off-over-3-000-employees-to-refocus-on-ai",
-      "title": "Intuit to lay off over 3,000 employees to refocus on AI",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-      "publishedAt": "2026-05-20T15:14:31.000Z",
-      "summaryShort": "Intuit to lay off over 3,000 employees to refocus on AI. In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "ai-search-startups-are-blowing-up",
-      "title": "AI search startups are blowing up",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-      "publishedAt": "2026-05-20T15:04:45.000Z",
-      "summaryShort": "AI search startups are blowing up. AI search has quietly become one of the most attractive targets in consumer AI.",
-      "tags": [
-        "AI"
       ]
     }
   ]
