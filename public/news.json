@@ -1,92 +1,91 @@
 {
-  "generatedAt": "2026-05-21T04:12:21.581Z",
+  "generatedAt": "2026-05-21T15:38:58.451Z",
   "items": [
     {
-      "id": "designing-a-multi-agent-system-for-engineering-support-at-scale-",
-      "title": "Designing a Multi-Agent System for Engineering Support at Scale: A Case Study From Grab",
+      "id": "six-sessions-at-qcon-ai-boston-2026-that-take-productionizing-ai",
+      "title": "Six Sessions at QCon AI Boston 2026 That Take Productionizing AI Seriously",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/grab-multi-agent-support-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-20T14:38:00.000Z",
-      "summaryShort": "Designing a Multi-Agent System for Engineering Support at Scale: A Case Study From Grab. Grab’s Central Data Team built a multi-agent AI system to automate repetitive engineering support tasks across its data warehouse platform.",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/qconai-boston-2026-talks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-21T15:15:00.000Z",
+      "summaryShort": "Six Sessions at QCon AI Boston 2026 That Take Productionizing AI Seriously. QCon AI Boston 2026 is close to selling out.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "presentation-the-ai-gateway-scaling-centralized-inference-across",
-      "title": "Presentation: The AI Gateway: Scaling Centralized Inference Across Decentralized Teams",
+      "id": "presentation-the-ironies-of-a-2-i-2",
+      "title": "Presentation: The Ironies of A^2 I^2",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-gateway-scalability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-20T12:40:00.000Z",
-      "summaryShort": "Presentation: The AI Gateway: Scaling Centralized Inference Across Decentralized Teams. Meryem Arik discusses why modern engineering teams face \"inference chaos\" and how AI model gateways provide a critical control layer.",
+      "sourceUrl": "https://www.infoq.com/presentations/automation-incidents-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-21T12:55:00.000Z",
+      "summaryShort": "Presentation: The Ironies of A^2 I^2. J.",
       "tags": [
-        "AI",
-        "Cloud"
+        "AI"
       ]
     },
     {
-      "id": "openai-outlines-webrtc-architecture-for-low-latency-voice-ai-at-",
-      "title": "OpenAI Outlines WebRTC Architecture for Low-Latency Voice AI at Scale",
+      "id": "how-platform-engineering-using-golden-bricks-can-enable-fast-and",
+      "title": "How Platform Engineering Using Golden Bricks Can Enable Fast and Smooth Delivery",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/openai-voice-ai-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-20T12:30:00.000Z",
-      "summaryShort": "OpenAI Outlines WebRTC Architecture for Low-Latency Voice AI at Scale. OpenAI recently outlined how it adapted WebRTC for low-latency voice AI at global scale.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "pip-26-1-ships-dependency-cooldowns-and-experimental-lockfile-su",
-      "title": "Pip 26.1 Ships Dependency Cooldowns and Experimental Lockfile Support to Combat Supply Chain Attacks",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/pip-261-dependency-cooldowns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-20T10:04:00.000Z",
-      "summaryShort": "Pip 26.1 Ships Dependency Cooldowns and Experimental Lockfile Support to Combat Supply Chain Attacks. Pip 26.1 ships dependency cooldowns that enforce a waiting period before newly published packages can be installed, and experimental pyloc",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/platform-golden-bricks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-21T11:35:00.000Z",
+      "summaryShort": "How Platform Engineering Using Golden Bricks Can Enable Fast and Smooth Delivery. Platform engineering should have a product focus, as developers are customers; they must provide composable, self-service capabilities, golden bricks rather t",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "anthropic-introduces-mcp-tunnels-for-private-agent-access-to-int",
-      "title": "Anthropic Introduces MCP Tunnels for Private Agent Access to Internal Systems",
+      "id": "opentofu-1-12-the-feature-terraform-never-shipped",
+      "title": "OpenTofu 1.12 The Feature Terraform Never Shipped",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/claude-mcp-tunnels/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-19T19:20:00.000Z",
-      "summaryShort": "Anthropic Introduces MCP Tunnels for Private Agent Access to Internal Systems. Anthropic has expanded its Claude Managed Agents platform with two enterprise-focused capabilities: self-hosted sandboxes and MCP tunnels.",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/opentofu-release-terraform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-21T10:00:00.000Z",
+      "summaryShort": "OpenTofu 1.12 The Feature Terraform Never Shipped. The OpenTofu community released version 1.12.0 on May 14, 2026.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "with-android-cli-google-is-making-the-android-toolchain-agent-fr",
+      "title": "With Android CLI, Google is Making the Android Toolchain Agent-Friendly",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/agent-friendly-android-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-21T10:00:00.000Z",
+      "summaryShort": "With Android CLI, Google is Making the Android Toolchain Agent-Friendly. Google introduced new Android development tools that enable building apps up to 3x faster by using AI agents, including a redesigned Android command-line interface (CL",
+      "tags": [
+        "AI",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "spotify-takes-on-google-s-notebooklm-with-its-new-app",
+      "title": "Spotify takes on Google's NotebookLM with its new app",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+      "publishedAt": "2026-05-21T15:27:00.000Z",
+      "summaryShort": "Spotify takes on Google's NotebookLM with its new app. Spotify is releasing the new desktop app as a research preview in more than 20 markets",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "spotify-adds-ai-powered-q-038-a-and-briefing-generation-features",
+      "title": "Spotify adds AI-powered Q&#038;A and briefing generation features to podcasts",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+      "publishedAt": "2026-05-21T15:27:00.000Z",
+      "summaryShort": "Spotify adds AI-powered Q&#038;A and briefing generation features to podcasts. Spotify will let you generate daily or weekly briefs based on your prompts",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "imperagen-raises-5-million-to-use-quantum-physics-ai-on-enzyme-e",
-      "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
+      "id": "spotify-launches-an-elevenlabs-powered-audiobook-creation-tool",
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
-      "publishedAt": "2026-05-21T04:00:00.000Z",
-      "summaryShort": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering. Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritst",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "jensen-huang-says-he-s-found-a-8216-brand-new-200b-market-for-nv",
-      "title": "Jensen Huang says he's found a &#8216;brand new' $200B market for Nvidia",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-      "publishedAt": "2026-05-21T00:28:31.000Z",
-      "summaryShort": "Jensen Huang says he's found a &#8216;brand new' $200B market for Nvidia. The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "anthropic-says-it-s-about-to-have-its-first-profitable-quarter",
-      "title": "Anthropic says it's about to have its first profitable quarter",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "publishedAt": "2026-05-21T00:21:21.000Z",
-      "summaryShort": "Anthropic says it's about to have its first profitable quarter. Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "publishedAt": "2026-05-21T15:27:00.000Z",
+      "summaryShort": "Spotify launches an ElevenLabs-powered audiobook creation tool. Spotify is releasing new audiobook plans later this year",
       "tags": [
         "Engineering"
       ]
