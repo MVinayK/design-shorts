@@ -1,91 +1,91 @@
 {
-  "generatedAt": "2026-05-22T04:07:06.523Z",
+  "generatedAt": "2026-05-22T14:48:49.305Z",
   "items": [
     {
-      "id": "bintrail-mysql-time-travel-queries-using-indexed-binlogs",
-      "title": "Bintrail: MySQL Time-Travel Queries Using Indexed Binlogs",
+      "id": "uber-improves-restaurant-recommendations-using-real-time-signals",
+      "title": "Uber Improves Restaurant Recommendations Using Real-Time Signals and Listwise Ranking",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/bintrail-mysql-timetravel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-21T17:03:00.000Z",
-      "summaryShort": "Bintrail: MySQL Time-Travel Queries Using Indexed Binlogs. Bintrail is a recently introduced layer that brings point-in-time queries and row-history lookups to MySQL, the only major relational database lacking native temporal querying.",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "six-sessions-at-qcon-ai-boston-2026-that-take-productionizing-ai",
-      "title": "Six Sessions at QCon AI Boston 2026 That Take Productionizing AI Seriously",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/qconai-boston-2026-talks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-21T15:15:00.000Z",
-      "summaryShort": "Six Sessions at QCon AI Boston 2026 That Take Productionizing AI Seriously. QCon AI Boston 2026 is close to selling out.",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/uber-eats-ranking-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-22T14:32:00.000Z",
+      "summaryShort": "Uber Improves Restaurant Recommendations Using Real-Time Signals and Listwise Ranking. Uber updates its Uber Eats Home Feed recommendation system using near real-time user sequence features and a Generative Recommender model.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "presentation-the-ironies-of-a-2-i-2",
-      "title": "Presentation: The Ironies of A^2 I^2",
+      "id": "infoq-launches-online-ai-engineering-cohort-and-certification-fo",
+      "title": "InfoQ Launches Online AI Engineering Cohort and Certification for Senior Software Practitioners",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/automation-incidents-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-21T12:55:00.000Z",
-      "summaryShort": "Presentation: The Ironies of A^2 I^2. J.",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/ai-engineering-certification-pro/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-22T13:00:00.000Z",
+      "summaryShort": "InfoQ Launches Online AI Engineering Cohort and Certification for Senior Software Practitioners. InfoQ has launched a five-week online AI Engineering certification for senior practitioners working on production AI systems, covering RAG, age",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "how-platform-engineering-using-golden-bricks-can-enable-fast-and",
-      "title": "How Platform Engineering Using Golden Bricks Can Enable Fast and Smooth Delivery",
+      "id": "discord-rebuilds-database-operations-around-automation-to-manage",
+      "title": "Discord Rebuilds Database Operations Around Automation to Manage ScyllaDB at Massive Scale",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/platform-golden-bricks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-21T11:35:00.000Z",
-      "summaryShort": "How Platform Engineering Using Golden Bricks Can Enable Fast and Smooth Delivery. Platform engineering should have a product focus, as developers are customers; they must provide composable, self-service capabilities, golden bricks rather t",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/discord-scylladb-automation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-22T12:00:00.000Z",
+      "summaryShort": "Discord Rebuilds Database Operations Around Automation to Manage ScyllaDB at Massive Scale. Discord has detailed how it rebuilt its database operations around a new internal orchestration framework called the Scylla Control Plane (SCP), ena",
       "tags": [
-        "Engineering"
+        "Databases",
+        "Cloud"
       ]
     },
     {
-      "id": "with-android-cli-google-is-making-the-android-toolchain-agent-fr",
-      "title": "With Android CLI, Google is Making the Android Toolchain Agent-Friendly",
+      "id": "xai-releases-grok-skills-and-updates-tool-calling-responses-api",
+      "title": "xAI Releases Grok Skills and Updates Tool Calling Responses API",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/agent-friendly-android-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-21T10:00:00.000Z",
-      "summaryShort": "With Android CLI, Google is Making the Android Toolchain Agent-Friendly. Google introduced new Android development tools that enable building apps up to 3x faster by using AI agents, including a redesigned Android command-line interface (CL",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/xai-grok-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-22T10:24:00.000Z",
+      "summaryShort": "xAI Releases Grok Skills and Updates Tool Calling Responses API. xAI has released Grok Skills together with enhancements to the Responses API for Grok 4.3, enabling persistent custom expertise that the model retains across all conversations",
       "tags": [
-        "AI",
-        "Architecture"
+        "AI"
       ]
     },
     {
-      "id": "waymo-expands-pause-to-four-cities-as-robotaxis-keep-driving-int",
-      "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+      "id": "cloudflare-completes-its-agent-infrastructure-stack-with-browser",
+      "title": "Cloudflare Completes Its Agent Infrastructure Stack with Browser Run Rebuild and Six-Layer Platform",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/cloudflare-agent-platform-stack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-22T09:21:00.000Z",
+      "summaryShort": "Cloudflare Completes Its Agent Infrastructure Stack with Browser Run Rebuild and Six-Layer Platform. Cloudflare rebuilt Browser Run on its own Containers platform, delivering 4x higher concurrency and 50% faster response times.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "trump-mobile-confirms-it-exposed-customers-personal-data-includi",
+      "title": "Trump Mobile confirms it exposed customers' personal data, including phone numbers and home addresses",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
-      "publishedAt": "2026-05-22T00:37:00.000Z",
-      "summaryShort": "Waymo expands pause to four cities as robotaxis keep driving into floods. Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
+      "sourceUrl": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
+      "publishedAt": "2026-05-22T14:30:52.000Z",
+      "summaryShort": "Trump Mobile confirms it exposed customers' personal data, including phone numbers and home addresses. President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform, and was evaluating w",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "spacex-scrubs-first-starship-v3-launch-just-before-liftoff",
-      "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+      "id": "meta-quietly-launches-a-new-reddit-like-app-called-forum",
+      "title": "Meta quietly launches a new Reddit-like app called Forum",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
-      "publishedAt": "2026-05-22T00:07:47.000Z",
-      "summaryShort": "SpaceX scrubs first Starship V3 launch just before liftoff. SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub.",
+      "sourceUrl": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
+      "publishedAt": "2026-05-22T14:24:16.000Z",
+      "summaryShort": "Meta quietly launches a new Reddit-like app called Forum. The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\"",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from",
-      "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
+      "id": "smart-ring-maker-oura-files-to-go-public",
+      "title": "Smart ring maker Oura files to go public",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
-      "publishedAt": "2026-05-21T21:39:03.000Z",
-      "summaryShort": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle.",
+      "sourceUrl": "https://techcrunch.com/2026/05/22/smart-ring-maker-oura-files-to-go-public/",
+      "publishedAt": "2026-05-22T14:03:35.000Z",
+      "summaryShort": "Smart ring maker Oura files to go public. The Finnish company said in September that it has sold 5.5 million smart rings to date.",
       "tags": [
         "Engineering"
       ]
