@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-05-21T15:38:58.451Z",
+  "generatedAt": "2026-05-22T04:07:06.523Z",
   "items": [
+    {
+      "id": "bintrail-mysql-time-travel-queries-using-indexed-binlogs",
+      "title": "Bintrail: MySQL Time-Travel Queries Using Indexed Binlogs",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/bintrail-mysql-timetravel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-21T17:03:00.000Z",
+      "summaryShort": "Bintrail: MySQL Time-Travel Queries Using Indexed Binlogs. Bintrail is a recently introduced layer that brings point-in-time queries and row-history lookups to MySQL, the only major relational database lacking native temporal querying.",
+      "tags": [
+        "Databases"
+      ]
+    },
     {
       "id": "six-sessions-at-qcon-ai-boston-2026-that-take-productionizing-ai",
       "title": "Six Sessions at QCon AI Boston 2026 That Take Productionizing AI Seriously",
@@ -35,17 +46,6 @@
       ]
     },
     {
-      "id": "opentofu-1-12-the-feature-terraform-never-shipped",
-      "title": "OpenTofu 1.12 The Feature Terraform Never Shipped",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/opentofu-release-terraform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-21T10:00:00.000Z",
-      "summaryShort": "OpenTofu 1.12 The Feature Terraform Never Shipped. The OpenTofu community released version 1.12.0 on May 14, 2026.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
       "id": "with-android-cli-google-is-making-the-android-toolchain-agent-fr",
       "title": "With Android CLI, Google is Making the Android Toolchain Agent-Friendly",
       "sourceName": "InfoQ",
@@ -58,34 +58,34 @@
       ]
     },
     {
-      "id": "spotify-takes-on-google-s-notebooklm-with-its-new-app",
-      "title": "Spotify takes on Google's NotebookLM with its new app",
+      "id": "waymo-expands-pause-to-four-cities-as-robotaxis-keep-driving-int",
+      "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
-      "publishedAt": "2026-05-21T15:27:00.000Z",
-      "summaryShort": "Spotify takes on Google's NotebookLM with its new app. Spotify is releasing the new desktop app as a research preview in more than 20 markets",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+      "publishedAt": "2026-05-22T00:37:00.000Z",
+      "summaryShort": "Waymo expands pause to four cities as robotaxis keep driving into floods. Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "spotify-adds-ai-powered-q-038-a-and-briefing-generation-features",
-      "title": "Spotify adds AI-powered Q&#038;A and briefing generation features to podcasts",
+      "id": "spacex-scrubs-first-starship-v3-launch-just-before-liftoff",
+      "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
-      "publishedAt": "2026-05-21T15:27:00.000Z",
-      "summaryShort": "Spotify adds AI-powered Q&#038;A and briefing generation features to podcasts. Spotify will let you generate daily or weekly briefs based on your prompts",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+      "publishedAt": "2026-05-22T00:07:47.000Z",
+      "summaryShort": "SpaceX scrubs first Starship V3 launch just before liftoff. SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "spotify-launches-an-elevenlabs-powered-audiobook-creation-tool",
-      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "id": "who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from",
+      "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-      "publishedAt": "2026-05-21T15:27:00.000Z",
-      "summaryShort": "Spotify launches an ElevenLabs-powered audiobook creation tool. Spotify is releasing new audiobook plans later this year",
+      "sourceUrl": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
+      "publishedAt": "2026-05-21T21:39:03.000Z",
+      "summaryShort": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle.",
       "tags": [
         "Engineering"
       ]
