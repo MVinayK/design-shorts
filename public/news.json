@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T14:48:49.305Z",
+  "generatedAt": "2026-05-23T03:45:22.376Z",
   "items": [
     {
       "id": "uber-improves-restaurant-recommendations-using-real-time-signals",
@@ -58,34 +58,34 @@
       ]
     },
     {
-      "id": "trump-mobile-confirms-it-exposed-customers-personal-data-includi",
-      "title": "Trump Mobile confirms it exposed customers' personal data, including phone numbers and home addresses",
+      "id": "ai-is-being-used-to-resurrect-the-voices-of-dead-pilots",
+      "title": "AI is being used to resurrect the voices of dead pilots",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
-      "publishedAt": "2026-05-22T14:30:52.000Z",
-      "summaryShort": "Trump Mobile confirms it exposed customers' personal data, including phone numbers and home addresses. President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform, and was evaluating w",
+      "sourceUrl": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "publishedAt": "2026-05-22T23:03:33.000Z",
+      "summaryShort": "AI is being used to resurrect the voices of dead pilots. People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "spacex-launches-starship-v3-for-the-first-time-but-loses-booster",
+      "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
+      "publishedAt": "2026-05-22T22:55:57.000Z",
+      "summaryShort": "SpaceX launches Starship V3 for the first time, but loses booster on return. The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "meta-quietly-launches-a-new-reddit-like-app-called-forum",
-      "title": "Meta quietly launches a new Reddit-like app called Forum",
+      "id": "blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mis",
+      "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
-      "publishedAt": "2026-05-22T14:24:16.000Z",
-      "summaryShort": "Meta quietly launches a new Reddit-like app called Forum. The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\"",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "smart-ring-maker-oura-files-to-go-public",
-      "title": "Smart ring maker Oura files to go public",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/22/smart-ring-maker-oura-files-to-go-public/",
-      "publishedAt": "2026-05-22T14:03:35.000Z",
-      "summaryShort": "Smart ring maker Oura files to go public. The Finnish company said in September that it has sold 5.5 million smart rings to date.",
+      "sourceUrl": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
+      "publishedAt": "2026-05-22T21:37:17.000Z",
+      "summaryShort": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap. Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
       "tags": [
         "Engineering"
       ]
