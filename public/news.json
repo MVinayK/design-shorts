@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-05-23T03:45:22.376Z",
+  "generatedAt": "2026-05-23T13:46:58.536Z",
   "items": [
+    {
+      "id": "google-cloud-introduces-cross-engine-iceberg-support-in-bigquery",
+      "title": "Google Cloud Introduces Cross-Engine Iceberg Support in BigQuery",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/google-cross-engine-iceberg/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-23T08:42:00.000Z",
+      "summaryShort": "Google Cloud Introduces Cross-Engine Iceberg Support in BigQuery. At the Apache Iceberg Summit last month, Google announced new interoperability features for Apache Iceberg in BigQuery.",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "uber-improves-restaurant-recommendations-using-real-time-signals",
       "title": "Uber Improves Restaurant Recommendations Using Real-Time Signals and Listwise Ranking",
@@ -47,14 +58,25 @@
       ]
     },
     {
-      "id": "cloudflare-completes-its-agent-infrastructure-stack-with-browser",
-      "title": "Cloudflare Completes Its Agent Infrastructure Stack with Browser Run Rebuild and Six-Layer Platform",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/cloudflare-agent-platform-stack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-22T09:21:00.000Z",
-      "summaryShort": "Cloudflare Completes Its Agent Infrastructure Stack with Browser Run Rebuild and Six-Layer Platform. Cloudflare rebuilt Browser Run on its own Containers platform, delivering 4x higher concurrency and 50% faster response times.",
+      "id": "elon-musk-has-given-up-on-solar-power-on-earth",
+      "title": "Elon Musk has given up on solar power (on Earth)",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "publishedAt": "2026-05-23T13:00:00.000Z",
+      "summaryShort": "Elon Musk has given up on solar power (on Earth). Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers.",
       "tags": [
-        "Cloud"
+        "Engineering"
+      ]
+    },
+    {
+      "id": "peec-one-of-berlin-s-rising-startups-more-than-doubled-annualize",
+      "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
+      "publishedAt": "2026-05-23T07:01:00.000Z",
+      "summaryShort": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say. Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.",
+      "tags": [
+        "AI"
       ]
     },
     {
@@ -66,28 +88,6 @@
       "summaryShort": "AI is being used to resurrect the voices of dead pilots. People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "spacex-launches-starship-v3-for-the-first-time-but-loses-booster",
-      "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
-      "publishedAt": "2026-05-22T22:55:57.000Z",
-      "summaryShort": "SpaceX launches Starship V3 for the first time, but loses booster on return. The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mis",
-      "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
-      "publishedAt": "2026-05-22T21:37:17.000Z",
-      "summaryShort": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap. Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
