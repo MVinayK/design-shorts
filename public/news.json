@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T13:46:58.536Z",
+  "generatedAt": "2026-05-24T04:06:11.372Z",
   "items": [
     {
       "id": "google-cloud-introduces-cross-engine-iceberg-support-in-bigquery",
@@ -58,34 +58,34 @@
       ]
     },
     {
-      "id": "elon-musk-has-given-up-on-solar-power-on-earth",
-      "title": "Elon Musk has given up on solar power (on Earth)",
+      "id": "solarsquare-in-talks-to-raise-up-to-60m-as-india-s-rooftop-solar",
+      "title": "SolarSquare in talks to raise up to $60M as India's rooftop solar market draws major VC interest",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-      "publishedAt": "2026-05-23T13:00:00.000Z",
-      "summaryShort": "Elon Musk has given up on solar power (on Earth). Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers.",
+      "sourceUrl": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+      "publishedAt": "2026-05-23T20:03:13.000Z",
+      "summaryShort": "SolarSquare in talks to raise up to $60M as India's rooftop solar market draws major VC interest. SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "peec-one-of-berlin-s-rising-startups-more-than-doubled-annualize",
-      "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
+      "id": "these-special-phone-and-app-features-can-help-protect-you-from-s",
+      "title": "These special phone and app features can help protect you from spyware",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
-      "publishedAt": "2026-05-23T07:01:00.000Z",
-      "summaryShort": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say. Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.",
+      "sourceUrl": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+      "publishedAt": "2026-05-23T16:00:00.000Z",
+      "summaryShort": "These special phone and app features can help protect you from spyware. Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "ai-is-being-used-to-resurrect-the-voices-of-dead-pilots",
-      "title": "AI is being used to resurrect the voices of dead pilots",
+      "id": "ferrari-is-using-ibm-s-ai-to-create-f1-superfans",
+      "title": "Ferrari is using IBM's AI to create F1 superfans",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-      "publishedAt": "2026-05-22T23:03:33.000Z",
-      "summaryShort": "AI is being used to resurrect the voices of dead pilots. People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+      "sourceUrl": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "publishedAt": "2026-05-23T15:08:00.000Z",
+      "summaryShort": "Ferrari is using IBM's AI to create F1 superfans. IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
       "tags": [
         "AI"
       ]
