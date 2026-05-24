@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-05-24T04:06:11.372Z",
+  "generatedAt": "2026-05-24T13:46:18.750Z",
   "items": [
+    {
+      "id": "aws-mcp-server-reaches-ga-with-full-api-coverage-and-iam-based-g",
+      "title": "AWS MCP Server Reaches GA with Full API Coverage and IAM-Based Governance",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/aws-mcp-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-24T08:53:00.000Z",
+      "summaryShort": "AWS MCP Server Reaches GA with Full API Coverage and IAM-Based Governance. AWS has recently made its managed Model Context Protocol (MCP) server generally available, giving AI coding agents controlled access to AWS APIs, documentation, and ",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "google-cloud-introduces-cross-engine-iceberg-support-in-bigquery",
       "title": "Google Cloud Introduces Cross-Engine Iceberg Support in BigQuery",
@@ -47,14 +58,14 @@
       ]
     },
     {
-      "id": "xai-releases-grok-skills-and-updates-tool-calling-responses-api",
-      "title": "xAI Releases Grok Skills and Updates Tool Calling Responses API",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/xai-grok-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-22T10:24:00.000Z",
-      "summaryShort": "xAI Releases Grok Skills and Updates Tool Calling Responses API. xAI has released Grok Skills together with enhancements to the Responses API for Grok 4.3, enabling persistent custom expertise that the model retains across all conversations",
+      "id": "the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed",
+      "title": "The Dreamie alarm clock got me to stop using my phone in bed",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
+      "publishedAt": "2026-05-24T13:00:00.000Z",
+      "summaryShort": "The Dreamie alarm clock got me to stop using my phone in bed. What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
@@ -77,17 +88,6 @@
       "summaryShort": "These special phone and app features can help protect you from spyware. Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "ferrari-is-using-ibm-s-ai-to-create-f1-superfans",
-      "title": "Ferrari is using IBM's AI to create F1 superfans",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "publishedAt": "2026-05-23T15:08:00.000Z",
-      "summaryShort": "Ferrari is using IBM's AI to create F1 superfans. IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
-      "tags": [
-        "AI"
       ]
     }
   ]
