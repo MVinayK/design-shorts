@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-05-24T13:46:18.750Z",
+  "generatedAt": "2026-05-25T04:17:38.008Z",
   "items": [
+    {
+      "id": "openjdk-news-roundup-vector-api-compact-object-headers-and-g1gc-",
+      "title": "OpenJDK News Roundup: Vector API, Compact Object Headers and G1GC as Default in JDK 27",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/jdk-news-roundup-may18-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-25T02:30:00.000Z",
+      "summaryShort": "OpenJDK News Roundup: Vector API, Compact Object Headers and G1GC as Default in JDK 27. There was a flurry of activity in the OpenJDK ecosystem during the week of May 18th, 2026, highlighting three JEPs elevated from Proposed to Target to T",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "google-introduces-middleware-architecture-for-genkit-application",
+      "title": "Google Introduces Middleware Architecture for Genkit Applications",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/google-genkit-middleware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-24T17:55:00.000Z",
+      "summaryShort": "Google Introduces Middleware Architecture for Genkit Applications. Google has introduced Middleware for Genkit, its open-source framework for building AI-powered and agentic applications.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "aws-mcp-server-reaches-ga-with-full-api-coverage-and-iam-based-g",
       "title": "AWS MCP Server Reaches GA with Full API Coverage and IAM-Based Governance",
@@ -35,57 +57,34 @@
       ]
     },
     {
-      "id": "infoq-launches-online-ai-engineering-cohort-and-certification-fo",
-      "title": "InfoQ Launches Online AI Engineering Cohort and Certification for Senior Software Practitioners",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/ai-engineering-certification-pro/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-22T13:00:00.000Z",
-      "summaryShort": "InfoQ Launches Online AI Engineering Cohort and Certification for Senior Software Practitioners. InfoQ has launched a five-week online AI Engineering certification for senior practitioners working on production AI systems, covering RAG, age",
+      "id": "everyone-is-navigating-ai-security-in-real-time-8212-even-google",
+      "title": "Everyone is navigating AI security in real time &#8212; even Google",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "publishedAt": "2026-05-24T21:39:21.000Z",
+      "summaryShort": "Everyone is navigating AI security in real time &#8212; even Google. We're in the transition period -- all of us.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "discord-rebuilds-database-operations-around-automation-to-manage",
-      "title": "Discord Rebuilds Database Operations Around Automation to Manage ScyllaDB at Massive Scale",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/discord-scylladb-automation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-22T12:00:00.000Z",
-      "summaryShort": "Discord Rebuilds Database Operations Around Automation to Manage ScyllaDB at Massive Scale. Discord has detailed how it rebuilt its database operations around a new internal orchestration framework called the Scylla Control Plane (SCP), ena",
-      "tags": [
-        "Databases",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed",
-      "title": "The Dreamie alarm clock got me to stop using my phone in bed",
+      "id": "xreal-google-s-smartglasses-partner-thinks-it-has-finally-master",
+      "title": "Xreal, Google's smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
-      "publishedAt": "2026-05-24T13:00:00.000Z",
-      "summaryShort": "The Dreamie alarm clock got me to stop using my phone in bed. What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts.",
+      "sourceUrl": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+      "publishedAt": "2026-05-24T19:00:00.000Z",
+      "summaryShort": "Xreal, Google's smartglasses partner, thinks it has finally mastered this notoriously tricky industry. Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "solarsquare-in-talks-to-raise-up-to-60m-as-india-s-rooftop-solar",
-      "title": "SolarSquare in talks to raise up to $60M as India's rooftop solar market draws major VC interest",
+      "id": "6-kitchen-gadgets-that-make-adulting-feel-easier",
+      "title": "6 kitchen gadgets that make adulting feel easier",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
-      "publishedAt": "2026-05-23T20:03:13.000Z",
-      "summaryShort": "SolarSquare in talks to raise up to $60M as India's rooftop solar market draws major VC interest. SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "these-special-phone-and-app-features-can-help-protect-you-from-s",
-      "title": "These special phone and app features can help protect you from spyware",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
-      "publishedAt": "2026-05-23T16:00:00.000Z",
-      "summaryShort": "These special phone and app features can help protect you from spyware. Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks.",
+      "sourceUrl": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
+      "publishedAt": "2026-05-24T17:00:00.000Z",
+      "summaryShort": "6 kitchen gadgets that make adulting feel easier. From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
       "tags": [
         "Engineering"
       ]
