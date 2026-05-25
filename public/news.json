@@ -1,90 +1,90 @@
 {
-  "generatedAt": "2026-05-25T04:17:38.008Z",
+  "generatedAt": "2026-05-25T15:18:09.799Z",
   "items": [
     {
-      "id": "openjdk-news-roundup-vector-api-compact-object-headers-and-g1gc-",
-      "title": "OpenJDK News Roundup: Vector API, Compact Object Headers and G1GC as Default in JDK 27",
+      "id": "article-the-schema-proliferation-problem-in-kafka-and-flink-pipe",
+      "title": "Article: The Schema Proliferation Problem in Kafka and Flink Pipelines: How to Solve It",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/jdk-news-roundup-may18-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-25T02:30:00.000Z",
-      "summaryShort": "OpenJDK News Roundup: Vector API, Compact Object Headers and G1GC as Default in JDK 27. There was a flurry of activity in the OpenJDK ecosystem during the week of May 18th, 2026, highlighting three JEPs elevated from Proposed to Target to T",
+      "sourceUrl": "https://www.infoq.com/articles/schema-proliferation-problem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-25T13:00:00.000Z",
+      "summaryShort": "Article: The Schema Proliferation Problem in Kafka and Flink Pipelines: How to Solve It. Schema proliferation builds slowly and gets expensive fast.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "google-introduces-middleware-architecture-for-genkit-application",
-      "title": "Google Introduces Middleware Architecture for Genkit Applications",
+      "id": "presentation-from-legacy-to-sovereignty-driving-the-future-of-in",
+      "title": "Presentation: From Legacy to Sovereignty: Driving the Future of Insurance through Platform Engineering",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/google-genkit-middleware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-24T17:55:00.000Z",
-      "summaryShort": "Google Introduces Middleware Architecture for Genkit Applications. Google has introduced Middleware for Genkit, its open-source framework for building AI-powered and agentic applications.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "aws-mcp-server-reaches-ga-with-full-api-coverage-and-iam-based-g",
-      "title": "AWS MCP Server Reaches GA with Full API Coverage and IAM-Based Governance",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/aws-mcp-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-24T08:53:00.000Z",
-      "summaryShort": "AWS MCP Server Reaches GA with Full API Coverage and IAM-Based Governance. AWS has recently made its managed Model Context Protocol (MCP) server generally available, giving AI coding agents controlled access to AWS APIs, documentation, and ",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "google-cloud-introduces-cross-engine-iceberg-support-in-bigquery",
-      "title": "Google Cloud Introduces Cross-Engine Iceberg Support in BigQuery",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/google-cross-engine-iceberg/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-23T08:42:00.000Z",
-      "summaryShort": "Google Cloud Introduces Cross-Engine Iceberg Support in BigQuery. At the Apache Iceberg Summit last month, Google announced new interoperability features for Apache Iceberg in BigQuery.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "uber-improves-restaurant-recommendations-using-real-time-signals",
-      "title": "Uber Improves Restaurant Recommendations Using Real-Time Signals and Listwise Ranking",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/uber-eats-ranking-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-22T14:32:00.000Z",
-      "summaryShort": "Uber Improves Restaurant Recommendations Using Real-Time Signals and Listwise Ranking. Uber updates its Uber Eats Home Feed recommendation system using near real-time user sequence features and a Generative Recommender model.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "everyone-is-navigating-ai-security-in-real-time-8212-even-google",
-      "title": "Everyone is navigating AI security in real time &#8212; even Google",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-      "publishedAt": "2026-05-24T21:39:21.000Z",
-      "summaryShort": "Everyone is navigating AI security in real time &#8212; even Google. We're in the transition period -- all of us.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "xreal-google-s-smartglasses-partner-thinks-it-has-finally-master",
-      "title": "Xreal, Google's smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
-      "publishedAt": "2026-05-24T19:00:00.000Z",
-      "summaryShort": "Xreal, Google's smartglasses partner, thinks it has finally mastered this notoriously tricky industry. Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
+      "sourceUrl": "https://www.infoq.com/presentations/insurance-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-25T11:35:00.000Z",
+      "summaryShort": "Presentation: From Legacy to Sovereignty: Driving the Future of Insurance through Platform Engineering. Sergiu Petean discusses the strategic journey of evolving DevOps into platform engineering within heavily regulated enterprise environme",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "6-kitchen-gadgets-that-make-adulting-feel-easier",
-      "title": "6 kitchen gadgets that make adulting feel easier",
+      "id": "podcast-chasing-efficient-java-development-from-1brc-to-developi",
+      "title": "Podcast: Chasing Efficient Java Development: From 1BRC to Developing Hardwood AI Natively",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/chasing-efficient-java-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-25T11:00:00.000Z",
+      "summaryShort": "Podcast: Chasing Efficient Java Development: From 1BRC to Developing Hardwood AI Natively. Gunnar Morling, technologist at Confluent and Java Champion, shares his experiences with building high-performance applications in Java, especially i",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "gemma-4-multi-token-prediction-delivers-up-to-3x-faster-token-ge",
+      "title": "Gemma 4 Multi-Token Prediction Delivers Up to ~3x Faster Token Generation",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/gemma4-multi-token-prediction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-25T09:00:00.000Z",
+      "summaryShort": "Gemma 4 Multi-Token Prediction Delivers Up to ~3x Faster Token Generation. Gemma 4 can be paired with multi-token prediction (MTP) drafters that use speculative decoding to generate multiple tokens in parallel, allowing the model to verify ",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "nodejs-proposes-built-in-virtual-file-system-sparking-debate-ove",
+      "title": "NodeJS Proposes Built-In Virtual File System, Sparking Debate Over AI-Generated Contributions",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/node-js-file-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-25T06:24:00.000Z",
+      "summaryShort": "NodeJS Proposes Built-In Virtual File System, Sparking Debate Over AI-Generated Contributions. Matteo Collina has proposed a Virtual File System (VFS) for Node.js core through the node:vfs module.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "the-pope-s-ai-encyclical-isn-t-really-about-ai",
+      "title": "The pope’s AI encyclical isn’t really about AI",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
-      "publishedAt": "2026-05-24T17:00:00.000Z",
-      "summaryShort": "6 kitchen gadgets that make adulting feel easier. From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
+      "sourceUrl": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "publishedAt": "2026-05-25T15:09:41.000Z",
+      "summaryShort": "The pope’s AI encyclical isn’t really about AI. Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vc",
+      "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+      "publishedAt": "2026-05-25T15:00:00.000Z",
+      "summaryShort": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI. Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "startup-battlefield-200-applications-close-in-days-apply-before-",
+      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "publishedAt": "2026-05-25T14:30:00.000Z",
+      "summaryShort": "Startup Battlefield 200 applications close in days: Apply before May 27. The deadline to apply or nominate for Startup Battlefield 200 is May 27.",
       "tags": [
         "Engineering"
       ]
