@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-05-25T15:18:09.799Z",
+  "generatedAt": "2026-05-26T04:02:59.604Z",
   "items": [
+    {
+      "id": "java-news-roundup-wildfly-micronaut-spring-ai-apache-fory-glassf",
+      "title": "Java News Roundup: WildFly, Micronaut, Spring AI, Apache Fory, GlassFish Plugin, Open Liberty",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/java-news-roundup-may18-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-26T02:30:00.000Z",
+      "summaryShort": "Java News Roundup: WildFly, Micronaut, Spring AI, Apache Fory, GlassFish Plugin, Open Liberty. This week's Java roundup for May 18th, 2026, features news highlighting: GA releases of WildFly 40, Micronaut 5.0, Maven Embedded GlassFish Plugi",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "microsoft-introduces-mdash-for-large-scale-ai-vulnerability-rese",
+      "title": "Microsoft Introduces MDASH for Large-Scale AI Vulnerability Research",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/microsoft-mdash/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-25T16:30:00.000Z",
+      "summaryShort": "Microsoft Introduces MDASH for Large-Scale AI Vulnerability Research. Microsoft has introduced a new AI-driven vulnerability discovery system called MDASH, a multi-model agentic security platform designed to automate large-scale code auditi",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "article-the-schema-proliferation-problem-in-kafka-and-flink-pipe",
       "title": "Article: The Schema Proliferation Problem in Kafka and Flink Pipelines: How to Solve It",
@@ -35,23 +57,12 @@
       ]
     },
     {
-      "id": "gemma-4-multi-token-prediction-delivers-up-to-3x-faster-token-ge",
-      "title": "Gemma 4 Multi-Token Prediction Delivers Up to ~3x Faster Token Generation",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/gemma4-multi-token-prediction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-25T09:00:00.000Z",
-      "summaryShort": "Gemma 4 Multi-Token Prediction Delivers Up to ~3x Faster Token Generation. Gemma 4 can be paired with multi-token prediction (MTP) drafters that use speculative decoding to generate multiple tokens in parallel, allowing the model to verify ",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "nodejs-proposes-built-in-virtual-file-system-sparking-debate-ove",
-      "title": "NodeJS Proposes Built-In Virtual File System, Sparking Debate Over AI-Generated Contributions",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/node-js-file-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-25T06:24:00.000Z",
-      "summaryShort": "NodeJS Proposes Built-In Virtual File System, Sparking Debate Over AI-Generated Contributions. Matteo Collina has proposed a Virtual File System (VFS) for Node.js core through the node:vfs module.",
+      "id": "what-clickup-s-mass-layoff-tells-us-about-the-future-of-work",
+      "title": "What ClickUp's mass layoff tells us about the future of work",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "publishedAt": "2026-05-25T16:00:00.000Z",
+      "summaryShort": "What ClickUp's mass layoff tells us about the future of work. The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
       "tags": [
         "AI"
       ]
@@ -76,17 +87,6 @@
       "summaryShort": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI. Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "startup-battlefield-200-applications-close-in-days-apply-before-",
-      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
-      "publishedAt": "2026-05-25T14:30:00.000Z",
-      "summaryShort": "Startup Battlefield 200 applications close in days: Apply before May 27. The deadline to apply or nominate for Startup Battlefield 200 is May 27.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
