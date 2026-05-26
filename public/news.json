@@ -1,92 +1,95 @@
 {
-  "generatedAt": "2026-05-26T04:02:59.604Z",
+  "generatedAt": "2026-05-26T15:53:02.671Z",
   "items": [
     {
-      "id": "java-news-roundup-wildfly-micronaut-spring-ai-apache-fory-glassf",
-      "title": "Java News Roundup: WildFly, Micronaut, Spring AI, Apache Fory, GlassFish Plugin, Open Liberty",
+      "id": "platform-engineering-labs-expands-formae-with-kubernetes-support",
+      "title": "Platform Engineering Labs Expands formae with Kubernetes Support, Native Helm Integration",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/java-news-roundup-may18-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-26T02:30:00.000Z",
-      "summaryShort": "Java News Roundup: WildFly, Micronaut, Spring AI, Apache Fory, GlassFish Plugin, Open Liberty. This week's Java roundup for May 18th, 2026, features news highlighting: GA releases of WildFly 40, Micronaut 5.0, Maven Embedded GlassFish Plugi",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/formae-k8s-helm-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-26T12:00:00.000Z",
+      "summaryShort": "Platform Engineering Labs Expands formae with Kubernetes Support, Native Helm Integration. Platform Engineering Labs has announced a major update to its open-source Infrastructure-as-Code platform, formae, introducing full Kubernetes suppor",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "infoq-online-certification-program-new-ai-engineering-and-organi",
+      "title": "InfoQ Online Certification Program: New AI Engineering and Organizational Architecture Cohorts",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/online-cohort-certification-prog/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-26T10:00:00.000Z",
+      "summaryShort": "InfoQ Online Certification Program: New AI Engineering and Organizational Architecture Cohorts. InfoQ expands its online certification portfolio with new AI Engineering and Organizational Architecture cohorts, giving senior practitioners a ",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "microsoft-introduces-mdash-for-large-scale-ai-vulnerability-rese",
-      "title": "Microsoft Introduces MDASH for Large-Scale AI Vulnerability Research",
+      "id": "presentation-realtime-and-batch-processing-of-gpu-workloads",
+      "title": "Presentation: Realtime and Batch Processing of GPU Workloads",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/microsoft-mdash/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-25T16:30:00.000Z",
-      "summaryShort": "Microsoft Introduces MDASH for Large-Scale AI Vulnerability Research. Microsoft has introduced a new AI-driven vulnerability discovery system called MDASH, a multi-model agentic security platform designed to automate large-scale code auditi",
+      "sourceUrl": "https://www.infoq.com/presentations/realtime-gpu-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-26T09:08:00.000Z",
+      "summaryShort": "Presentation: Realtime and Batch Processing of GPU Workloads. Joseph Stein discusses engineering an enterprise AI-as-a-Service platform within a private cloud data center.",
       "tags": [
-        "AI"
+        "AI",
+        "Cloud"
       ]
     },
     {
-      "id": "article-the-schema-proliferation-problem-in-kafka-and-flink-pipe",
-      "title": "Article: The Schema Proliferation Problem in Kafka and Flink Pipelines: How to Solve It",
+      "id": "article-architecting-cloud-native-kafka-from-tiered-storage-towa",
+      "title": "Article: Architecting Cloud-Native Kafka: From Tiered Storage Towards a Diskless Future",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/schema-proliferation-problem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-25T13:00:00.000Z",
-      "summaryShort": "Article: The Schema Proliferation Problem in Kafka and Flink Pipelines: How to Solve It. Schema proliferation builds slowly and gets expensive fast.",
+      "sourceUrl": "https://www.infoq.com/articles/architecting-cloud-native-kafka/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-26T09:00:00.000Z",
+      "summaryShort": "Article: Architecting Cloud-Native Kafka: From Tiered Storage Towards a Diskless Future. This article explores Kafka's transition toward a cloud-native architecture, examining how tiered storage, FinOps telemetry, elastic consumer scaling, ",
+      "tags": [
+        "AI",
+        "Databases",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "tamboui-promises-to-bring-better-capabilities-to-build-tuis-in-j",
+      "title": "TamboUI Promises to Bring Better Capabilities to Build TUIs in Java",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/tamboui-java-tui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-26T09:00:00.000Z",
+      "summaryShort": "TamboUI Promises to Bring Better Capabilities to Build TUIs in Java. The call to action, “to make 2026 the year of Java in the terminal,” was quickly responded to by the launch of TamboUI.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "presentation-from-legacy-to-sovereignty-driving-the-future-of-in",
-      "title": "Presentation: From Legacy to Sovereignty: Driving the Future of Insurance through Platform Engineering",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/insurance-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-25T11:35:00.000Z",
-      "summaryShort": "Presentation: From Legacy to Sovereignty: Driving the Future of Insurance through Platform Engineering. Sergiu Petean discusses the strategic journey of evolving DevOps into platform engineering within heavily regulated enterprise environme",
+      "id": "dutch-government-blocks-us-company-from-acquisition-citing-8216-",
+      "title": "Dutch government blocks US company from acquisition, citing &#8216;risk to public interest'",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
+      "publishedAt": "2026-05-26T15:44:23.000Z",
+      "summaryShort": "Dutch government blocks US company from acquisition, citing &#8216;risk to public interest'. The move to block the acquisition of the cloud company that hosts the Dutch digital ID service comes as Europe continues to reduce its reliance on ",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved",
+      "title": "Ghost hackers: the cybersecurity mystery that nobody has solved",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/",
+      "publishedAt": "2026-05-26T15:27:12.000Z",
+      "summaryShort": "Ghost hackers: the cybersecurity mystery that nobody has solved. A shadowy group that stole and dumped the NSA’s most powerful hacking tools still has implications for how companies think about digital risk today.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "podcast-chasing-efficient-java-development-from-1brc-to-developi",
-      "title": "Podcast: Chasing Efficient Java Development: From 1BRC to Developing Hardwood AI Natively",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/chasing-efficient-java-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-25T11:00:00.000Z",
-      "summaryShort": "Podcast: Chasing Efficient Java Development: From 1BRC to Developing Hardwood AI Natively. Gunnar Morling, technologist at Confluent and Java Champion, shares his experiences with building high-performance applications in Java, especially i",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "what-clickup-s-mass-layoff-tells-us-about-the-future-of-work",
-      "title": "What ClickUp's mass layoff tells us about the future of work",
+      "id": "iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-",
+      "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-      "publishedAt": "2026-05-25T16:00:00.000Z",
-      "summaryShort": "What ClickUp's mass layoff tells us about the future of work. The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+      "sourceUrl": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/",
+      "publishedAt": "2026-05-26T15:26:27.000Z",
+      "summaryShort": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover. An Israeli cybersecurity firm said Iran’s government is behind Ababil of Minab, a fake hacktivist persona that has claimed a series of data breaches",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "the-pope-s-ai-encyclical-isn-t-really-about-ai",
-      "title": "The pope’s AI encyclical isn’t really about AI",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
-      "publishedAt": "2026-05-25T15:09:41.000Z",
-      "summaryShort": "The pope’s AI encyclical isn’t really about AI. Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vc",
-      "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
-      "publishedAt": "2026-05-25T15:00:00.000Z",
-      "summaryShort": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI. Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done.",
-      "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
