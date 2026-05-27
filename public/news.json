@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T15:53:02.671Z",
+  "generatedAt": "2026-05-27T04:17:04.138Z",
   "items": [
     {
       "id": "platform-engineering-labs-expands-formae-with-kubernetes-support",
@@ -49,45 +49,46 @@
       ]
     },
     {
-      "id": "tamboui-promises-to-bring-better-capabilities-to-build-tuis-in-j",
-      "title": "TamboUI Promises to Bring Better Capabilities to Build TUIs in Java",
+      "id": "google-expands-synthid-adoption-for-ai-watermarking-previews-con",
+      "title": "Google Expands SynthID Adoption for AI Watermarking, Previews Content Detection API",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/tamboui-java-tui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/google-synthid-content-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-05-26T09:00:00.000Z",
-      "summaryShort": "TamboUI Promises to Bring Better Capabilities to Build TUIs in Java. The call to action, “to make 2026 the year of Java in the terminal,” was quickly responded to by the launch of TamboUI.",
+      "summaryShort": "Google Expands SynthID Adoption for AI Watermarking, Previews Content Detection API. Google's SynthID, designed to embed imperceptible signals into AI-generated content, is adding a new Content Detection API on Google Cloud's Gemini Enterpr",
       "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "dutch-government-blocks-us-company-from-acquisition-citing-8216-",
-      "title": "Dutch government blocks US company from acquisition, citing &#8216;risk to public interest'",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
-      "publishedAt": "2026-05-26T15:44:23.000Z",
-      "summaryShort": "Dutch government blocks US company from acquisition, citing &#8216;risk to public interest'. The move to block the acquisition of the cloud company that hosts the Dutch digital ID service comes as Europe continues to reduce its reliance on ",
-      "tags": [
+        "AI",
         "Cloud"
       ]
     },
     {
-      "id": "ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved",
-      "title": "Ghost hackers: the cybersecurity mystery that nobody has solved",
+      "id": "uk-visa-portal-spilled-thousands-of-applicants-passports-and-sel",
+      "title": "UK Visa Portal spilled thousands of applicants' passports and selfies online — and hasn't fixed the leak",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/",
-      "publishedAt": "2026-05-26T15:27:12.000Z",
-      "summaryShort": "Ghost hackers: the cybersecurity mystery that nobody has solved. A shadowy group that stole and dumped the NSA’s most powerful hacking tools still has implications for how companies think about digital risk today.",
+      "sourceUrl": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+      "publishedAt": "2026-05-26T23:49:05.000Z",
+      "summaryShort": "UK Visa Portal spilled thousands of applicants' passports and selfies online — and hasn't fixed the leak. The third-party website exposed applicants' sensitive documents as part of the U.K.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-",
-      "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
+      "id": "what-we-re-looking-for-in-startup-battlefield-2026-and-how-to-ap",
+      "title": "What we're looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/",
-      "publishedAt": "2026-05-26T15:26:27.000Z",
-      "summaryShort": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover. An Israeli cybersecurity firm said Iran’s government is behind Ababil of Minab, a fake hacktivist persona that has claimed a series of data breaches",
+      "sourceUrl": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
+      "publishedAt": "2026-05-26T22:55:01.000Z",
+      "summaryShort": "What we're looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline. Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "trump-administration-permits-volvo-to-keep-selling-connected-car",
+      "title": "Trump administration permits Volvo to keep selling connected cars in the US",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
+      "publishedAt": "2026-05-26T22:55:01.000Z",
+      "summaryShort": "Trump administration permits Volvo to keep selling connected cars in the US. Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S.",
       "tags": [
         "Engineering"
       ]
