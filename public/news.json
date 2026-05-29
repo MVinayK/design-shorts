@@ -1,6 +1,41 @@
 {
-  "generatedAt": "2026-05-29T04:07:38.391Z",
+  "generatedAt": "2026-05-29T15:52:33.767Z",
   "items": [
+    {
+      "id": "ai-assisted-migration-tool-helps-teams-move-from-ingress-nginx-t",
+      "title": "AI-Assisted Migration Tool Helps Teams Move from ingress-nginx to Higress in Minutes",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/ai-nginx-higress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-29T12:00:00.000Z",
+      "summaryShort": "AI-Assisted Migration Tool Helps Teams Move from ingress-nginx to Higress in Minutes. The Cloud Native Computing Foundation has highlighted a new AI-assisted migration approach that enabled engineers to migrate 60 ingress-nginx resources to",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "presentation-building-evals-for-ai-adoption-from-principles-to-p",
+      "title": "Presentation: Building Evals for AI Adoption: From Principles to Practice",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/eval-ai-adoption/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-29T12:00:00.000Z",
+      "summaryShort": "Presentation: Building Evals for AI Adoption: From Principles to Practice. Mallika Rao discusses the hidden risk of evaluation debt in production AI systems, drawing on her experience at Twitter, Walmart, and Netflix.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "github-slashes-agent-workflow-token-spend-up-to-62-with-daily-au",
+      "title": "GitHub Slashes Agent Workflow Token Spend up to 62% with Daily Audits and MCP Pruning",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/github-agentic-token-savings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-29T08:30:00.000Z",
+      "summaryShort": "GitHub Slashes Agent Workflow Token Spend up to 62% with Daily Audits and MCP Pruning. GitHub reports cutting token costs in agentic CI workflows by up to 62% by pruning unused MCP tools, swapping some MCP calls for gh CLI, and running dail",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "presentation-from-founding-engineer-to-cto-to-ceo-at-the-same-st",
       "title": "Presentation: From Founding Engineer to CTO to CEO – At the Same Startup",
@@ -24,69 +59,36 @@
       ]
     },
     {
-      "id": "microsoft-announces-azure-linux-4-0-its-first-general-purpose-se",
-      "title": "Microsoft Announces Azure Linux 4.0, Its First General-Purpose Server Linux Distribution",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/azure-linux-4-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-28T09:49:00.000Z",
-      "summaryShort": "Microsoft Announces Azure Linux 4.0, Its First General-Purpose Server Linux Distribution. Microsoft announced Azure Linux 4.0 and Azure Container Linux at Open Source Summit.",
+      "id": "today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-20",
+      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-05-29T14:15:00.000Z",
+      "summaryShort": "Today is the last day to apply to speak at TechCrunch Disrupt 2026. Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "article-stragglers-not-failures-how-adaptive-hedged-requests-red",
-      "title": "Article: Stragglers, Not Failures: How Adaptive Hedged Requests Reduce p99 Latency by 74 Percent",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/adaptive-hedged-requests-p99-latency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-28T09:00:00.000Z",
-      "summaryShort": "Article: Stragglers, Not Failures: How Adaptive Hedged Requests Reduce p99 Latency by 74 Percent. n fan-out microservice architectures, slow-but-completing requests accumulate across services and drive p99 latency far higher than per-servic",
-      "tags": [
-        "Architecture"
-      ]
-    },
-    {
-      "id": "cloudflare-adds-support-for-claude-managed-agents",
-      "title": "Cloudflare Adds Support for Claude Managed Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/cloudflare-claude-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-28T06:23:00.000Z",
-      "summaryShort": "Cloudflare Adds Support for Claude Managed Agents. Cloudflare recently added support for Claude Managed Agents, allowing developers to run and manage Claude agents within Cloudflare.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "blue-origin-s-new-glenn-rocket-explodes-during-testing-in-florid",
-      "title": "Blue Origin's New Glenn rocket explodes during testing in Florida",
+      "id": "final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026",
+      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
-      "publishedAt": "2026-05-29T01:22:16.000Z",
-      "summaryShort": "Blue Origin's New Glenn rocket explodes during testing in Florida. The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.",
+      "sourceUrl": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
+      "publishedAt": "2026-05-29T14:00:00.000Z",
+      "summaryShort": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket. You now have until tonight at 11:59 p.m.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "glean-s-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-m",
-      "title": "Glean's top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "id": "kiwibit-s-ai-powered-bird-feeder-is-my-new-backyard-buddy",
+      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-      "publishedAt": "2026-05-29T00:44:37.000Z",
-      "summaryShort": "Glean's top line crosses $300M as AI budget-cutting becomes its major selling point. The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+      "sourceUrl": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "publishedAt": "2026-05-29T13:00:00.000Z",
+      "summaryShort": "Kiwibit’s AI-powered bird feeder is my new backyard buddy. If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "waymo-dominates-autonomous-vehicle-registrations-as-tesla-trails",
-      "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
-      "publishedAt": "2026-05-29T00:14:35.000Z",
-      "summaryShort": "Waymo dominates autonomous vehicle registrations as Tesla trails behind. A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
