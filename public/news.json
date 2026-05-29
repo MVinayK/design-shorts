@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T16:10:51.557Z",
+  "generatedAt": "2026-05-29T04:07:38.391Z",
   "items": [
     {
       "id": "presentation-from-founding-engineer-to-cto-to-ceo-at-the-same-st",
@@ -57,34 +57,34 @@
       ]
     },
     {
-      "id": "how-long-is-anthropic-s-lease-with-spacex-opinions-vary",
-      "title": "How long is Anthropic's lease with SpaceX? Opinions vary.",
+      "id": "blue-origin-s-new-glenn-rocket-explodes-during-testing-in-florid",
+      "title": "Blue Origin's New Glenn rocket explodes during testing in Florida",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-      "publishedAt": "2026-05-28T15:36:00.000Z",
-      "summaryShort": "How long is Anthropic's lease with SpaceX? Opinions vary..",
+      "sourceUrl": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
+      "publishedAt": "2026-05-29T01:22:16.000Z",
+      "summaryShort": "Blue Origin's New Glenn rocket explodes during testing in Florida. The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "sesame-the-conversational-ai-startup-from-oculus-founders-launch",
-      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "id": "glean-s-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-m",
+      "title": "Glean's top line crosses $300M as AI budget-cutting becomes its major selling point",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-      "publishedAt": "2026-05-28T15:35:43.000Z",
-      "summaryShort": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app. Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like tradition",
+      "sourceUrl": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "publishedAt": "2026-05-29T00:44:37.000Z",
+      "summaryShort": "Glean's top line crosses $300M as AI budget-cutting becomes its major selling point. The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "slate-auto-will-start-taking-orders-for-its-low-cost-ev-on-june-",
-      "title": "Slate Auto will start taking orders for its low-cost EV on June 24",
+      "id": "waymo-dominates-autonomous-vehicle-registrations-as-tesla-trails",
+      "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/slate-auto-will-start-taking-orders-for-its-low-cost-ev-on-june-24/",
-      "publishedAt": "2026-05-28T15:34:10.000Z",
-      "summaryShort": "Slate Auto will start taking orders for its low-cost EV on June 24. The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.",
+      "sourceUrl": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
+      "publishedAt": "2026-05-29T00:14:35.000Z",
+      "summaryShort": "Waymo dominates autonomous vehicle registrations as Tesla trails behind. A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas.",
       "tags": [
         "Engineering"
       ]
