@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-05-30T03:54:03.947Z",
+  "generatedAt": "2026-05-30T13:50:10.108Z",
   "items": [
+    {
+      "id": "google-cloud-suspends-railway-s-production-account-causing-eight",
+      "title": "Google Cloud Suspends Railway's Production Account, Causing Eight-Hour Platform-Wide Outage",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/railway-gcp-account-outage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-30T10:03:00.000Z",
+      "summaryShort": "Google Cloud Suspends Railway's Production Account, Causing Eight-Hour Platform-Wide Outage. Google Cloud's automated systems suspended Railway's production account without notice, triggering an eight-hour platform-wide outage affecting 3 m",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "how-meta-rebuilt-data-ingestion-for-petabyte-scale-reliability",
+      "title": "How Meta Rebuilt Data Ingestion for Petabyte-Scale Reliability",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/05/meta-cdc-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-05-30T06:01:00.000Z",
+      "summaryShort": "How Meta Rebuilt Data Ingestion for Petabyte-Scale Reliability. The engineering team at Meta recently outlined how the company migrated a data ingestion platform that transfers several petabytes of MySQL social graph data daily to improve r",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "ai-assisted-migration-tool-helps-teams-move-from-ingress-nginx-t",
       "title": "AI-Assisted Migration Tool Helps Teams Move from ingress-nginx to Higress in Minutes",
@@ -37,56 +59,34 @@
       ]
     },
     {
-      "id": "presentation-from-founding-engineer-to-cto-to-ceo-at-the-same-st",
-      "title": "Presentation: From Founding Engineer to CTO to CEO – At the Same Startup",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/framework-best-practices-startup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-28T12:33:00.000Z",
-      "summaryShort": "Presentation: From Founding Engineer to CTO to CEO – At the Same Startup. Trisha Ballakur discusses her journey from a backend software engineer to CTO and CEO, using her startup Pointz as a case study.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "accountability-is-the-goal-for-ai-with-eu-regulations-supporting",
-      "title": "Accountability is the Goal for AI, with EU Regulations Supporting Transparency",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/05/accountability-AI-EU-regulations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-05-28T11:08:00.000Z",
-      "summaryShort": "Accountability is the Goal for AI, with EU Regulations Supporting Transparency. AI bias mirrors human bias; both stem from our language and lived experiences.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "founders-seize-on-indian-court-ruling-to-revive-criticism-of-goo",
-      "title": "Founders seize on Indian court ruling to revive criticism of Google's ad business",
+      "id": "as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to",
+      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
-      "publishedAt": "2026-05-30T02:00:00.000Z",
-      "summaryShort": "Founders seize on Indian court ruling to revive criticism of Google's ad business. The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords.",
+      "sourceUrl": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "publishedAt": "2026-05-30T13:00:00.000Z",
+      "summaryShort": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026. We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "i-went-to-the-so-called-8216-steroid-olympics-to-understand-why-",
-      "title": "I went to the so-called &#8216;steroid Olympics,' to understand why Silicon Valley is obsessed with peptides",
+      "id": "this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-ni",
+      "title": "This $300 pizza oven can easily help elevate your summer pizza nights",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
-      "publishedAt": "2026-05-30T00:39:13.000Z",
-      "summaryShort": "I went to the so-called &#8216;steroid Olympics,' to understand why Silicon Valley is obsessed with peptides. The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may he",
+      "sourceUrl": "https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/",
+      "publishedAt": "2026-05-30T13:00:00.000Z",
+      "summaryShort": "This $300 pizza oven can easily help elevate your summer pizza nights. The Ninja Artisan Outdoor Pizza Oven is aimed at people who want delicious pizza nights without having to deal with things like propane or wood pellets, unlike many othe",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo",
-      "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
+      "id": "tiktok-s-road-to-becoming-a-super-app",
+      "title": "TikTok's road to becoming a super app",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
-      "publishedAt": "2026-05-29T22:21:38.000Z",
-      "summaryShort": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO. SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.",
+      "sourceUrl": "https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/",
+      "publishedAt": "2026-05-30T13:00:00.000Z",
+      "summaryShort": "TikTok's road to becoming a super app. TikTok may be working to become the app that people use for most of their digital activities.",
       "tags": [
         "Engineering"
       ]
