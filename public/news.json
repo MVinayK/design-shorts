@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-01T17:50:59.002Z",
+  "generatedAt": "2026-06-02T04:26:37.963Z",
   "items": [
+    {
+      "id": "java-news-roundup-openjdk-jeps-hazelcast-quarkus-hibernate-koog-",
+      "title": "Java News Roundup: OpenJDK JEPs, Hazelcast, Quarkus, Hibernate, Koog, JHipster, Introducing Endive",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/java-news-roundup-may25-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-01T21:30:00.000Z",
+      "summaryShort": "Java News Roundup: OpenJDK JEPs, Hazelcast, Quarkus, Hibernate, Koog, JHipster, Introducing Endive. This week's Java roundup for May 25th, 2026, features news highlighting: lifecycle changes with two of the JEPs that were targeted for JDK 2",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "claude-code-adds-dynamic-workflows-for-parallel-agent-coordinati",
       "title": "Claude Code Adds Dynamic Workflows for Parallel Agent Coordination",
@@ -47,45 +58,34 @@
       ]
     },
     {
-      "id": "article-the-ai-productivity-paradox-in-test-automation-moving-be",
-      "title": "Article: The AI Productivity Paradox in Test Automation: Moving Beyond Structural Validation to Perception and Intent",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/solving-ai-productivity-paradox-test-automation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-01T11:00:00.000Z",
-      "summaryShort": "Article: The AI Productivity Paradox in Test Automation: Moving Beyond Structural Validation to Perception and Intent. The AI productivity paradox states that AI scales whatever abstraction it is built on.",
+      "id": "how-to-make-the-startup-battlefield-top-20-and-what-every-compan",
+      "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
+      "publishedAt": "2026-06-01T23:20:52.000Z",
+      "summaryShort": "How to make the Startup Battlefield Top 20 — and what every company gets regardless. Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "alphabet-plans-to-raise-80b-to-pay-for-ai-buildout",
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "publishedAt": "2026-06-01T22:55:09.000Z",
+      "summaryShort": "Alphabet plans to raise $80B to pay for AI buildout. \"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "a-new-app-the-mall-is-building-a-universal-feed-for-online-shopp",
-      "title": "A new app, The Mall, is building a universal feed for online shopping",
+      "id": "defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-ju",
+      "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/",
-      "publishedAt": "2026-06-01T17:50:18.000Z",
-      "summaryShort": "A new app, The Mall, is building a universal feed for online shopping. The Mall lets shoppers build a personalized feed of brands, track sales and drops, and discover products across thousands of retailers.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "grand-theft-auto-v-cheat-service-gets-hacked-exposing-thousands-",
-      "title": "Grand Theft Auto V cheat service gets hacked, exposing thousands of gamers",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/01/grand-theft-auto-v-cheat-service-gets-hacked-exposing-thousands-of-gamers/",
-      "publishedAt": "2026-06-01T17:22:46.000Z",
-      "summaryShort": "Grand Theft Auto V cheat service gets hacked, exposing thousands of gamers. Hackers stole usernames, hashed passwords, and other data from a service that allowed players to cheat in Grand Theft Auto V.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fu",
-      "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
-      "publishedAt": "2026-06-01T16:42:22.000Z",
-      "summaryShort": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund. Mike Schroepfer's Gigascale Capital has raised a large fund to back founders building climate-friendly solutions for the world's energy and material shortages.",
+      "sourceUrl": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
+      "publishedAt": "2026-06-01T21:40:35.000Z",
+      "summaryShort": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year. In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million.",
       "tags": [
         "Engineering"
       ]
