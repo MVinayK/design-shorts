@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-06-02T04:26:37.963Z",
+  "generatedAt": "2026-06-02T16:42:37.564Z",
   "items": [
+    {
+      "id": "presentation-the-human-toll-of-incidents-ways-to-mitigate-it",
+      "title": "Presentation: The Human Toll of Incidents & Ways To Mitigate It",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/incident-response-mitigate/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-02T12:50:00.000Z",
+      "summaryShort": "Presentation: The Human Toll of Incidents & Ways To Mitigate It. Kyle Lexmond explains how to handle the high-pressure environment of severe production outages.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "opentelemetry-launches-blueprints-initiative-to-simplify-enterpr",
+      "title": "OpenTelemetry Launches “Blueprints” Initiative to Simplify Enterprise Observability Adoption",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/opentelemetry-blueprints-launch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-02T12:00:00.000Z",
+      "summaryShort": "OpenTelemetry Launches “Blueprints” Initiative to Simplify Enterprise Observability Adoption. OpenTelemetry has introduced a new \"Blueprints\" initiative aimed at reducing the growing complexity of deploying and operating observability syste",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "article-why-vector-search-alone-isn-t-enough-hybrid-retrieval-fo",
+      "title": "Article: Why Vector Search Alone Isn't Enough: Hybrid Retrieval for RAG",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/vector-search-hybrid-retrieval-rag/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-02T09:00:00.000Z",
+      "summaryShort": "Article: Why Vector Search Alone Isn't Enough: Hybrid Retrieval for RAG. In this article, author Aaditya Chauhan discusses the limitations of RAG pipelines based purely on vector search and how an internal omni-search application using Reci",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "google-workspace-cli-unified-command-line-tool-built-for-humans-",
+      "title": "Google Workspace CLI: Unified Command-Line Tool Built for Humans and AI Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/google-workspace-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-02T06:33:00.000Z",
+      "summaryShort": "Google Workspace CLI: Unified Command-Line Tool Built for Humans and AI Agents. Google has released a new CLI for Google Workspace, offering a unified interface for various services like Drive, Gmail, and Calendar.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "java-news-roundup-openjdk-jeps-hazelcast-quarkus-hibernate-koog-",
       "title": "Java News Roundup: OpenJDK JEPs, Hazelcast, Quarkus, Hibernate, Koog, JHipster, Introducing Endive",
@@ -13,79 +58,35 @@
       ]
     },
     {
-      "id": "claude-code-adds-dynamic-workflows-for-parallel-agent-coordinati",
-      "title": "Claude Code Adds Dynamic Workflows for Parallel Agent Coordination",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/dynamic-workflows-claude-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-01T16:55:00.000Z",
-      "summaryShort": "Claude Code Adds Dynamic Workflows for Parallel Agent Coordination. Anthropic introduced Dynamic Workflows, a new capability for Claude Code designed to handle complex software engineering tasks by coordinating large numbers of AI agents wi",
+      "id": "trump-signs-narrower-executive-order-on-ai-oversight-after-indus",
+      "title": "Trump signs narrower executive order on AI oversight after industry objections",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+      "publishedAt": "2026-06-02T16:23:08.000Z",
+      "summaryShort": "Trump signs narrower executive order on AI oversight after industry objections. After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "shopify-reports-15x-faster-graphql-execution-with-breadth-first-",
-      "title": "Shopify Reports 15X Faster Graphql Execution with Breadth First Engine",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/shopify-graphql-cardinal-bfs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-01T14:25:00.000Z",
-      "summaryShort": "Shopify Reports 15X Faster Graphql Execution with Breadth First Engine. Shopify introduced GraphQL Cardinal, a new execution engine replacing depth-first traversal with breadth-first execution.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "badhost-vulnerability-exposes-ai-agents-evaluators-and-llm-gatew",
-      "title": "BadHost Vulnerability Exposes AI Agents, Evaluators, and LLM Gateways",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/badhost-ai-systems-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-01T14:00:00.000Z",
-      "summaryShort": "BadHost Vulnerability Exposes AI Agents, Evaluators, and LLM Gateways. BadHost is a high-severity authentication bypass vulnerability in the widely used Python web framework Starlette, with 325 million weekly downloads.",
+      "id": "openai-launches-new-codex-tools-for-white-collar-work",
+      "title": "OpenAI launches new Codex tools for white-collar work",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "publishedAt": "2026-06-02T16:00:00.000Z",
+      "summaryShort": "OpenAI launches new Codex tools for white-collar work. OpenAI is getting serious about courting enterprise users.",
       "tags": [
         "AI",
-        "Cloud"
+        "Architecture"
       ]
     },
     {
-      "id": "presentation-theme-systems-at-scale-how-to-build-highly-customiz",
-      "title": "Presentation: Theme Systems at Scale: How To Build Highly Customizable Software",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/liquid-theme-system-dsl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-01T11:30:00.000Z",
-      "summaryShort": "Presentation: Theme Systems at Scale: How To Build Highly Customizable Software. Shopify Staff Engineer Guilherme Carreiro discusses building and scaling highly customizable platforms.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "how-to-make-the-startup-battlefield-top-20-and-what-every-compan",
-      "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
+      "id": "board-the-new-game-startup-from-mirror-founder-brynn-putnam-rais",
+      "title": "Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
-      "publishedAt": "2026-06-01T23:20:52.000Z",
-      "summaryShort": "How to make the Startup Battlefield Top 20 — and what every company gets regardless. Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "alphabet-plans-to-raise-80b-to-pay-for-ai-buildout",
-      "title": "Alphabet plans to raise $80B to pay for AI buildout",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-      "publishedAt": "2026-06-01T22:55:09.000Z",
-      "summaryShort": "Alphabet plans to raise $80B to pay for AI buildout. \"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-ju",
-      "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
-      "publishedAt": "2026-06-01T21:40:35.000Z",
-      "summaryShort": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year. In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million.",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/",
+      "publishedAt": "2026-06-02T15:56:08.000Z",
+      "summaryShort": "Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands. Board, the startup building what it calls \"together tech\" designed to bring people into the same room, has closed a Series A led by Union",
       "tags": [
         "Engineering"
       ]
