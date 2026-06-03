@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-06-03T04:45:41.295Z",
+  "generatedAt": "2026-06-03T16:59:15.227Z",
   "items": [
+    {
+      "id": "inside-google-s-system-for-coordinated-a-b-testing-across-its-gl",
+      "title": "Inside Google’s System for Coordinated A/B Testing Across Its Global Service Fleet",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/google-fleet-ab-experimentation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-03T14:54:00.000Z",
+      "summaryShort": "Inside Google’s System for Coordinated A/B Testing Across Its Global Service Fleet. Google has shared details of its fleet wide large scale A/B experimentation system designed to standardize experiment assignment, exposure logging, and conf",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-choosing-your-ai-copilot-maximizing-developer-produ",
+      "title": "Presentation: Choosing Your AI Copilot: Maximizing Developer Productivity",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/choosing-ai-copilot/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-03T11:05:00.000Z",
+      "summaryShort": "Presentation: Choosing Your AI Copilot: Maximizing Developer Productivity. Sepehr Khosravi discusses the evolution of developer productivity tools.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "article-two-misconfigurations-that-caused-spark-oom-failures-on-",
+      "title": "Article: Two Misconfigurations That Caused Spark OOM Failures on Kubernetes",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/spark-oom-kubernetes-misconfigurations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-03T09:00:00.000Z",
+      "summaryShort": "Article: Two Misconfigurations That Caused Spark OOM Failures on Kubernetes. After migrating Spark pipelines to Azure Kubernetes Service, two infrastructure settings interacted destructively: spark.kubernetes.local.dirs.tmpfs=true backed sh",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "node-js-moves-to-one-major-release-per-year-starting-with-node-2",
+      "title": "Node.js Moves to One Major Release Per Year, Starting with Node 27",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/nodejs-release-changes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-03T06:40:00.000Z",
+      "summaryShort": "Node.js Moves to One Major Release Per Year, Starting with Node 27. Node.js will change its release schedule starting with version 27 in October 2026, moving from two major releases per year to one.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "presentation-the-human-toll-of-incidents-ways-to-mitigate-it",
       "title": "Presentation: The Human Toll of Incidents & Ways To Mitigate It",
@@ -13,81 +57,36 @@
       ]
     },
     {
-      "id": "opentelemetry-launches-blueprints-initiative-to-simplify-enterpr",
-      "title": "OpenTelemetry Launches “Blueprints” Initiative to Simplify Enterprise Observability Adoption",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/opentelemetry-blueprints-launch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-02T12:00:00.000Z",
-      "summaryShort": "OpenTelemetry Launches “Blueprints” Initiative to Simplify Enterprise Observability Adoption. OpenTelemetry has introduced a new \"Blueprints\" initiative aimed at reducing the growing complexity of deploying and operating observability syste",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "article-why-vector-search-alone-isn-t-enough-hybrid-retrieval-fo",
-      "title": "Article: Why Vector Search Alone Isn't Enough: Hybrid Retrieval for RAG",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/vector-search-hybrid-retrieval-rag/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-02T09:00:00.000Z",
-      "summaryShort": "Article: Why Vector Search Alone Isn't Enough: Hybrid Retrieval for RAG. In this article, author Aaditya Chauhan discusses the limitations of RAG pipelines based purely on vector search and how an internal omni-search application using Reci",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "google-workspace-cli-unified-command-line-tool-built-for-humans-",
-      "title": "Google Workspace CLI: Unified Command-Line Tool Built for Humans and AI Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/google-workspace-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-02T06:33:00.000Z",
-      "summaryShort": "Google Workspace CLI: Unified Command-Line Tool Built for Humans and AI Agents. Google has released a new CLI for Google Workspace, offering a unified interface for various services like Drive, Gmail, and Calendar.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "java-news-roundup-openjdk-jeps-hazelcast-quarkus-hibernate-koog-",
-      "title": "Java News Roundup: OpenJDK JEPs, Hazelcast, Quarkus, Hibernate, Koog, JHipster, Introducing Endive",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/java-news-roundup-may25-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-01T21:30:00.000Z",
-      "summaryShort": "Java News Roundup: OpenJDK JEPs, Hazelcast, Quarkus, Hibernate, Koog, JHipster, Introducing Endive. This week's Java roundup for May 25th, 2026, features news highlighting: lifecycle changes with two of the JEPs that were targeted for JDK 2",
+      "id": "instagram-is-alerting-users-who-were-targeted-by-hackers-during-",
+      "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
+      "publishedAt": "2026-06-03T16:12:06.000Z",
+      "summaryShort": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks. Hackers appeared to take over victims’ accounts even after Meta said it fixed its AI-powered support chatbot, which granted hackers access to victims’ accou",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-foun",
-      "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
+      "id": "amazon-will-show-ai-product-images-when-you-search-for-some-reas",
+      "title": "Amazon will show AI product images when you search for some reason",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
-      "publishedAt": "2026-06-02T23:25:20.000Z",
-      "summaryShort": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis. Even in a future of robot taxis, someone still has to return the things passengers leave behind.",
+      "sourceUrl": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "publishedAt": "2026-06-03T15:50:26.000Z",
+      "summaryShort": "Amazon will show AI product images when you search for some reason. Amazon will use visual search and AI to show AI generated product images that match your search queries.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-l",
-      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+      "id": "still-facing-copyright-lawsuits-ai-music-generator-suno-raises-a",
+      "title": "Still facing copyright lawsuits, AI music generator Suno raises another $400M",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-      "publishedAt": "2026-06-02T22:50:56.000Z",
-      "summaryShort": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses. The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
+      "sourceUrl": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
+      "publishedAt": "2026-06-03T15:31:42.000Z",
+      "summaryShort": "Still facing copyright lawsuits, AI music generator Suno raises another $400M. The prominent AI music generation startup is now valued at over $5.4 billion -- about seven months ago, it raised at a $2.45 billion valuation.",
       "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "cyberdecks-are-having-a-moment-rejecting-big-tech-surveillance-w",
-      "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
-      "publishedAt": "2026-06-02T20:20:00.000Z",
-      "summaryShort": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance. Over the last few months, these DIY hardware communities have exploded in popularity as people on social media show off their solar-powered game emula",
-      "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
