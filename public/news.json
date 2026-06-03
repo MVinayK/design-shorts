@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:42:37.564Z",
+  "generatedAt": "2026-06-03T04:45:41.295Z",
   "items": [
     {
       "id": "presentation-the-human-toll-of-incidents-ways-to-mitigate-it",
@@ -58,35 +58,34 @@
       ]
     },
     {
-      "id": "trump-signs-narrower-executive-order-on-ai-oversight-after-indus",
-      "title": "Trump signs narrower executive order on AI oversight after industry objections",
+      "id": "squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-foun",
+      "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
-      "publishedAt": "2026-06-02T16:23:08.000Z",
-      "summaryShort": "Trump signs narrower executive order on AI oversight after industry objections. After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
+      "publishedAt": "2026-06-02T23:25:20.000Z",
+      "summaryShort": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis. Even in a future of robot taxis, someone still has to return the things passengers leave behind.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "openai-launches-new-codex-tools-for-white-collar-work",
-      "title": "OpenAI launches new Codex tools for white-collar work",
+      "id": "cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-l",
+      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-      "publishedAt": "2026-06-02T16:00:00.000Z",
-      "summaryShort": "OpenAI launches new Codex tools for white-collar work. OpenAI is getting serious about courting enterprise users.",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+      "publishedAt": "2026-06-02T22:50:56.000Z",
+      "summaryShort": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses. The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
       "tags": [
-        "AI",
-        "Architecture"
+        "Engineering"
       ]
     },
     {
-      "id": "board-the-new-game-startup-from-mirror-founder-brynn-putnam-rais",
-      "title": "Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands",
+      "id": "cyberdecks-are-having-a-moment-rejecting-big-tech-surveillance-w",
+      "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/",
-      "publishedAt": "2026-06-02T15:56:08.000Z",
-      "summaryShort": "Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands. Board, the startup building what it calls \"together tech\" designed to bring people into the same room, has closed a Series A led by Union",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
+      "publishedAt": "2026-06-02T20:20:00.000Z",
+      "summaryShort": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance. Over the last few months, these DIY hardware communities have exploded in popularity as people on social media show off their solar-powered game emula",
       "tags": [
         "Engineering"
       ]
