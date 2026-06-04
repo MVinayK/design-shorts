@@ -1,92 +1,93 @@
 {
-  "generatedAt": "2026-06-04T04:40:17.907Z",
+  "generatedAt": "2026-06-04T15:26:30.326Z",
   "items": [
     {
-      "id": "inside-google-s-system-for-coordinated-a-b-testing-across-its-gl",
-      "title": "Inside Google’s System for Coordinated A/B Testing Across Its Global Service Fleet",
+      "id": "30-updates-per-second-per-account-uber-scales-ledger-processing-",
+      "title": "30+ Updates per Second per Account: Uber Scales Ledger Processing with Batching",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/google-fleet-ab-experimentation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-03T14:54:00.000Z",
-      "summaryShort": "Inside Google’s System for Coordinated A/B Testing Across Its Global Service Fleet. Google has shared details of its fleet wide large scale A/B experimentation system designed to standardize experiment assignment, exposure logging, and conf",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/uber-payment-batching-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-04T14:02:00.000Z",
+      "summaryShort": "30+ Updates per Second per Account: Uber Scales Ledger Processing with Batching. Uber introduced a high-throughput financial ledger processing system designed to handle hot account write contention at scale.",
+      "tags": [
+        "Cloud",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "how-a-culture-of-data-driven-conversations-can-support-platform-",
+      "title": "How a Culture of Data-Driven Conversations Can Support Platform Engineering",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/data-driven-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-04T11:54:00.000Z",
+      "summaryShort": "How a Culture of Data-Driven Conversations Can Support Platform Engineering. To provide SRE as a service, a team built a center of excellence, introducing Federated SREs and roles like production manager and technical tribe lead.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "presentation-choosing-your-ai-copilot-maximizing-developer-produ",
-      "title": "Presentation: Choosing Your AI Copilot: Maximizing Developer Productivity",
+      "id": "presentation-architecting-a-centralized-platform-for-data-deleti",
+      "title": "Presentation: Architecting a Centralized Platform for Data Deletion at Netflix",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/choosing-ai-copilot/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-03T11:05:00.000Z",
-      "summaryShort": "Presentation: Choosing Your AI Copilot: Maximizing Developer Productivity. Sepehr Khosravi discusses the evolution of developer productivity tools.",
+      "sourceUrl": "https://www.infoq.com/presentations/architecting-deletion-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-04T10:26:00.000Z",
+      "summaryShort": "Presentation: Architecting a Centralized Platform for Data Deletion at Netflix. The speakers discuss the architectural challenges of executing safe data deletion across distributed datastores.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "article-architectural-change-cases-a-practical-tool-for-evolutio",
+      "title": "Article: Architectural Change Cases: A Practical Tool for Evolutionary Architectures",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/architectural-change-cases/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-04T09:00:00.000Z",
+      "summaryShort": "Article: Architectural Change Cases: A Practical Tool for Evolutionary Architectures. Architectural change cases extend architecture decision record (ADR) thinking by evaluating how decisions may evolve over time.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "aws-replaces-fat-tree-data-center-networks-with-random-graph-the",
+      "title": "AWS Replaces Fat-Tree Data Center Networks with Random Graph Theory, Cutting Routers by 69%",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/aws-random-graph-data-center/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-04T08:25:00.000Z",
+      "summaryShort": "AWS Replaces Fat-Tree Data Center Networks with Random Graph Theory, Cutting Routers by 69%. AWS disclosed that Resilient Network Graphs, a flat network architecture based on quasi-random graph theory, is now the default for most new data c",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintec",
+      "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
+      "publishedAt": "2026-06-04T15:08:34.000Z",
+      "summaryShort": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story. Ramp has nearly tripled its valuation over the past year as investors scramble to grab a part of the fast-growing startup.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "article-two-misconfigurations-that-caused-spark-oom-failures-on-",
-      "title": "Article: Two Misconfigurations That Caused Spark OOM Failures on Kubernetes",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/spark-oom-kubernetes-misconfigurations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-03T09:00:00.000Z",
-      "summaryShort": "Article: Two Misconfigurations That Caused Spark OOM Failures on Kubernetes. After migrating Spark pipelines to Azure Kubernetes Service, two infrastructure settings interacted destructively: spark.kubernetes.local.dirs.tmpfs=true backed sh",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "node-js-moves-to-one-major-release-per-year-starting-with-node-2",
-      "title": "Node.js Moves to One Major Release Per Year, Starting with Node 27",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/nodejs-release-changes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-03T06:40:00.000Z",
-      "summaryShort": "Node.js Moves to One Major Release Per Year, Starting with Node 27. Node.js will change its release schedule starting with version 27 in October 2026, moving from two major releases per year to one.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-the-human-toll-of-incidents-ways-to-mitigate-it",
-      "title": "Presentation: The Human Toll of Incidents & Ways To Mitigate It",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/incident-response-mitigate/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-02T12:50:00.000Z",
-      "summaryShort": "Presentation: The Human Toll of Incidents & Ways To Mitigate It. Kyle Lexmond explains how to handle the high-pressure environment of severe production outages.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capita",
-      "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
+      "id": "is-silicon-valley-ready-to-put-robots-in-people-s-homes-hello-ro",
+      "title": "Is Silicon Valley ready to put robots in people's homes? Hello Robot is.",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
-      "publishedAt": "2026-06-04T03:52:15.000Z",
-      "summaryShort": "Benchmark raises its first-ever growth fund as part of $2B capital raise. The legendary abandons its more than 20 year tradition of keeping its funds to about $425 million.",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+      "publishedAt": "2026-06-04T15:05:00.000Z",
+      "summaryShort": "Is Silicon Valley ready to put robots in people's homes? Hello Robot is..",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "quick-commerce-firstclub-doubles-valuation-to-255m-in-nine-month",
-      "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
+      "id": "chinese-spies-are-using-linkedin-to-lure-westerners-into-sharing",
+      "title": "Chinese spies are using LinkedIn to lure Westerners into sharing sensitive information",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
-      "publishedAt": "2026-06-04T00:30:00.000Z",
-      "summaryShort": "Quick commerce FirstClub doubles valuation to $255M in nine months. The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch.",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/chinese-spies-are-using-linkedin-to-lure-westerners-into-sharing-sensitive-information/",
+      "publishedAt": "2026-06-04T14:57:41.000Z",
+      "summaryShort": "Chinese spies are using LinkedIn to lure Westerners into sharing sensitive information. The advisory warns that Chinese spies are using public job search platforms to recruit people with access to non-public information.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "lovable-signs-multiyear-deal-with-google-cloud-to-up-usage-5x-so",
-      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-      "publishedAt": "2026-06-03T22:56:51.000Z",
-      "summaryShort": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says. Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
-      "tags": [
-        "Cloud"
       ]
     }
   ]
