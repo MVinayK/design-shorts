@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T15:26:30.326Z",
+  "generatedAt": "2026-06-05T04:14:23.696Z",
   "items": [
     {
       "id": "30-updates-per-second-per-account-uber-scales-ledger-processing-",
@@ -58,36 +58,36 @@
       ]
     },
     {
-      "id": "ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintec",
-      "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
+      "id": "founders-fund-launches-game-show-starring-sam-altman-palmer-luck",
+      "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
-      "publishedAt": "2026-06-04T15:08:34.000Z",
-      "summaryShort": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story. Ramp has nearly tripled its valuation over the past year as investors scramble to grab a part of the fast-growing startup.",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
+      "publishedAt": "2026-06-05T00:06:47.000Z",
+      "summaryShort": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites. The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ahead-of-its-ipo-anthropic-s-daniela-amodei-shrugs-off-doubts-ab",
+      "title": "Ahead of its IPO, Anthropic's Daniela Amodei shrugs off doubts about AI's returns",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "publishedAt": "2026-06-04T22:43:26.000Z",
+      "summaryShort": "Ahead of its IPO, Anthropic's Daniela Amodei shrugs off doubts about AI's returns. Anthropic has been growing at a breakneck pace.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "is-silicon-valley-ready-to-put-robots-in-people-s-homes-hello-ro",
-      "title": "Is Silicon Valley ready to put robots in people's homes? Hello Robot is.",
+      "id": "airbnb-s-brian-chesky-plans-to-launch-a-new-ai-lab",
+      "title": "Airbnb's Brian Chesky plans to launch a new AI lab",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-      "publishedAt": "2026-06-04T15:05:00.000Z",
-      "summaryShort": "Is Silicon Valley ready to put robots in people's homes? Hello Robot is..",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "publishedAt": "2026-06-04T22:29:50.000Z",
+      "summaryShort": "Airbnb's Brian Chesky plans to launch a new AI lab. The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
       "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "chinese-spies-are-using-linkedin-to-lure-westerners-into-sharing",
-      "title": "Chinese spies are using LinkedIn to lure Westerners into sharing sensitive information",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/chinese-spies-are-using-linkedin-to-lure-westerners-into-sharing-sensitive-information/",
-      "publishedAt": "2026-06-04T14:57:41.000Z",
-      "summaryShort": "Chinese spies are using LinkedIn to lure Westerners into sharing sensitive information. The advisory warns that Chinese spies are using public job search platforms to recruit people with access to non-public information.",
-      "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
