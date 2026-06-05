@@ -1,91 +1,90 @@
 {
-  "generatedAt": "2026-06-05T04:14:23.696Z",
+  "generatedAt": "2026-06-05T15:15:16.940Z",
   "items": [
     {
-      "id": "30-updates-per-second-per-account-uber-scales-ledger-processing-",
-      "title": "30+ Updates per Second per Account: Uber Scales Ledger Processing with Batching",
+      "id": "how-openai-built-a-secure-windows-sandbox-for-codex-agents",
+      "title": "How OpenAI Built a Secure Windows Sandbox for Codex Agents",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/uber-payment-batching-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-04T14:02:00.000Z",
-      "summaryShort": "30+ Updates per Second per Account: Uber Scales Ledger Processing with Batching. Uber introduced a high-throughput financial ledger processing system designed to handle hot account write contention at scale.",
-      "tags": [
-        "Cloud",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "how-a-culture-of-data-driven-conversations-can-support-platform-",
-      "title": "How a Culture of Data-Driven Conversations Can Support Platform Engineering",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/data-driven-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-04T11:54:00.000Z",
-      "summaryShort": "How a Culture of Data-Driven Conversations Can Support Platform Engineering. To provide SRE as a service, a team built a center of excellence, introducing Federated SREs and roles like production manager and technical tribe lead.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-architecting-a-centralized-platform-for-data-deleti",
-      "title": "Presentation: Architecting a Centralized Platform for Data Deletion at Netflix",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/architecting-deletion-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-04T10:26:00.000Z",
-      "summaryShort": "Presentation: Architecting a Centralized Platform for Data Deletion at Netflix. The speakers discuss the architectural challenges of executing safe data deletion across distributed datastores.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "article-architectural-change-cases-a-practical-tool-for-evolutio",
-      "title": "Article: Architectural Change Cases: A Practical Tool for Evolutionary Architectures",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/architectural-change-cases/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-04T09:00:00.000Z",
-      "summaryShort": "Article: Architectural Change Cases: A Practical Tool for Evolutionary Architectures. Architectural change cases extend architecture decision record (ADR) thinking by evaluating how decisions may evolve over time.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "aws-replaces-fat-tree-data-center-networks-with-random-graph-the",
-      "title": "AWS Replaces Fat-Tree Data Center Networks with Random Graph Theory, Cutting Routers by 69%",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/aws-random-graph-data-center/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-04T08:25:00.000Z",
-      "summaryShort": "AWS Replaces Fat-Tree Data Center Networks with Random Graph Theory, Cutting Routers by 69%. AWS disclosed that Resilient Network Graphs, a flat network architecture based on quasi-random graph theory, is now the default for most new data c",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "founders-fund-launches-game-show-starring-sam-altman-palmer-luck",
-      "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
-      "publishedAt": "2026-06-05T00:06:47.000Z",
-      "summaryShort": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites. The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "ahead-of-its-ipo-anthropic-s-daniela-amodei-shrugs-off-doubts-ab",
-      "title": "Ahead of its IPO, Anthropic's Daniela Amodei shrugs off doubts about AI's returns",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-      "publishedAt": "2026-06-04T22:43:26.000Z",
-      "summaryShort": "Ahead of its IPO, Anthropic's Daniela Amodei shrugs off doubts about AI's returns. Anthropic has been growing at a breakneck pace.",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/codex-windows-sandbox-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-05T14:37:00.000Z",
+      "summaryShort": "How OpenAI Built a Secure Windows Sandbox for Codex Agents. OpenAI details Codex Windows sandbox architecture, showing how SIDs, ACLs, restricted tokens, and dedicated sandbox accounts enable safe execution of autonomous coding tasks.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "airbnb-s-brian-chesky-plans-to-launch-a-new-ai-lab",
-      "title": "Airbnb's Brian Chesky plans to launch a new AI lab",
+      "id": "presentation-platform-teams-enabling-ai-mcp-multi-agentic-tools-",
+      "title": "Presentation: Platform Teams Enabling AI - MCP/Multi-Agentic Tools Across Linkedin",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-multi-agentic-tools/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-05T12:23:00.000Z",
+      "summaryShort": "Presentation: Platform Teams Enabling AI - MCP/Multi-Agentic Tools Across Linkedin. LinkedIn’s Karthik Ramgopal and Prince Valluri discuss leveraging AI as a new execution model for large-scale engineering.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "dropbox-introduces-nova-an-internal-platform-for-running-ai-codi",
+      "title": "Dropbox Introduces Nova, an Internal Platform for Running AI Coding Agents at Scale",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/dropbox-nova-ai-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-05T12:00:00.000Z",
+      "summaryShort": "Dropbox Introduces Nova, an Internal Platform for Running AI Coding Agents at Scale. Dropbox has unveiled Nova, an internal platform designed to orchestrate and operationalize AI coding agents across the company's engineering workflows.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "how-netflix-maps-thousands-of-microservices-in-real-time",
+      "title": "How Netflix Maps Thousands of Microservices in Real-Time",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/netflix-microservices-realtime/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-05T12:00:00.000Z",
+      "summaryShort": "How Netflix Maps Thousands of Microservices in Real-Time. Netflix has shared details about Service Topology.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "article-series-securing-the-ai-stack-from-model-to-production",
+      "title": "Article Series: Securing the AI Stack: From Model to Production",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/secure-ai-stack-model-production-series/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-05T09:00:00.000Z",
+      "summaryShort": "Article Series: Securing the AI Stack: From Model to Production. This series provides your roadmap for the machine age, exploring how to move from vulnerable prototypes to resilient systems through layered defense, robust MLOps, and integra",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "the-token-bill-comes-due-inside-the-industry-scramble-to-manage-",
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-      "publishedAt": "2026-06-04T22:29:50.000Z",
-      "summaryShort": "Airbnb's Brian Chesky plans to launch a new AI lab. The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+      "sourceUrl": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "publishedAt": "2026-06-05T14:49:12.000Z",
+      "summaryShort": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs. \"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "nasa-briefly-sheltered-space-station-astronauts-in-spacex-s-drag",
+      "title": "NASA briefly sheltered space station astronauts in SpaceX's Dragon due to leaks",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/",
+      "publishedAt": "2026-06-05T14:42:52.000Z",
+      "summaryShort": "NASA briefly sheltered space station astronauts in SpaceX's Dragon due to leaks. The space agency said Roscosmos discovered new leaks in the Russian service module.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "nsa-said-to-be-readying-anthropic-s-mythos-for-use-in-cyber-oper",
+      "title": "NSA said to be readying Anthropic's Mythos for use in cyber operations",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+      "publishedAt": "2026-06-05T14:32:57.000Z",
+      "summaryShort": "NSA said to be readying Anthropic's Mythos for use in cyber operations. The U.S.",
       "tags": [
         "AI"
       ]
