@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T15:15:16.940Z",
+  "generatedAt": "2026-06-06T03:57:22.165Z",
   "items": [
     {
       "id": "how-openai-built-a-secure-windows-sandbox-for-codex-agents",
@@ -57,36 +57,36 @@
       ]
     },
     {
-      "id": "the-token-bill-comes-due-inside-the-industry-scramble-to-manage-",
-      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "id": "reid-hoffman-is-leaving-microsoft-s-board-to-go-8216-founder-mod",
+      "title": "Reid Hoffman is leaving Microsoft's board to go &#8216;founder mode' with startup Manus",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-      "publishedAt": "2026-06-05T14:49:12.000Z",
-      "summaryShort": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs. \"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+      "sourceUrl": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+      "publishedAt": "2026-06-05T22:35:01.000Z",
+      "summaryShort": "Reid Hoffman is leaving Microsoft's board to go &#8216;founder mode' with startup Manus. After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "nasa-briefly-sheltered-space-station-astronauts-in-spacex-s-drag",
-      "title": "NASA briefly sheltered space station astronauts in SpaceX's Dragon due to leaks",
+      "id": "founders-share-vc-horror-stories-and-some-are-naming-names",
+      "title": "Founders share VC horror stories, and some are naming names",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/",
-      "publishedAt": "2026-06-05T14:42:52.000Z",
-      "summaryShort": "NASA briefly sheltered space station astronauts in SpaceX's Dragon due to leaks. The space agency said Roscosmos discovered new leaks in the Russian service module.",
+      "sourceUrl": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
+      "publishedAt": "2026-06-05T21:47:56.000Z",
+      "summaryShort": "Founders share VC horror stories, and some are naming names. A massive viral conversation sharing VC horror stories has taken place this week on X.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "nsa-said-to-be-readying-anthropic-s-mythos-for-use-in-cyber-oper",
-      "title": "NSA said to be readying Anthropic's Mythos for use in cyber operations",
+      "id": "former-cyber-executive-turned-whistleblower-accuses-ibm-of-cover",
+      "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
-      "publishedAt": "2026-06-05T14:32:57.000Z",
-      "summaryShort": "NSA said to be readying Anthropic's Mythos for use in cyber operations. The U.S.",
+      "sourceUrl": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
+      "publishedAt": "2026-06-05T20:31:04.000Z",
+      "summaryShort": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches. IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
