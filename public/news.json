@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-06T03:57:22.165Z",
+  "generatedAt": "2026-06-06T13:54:12.731Z",
   "items": [
+    {
+      "id": "cloudflare-identifies-query-planning-bottleneck-in-clickhouse",
+      "title": "Cloudflare Identifies Query Planning Bottleneck in ClickHouse",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/cloudflare-clickhouse-bottleneck/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-06T04:55:00.000Z",
+      "summaryShort": "Cloudflare Identifies Query Planning Bottleneck in ClickHouse. Cloudflare recently described how a slowdown in its billing pipeline was traced to contention inside the query planning stage of ClickHouse.",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "how-openai-built-a-secure-windows-sandbox-for-codex-agents",
       "title": "How OpenAI Built a Secure Windows Sandbox for Codex Agents",
@@ -43,17 +54,6 @@
       "summaryShort": "How Netflix Maps Thousands of Microservices in Real-Time. Netflix has shared details about Service Topology.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "article-series-securing-the-ai-stack-from-model-to-production",
-      "title": "Article Series: Securing the AI Stack: From Model to Production",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/secure-ai-stack-model-production-series/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-05T09:00:00.000Z",
-      "summaryShort": "Article Series: Securing the AI Stack: From Model to Production. This series provides your roadmap for the machine age, exploring how to move from vulnerable prototypes to resilient systems through layered defense, robust MLOps, and integra",
-      "tags": [
-        "AI"
       ]
     },
     {
