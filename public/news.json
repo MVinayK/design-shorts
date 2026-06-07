@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T13:54:12.731Z",
+  "generatedAt": "2026-06-07T04:23:34.942Z",
   "items": [
     {
       "id": "cloudflare-identifies-query-planning-bottleneck-in-clickhouse",
@@ -25,11 +25,11 @@
     },
     {
       "id": "presentation-platform-teams-enabling-ai-mcp-multi-agentic-tools-",
-      "title": "Presentation: Platform Teams Enabling AI - MCP/Multi-Agentic Tools Across Linkedin",
+      "title": "Presentation: Platform Teams Enabling AI - MCP/Multi-Agentic Tools across Linkedin",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/presentations/ai-multi-agentic-tools/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-06-05T12:23:00.000Z",
-      "summaryShort": "Presentation: Platform Teams Enabling AI - MCP/Multi-Agentic Tools Across Linkedin. LinkedIn’s Karthik Ramgopal and Prince Valluri discuss leveraging AI as a new execution model for large-scale engineering.",
+      "summaryShort": "Presentation: Platform Teams Enabling AI - MCP/Multi-Agentic Tools across Linkedin. LinkedIn’s Karthik Ramgopal and Prince Valluri discuss leveraging AI as a new execution model for large-scale engineering.",
       "tags": [
         "AI"
       ]
@@ -57,36 +57,36 @@
       ]
     },
     {
-      "id": "reid-hoffman-is-leaving-microsoft-s-board-to-go-8216-founder-mod",
-      "title": "Reid Hoffman is leaving Microsoft's board to go &#8216;founder mode' with startup Manus",
+      "id": "openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prom",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
-      "publishedAt": "2026-06-05T22:35:01.000Z",
-      "summaryShort": "Reid Hoffman is leaving Microsoft's board to go &#8216;founder mode' with startup Manus. After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
+      "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "publishedAt": "2026-06-06T20:32:24.000Z",
+      "summaryShort": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks. Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared ",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "what-to-expect-from-wwdc-2026-siri-s-highly-anticipated-revamp-a",
+      "title": "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "publishedAt": "2026-06-06T18:13:36.000Z",
+      "summaryShort": "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates. Apple's WWDC nears: Here's what you can look forward to.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor",
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "publishedAt": "2026-06-06T17:42:15.000Z",
+      "summaryShort": "Sriram Krishnan is leaving his role as White House AI advisor. Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "founders-share-vc-horror-stories-and-some-are-naming-names",
-      "title": "Founders share VC horror stories, and some are naming names",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
-      "publishedAt": "2026-06-05T21:47:56.000Z",
-      "summaryShort": "Founders share VC horror stories, and some are naming names. A massive viral conversation sharing VC horror stories has taken place this week on X.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "former-cyber-executive-turned-whistleblower-accuses-ibm-of-cover",
-      "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
-      "publishedAt": "2026-06-05T20:31:04.000Z",
-      "summaryShort": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches. IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
