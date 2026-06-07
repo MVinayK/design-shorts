@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-07T04:23:34.942Z",
+  "generatedAt": "2026-06-07T14:04:46.324Z",
   "items": [
+    {
+      "id": "extenddb-open-source-amazon-dynamodb-compatible-adapter-with-plu",
+      "title": "ExtendDB: Open Source Amazon DynamoDB Compatible Adapter with Pluggable Storage Backends",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/extenddb-dynamodb-adapter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-07T06:25:00.000Z",
+      "summaryShort": "ExtendDB: Open Source Amazon DynamoDB Compatible Adapter with Pluggable Storage Backends. AWS recently announced ExtendDB, a DynamoDB-compatible adapter that lets developers use the DynamoDB API with different storage backends, starting wit",
+      "tags": [
+        "Databases"
+      ]
+    },
     {
       "id": "cloudflare-identifies-query-planning-bottleneck-in-clickhouse",
       "title": "Cloudflare Identifies Query Planning Bottleneck in ClickHouse",
@@ -46,12 +57,12 @@
       ]
     },
     {
-      "id": "how-netflix-maps-thousands-of-microservices-in-real-time",
-      "title": "How Netflix Maps Thousands of Microservices in Real-Time",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/netflix-microservices-realtime/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-05T12:00:00.000Z",
-      "summaryShort": "How Netflix Maps Thousands of Microservices in Real-Time. Netflix has shared details about Service Topology.",
+      "id": "hacked-leaked-and-held-for-ransom-the-worst-breaches-of-2026-so-",
+      "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "publishedAt": "2026-06-07T14:00:00.000Z",
+      "summaryShort": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far. From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security inci",
       "tags": [
         "Engineering"
       ]
@@ -76,17 +87,6 @@
       "summaryShort": "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates. Apple's WWDC nears: Here's what you can look forward to.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor",
-      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-      "publishedAt": "2026-06-06T17:42:15.000Z",
-      "summaryShort": "Sriram Krishnan is leaving his role as White House AI advisor. Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
-      "tags": [
-        "AI"
       ]
     }
   ]
