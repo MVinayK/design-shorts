@@ -1,90 +1,91 @@
 {
-  "generatedAt": "2026-06-08T04:39:38.355Z",
+  "generatedAt": "2026-06-08T16:02:55.132Z",
   "items": [
     {
-      "id": "extenddb-open-source-amazon-dynamodb-compatible-adapter-with-plu",
-      "title": "ExtendDB: Open Source Amazon DynamoDB Compatible Adapter with Pluggable Storage Backends",
+      "id": "pinterest-uses-content-fingerprints-for-url-deduplication-across",
+      "title": "Pinterest Uses Content Fingerprints for URL Deduplication Across Millions of Domains",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/extenddb-dynamodb-adapter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-07T06:25:00.000Z",
-      "summaryShort": "ExtendDB: Open Source Amazon DynamoDB Compatible Adapter with Pluggable Storage Backends. AWS recently announced ExtendDB, a DynamoDB-compatible adapter that lets developers use the DynamoDB API with different storage backends, starting wit",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "cloudflare-identifies-query-planning-bottleneck-in-clickhouse",
-      "title": "Cloudflare Identifies Query Planning Bottleneck in ClickHouse",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/cloudflare-clickhouse-bottleneck/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-06T04:55:00.000Z",
-      "summaryShort": "Cloudflare Identifies Query Planning Bottleneck in ClickHouse. Cloudflare recently described how a slowdown in its billing pipeline was traced to contention inside the query planning stage of ClickHouse.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "how-openai-built-a-secure-windows-sandbox-for-codex-agents",
-      "title": "How OpenAI Built a Secure Windows Sandbox for Codex Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/codex-windows-sandbox-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-05T14:37:00.000Z",
-      "summaryShort": "How OpenAI Built a Secure Windows Sandbox for Codex Agents. OpenAI details Codex Windows sandbox architecture, showing how SIDs, ACLs, restricted tokens, and dedicated sandbox accounts enable safe execution of autonomous coding tasks.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-platform-teams-enabling-ai-mcp-multi-agentic-tools-",
-      "title": "Presentation: Platform Teams Enabling AI - MCP/Multi-Agentic Tools across Linkedin",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-multi-agentic-tools/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-05T12:23:00.000Z",
-      "summaryShort": "Presentation: Platform Teams Enabling AI - MCP/Multi-Agentic Tools across Linkedin. LinkedIn’s Karthik Ramgopal and Prince Valluri discuss leveraging AI as a new execution model for large-scale engineering.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "dropbox-introduces-nova-an-internal-platform-for-running-ai-codi",
-      "title": "Dropbox Introduces Nova, an Internal Platform for Running AI Coding Agents at Scale",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/dropbox-nova-ai-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-05T12:00:00.000Z",
-      "summaryShort": "Dropbox Introduces Nova, an Internal Platform for Running AI Coding Agents at Scale. Dropbox has unveiled Nova, an internal platform designed to orchestrate and operationalize AI coding agents across the company's engineering workflows.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "is-this-the-dawn-of-the-tokenpocalypse",
-      "title": "Is this the dawn of the Tokenpocalypse?",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-      "publishedAt": "2026-06-07T20:26:13.000Z",
-      "summaryShort": "Is this the dawn of the Tokenpocalypse?. We're likely to see more price increases as the big AI companies plan to go public.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "notion-restores-access-to-anthropic-after-service-disruption",
-      "title": "Notion restores access to Anthropic after service disruption",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "publishedAt": "2026-06-07T17:56:22.000Z",
-      "summaryShort": "Notion restores access to Anthropic after service disruption. Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/pinterest-miqps-url-dedup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-08T14:37:00.000Z",
+      "summaryShort": "Pinterest Uses Content Fingerprints for URL Deduplication Across Millions of Domains. Pinterest introduced MIQPS, a URL normalization system that identifies which query parameters affect page identity using rendered content fingerprints.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "openai-is-still-working-on-that-super-app",
-      "title": "OpenAI is still working on that ‘super app’",
+      "id": "java-news-roundup-jdk-27-in-rampdown-jdk-28-expert-group-glassfi",
+      "title": "Java News Roundup: JDK 27 in Rampdown, JDK 28 Expert Group, GlassFish, Infinispan, Kotlin",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/java-news-roundup-jun01-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-08T13:45:00.000Z",
+      "summaryShort": "Java News Roundup: JDK 27 in Rampdown, JDK 28 Expert Group, GlassFish, Infinispan, Kotlin. This week's Java roundup for June 1st, 2026, features news highlighting: JDK 27 in Rampdown Phase One; the formation of the JDK 28 Expert Group; the ",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "gemma-4-12b-enables-on-device-multimodal-agentic-workflows-with-",
+      "title": "Gemma 4 12B Enables On-Device, Multimodal Agentic Workflows with an Encoder-free Architecture",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/google-gemma4-12b-local-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-08T12:00:00.000Z",
+      "summaryShort": "Gemma 4 12B Enables On-Device, Multimodal Agentic Workflows with an Encoder-free Architecture. Google says Gemma 4 12B is \"designed to bring agentic, multimodal intelligence directly to your laptop\", further noting that the new model can be",
+      "tags": [
+        "AI",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "celebrating-20-years-of-infoq",
+      "title": "Celebrating 20 Years of InfoQ",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/infoq-turns-20/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-08T11:35:00.000Z",
+      "summaryShort": "Celebrating 20 Years of InfoQ. InfoQ celebrates its 20th anniversary.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "article-artificial-intelligence-driven-phishing-how-phishing-tec",
+      "title": "Article: Artificial Intelligence-Driven Phishing: How Phishing Technique Is Evolving and Implemented",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/artificial-intelligence-driven-phishing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-08T11:00:00.000Z",
+      "summaryShort": "Article: Artificial Intelligence-Driven Phishing: How Phishing Technique Is Evolving and Implemented. In this article, the author examines how AI is transforming phishing from a manual, targeted activity into an automated and scalable attac",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "notebooklm-s-new-update-will-help-you-build-source-repository-fr",
+      "title": "NotebookLM's new update will help you build source repository from chat",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-      "publishedAt": "2026-06-07T16:23:22.000Z",
-      "summaryShort": "OpenAI is still working on that ‘super app’. \"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
+      "publishedAt": "2026-06-08T16:00:00.000Z",
+      "summaryShort": "NotebookLM's new update will help you build source repository from chat. Google is making Gemini 3.5 the default model in NotebookLM",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "amazon-now-lets-you-design-custom-merch-using-ai",
+      "title": "Amazon now lets you design custom merch using AI",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+      "publishedAt": "2026-06-08T15:49:12.000Z",
+      "summaryShort": "Amazon now lets you design custom merch using AI. A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "whatsapp-says-it-caught-new-spyware-attacks-linked-to-nso-group-",
+      "title": "WhatsApp says it caught new spyware attacks linked to NSO Group in violation of court order",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/whatsapp-says-it-caught-new-spyware-attacks-linked-to-nso-group-in-violation-of-court-order/",
+      "publishedAt": "2026-06-08T15:37:31.000Z",
+      "summaryShort": "WhatsApp says it caught new spyware attacks linked to NSO Group in violation of court order. The messaging giant announced that it disrupted a phishing campaign targeting its users with NSO’s spyware.",
       "tags": [
         "Engineering"
       ]
