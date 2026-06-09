@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-08T16:02:55.132Z",
+  "generatedAt": "2026-06-09T04:00:09.635Z",
   "items": [
+    {
+      "id": "aws-releases-next-generation-of-amazon-opensearch-serverless",
+      "title": "AWS Releases Next Generation of Amazon OpenSearch Serverless",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/aws-opensearch-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-08T17:00:00.000Z",
+      "summaryShort": "AWS Releases Next Generation of Amazon OpenSearch Serverless. Amazon Web Services has recently announced the general availability of the next generation of Amazon OpenSearch Serverless, with a redesigned architecture that enables 20 times f",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "pinterest-uses-content-fingerprints-for-url-deduplication-across",
       "title": "Pinterest Uses Content Fingerprints for URL Deduplication Across Millions of Domains",
@@ -47,45 +58,34 @@
       ]
     },
     {
-      "id": "article-artificial-intelligence-driven-phishing-how-phishing-tec",
-      "title": "Article: Artificial Intelligence-Driven Phishing: How Phishing Technique Is Evolving and Implemented",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/artificial-intelligence-driven-phishing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-08T11:00:00.000Z",
-      "summaryShort": "Article: Artificial Intelligence-Driven Phishing: How Phishing Technique Is Evolving and Implemented. In this article, the author examines how AI is transforming phishing from a manual, targeted activity into an automated and scalable attac",
+      "id": "why-apple-s-slow-and-steady-ai-bet-is-starting-to-look-pretty-sm",
+      "title": "Why Apple's slow-and-steady AI bet is starting to look pretty smart",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "publishedAt": "2026-06-09T01:56:48.000Z",
+      "summaryShort": "Why Apple's slow-and-steady AI bet is starting to look pretty smart. Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "notebooklm-s-new-update-will-help-you-build-source-repository-fr",
-      "title": "NotebookLM's new update will help you build source repository from chat",
+      "id": "mercor-s-brendan-foody-calls-out-sequoia-accusing-it-of-8216-dua",
+      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of &#8216;dual-pricing' valuation tricks",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
-      "publishedAt": "2026-06-08T16:00:00.000Z",
-      "summaryShort": "NotebookLM's new update will help you build source repository from chat. Google is making Gemini 3.5 the default model in NotebookLM",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+      "publishedAt": "2026-06-09T00:45:56.000Z",
+      "summaryShort": "Mercor’s Brendan Foody calls out Sequoia, accusing it of &#8216;dual-pricing' valuation tricks. Sequoia is just one of the top firms that sells same equity at two different prices.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "amazon-now-lets-you-design-custom-merch-using-ai",
-      "title": "Amazon now lets you design custom merch using AI",
+      "id": "as-openai-files-for-ipo-sam-altman-s-eye-scanning-company-is-doi",
+      "title": "As OpenAI files for IPO, Sam Altman's eye-scanning company is doing layoffs, report says",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
-      "publishedAt": "2026-06-08T15:49:12.000Z",
-      "summaryShort": "Amazon now lets you design custom merch using AI. A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "whatsapp-says-it-caught-new-spyware-attacks-linked-to-nso-group-",
-      "title": "WhatsApp says it caught new spyware attacks linked to NSO Group in violation of court order",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/whatsapp-says-it-caught-new-spyware-attacks-linked-to-nso-group-in-violation-of-court-order/",
-      "publishedAt": "2026-06-08T15:37:31.000Z",
-      "summaryShort": "WhatsApp says it caught new spyware attacks linked to NSO Group in violation of court order. The messaging giant announced that it disrupted a phishing campaign targeting its users with NSO’s spyware.",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "publishedAt": "2026-06-08T22:41:45.000Z",
+      "summaryShort": "As OpenAI files for IPO, Sam Altman's eye-scanning company is doing layoffs, report says. Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
       "tags": [
         "Engineering"
       ]
