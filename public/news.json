@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-06-09T04:00:09.635Z",
+  "generatedAt": "2026-06-09T15:15:20.203Z",
   "items": [
+    {
+      "id": "presentation-confidently-automating-changes-across-a-diverse-fle",
+      "title": "Presentation: Confidently Automating Changes Across a Diverse Fleet",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/automate-fleetwide-changes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-09T12:14:00.000Z",
+      "summaryShort": "Presentation: Confidently Automating Changes Across a Diverse Fleet. Netflix engineer Casey Bleifer shares how to achieve rapid, automated code changes across a massive, diverse software fleet.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ibm-vault-enterprise-2-0-brings-automated-ldap-secrets-managemen",
+      "title": "IBM Vault Enterprise 2.0 Brings Automated LDAP Secrets Management to Enterprise Identity Security",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/ibm-hashicorp-vault-ldap-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-09T12:00:00.000Z",
+      "summaryShort": "IBM Vault Enterprise 2.0 Brings Automated LDAP Secrets Management to Enterprise Identity Security. IBM and HashiCorp have announced new LDAP secrets management capabilities in IBM Vault Enterprise 2.0, introducing a redesigned architecture ",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "microsoft-foundry-adds-runtime-tooling-and-governance-for-produc",
+      "title": "Microsoft Foundry Adds Runtime, Tooling, and Governance for Production Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/microsoft-foundry-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-09T08:00:00.000Z",
+      "summaryShort": "Microsoft Foundry Adds Runtime, Tooling, and Governance for Production Agents. Microsoft used their Build 2026 event to announce new functionality for Microsoft Foundry.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "aws-releases-next-generation-of-amazon-opensearch-serverless",
       "title": "AWS Releases Next Generation of Amazon OpenSearch Serverless",
@@ -24,68 +57,34 @@
       ]
     },
     {
-      "id": "java-news-roundup-jdk-27-in-rampdown-jdk-28-expert-group-glassfi",
-      "title": "Java News Roundup: JDK 27 in Rampdown, JDK 28 Expert Group, GlassFish, Infinispan, Kotlin",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/java-news-roundup-jun01-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-08T13:45:00.000Z",
-      "summaryShort": "Java News Roundup: JDK 27 in Rampdown, JDK 28 Expert Group, GlassFish, Infinispan, Kotlin. This week's Java roundup for June 1st, 2026, features news highlighting: JDK 27 in Rampdown Phase One; the formation of the JDK 28 Expert Group; the ",
+      "id": "ios-27-features-we-didn-t-see-on-stage",
+      "title": "iOS 27 features we didn't see on stage",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/",
+      "publishedAt": "2026-06-09T15:06:12.000Z",
+      "summaryShort": "iOS 27 features we didn't see on stage. While iOS 27 isn't bringing major changes, it's still got many small features that could improve everyday usage for iPhone users.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "gemma-4-12b-enables-on-device-multimodal-agentic-workflows-with-",
-      "title": "Gemma 4 12B Enables On-Device, Multimodal Agentic Workflows with an Encoder-free Architecture",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/google-gemma4-12b-local-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-08T12:00:00.000Z",
-      "summaryShort": "Gemma 4 12B Enables On-Device, Multimodal Agentic Workflows with an Encoder-free Architecture. Google says Gemma 4 12B is \"designed to bring agentic, multimodal intelligence directly to your laptop\", further noting that the new model can be",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "celebrating-20-years-of-infoq",
-      "title": "Celebrating 20 Years of InfoQ",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/infoq-turns-20/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-08T11:35:00.000Z",
-      "summaryShort": "Celebrating 20 Years of InfoQ. InfoQ celebrates its 20th anniversary.",
+      "id": "apple-brings-streaming-style-subscription-bundles-to-the-app-sto",
+      "title": "Apple brings streaming-style subscription bundles to the App Store",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/apple-brings-streaming-style-subscription-bundles-to-the-app-store/",
+      "publishedAt": "2026-06-09T14:55:36.000Z",
+      "summaryShort": "Apple brings streaming-style subscription bundles to the App Store. Apple is expanding its App Bundles feature to allow developers to partner with one another on discounted subscription packages.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "why-apple-s-slow-and-steady-ai-bet-is-starting-to-look-pretty-sm",
-      "title": "Why Apple's slow-and-steady AI bet is starting to look pretty smart",
+      "id": "apple-s-app-store-rolls-out-personalized-recommendations",
+      "title": "Apple's App Store rolls out personalized recommendations",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-      "publishedAt": "2026-06-09T01:56:48.000Z",
-      "summaryShort": "Why Apple's slow-and-steady AI bet is starting to look pretty smart. Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "mercor-s-brendan-foody-calls-out-sequoia-accusing-it-of-8216-dua",
-      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of &#8216;dual-pricing' valuation tricks",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
-      "publishedAt": "2026-06-09T00:45:56.000Z",
-      "summaryShort": "Mercor’s Brendan Foody calls out Sequoia, accusing it of &#8216;dual-pricing' valuation tricks. Sequoia is just one of the top firms that sells same equity at two different prices.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "as-openai-files-for-ipo-sam-altman-s-eye-scanning-company-is-doi",
-      "title": "As OpenAI files for IPO, Sam Altman's eye-scanning company is doing layoffs, report says",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-      "publishedAt": "2026-06-08T22:41:45.000Z",
-      "summaryShort": "As OpenAI files for IPO, Sam Altman's eye-scanning company is doing layoffs, report says. Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/",
+      "publishedAt": "2026-06-09T14:30:17.000Z",
+      "summaryShort": "Apple's App Store rolls out personalized recommendations. Apple will now recommend apps based on your downloads and behavior.",
       "tags": [
         "Engineering"
       ]
