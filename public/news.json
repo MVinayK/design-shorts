@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-06-10T04:11:29.089Z",
+  "generatedAt": "2026-06-10T15:49:20.947Z",
   "items": [
+    {
+      "id": "presentation-beyond-prompting-context-engineering-and-memory-man",
+      "title": "Presentation: Beyond Prompting: Context Engineering and Memory Management for AI Systems at Scale",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/context-engineering-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-10T12:03:00.000Z",
+      "summaryShort": "Presentation: Beyond Prompting: Context Engineering and Memory Management for AI Systems at Scale. Adi Polak discusses the architecture required to transition from stateless prompts to state-aware, context-rich AI agents.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "azure-api-management-ships-unified-model-api-and-mcp-content-saf",
+      "title": "Azure API Management Ships Unified Model API and MCP Content Safety at Build 2026",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/azure-apim-ai-gateway-build/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-10T09:38:00.000Z",
+      "summaryShort": "Azure API Management Ships Unified Model API and MCP Content Safety at Build 2026. Azure API Management shipped a Unified Model API that lets clients speak one format while APIM transforms requests to Anthropic, Vertex AI, and other backend",
+      "tags": [
+        "AI",
+        "Architecture"
+      ]
+    },
     {
       "id": "presentation-confidently-automating-changes-across-a-diverse-fle",
       "title": "Presentation: Confidently Automating Changes Across a Diverse Fleet",
@@ -35,58 +58,36 @@
       ]
     },
     {
-      "id": "aws-releases-next-generation-of-amazon-opensearch-serverless",
-      "title": "AWS Releases Next Generation of Amazon OpenSearch Serverless",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/aws-opensearch-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-08T17:00:00.000Z",
-      "summaryShort": "AWS Releases Next Generation of Amazon OpenSearch Serverless. Amazon Web Services has recently announced the general availability of the next generation of Amazon OpenSearch Serverless, with a redesigned architecture that enables 20 times f",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "pinterest-uses-content-fingerprints-for-url-deduplication-across",
-      "title": "Pinterest Uses Content Fingerprints for URL Deduplication across Millions of Domains",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/pinterest-miqps-url-dedup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-08T14:37:00.000Z",
-      "summaryShort": "Pinterest Uses Content Fingerprints for URL Deduplication across Millions of Domains. Pinterest introduced MIQPS, a URL normalization system that identifies which query parameters affect page identity using rendered content fingerprints.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "top-lucid-motors-executive-departs-amid-new-ceo-s-leadership-sha",
-      "title": "Top Lucid Motors executive departs amid new CEO's leadership shakeup",
+      "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-a",
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/",
-      "publishedAt": "2026-06-10T03:35:07.000Z",
-      "summaryShort": "Top Lucid Motors executive departs amid new CEO's leadership shakeup. The exec, Emad Dlala, has left just a few months after being promoted to SVP of engineering and digital, TechCrunch has learned.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "google-just-fired-a-warning-shot-in-the-ai-subscription-price-wa",
-      "title": "Google just fired a warning shot in the AI subscription price wars",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-      "publishedAt": "2026-06-10T00:26:10.000Z",
-      "summaryShort": "Google just fired a warning shot in the AI subscription price wars. Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "publishedAt": "2026-06-10T15:41:22.000Z",
+      "summaryShort": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable. Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "how-justin-ernest-invested-nearly-500m-into-hot-startups-without",
-      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+      "id": "why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026",
+      "title": "Why enterprise AI will be a major focus at VivaTech 2026",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-      "publishedAt": "2026-06-09T23:17:51.000Z",
-      "summaryShort": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund. Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic,",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
+      "publishedAt": "2026-06-10T15:16:00.000Z",
+      "summaryShort": "Why enterprise AI will be a major focus at VivaTech 2026. While Silicon Valley continues pushing aggressively into large language models and consumer-facing AI products, many European companies are focused on applying AI to complex systems ",
       "tags": [
-        "Engineering"
+        "AI"
+      ]
+    },
+    {
+      "id": "datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-aga",
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "publishedAt": "2026-06-10T15:00:00.000Z",
+      "summaryShort": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in. AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels.",
+      "tags": [
+        "AI"
       ]
     }
   ]
