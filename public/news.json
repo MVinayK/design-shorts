@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-10T15:49:20.947Z",
+  "generatedAt": "2026-06-11T04:24:21.661Z",
   "items": [
+    {
+      "id": "microsoft-open-sources-postgresql-extension-for-in-database-dura",
+      "title": "Microsoft Open-Sources PostgreSQL Extension for In-Database Durable Execution",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/postgresql-pg-durable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-10T20:00:00.000Z",
+      "summaryShort": "Microsoft Open-Sources PostgreSQL Extension for In-Database Durable Execution. Recently open-sourced by Microsoft, pg_durable is a PostgreSQL extension that enables durable workflows to run natively inside the database, eliminating the need",
+      "tags": [
+        "Databases"
+      ]
+    },
     {
       "id": "presentation-beyond-prompting-context-engineering-and-memory-man",
       "title": "Presentation: Beyond Prompting: Context Engineering and Memory Management for AI Systems at Scale",
@@ -47,45 +58,34 @@
       ]
     },
     {
-      "id": "microsoft-foundry-adds-runtime-tooling-and-governance-for-produc",
-      "title": "Microsoft Foundry Adds Runtime, Tooling, and Governance for Production Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/microsoft-foundry-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-09T08:00:00.000Z",
-      "summaryShort": "Microsoft Foundry Adds Runtime, Tooling, and Governance for Production Agents. Microsoft used their Build 2026 event to announce new functionality for Microsoft Foundry.",
+      "id": "opendoor-s-india-exit-is-fueling-a-bigger-conversation-about-ai-",
+      "title": "Opendoor's India exit is fueling a bigger conversation about AI and outsourcing",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "publishedAt": "2026-06-11T04:02:19.000Z",
+      "summaryShort": "Opendoor's India exit is fueling a bigger conversation about AI and outsourcing. The decision comes as India emerges as the world’s largest GCC market.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-a",
-      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "id": "anthropic-s-dario-amodei-has-just-one-direct-report",
+      "title": "Anthropic's Dario Amodei has just one direct report",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "publishedAt": "2026-06-10T15:41:22.000Z",
-      "summaryShort": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable. Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "publishedAt": "2026-06-11T03:53:06.000Z",
+      "summaryShort": "Anthropic's Dario Amodei has just one direct report. If you doubted his genius, doubt no more.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026",
-      "title": "Why enterprise AI will be a major focus at VivaTech 2026",
+      "id": "xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-la",
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
-      "publishedAt": "2026-06-10T15:16:00.000Z",
-      "summaryShort": "Why enterprise AI will be a major focus at VivaTech 2026. While Silicon Valley continues pushing aggressively into large language models and consumer-facing AI products, many European companies are focused on applying AI to complex systems ",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-aga",
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "publishedAt": "2026-06-10T15:00:00.000Z",
-      "summaryShort": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in. AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels.",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "publishedAt": "2026-06-10T22:31:19.000Z",
+      "summaryShort": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims. A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
       "tags": [
         "AI"
       ]
