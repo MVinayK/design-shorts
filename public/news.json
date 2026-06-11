@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-06-11T04:24:21.661Z",
+  "generatedAt": "2026-06-11T16:11:16.563Z",
   "items": [
+    {
+      "id": "lyft-uses-mapping-intelligence-to-reduce-friction-in-gated-commu",
+      "title": "Lyft Uses Mapping Intelligence to Reduce Friction in Gated Community Pickups",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/lyft-gated-community-routing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-11T14:18:00.000Z",
+      "summaryShort": "Lyft Uses Mapping Intelligence to Reduce Friction in Gated Community Pickups. Lyft details a new pickup experience to improve reliability in gated communities, where 25–30% of rides face routing and access challenges.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "building-and-scaling-a-platform-with-project-as-a-service",
+      "title": "Building and Scaling a Platform with Project-as-a-Service",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/platform-project-as-a-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-11T11:17:00.000Z",
+      "summaryShort": "Building and Scaling a Platform with Project-as-a-Service. When a platform started with total developer autonomy, teams felt overwhelmed and ended up solving the same problems in completely different ways.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "openai-s-gpt-5-5-and-codex-reach-general-availability-on-amazon-",
+      "title": "OpenAI's GPT-5.5 and Codex Reach General Availability on Amazon Bedrock",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/openai-frontier-models-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-11T09:24:00.000Z",
+      "summaryShort": "OpenAI's GPT-5.5 and Codex Reach General Availability on Amazon Bedrock. OpenAI's GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock, one month after OpenAI revised its exclusive Azure arrangement.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "presentation-building-and-scaling-ui-systems-for-internal-tools-",
+      "title": "Presentation: Building and Scaling UI Systems for Internal Tools at Meta",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/internal-tools-meta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-11T09:05:00.000Z",
+      "summaryShort": "Presentation: Building and Scaling UI Systems for Internal Tools at Meta. Cindy Zhang discusses the evolution of XDS, a unified UI system powering 10,000+ internal tools.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "microsoft-open-sources-postgresql-extension-for-in-database-dura",
       "title": "Microsoft Open-Sources PostgreSQL Extension for In-Database Durable Execution",
@@ -13,81 +58,36 @@
       ]
     },
     {
-      "id": "presentation-beyond-prompting-context-engineering-and-memory-man",
-      "title": "Presentation: Beyond Prompting: Context Engineering and Memory Management for AI Systems at Scale",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/context-engineering-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-10T12:03:00.000Z",
-      "summaryShort": "Presentation: Beyond Prompting: Context Engineering and Memory Management for AI Systems at Scale. Adi Polak discusses the architecture required to transition from stateless prompts to state-aware, context-rich AI agents.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "azure-api-management-ships-unified-model-api-and-mcp-content-saf",
-      "title": "Azure API Management Ships Unified Model API and MCP Content Safety at Build 2026",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/azure-apim-ai-gateway-build/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-10T09:38:00.000Z",
-      "summaryShort": "Azure API Management Ships Unified Model API and MCP Content Safety at Build 2026. Azure API Management shipped a Unified Model API that lets clients speak one format while APIM transforms requests to Anthropic, Vertex AI, and other backend",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "presentation-confidently-automating-changes-across-a-diverse-fle",
-      "title": "Presentation: Confidently Automating Changes Across a Diverse Fleet",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/automate-fleetwide-changes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-09T12:14:00.000Z",
-      "summaryShort": "Presentation: Confidently Automating Changes Across a Diverse Fleet. Netflix engineer Casey Bleifer shares how to achieve rapid, automated code changes across a massive, diverse software fleet.",
+      "id": "waymo-launches-a-loyalty-program-with-10-cash-back-and-free-canc",
+      "title": "Waymo launches a loyalty program with 10% cash back and free cancellations",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/11/waymo-launches-a-loyalty-program-with-10-cash-back-and-free-cancellations/",
+      "publishedAt": "2026-06-11T16:00:23.000Z",
+      "summaryShort": "Waymo launches a loyalty program with 10% cash back and free cancellations. Members of the program, called \"Waymo Premier,\" will have to pony up $29.99 per month.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "ibm-vault-enterprise-2-0-brings-automated-ldap-secrets-managemen",
-      "title": "IBM Vault Enterprise 2.0 Brings Automated LDAP Secrets Management to Enterprise Identity Security",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/ibm-hashicorp-vault-ldap-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-09T12:00:00.000Z",
-      "summaryShort": "IBM Vault Enterprise 2.0 Brings Automated LDAP Secrets Management to Enterprise Identity Security. IBM and HashiCorp have announced new LDAP secrets management capabilities in IBM Vault Enterprise 2.0, introducing a redesigned architecture ",
+      "id": "pool-s-new-app-turns-your-screenshots-into-something-useful",
+      "title": "Pool's new app turns your screenshots into something useful",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+      "publishedAt": "2026-06-11T15:30:00.000Z",
+      "summaryShort": "Pool's new app turns your screenshots into something useful. Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, trav",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "opendoor-s-india-exit-is-fueling-a-bigger-conversation-about-ai-",
-      "title": "Opendoor's India exit is fueling a bigger conversation about AI and outsourcing",
+      "id": "microsoft-taps-alt-carbon-in-sign-of-india-s-growing-role-in-car",
+      "title": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-      "publishedAt": "2026-06-11T04:02:19.000Z",
-      "summaryShort": "Opendoor's India exit is fueling a bigger conversation about AI and outsourcing. The decision comes as India emerges as the world’s largest GCC market.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "anthropic-s-dario-amodei-has-just-one-direct-report",
-      "title": "Anthropic's Dario Amodei has just one direct report",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-      "publishedAt": "2026-06-11T03:53:06.000Z",
-      "summaryShort": "Anthropic's Dario Amodei has just one direct report. If you doubted his genius, doubt no more.",
+      "sourceUrl": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
+      "publishedAt": "2026-06-11T15:00:00.000Z",
+      "summaryShort": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal. Alt Carbon said the agreement followed more than a year of scientific review and due diligence, with Microsoft requiring additional verification and data-sharing m",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-la",
-      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-      "publishedAt": "2026-06-10T22:31:19.000Z",
-      "summaryShort": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims. A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-      "tags": [
-        "AI"
       ]
     }
   ]
