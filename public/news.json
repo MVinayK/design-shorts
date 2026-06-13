@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-06-12T15:26:22.596Z",
+  "generatedAt": "2026-06-13T04:15:59.545Z",
   "items": [
+    {
+      "id": "webmcp-standard-proposal-for-agentic-web-actuation-now-available",
+      "title": "WebMCP Standard Proposal for Agentic Web Actuation Now Available in Chrome (Origin Trials)",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/webmcp-web-agent-standard-chrome/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-13T03:32:00.000Z",
+      "summaryShort": "WebMCP Standard Proposal for Agentic Web Actuation Now Available in Chrome (Origin Trials). Google recently announced that WebMCP is entering origin trials in Chrome 149.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "google-launches-colab-cli-for-developers-automation-and-ai-agent",
+      "title": "Google Launches Colab CLI for Developers, Automation, and AI Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/google-colab-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-12T17:13:00.000Z",
+      "summaryShort": "Google Launches Colab CLI for Developers, Automation, and AI Agents. Google has announced the Google Colab CLI, a command-line tool that allows developers and AI agents to interact with remote Colab runtimes directly from a local terminal.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "slack-eliminates-ssh-in-emr-pipelines-migrates-700-jobs-to-rest-",
       "title": "Slack Eliminates SSH in EMR Pipelines, Migrates 700+ Jobs to Rest-Based Architecture",
@@ -36,58 +58,36 @@
       ]
     },
     {
-      "id": "run-untrusted-ai-agent-code-safely-with-azure-container-apps-san",
-      "title": "Run Untrusted AI Agent Code Safely with Azure Container Apps Sandboxes",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/untrusted-ai-agents-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-12T11:00:00.000Z",
-      "summaryShort": "Run Untrusted AI Agent Code Safely with Azure Container Apps Sandboxes. Microsoft has announced the public preview of Azure Container Apps Sandboxes.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-moving-mountains-migrating-legacy-code-in-weeks-ins",
-      "title": "Presentation: Moving Mountains: Migrating Legacy Code in Weeks instead of Years",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/refactoring-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-12T09:24:00.000Z",
-      "summaryShort": "Presentation: Moving Mountains: Migrating Legacy Code in Weeks instead of Years. David Stein shares how to rethink large-scale architectural migrations using AI.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "spacex-ipo-everything-you-need-to-know",
-      "title": "SpaceX IPO: Everything you need to know",
+      "id": "andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-",
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
-      "publishedAt": "2026-06-12T14:08:54.000Z",
-      "summaryShort": "SpaceX IPO: Everything you need to know. TechCrunch has followed SpaceX's start, struggles, and successes from the early days.",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "publishedAt": "2026-06-13T04:14:19.000Z",
+      "summaryShort": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living. Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "us-surveillance-law-to-expire-for-first-time-after-lawmakers-rej",
-      "title": "US surveillance law to expire for first time after lawmakers reject Trump's controversial pick to lead spy agencies",
+      "id": "anthropic-s-safety-warnings-may-have-just-backfired-the-governme",
+      "title": "Anthropic's safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
-      "publishedAt": "2026-06-12T11:43:32.000Z",
-      "summaryShort": "US surveillance law to expire for first time after lawmakers reject Trump's controversial pick to lead spy agencies. The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expir",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "publishedAt": "2026-06-13T02:26:30.000Z",
+      "summaryShort": "Anthropic's safety warnings may have just backfired — the government has pulled the plug on its most powerful AI. Anthropic isn't hiding its frustration.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "cheaper-faster-and-culturally-aware-avataar-s-video-ai-is-built-",
-      "title": "Cheaper, faster, and culturally aware, Avataar's video AI is built for India's scale",
+      "id": "spacex-ipo-live-updates-on-everything-you-need-to-know",
+      "title": "SpaceX IPO: Live updates on everything you need to know",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "publishedAt": "2026-06-12T04:30:00.000Z",
-      "summaryShort": "Cheaper, faster, and culturally aware, Avataar's video AI is built for India's scale. Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "publishedAt": "2026-06-12T23:15:14.000Z",
+      "summaryShort": "SpaceX IPO: Live updates on everything you need to know. TechCrunch has followed SpaceX's start, struggles, and successes from the early days.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
