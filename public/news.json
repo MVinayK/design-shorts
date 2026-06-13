@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-13T04:15:59.545Z",
+  "generatedAt": "2026-06-13T14:10:20.509Z",
   "items": [
+    {
+      "id": "aws-introduces-cdk-mixins-for-composable-infrastructure-abstract",
+      "title": "AWS Introduces CDK Mixins for Composable Infrastructure Abstractions",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/cdk-mixins-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-13T05:38:00.000Z",
+      "summaryShort": "AWS Introduces CDK Mixins for Composable Infrastructure Abstractions. AWS recently announced CDK Mixins, a new AWS CDK feature that lets developers add reusable capabilities like security, monitoring, and configuration to AWS resources.",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "webmcp-standard-proposal-for-agentic-web-actuation-now-available",
       "title": "WebMCP Standard Proposal for Agentic Web Actuation Now Available in Chrome (Origin Trials)",
@@ -46,15 +57,14 @@
       ]
     },
     {
-      "id": "pinecone-brings-ai-agents-directly-to-enterprise-data-with-micro",
-      "title": "Pinecone Brings AI Agents Directly to Enterprise Data with Microsoft OneLake Integration",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/pinecone-ai-agents-onelake/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-12T12:00:00.000Z",
-      "summaryShort": "Pinecone Brings AI Agents Directly to Enterprise Data with Microsoft OneLake Integration. Pinecone has announced a new integration between its Nexus knowledge engine and Microsoft OneLake, aiming to fundamentally change how enterprise AI ag",
+      "id": "the-fbi-built-its-own-replica-small-town-to-simulate-real-world-",
+      "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+      "publishedAt": "2026-06-13T11:00:00.000Z",
+      "summaryShort": "The FBI built its own replica small town to simulate real-world cyberattacks. Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
       "tags": [
-        "AI",
-        "Architecture"
+        "Engineering"
       ]
     },
     {
@@ -77,17 +87,6 @@
       "summaryShort": "Anthropic's safety warnings may have just backfired — the government has pulled the plug on its most powerful AI. Anthropic isn't hiding its frustration.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "spacex-ipo-live-updates-on-everything-you-need-to-know",
-      "title": "SpaceX IPO: Live updates on everything you need to know",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "publishedAt": "2026-06-12T23:15:14.000Z",
-      "summaryShort": "SpaceX IPO: Live updates on everything you need to know. TechCrunch has followed SpaceX's start, struggles, and successes from the early days.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
