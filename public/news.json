@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-06-13T14:10:20.509Z",
+  "generatedAt": "2026-06-14T04:43:14.518Z",
   "items": [
+    {
+      "id": "terraform-mcp-server-enables-ai-assistants-to-interact-with-terr",
+      "title": "Terraform MCP Server Enables AI Assistants to Interact with Terraform Infrastructure",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/terraform-mcp-server-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-13T20:00:00.000Z",
+      "summaryShort": "Terraform MCP Server Enables AI Assistants to Interact with Terraform Infrastructure. HashiCorp has announced the general availability of the Terraform MCP Server, an open-source MCP server that enables agents to integrate with Terraform Re",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "aws-introduces-cdk-mixins-for-composable-infrastructure-abstract",
       "title": "AWS Introduces CDK Mixins for Composable Infrastructure Abstractions",
@@ -46,45 +58,34 @@
       ]
     },
     {
-      "id": "angular-s-official-agent-skills-helps-ai-coding-tools-write-mode",
-      "title": "Angular's Official Agent Skills Helps AI Coding Tools Write Modern Angular",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/angular-agent-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-12T13:30:00.000Z",
-      "summaryShort": "Angular's Official Agent Skills Helps AI Coding Tools Write Modern Angular. Google's Angular team has released a repository called angular/skills, focusing on Agent Skills that enhance AI coding agents' ability to write modern Angular code.",
+      "id": "as-anthropic-suspends-access-to-new-models-india-debates-its-ai-",
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "publishedAt": "2026-06-14T03:00:00.000Z",
+      "summaryShort": "As Anthropic suspends access to new models, India debates its AI future. Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "the-fbi-built-its-own-replica-small-town-to-simulate-real-world-",
-      "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+      "id": "meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing-s-de",
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing's demand",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
-      "publishedAt": "2026-06-13T11:00:00.000Z",
-      "summaryShort": "The FBI built its own replica small town to simulate real-world cyberattacks. Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
+      "sourceUrl": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "publishedAt": "2026-06-14T00:03:49.000Z",
+      "summaryShort": "Meta reportedly moves to unwind $2B Manus deal after Beijing's demand. Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-",
-      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "id": "kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-      "publishedAt": "2026-06-13T04:14:19.000Z",
-      "summaryShort": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living. Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "anthropic-s-safety-warnings-may-have-just-backfired-the-governme",
-      "title": "Anthropic's safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-      "publishedAt": "2026-06-13T02:26:30.000Z",
-      "summaryShort": "Anthropic's safety warnings may have just backfired — the government has pulled the plug on its most powerful AI. Anthropic isn't hiding its frustration.",
+      "sourceUrl": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "publishedAt": "2026-06-13T20:42:31.000Z",
+      "summaryShort": "KPMG pulls report on AI usage due to apparent hallucinations. Once again, AI proves to be an unreliable source of information about AI.",
       "tags": [
         "AI"
       ]
