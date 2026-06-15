@@ -1,92 +1,92 @@
 {
-  "generatedAt": "2026-06-15T04:57:59.957Z",
+  "generatedAt": "2026-06-15T17:20:33.266Z",
   "items": [
     {
-      "id": "vercel-labs-open-sources-zero-native-a-zig-based-cross-platform-",
-      "title": "Vercel Labs Open-Sources Zero-Native: A Zig-Based Cross-Platform Native Application Framework",
+      "id": "spring-news-roundup-point-releases-of-boot-security-integration-",
+      "title": "Spring News Roundup: Point Releases of Boot, Security, Integration, Modulith and Spring AI 2.0",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/zero-native-zig-xplatform-vercel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-15T01:25:00.000Z",
-      "summaryShort": "Vercel Labs Open-Sources Zero-Native: A Zig-Based Cross-Platform Native Application Framework. Vercel Labs recently open-sourced zero-native, a cross-platform framework for native desktop applications.",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/spring-news-roundup-jun08-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-15T14:15:00.000Z",
+      "summaryShort": "Spring News Roundup: Point Releases of Boot, Security, Integration, Modulith and Spring AI 2.0. There was a flurry of activity in the Spring ecosystem during the week of June 8th, 2026, highlighting point releases of: Spring Boot, Spring Se",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-practical-performance-tuning-for-serverless-java-on",
+      "title": "Presentation: Practical Performance Tuning for Serverless Java on AWS",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/java-aws-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-15T13:12:00.000Z",
+      "summaryShort": "Presentation: Practical Performance Tuning for Serverless Java on AWS. AWS Hero Vadym Kazulkin explains how to overcome Java’s enterprise hurdle on AWS Lambda: cold starts and memory footprints.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "aws-introduces-durable-storage-option-for-elasticache-for-valkey",
-      "title": "AWS Introduces Durable Storage Option for ElastiCache for Valkey",
+      "id": "arrowjs-reaches-1-0-recast-as-the-first-ui-framework-for-the-age",
+      "title": "ArrowJS Reaches 1.0, Recast as the First UI Framework for the Agentic Era",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/elasticache-valkey-durability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-14T05:13:00.000Z",
-      "summaryShort": "AWS Introduces Durable Storage Option for ElastiCache for Valkey. AWS has recently introduced durability for Amazon ElastiCache for Valkey, enabling reliable data retention across failures and expanding support beyond caching to persistent ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/arrowjs-v1-agentic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-15T13:10:00.000Z",
+      "summaryShort": "ArrowJS Reaches 1.0, Recast as the First UI Framework for the Agentic Era. ArrowJS, developed by Justin Schroeder, is a reactive UI library that has reached its 1.0 release after three years in development.",
       "tags": [
-        "Databases",
-        "Architecture"
+        "Engineering"
       ]
     },
     {
-      "id": "terraform-mcp-server-enables-ai-assistants-to-interact-with-terr",
-      "title": "Terraform MCP Server Enables AI Assistants to Interact with Terraform Infrastructure",
+      "id": "article-governing-ai-in-the-cloud-a-practical-guide-for-architec",
+      "title": "Article: Governing AI in the Cloud: A Practical Guide for Architects",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/terraform-mcp-server-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-13T20:00:00.000Z",
-      "summaryShort": "Terraform MCP Server Enables AI Assistants to Interact with Terraform Infrastructure. HashiCorp has announced the general availability of the Terraform MCP Server, an open-source MCP server that enables agents to integrate with Terraform Re",
+      "sourceUrl": "https://www.infoq.com/articles/governing-ai-cloud-guide/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-15T11:00:00.000Z",
+      "summaryShort": "Article: Governing AI in the Cloud: A Practical Guide for Architects. In this article, the author outlines a practical approach to AI governance in the cloud, covering discovery of shadow AI, data classification at creation, IAM-based enfor",
       "tags": [
         "AI",
         "Cloud"
       ]
     },
     {
-      "id": "aws-introduces-cdk-mixins-for-composable-infrastructure-abstract",
-      "title": "AWS Introduces CDK Mixins for Composable Infrastructure Abstractions",
+      "id": "podcast-increasing-users-data-agency-from-bluesky-s-at-protocol-",
+      "title": "Podcast: Increasing Users' Data Agency: From BlueSky's AT Protocol to the Local-First Software Movement",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/cdk-mixins-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-13T05:38:00.000Z",
-      "summaryShort": "AWS Introduces CDK Mixins for Composable Infrastructure Abstractions. AWS recently announced CDK Mixins, a new AWS CDK feature that lets developers add reusable capabilities like security, monitoring, and configuration to AWS resources.",
+      "sourceUrl": "https://www.infoq.com/podcasts/increasing-users-data-agency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-15T11:00:00.000Z",
+      "summaryShort": "Podcast: Increasing Users' Data Agency: From BlueSky's AT Protocol to the Local-First Software Movement. Martin Kleppmann, an associate professor at Cambridge and author of Designing Data-Intensive Applications, discusses the evolution of d",
       "tags": [
+        "Databases",
         "Cloud"
       ]
     },
     {
-      "id": "webmcp-standard-proposal-for-agentic-web-actuation-now-available",
-      "title": "WebMCP Standard Proposal for Agentic Web Actuation Now Available in Chrome (Origin Trials)",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/webmcp-web-agent-standard-chrome/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-13T03:32:00.000Z",
-      "summaryShort": "WebMCP Standard Proposal for Agentic Web Actuation Now Available in Chrome (Origin Trials). Google recently announced that WebMCP is entering origin trials in Chrome 149.",
+      "id": "cybersecurity-vets-protest-8216-dangerous-us-government-ban-on-a",
+      "title": "Cybersecurity vets protest &#8216;dangerous' US government ban on Anthropic's most powerful models",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "publishedAt": "2026-06-15T15:29:51.000Z",
+      "summaryShort": "Cybersecurity vets protest &#8216;dangerous' US government ban on Anthropic's most powerful models. A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable a",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "orbio-raises-21-million-to-automate-hiring-and-onboarding-for-fr",
-      "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
+      "id": "spacex-s-biggest-ever-ipo-just-grew-to-85-7-billion-raised",
+      "title": "SpaceX's biggest-ever IPO just grew to $85.7 billion raised",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
-      "publishedAt": "2026-06-15T04:01:00.000Z",
-      "summaryShort": "Orbio raises $21 million to automate hiring and onboarding for frontline workers. Orbio announces $21 Million Series A in round led by Dawn Capital.",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
+      "publishedAt": "2026-06-15T14:45:03.000Z",
+      "summaryShort": "SpaceX's biggest-ever IPO just grew to $85.7 billion raised. SpaceX's IPO underwriters maxed out their share purchases, adding to an already historic amount of money raised.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-par",
-      "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
+      "id": "uk-unveils-sweeping-social-media-ban-for-users-under-16",
+      "title": "UK unveils sweeping social media ban for users under 16",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
-      "publishedAt": "2026-06-14T21:55:34.000Z",
-      "summaryShort": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon. JPMorgan can't be pleased by any of this.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "uk-may-ban-social-media-for-children-under-16",
-      "title": "UK may ban social media for children under 16",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
-      "publishedAt": "2026-06-14T20:17:00.000Z",
-      "summaryShort": "UK may ban social media for children under 16. The U.K.",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/",
+      "publishedAt": "2026-06-15T14:36:56.000Z",
+      "summaryShort": "UK unveils sweeping social media ban for users under 16. The ban would apply to a range of social media platforms, including Snapchat, TikTok, YouTube, Instagram, Facebook, and X.",
       "tags": [
         "Engineering"
       ]
