@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-14T14:14:39.558Z",
+  "generatedAt": "2026-06-15T04:57:59.957Z",
   "items": [
+    {
+      "id": "vercel-labs-open-sources-zero-native-a-zig-based-cross-platform-",
+      "title": "Vercel Labs Open-Sources Zero-Native: A Zig-Based Cross-Platform Native Application Framework",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/zero-native-zig-xplatform-vercel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-15T01:25:00.000Z",
+      "summaryShort": "Vercel Labs Open-Sources Zero-Native: A Zig-Based Cross-Platform Native Application Framework. Vercel Labs recently open-sourced zero-native, a cross-platform framework for native desktop applications.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "aws-introduces-durable-storage-option-for-elasticache-for-valkey",
       "title": "AWS Introduces Durable Storage Option for ElastiCache for Valkey",
@@ -48,45 +59,34 @@
       ]
     },
     {
-      "id": "google-launches-colab-cli-for-developers-automation-and-ai-agent",
-      "title": "Google Launches Colab CLI for Developers, Automation, and AI Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/google-colab-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-12T17:13:00.000Z",
-      "summaryShort": "Google Launches Colab CLI for Developers, Automation, and AI Agents. Google has announced the Google Colab CLI, a command-line tool that allows developers and AI agents to interact with remote Colab runtimes directly from a local terminal.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker",
-      "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
+      "id": "orbio-raises-21-million-to-automate-hiring-and-onboarding-for-fr",
+      "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
-      "publishedAt": "2026-06-14T14:00:00.000Z",
-      "summaryShort": "The new Sonos Play has become my go-to desk and kitchen speaker. The new Sonos Play can act as a portable speaker inside and outside your home.",
+      "sourceUrl": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
+      "publishedAt": "2026-06-15T04:01:00.000Z",
+      "summaryShort": "Orbio raises $21 million to automate hiring and onboarding for frontline workers. Orbio announces $21 Million Series A in round led by Dawn Capital.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "as-anthropic-suspends-access-to-new-models-india-debates-its-ai-",
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "id": "startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-par",
+      "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "publishedAt": "2026-06-14T03:00:00.000Z",
-      "summaryShort": "As Anthropic suspends access to new models, India debates its AI future. Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+      "sourceUrl": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
+      "publishedAt": "2026-06-14T21:55:34.000Z",
+      "summaryShort": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon. JPMorgan can't be pleased by any of this.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing-s-de",
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing's demand",
+      "id": "uk-may-ban-social-media-for-children-under-16",
+      "title": "UK may ban social media for children under 16",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "publishedAt": "2026-06-14T00:03:49.000Z",
-      "summaryShort": "Meta reportedly moves to unwind $2B Manus deal after Beijing's demand. Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "sourceUrl": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
+      "publishedAt": "2026-06-14T20:17:00.000Z",
+      "summaryShort": "UK may ban social media for children under 16. The U.K.",
       "tags": [
         "Engineering"
       ]
