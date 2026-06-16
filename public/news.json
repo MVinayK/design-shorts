@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-06-16T04:57:03.200Z",
+  "generatedAt": "2026-06-16T17:04:09.872Z",
   "items": [
+    {
+      "id": "presentation-automating-the-web-with-mcp-infra-that-doesn-t-brea",
+      "title": "Presentation: Automating the Web With MCP: Infra That Doesn’t Break",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/parallel-agents-production/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-16T13:13:00.000Z",
+      "summaryShort": "Presentation: Automating the Web With MCP: Infra That Doesn’t Break. Paul Klein discusses the distributed systems challenges of scaling cloud-hosted browser infra for AI agents.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "coinbase-postmortem-reveals-how-a-localized-aws-failure-triggere",
+      "title": "Coinbase Postmortem Reveals How a Localized AWS Failure Triggered a Multi-Hour Trading Outage",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/coinbase-aws-failure-postmortem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-16T12:00:00.000Z",
+      "summaryShort": "Coinbase Postmortem Reveals How a Localized AWS Failure Triggered a Multi-Hour Trading Outage. Coinbase has published a detailed postmortem of its May 7, 2026, outage, revealing how a localized cooling failure inside an AWS data center esca",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ai-coding-agents-get-a-stack-overflow-of-their-own",
+      "title": "AI Coding Agents Get a Stack Overflow of Their Own",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/stack-overflow-for-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-16T08:00:00.000Z",
+      "summaryShort": "AI Coding Agents Get a Stack Overflow of Their Own. Stack Overflow has announced Stack Overflow for Agents, a beta API-first knowledge exchange aimed at AI coding agents rather than human developers.",
+      "tags": [
+        "AI",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "postgresql-19-beta-introduces-sql-graph-queries-and-concurrent-t",
+      "title": "PostgreSQL 19 Beta Introduces SQL Graph Queries and Concurrent Table Repacking",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/postgresql-19-graph-queries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-16T07:15:00.000Z",
+      "summaryShort": "PostgreSQL 19 Beta Introduces SQL Graph Queries and Concurrent Table Repacking. PostgreSQL 19 Beta has been announced, with general availability expected in September, following the project's yearly major-release cadence.",
+      "tags": [
+        "Databases"
+      ]
+    },
     {
       "id": "java-news-roundup-a2a-java-sdk-1-0-jakarta-ee-12-jnosql-graalvm-",
       "title": "Java News Roundup: A2A Java SDK 1.0, Jakarta EE 12, JNoSQL, GraalVM, Micrometer, OpenXava, Gradle",
@@ -13,80 +59,36 @@
       ]
     },
     {
-      "id": "xcode-27-extends-agent-integration-revamps-ui-and-introduces-dev",
-      "title": "Xcode 27 Extends Agent Integration, Revamps UI, and Introduces DeviceHub",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/xcode-27-agents-device-hub/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-15T21:00:00.000Z",
-      "summaryShort": "Xcode 27 Extends Agent Integration, Revamps UI, and Introduces DeviceHub. At WWDC 2026, Apple introduced Xcode 27, which makes it easy to kick off tasks with coding agents, iterate on new project ideas, and customize the workspace.",
+      "id": "snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-th",
+      "title": "Snap finally debuts its long awaited AR glasses, Specs, and, oof, they aren't cheap",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
+      "publishedAt": "2026-06-16T17:00:00.000Z",
+      "summaryShort": "Snap finally debuts its long awaited AR glasses, Specs, and, oof, they aren't cheap. After many years, Snap is finally launching its next consumer-focused smart glasses line.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "anthropic-explains-how-claude-builds-its-own-execution-harnesses",
-      "title": "Anthropic Explains How Claude Builds Its Own Execution Harnesses",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/claude-code-harnesses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-15T20:55:00.000Z",
-      "summaryShort": "Anthropic Explains How Claude Builds Its Own Execution Harnesses. Anthropic has published additional details about the orchestration system behind Claude Code's recently introduced Dynamic Workflows, highlighting how the feature generates c",
+      "id": "sixty-percent-of-u-s-consumers-say-8216-ai-in-brand-messaging-is",
+      "title": "Sixty percent of U.S. consumers say &#8216;AI' in brand messaging is a turnoff, survey finds",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "publishedAt": "2026-06-16T16:49:44.000Z",
+      "summaryShort": "Sixty percent of U.S. consumers say &#8216;AI' in brand messaging is a turnoff, survey finds.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "spring-news-roundup-point-releases-of-boot-security-integration-",
-      "title": "Spring News Roundup: Point Releases of Boot, Security, Integration, Modulith and Spring AI 2.0",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/spring-news-roundup-jun08-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-15T14:15:00.000Z",
-      "summaryShort": "Spring News Roundup: Point Releases of Boot, Security, Integration, Modulith and Spring AI 2.0. There was a flurry of activity in the Spring ecosystem during the week of June 8th, 2026, highlighting point releases of: Spring Boot, Spring Se",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-practical-performance-tuning-for-serverless-java-on",
-      "title": "Presentation: Practical Performance Tuning for Serverless Java on AWS",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/java-aws-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-15T13:12:00.000Z",
-      "summaryShort": "Presentation: Practical Performance Tuning for Serverless Java on AWS. AWS Hero Vadym Kazulkin explains how to overcome Java’s enterprise hurdle on AWS Lambda: cold starts and memory footprints.",
+      "id": "spacex-is-public-everything-you-need-to-know-post-ipo",
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "publishedAt": "2026-06-16T15:53:12.000Z",
+      "summaryShort": "SpaceX is public: Everything you need to know post-IPO. TechCrunch has followed SpaceX's start, struggles, and successes from the early days.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony",
-      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google's Israel, ICE ties",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-      "publishedAt": "2026-06-15T23:51:44.000Z",
-      "summaryShort": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google's Israel, ICE ties. AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "the-us-government-s-anthropic-models-ban-was-never-about-an-ai-j",
-      "title": "The US government's Anthropic models ban was never about an AI jailbreak",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "publishedAt": "2026-06-15T21:50:21.000Z",
-      "summaryShort": "The US government's Anthropic models ban was never about an AI jailbreak. The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "meta-s-new-ai-mode-on-facebook-pulls-from-public-info-across-its",
-      "title": "Meta's new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-      "publishedAt": "2026-06-15T18:30:58.000Z",
-      "summaryShort": "Meta's new ‘AI Mode’ on Facebook pulls from public info across its platforms. Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep use",
-      "tags": [
-        "AI"
       ]
     }
   ]
