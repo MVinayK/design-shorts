@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-06-15T17:20:33.266Z",
+  "generatedAt": "2026-06-16T04:57:03.200Z",
   "items": [
+    {
+      "id": "java-news-roundup-a2a-java-sdk-1-0-jakarta-ee-12-jnosql-graalvm-",
+      "title": "Java News Roundup: A2A Java SDK 1.0, Jakarta EE 12, JNoSQL, GraalVM, Micrometer, OpenXava, Gradle",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/java-news-roundup-jun08-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-16T02:30:00.000Z",
+      "summaryShort": "Java News Roundup: A2A Java SDK 1.0, Jakarta EE 12, JNoSQL, GraalVM, Micrometer, OpenXava, Gradle. This week's Java roundup for June 8th, 2026, features news highlighting: the GA release of A2A Java SDK 1.0; an update on Jakarta EE 12; poin",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "xcode-27-extends-agent-integration-revamps-ui-and-introduces-dev",
+      "title": "Xcode 27 Extends Agent Integration, Revamps UI, and Introduces DeviceHub",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/xcode-27-agents-device-hub/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-15T21:00:00.000Z",
+      "summaryShort": "Xcode 27 Extends Agent Integration, Revamps UI, and Introduces DeviceHub. At WWDC 2026, Apple introduced Xcode 27, which makes it easy to kick off tasks with coding agents, iterate on new project ideas, and customize the workspace.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "anthropic-explains-how-claude-builds-its-own-execution-harnesses",
+      "title": "Anthropic Explains How Claude Builds Its Own Execution Harnesses",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/claude-code-harnesses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-15T20:55:00.000Z",
+      "summaryShort": "Anthropic Explains How Claude Builds Its Own Execution Harnesses. Anthropic has published additional details about the orchestration system behind Claude Code's recently introduced Dynamic Workflows, highlighting how the feature generates c",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "spring-news-roundup-point-releases-of-boot-security-integration-",
       "title": "Spring News Roundup: Point Releases of Boot, Security, Integration, Modulith and Spring AI 2.0",
@@ -24,71 +57,36 @@
       ]
     },
     {
-      "id": "arrowjs-reaches-1-0-recast-as-the-first-ui-framework-for-the-age",
-      "title": "ArrowJS Reaches 1.0, Recast as the First UI Framework for the Agentic Era",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/arrowjs-v1-agentic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-15T13:10:00.000Z",
-      "summaryShort": "ArrowJS Reaches 1.0, Recast as the First UI Framework for the Agentic Era. ArrowJS, developed by Justin Schroeder, is a reactive UI library that has reached its 1.0 release after three years in development.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "article-governing-ai-in-the-cloud-a-practical-guide-for-architec",
-      "title": "Article: Governing AI in the Cloud: A Practical Guide for Architects",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/governing-ai-cloud-guide/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-15T11:00:00.000Z",
-      "summaryShort": "Article: Governing AI in the Cloud: A Practical Guide for Architects. In this article, the author outlines a practical approach to AI governance in the cloud, covering discovery of shadow AI, data classification at creation, IAM-based enfor",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "podcast-increasing-users-data-agency-from-bluesky-s-at-protocol-",
-      "title": "Podcast: Increasing Users' Data Agency: From BlueSky's AT Protocol to the Local-First Software Movement",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/increasing-users-data-agency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-15T11:00:00.000Z",
-      "summaryShort": "Podcast: Increasing Users' Data Agency: From BlueSky's AT Protocol to the Local-First Software Movement. Martin Kleppmann, an associate professor at Cambridge and author of Designing Data-Intensive Applications, discusses the evolution of d",
-      "tags": [
-        "Databases",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "cybersecurity-vets-protest-8216-dangerous-us-government-ban-on-a",
-      "title": "Cybersecurity vets protest &#8216;dangerous' US government ban on Anthropic's most powerful models",
+      "id": "sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony",
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google's Israel, ICE ties",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-      "publishedAt": "2026-06-15T15:29:51.000Z",
-      "summaryShort": "Cybersecurity vets protest &#8216;dangerous' US government ban on Anthropic's most powerful models. A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable a",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "publishedAt": "2026-06-15T23:51:44.000Z",
+      "summaryShort": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google's Israel, ICE ties. AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "spacex-s-biggest-ever-ipo-just-grew-to-85-7-billion-raised",
-      "title": "SpaceX's biggest-ever IPO just grew to $85.7 billion raised",
+      "id": "the-us-government-s-anthropic-models-ban-was-never-about-an-ai-j",
+      "title": "The US government's Anthropic models ban was never about an AI jailbreak",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
-      "publishedAt": "2026-06-15T14:45:03.000Z",
-      "summaryShort": "SpaceX's biggest-ever IPO just grew to $85.7 billion raised. SpaceX's IPO underwriters maxed out their share purchases, adding to an already historic amount of money raised.",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "publishedAt": "2026-06-15T21:50:21.000Z",
+      "summaryShort": "The US government's Anthropic models ban was never about an AI jailbreak. The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "uk-unveils-sweeping-social-media-ban-for-users-under-16",
-      "title": "UK unveils sweeping social media ban for users under 16",
+      "id": "meta-s-new-ai-mode-on-facebook-pulls-from-public-info-across-its",
+      "title": "Meta's new ‘AI Mode’ on Facebook pulls from public info across its platforms",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/",
-      "publishedAt": "2026-06-15T14:36:56.000Z",
-      "summaryShort": "UK unveils sweeping social media ban for users under 16. The ban would apply to a range of social media platforms, including Snapchat, TikTok, YouTube, Instagram, Facebook, and X.",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "publishedAt": "2026-06-15T18:30:58.000Z",
+      "summaryShort": "Meta's new ‘AI Mode’ on Facebook pulls from public info across its platforms. Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep use",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
