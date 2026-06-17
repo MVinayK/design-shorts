@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-06-17T04:43:24.843Z",
+  "generatedAt": "2026-06-17T15:46:36.942Z",
   "items": [
+    {
+      "id": "ai-agent-identity-and-permission-challenges-how-uber-and-auth0-a",
+      "title": "AI Agent Identity and Permission Challenges: How Uber and Auth0 Are Rethinking Access Control",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/ai-agent-identity-uber-auth0/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-17T12:15:00.000Z",
+      "summaryShort": "AI Agent Identity and Permission Challenges: How Uber and Auth0 Are Rethinking Access Control. Uber recently described an internal architecture for propagating identity across multi-agent AI workflows.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-from-hype-to-strong-foundations-what-the-rise-fall-",
+      "title": "Presentation: From Hype to Strong Foundations: What the Rise, Fall and Resurgence of Agents Can Teach Us About Outlasting the Cycle",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/llm-compound-ai-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-17T11:04:00.000Z",
+      "summaryShort": "Presentation: From Hype to Strong Foundations: What the Rise, Fall and Resurgence of Agents Can Teach Us About Outlasting the Cycle. Aditya Kumarakrishnan explains how to move past the \"amnesia phase\" of AI.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "github-copilot-desktop-app-targets-parallel-agentic-workflows",
+      "title": "GitHub Copilot Desktop App Targets Parallel Agentic Workflows",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/github-copilot-app/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-17T08:00:00.000Z",
+      "summaryShort": "GitHub Copilot Desktop App Targets Parallel Agentic Workflows. GitHub has introduced the GitHub Copilot app, a desktop control centre for agent-native development that aims to keep engineers in charge while AI agents handle more coding work",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "presentation-automating-the-web-with-mcp-infra-that-doesn-t-brea",
       "title": "Presentation: Automating the Web With MCP: Infra That Doesn’t Break",
@@ -25,70 +58,36 @@
       ]
     },
     {
-      "id": "ai-coding-agents-get-a-stack-overflow-of-their-own",
-      "title": "AI Coding Agents Get a Stack Overflow of Their Own",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/stack-overflow-for-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-16T08:00:00.000Z",
-      "summaryShort": "AI Coding Agents Get a Stack Overflow of Their Own. Stack Overflow has announced Stack Overflow for Agents, a beta API-first knowledge exchange aimed at AI coding agents rather than human developers.",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "postgresql-19-beta-introduces-sql-graph-queries-and-concurrent-t",
-      "title": "PostgreSQL 19 Beta Introduces SQL Graph Queries and Concurrent Table Repacking",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/postgresql-19-graph-queries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-16T07:15:00.000Z",
-      "summaryShort": "PostgreSQL 19 Beta Introduces SQL Graph Queries and Concurrent Table Repacking. PostgreSQL 19 Beta has been announced, with general availability expected in September, following the project's yearly major-release cadence.",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "java-news-roundup-a2a-java-sdk-1-0-jakarta-ee-12-jnosql-graalvm-",
-      "title": "Java News Roundup: A2A Java SDK 1.0, Jakarta EE 12, JNoSQL, GraalVM, Micrometer, OpenXava, Gradle",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/java-news-roundup-jun08-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-16T02:30:00.000Z",
-      "summaryShort": "Java News Roundup: A2A Java SDK 1.0, Jakarta EE 12, JNoSQL, GraalVM, Micrometer, OpenXava, Gradle. This week's Java roundup for June 8th, 2026, features news highlighting: the GA release of A2A Java SDK 1.0; an update on Jakarta EE 12; poin",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "anthropic-s-latest-feud-with-the-trump-admin-may-actually-help-i",
-      "title": "Anthropic's latest feud with the Trump admin may actually help it, sales data suggests",
+      "id": "the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and",
+      "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-      "publishedAt": "2026-06-16T22:34:17.000Z",
-      "summaryShort": "Anthropic's latest feud with the Trump admin may actually help it, sales data suggests. Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+      "sourceUrl": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+      "publishedAt": "2026-06-17T15:24:41.000Z",
+      "summaryShort": "The slowtech revolution is here to kill your phone addiction and rescue your attention span. “People just really want to take back control of their time, their lives, their attention...",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "apple-plans-to-change-its-hide-my-email-privacy-feature-that-cou",
-      "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+      "id": "collecting-robot-training-data-is-dirty-unglamorous-work-some-ai",
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
-      "publishedAt": "2026-06-16T22:09:32.000Z",
-      "summaryShort": "Apple plans to change its Hide My Email privacy feature that could make it less effective. In the coming weeks, Apple will move anonymously generated emails addresses to a different domain.",
+      "sourceUrl": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "publishedAt": "2026-06-17T15:00:00.000Z",
+      "summaryShort": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it..",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "spacex-valuation-balloons-to-2-6t-briefly-passes-amazon",
-      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+      "id": "pramaana-labs-raises-27m-seed-round-from-khosla-ventures-to-brin",
+      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-      "publishedAt": "2026-06-16T20:11:00.000Z",
-      "summaryShort": "SpaceX valuation balloons to $2.6T, briefly passes Amazon. SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+      "sourceUrl": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "publishedAt": "2026-06-17T14:15:22.000Z",
+      "summaryShort": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI. Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
