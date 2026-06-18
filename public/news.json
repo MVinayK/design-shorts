@@ -1,93 +1,92 @@
 {
-  "generatedAt": "2026-06-18T04:26:49.593Z",
+  "generatedAt": "2026-06-18T15:36:52.355Z",
   "items": [
     {
-      "id": "ai-agent-identity-and-permission-challenges-how-uber-and-auth0-a",
-      "title": "AI Agent Identity and Permission Challenges: How Uber and Auth0 Are Rethinking Access Control",
+      "id": "from-camera-to-cloud-netflix-s-scalable-media-processing-pipelin",
+      "title": "From Camera to Cloud: Netflix’s Scalable Media Processing Pipeline",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/ai-agent-identity-uber-auth0/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-17T12:15:00.000Z",
-      "summaryShort": "AI Agent Identity and Permission Challenges: How Uber and Auth0 Are Rethinking Access Control. Uber recently described an internal architecture for propagating identity across multi-agent AI workflows.",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/netflix-camera-file-processing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-18T14:36:00.000Z",
+      "summaryShort": "From Camera to Cloud: Netflix’s Scalable Media Processing Pipeline. Netflix has detailed a cloud-based system for scaling camera file processing across global film and TV workflows.",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-from-hype-to-strong-foundations-what-the-rise-fall-",
-      "title": "Presentation: From Hype to Strong Foundations: What the Rise, Fall and Resurgence of Agents Can Teach Us About Outlasting the Cycle",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/llm-compound-ai-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-17T11:04:00.000Z",
-      "summaryShort": "Presentation: From Hype to Strong Foundations: What the Rise, Fall and Resurgence of Agents Can Teach Us About Outlasting the Cycle. Aditya Kumarakrishnan explains how to move past the \"amnesia phase\" of AI.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "github-copilot-desktop-app-targets-parallel-agentic-workflows",
-      "title": "GitHub Copilot Desktop App Targets Parallel Agentic Workflows",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/github-copilot-app/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-17T08:00:00.000Z",
-      "summaryShort": "GitHub Copilot Desktop App Targets Parallel Agentic Workflows. GitHub has introduced the GitHub Copilot app, a desktop control centre for agent-native development that aims to keep engineers in charge while AI agents handle more coding work",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-automating-the-web-with-mcp-infra-that-doesn-t-brea",
-      "title": "Presentation: Automating the Web With MCP: Infra That Doesn’t Break",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/parallel-agents-production/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-16T13:13:00.000Z",
-      "summaryShort": "Presentation: Automating the Web With MCP: Infra That Doesn’t Break. Paul Klein discusses the distributed systems challenges of scaling cloud-hosted browser infra for AI agents.",
-      "tags": [
-        "AI",
         "Cloud"
       ]
     },
     {
-      "id": "coinbase-postmortem-reveals-how-a-localized-aws-failure-triggere",
-      "title": "Coinbase Postmortem Reveals How a Localized AWS Failure Triggered a Multi-Hour Trading Outage",
+      "id": "presentation-write-ahead-intent-log-a-foundation-for-efficient-c",
+      "title": "Presentation: Write-Ahead Intent Log: A Foundation for Efficient CDC at Scale",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/coinbase-aws-failure-postmortem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-16T12:00:00.000Z",
-      "summaryShort": "Coinbase Postmortem Reveals How a Localized AWS Failure Triggered a Multi-Hour Trading Outage. Coinbase has published a detailed postmortem of its May 7, 2026, outage, revealing how a localized cooling failure inside an AWS data center esca",
+      "sourceUrl": "https://www.infoq.com/presentations/write-ahead-intent-log/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-18T13:13:00.000Z",
+      "summaryShort": "Presentation: Write-Ahead Intent Log: A Foundation for Efficient CDC at Scale. Vinay Chella and Akshat Goel discuss the challenges of running traditional CDC across heterogeneous databases during peak order traffic.",
+      "tags": [
+        "Databases"
+      ]
+    },
+    {
+      "id": "how-lightweight-adrs-and-architectural-advice-forums-can-support",
+      "title": "How Lightweight ADRs and Architectural Advice Forums Can Support Architectural Decisions",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/architectural-decisions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-18T11:35:00.000Z",
+      "summaryShort": "How Lightweight ADRs and Architectural Advice Forums Can Support Architectural Decisions. How we decide is at the core of architecture, and the architecture advice process is a way to decentralize architectural decisions.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "how-to-turn-off-ai-in-your-google-docs",
-      "title": "How to turn off AI in your Google Docs",
+      "id": "ky-2-0-fetch-api-wrapper-with-revamped-hooks-smarter-timeouts-an",
+      "title": "Ky 2.0 Fetch API Wrapper with Revamped Hooks, Smarter Timeouts, and Built-In Schema Validation",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/ky-2-revamp-axios/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-18T11:30:00.000Z",
+      "summaryShort": "Ky 2.0 Fetch API Wrapper with Revamped Hooks, Smarter Timeouts, and Built-In Schema Validation. Ky 2.0 is an open-source JavaScript HTTP client built on the Fetch API, featuring significant updates such as consolidated hook handling, enhanc",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "vs-code-1-123-adds-two-hour-extension-update-delay-to-limit-supp",
+      "title": "VS Code 1.123 Adds Two-Hour Extension Update Delay to Limit Supply Chain Attacks",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/vscode-extension-update-delay/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-18T10:15:00.000Z",
+      "summaryShort": "VS Code 1.123 Adds Two-Hour Extension Update Delay to Limit Supply Chain Attacks. VS Code 1.123 adds a two-hour delay before auto-updating extensions to newly published versions, creating a revocation window against supply chain attacks.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "general-intuition-in-talks-to-raise-300m-at-around-2b-valuation",
+      "title": "General Intuition in talks to raise $300M at around $2B valuation",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-      "publishedAt": "2026-06-18T01:23:51.000Z",
-      "summaryShort": "How to turn off AI in your Google Docs. Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+      "sourceUrl": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+      "publishedAt": "2026-06-18T15:20:37.000Z",
+      "summaryShort": "General Intuition in talks to raise $300M at around $2B valuation. General Intuition is in talks to raise around $300 million at a roughly $2 billion valuation from backers including Jeff Bezos.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-pr",
-      "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+      "id": "a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-tech-s-10",
+      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
-      "publishedAt": "2026-06-17T23:28:21.000Z",
-      "summaryShort": "AI is hurting Apple in more ways than one: it may force iPhone price increases. CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
+      "sourceUrl": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+      "publishedAt": "2026-06-18T15:13:21.000Z",
+      "summaryShort": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight. Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winner",
-      "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won't be selling AI",
+      "id": "spotify-s-reserved-ticket-sales-to-music-superfans-are-now-going",
+      "title": "Spotify's reserved ticket sales to music superfans are now going live",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
-      "publishedAt": "2026-06-17T21:30:50.000Z",
-      "summaryShort": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won't be selling AI. Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.",
+      "sourceUrl": "https://techcrunch.com/2026/06/18/spotifys-reserved-ticket-sales-to-musics-superfans-are-now-going-live/",
+      "publishedAt": "2026-06-18T14:00:00.000Z",
+      "summaryShort": "Spotify's reserved ticket sales to music superfans are now going live. Spotify is launching \"Reserved,\" a new system that will hold two concert tickets for an artist's superfans before they're on sale to the public.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
