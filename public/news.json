@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T15:36:52.355Z",
+  "generatedAt": "2026-06-19T04:54:38.209Z",
   "items": [
     {
       "id": "from-camera-to-cloud-netflix-s-scalable-media-processing-pipelin",
@@ -57,36 +57,36 @@
       ]
     },
     {
-      "id": "general-intuition-in-talks-to-raise-300m-at-around-2b-valuation",
-      "title": "General Intuition in talks to raise $300M at around $2B valuation",
+      "id": "telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps",
+      "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-      "publishedAt": "2026-06-18T15:20:37.000Z",
-      "summaryShort": "General Intuition in talks to raise $300M at around $2B valuation. General Intuition is in talks to raise around $300 million at a roughly $2 billion valuation from backers including Jeff Bezos.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-tech-s-10",
-      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-      "publishedAt": "2026-06-18T15:13:21.000Z",
-      "summaryShort": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight. Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "spotify-s-reserved-ticket-sales-to-music-superfans-are-now-going",
-      "title": "Spotify's reserved ticket sales to music superfans are now going live",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/18/spotifys-reserved-ticket-sales-to-musics-superfans-are-now-going-live/",
-      "publishedAt": "2026-06-18T14:00:00.000Z",
-      "summaryShort": "Spotify's reserved ticket sales to music superfans are now going live. Spotify is launching \"Reserved,\" a new system that will hold two concert tickets for an artist's superfans before they're on sale to the public.",
+      "sourceUrl": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+      "publishedAt": "2026-06-19T01:01:00.000Z",
+      "summaryShort": "Telegram ban in India sparks a rush to VPNs, rival apps. Telegram argues India should block specific content, not an entire platform used by millions.",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85",
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "publishedAt": "2026-06-19T00:51:11.000Z",
+      "summaryShort": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M. DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "ai-inference-startup-baseten-reportedly-raising-1-5b-months-afte",
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "publishedAt": "2026-06-18T21:20:13.000Z",
+      "summaryShort": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round. Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+      "tags": [
+        "AI"
       ]
     }
   ]
