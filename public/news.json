@@ -1,92 +1,92 @@
 {
-  "generatedAt": "2026-06-19T04:54:38.209Z",
+  "generatedAt": "2026-06-19T15:30:43.159Z",
   "items": [
     {
-      "id": "from-camera-to-cloud-netflix-s-scalable-media-processing-pipelin",
-      "title": "From Camera to Cloud: Netflix’s Scalable Media Processing Pipeline",
+      "id": "behind-the-scenes-block-450-jvm-repositories-into-monorepo-to-re",
+      "title": "Behind the Scenes: Block 450 JVM Repositories Into Monorepo to Reduce Dependency Drift",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/netflix-camera-file-processing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-18T14:36:00.000Z",
-      "summaryShort": "From Camera to Cloud: Netflix’s Scalable Media Processing Pipeline. Netflix has detailed a cloud-based system for scaling camera file processing across global film and TV workflows.",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/block-450-jvm-monorepo-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-19T14:47:00.000Z",
+      "summaryShort": "Behind the Scenes: Block 450 JVM Repositories Into Monorepo to Reduce Dependency Drift. Block, Inc.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-ai-agents-to-make-sense-of-data-at-openai",
+      "title": "Presentation: AI Agents to Make Sense of Data at OpenAI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/data-aware-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-19T12:02:00.000Z",
+      "summaryShort": "Presentation: AI Agents to Make Sense of Data at OpenAI. OpenAI’s Bonnie Xu discusses Kepler, an internal AI data analyst agent built to query 600+ petabytes of data.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "circleci-introduces-chunk-sidecars-to-bring-ci-validation-direct",
+      "title": "CircleCI Introduces Chunk Sidecars to Bring CI Validation Directly Into AI Coding Workflows",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/circleci-chunk-sidecars/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-19T12:00:00.000Z",
+      "summaryShort": "CircleCI Introduces Chunk Sidecars to Bring CI Validation Directly Into AI Coding Workflows. CircleCI has launched Chunk Sidecars, a new capability designed to bring CI-style validation directly into an AI coding agent's inner development l",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "tsrx-a-framework-agnostic-alternative-to-jsx",
+      "title": "TSRX: A Framework-Agnostic Alternative to JSX",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/tsrx-alternative-jsx/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-19T11:49:00.000Z",
+      "summaryShort": "TSRX: A Framework-Agnostic Alternative to JSX. TSRX is a TypeScript language extension developed by Dominic Gannaway, designed to build declarative user interfaces in a framework-agnostic manner.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "article-designing-continuous-authorization-for-sensitive-cloud-s",
+      "title": "Article: Designing Continuous Authorization for Sensitive Cloud Systems",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/continuous-authorization-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-19T09:00:00.000Z",
+      "summaryShort": "Article: Designing Continuous Authorization for Sensitive Cloud Systems. Most cloud systems make one authorization decision at login.",
       "tags": [
         "Cloud"
       ]
     },
     {
-      "id": "presentation-write-ahead-intent-log-a-foundation-for-efficient-c",
-      "title": "Presentation: Write-Ahead Intent Log: A Foundation for Efficient CDC at Scale",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/write-ahead-intent-log/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-18T13:13:00.000Z",
-      "summaryShort": "Presentation: Write-Ahead Intent Log: A Foundation for Efficient CDC at Scale. Vinay Chella and Akshat Goel discuss the challenges of running traditional CDC across heterogeneous databases during peak order traffic.",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "how-lightweight-adrs-and-architectural-advice-forums-can-support",
-      "title": "How Lightweight ADRs and Architectural Advice Forums Can Support Architectural Decisions",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/architectural-decisions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-18T11:35:00.000Z",
-      "summaryShort": "How Lightweight ADRs and Architectural Advice Forums Can Support Architectural Decisions. How we decide is at the core of architecture, and the architecture advice process is a way to decentralize architectural decisions.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "ky-2-0-fetch-api-wrapper-with-revamped-hooks-smarter-timeouts-an",
-      "title": "Ky 2.0 Fetch API Wrapper with Revamped Hooks, Smarter Timeouts, and Built-In Schema Validation",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/ky-2-revamp-axios/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-18T11:30:00.000Z",
-      "summaryShort": "Ky 2.0 Fetch API Wrapper with Revamped Hooks, Smarter Timeouts, and Built-In Schema Validation. Ky 2.0 is an open-source JavaScript HTTP client built on the Fetch API, featuring significant updates such as consolidated hook handling, enhanc",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "vs-code-1-123-adds-two-hour-extension-update-delay-to-limit-supp",
-      "title": "VS Code 1.123 Adds Two-Hour Extension Update Delay to Limit Supply Chain Attacks",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/vscode-extension-update-delay/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-18T10:15:00.000Z",
-      "summaryShort": "VS Code 1.123 Adds Two-Hour Extension Update Delay to Limit Supply Chain Attacks. VS Code 1.123 adds a two-hour delay before auto-updating extensions to newly published versions, creating a revocation window against supply chain attacks.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps",
-      "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+      "id": "billionaire-ambani-wants-ai-in-every-call-app-and-home",
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
-      "publishedAt": "2026-06-19T01:01:00.000Z",
-      "summaryShort": "Telegram ban in India sparks a rush to VPNs, rival apps. Telegram argues India should block specific content, not an entire platform used by millions.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85",
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "publishedAt": "2026-06-19T00:51:11.000Z",
-      "summaryShort": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M. DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "sourceUrl": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "publishedAt": "2026-06-19T15:23:28.000Z",
+      "summaryShort": "Billionaire Ambani wants AI in every call, app, and home. Reliance is weaving AI into telecom services used by more than 500 million people.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "ai-inference-startup-baseten-reportedly-raising-1-5b-months-afte",
-      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "id": "the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees",
+      "title": "The CEO of Allbirds' new AI biz has a plan, but no employees",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-      "publishedAt": "2026-06-18T21:20:13.000Z",
-      "summaryShort": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round. Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+      "sourceUrl": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "publishedAt": "2026-06-19T13:00:00.000Z",
+      "summaryShort": "The CEO of Allbirds' new AI biz has a plan, but no employees. Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "the-us-says-asml-s-top-chip-tool-may-be-in-china-asml-says-it-is",
+      "title": "The US says ASML's top chip tool may be in China. ASML says it isn't",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "publishedAt": "2026-06-19T07:59:12.000Z",
+      "summaryShort": "The US says ASML's top chip tool may be in China. ASML says it isn't.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
