@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-06-20T04:09:25.129Z",
+  "generatedAt": "2026-06-20T14:14:13.662Z",
   "items": [
+    {
+      "id": "apple-launches-core-ai-for-apple-silicon-optimized-on-device-gen",
+      "title": "Apple Launches Core AI for Apple-Silicon Optimized On-Device Generative AI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/apple-core-ai-wwdc/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-20T11:00:00.000Z",
+      "summaryShort": "Apple Launches Core AI for Apple-Silicon Optimized On-Device Generative AI. At WWDC 26, Apple announced the Core AI framework, the official successor to Core ML.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "claude-fable-5-on-bedrock-requires-sharing-inference-data-with-a",
+      "title": "Claude Fable 5 on Bedrock Requires Sharing Inference Data with Anthropic",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/bedrock-fable-5-data-sharing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-20T09:03:00.000Z",
+      "summaryShort": "Claude Fable 5 on Bedrock Requires Sharing Inference Data with Anthropic. Using Claude Fable 5 or Mythos 5 on Amazon Bedrock requires opting into provider_data_share, sending prompts and outputs to Anthropic for 30-day retention with human ",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "aws-adds-multi-region-replication-to-amazon-cognito-identity-ser",
+      "title": "AWS Adds Multi-Region Replication to Amazon Cognito Identity Service",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/cognito-replication-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-20T07:40:00.000Z",
+      "summaryShort": "AWS Adds Multi-Region Replication to Amazon Cognito Identity Service. AWS recently introduced Amazon Cognito multi-region replication, which automatically replicates user identities and user pool configurations from a primary region to a se",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "behind-the-scenes-block-450-jvm-repositories-into-monorepo-to-re",
       "title": "Behind the Scenes: Block 450 JVM Repositories Into Monorepo to Reduce Dependency Drift",
@@ -24,39 +57,6 @@
       ]
     },
     {
-      "id": "circleci-introduces-chunk-sidecars-to-bring-ci-validation-direct",
-      "title": "CircleCI Introduces Chunk Sidecars to Bring CI Validation Directly Into AI Coding Workflows",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/circleci-chunk-sidecars/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-19T12:00:00.000Z",
-      "summaryShort": "CircleCI Introduces Chunk Sidecars to Bring CI Validation Directly Into AI Coding Workflows. CircleCI has launched Chunk Sidecars, a new capability designed to bring CI-style validation directly into an AI coding agent's inner development l",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "tsrx-a-framework-agnostic-alternative-to-jsx",
-      "title": "TSRX: A Framework-Agnostic Alternative to JSX",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/tsrx-alternative-jsx/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-19T11:49:00.000Z",
-      "summaryShort": "TSRX: A Framework-Agnostic Alternative to JSX. TSRX is a TypeScript language extension developed by Dominic Gannaway, designed to build declarative user interfaces in a framework-agnostic manner.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "article-designing-continuous-authorization-for-sensitive-cloud-s",
-      "title": "Article: Designing Continuous Authorization for Sensitive Cloud Systems",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/continuous-authorization-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-19T09:00:00.000Z",
-      "summaryShort": "Article: Designing Continuous Authorization for Sensitive Cloud Systems. Most cloud systems make one authorization decision at login.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
       "id": "he-made-your-free-video-player-run-smoothly-now-he-s-doing-that-",
       "title": "He made your free video player run smoothly. Now he's doing that for robots.",
       "sourceName": "TechCrunch",
@@ -68,12 +68,12 @@
       ]
     },
     {
-      "id": "encryption-spyware-and-now-mythos-history-shows-why-cyber-export",
-      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn't work",
+      "id": "from-pgp-to-mythos-a-brief-history-of-export-controls-that-didn-",
+      "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
       "sourceName": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
       "publishedAt": "2026-06-19T22:40:14.000Z",
-      "summaryShort": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn't work. For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective.",
+      "summaryShort": "From PGP to Mythos: a brief history of export controls that didn't stop anyone. For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective.",
       "tags": [
         "AI"
       ]
