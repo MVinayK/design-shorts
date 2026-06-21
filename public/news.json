@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-06-20T14:14:13.662Z",
+  "generatedAt": "2026-06-21T04:50:43.063Z",
   "items": [
+    {
+      "id": "inside-atlassian-s-forge-billing-architecture-for-distributed-us",
+      "title": "Inside Atlassian’s Forge Billing Architecture for Distributed Usage Tracking at Scale",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/forge-billing-usage-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-20T14:21:00.000Z",
+      "summaryShort": "Inside Atlassian’s Forge Billing Architecture for Distributed Usage Tracking at Scale. Atlassian details the Forge billing platform built for usage-based pricing across its cloud ecosystem.",
+      "tags": [
+        "Databases",
+        "Cloud"
+      ]
+    },
     {
       "id": "apple-launches-core-ai-for-apple-silicon-optimized-on-device-gen",
       "title": "Apple Launches Core AI for Apple-Silicon Optimized On-Device Generative AI",
@@ -46,45 +58,34 @@
       ]
     },
     {
-      "id": "presentation-ai-agents-to-make-sense-of-data-at-openai",
-      "title": "Presentation: AI Agents to Make Sense of Data at OpenAI",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/data-aware-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-19T12:02:00.000Z",
-      "summaryShort": "Presentation: AI Agents to Make Sense of Data at OpenAI. OpenAI’s Bonnie Xu discusses Kepler, an internal AI data analyst agent built to query 600+ petabytes of data.",
+      "id": "signal-s-meredith-whittaker-wants-you-to-remember-that-ai-chatbo",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "publishedAt": "2026-06-20T20:32:29.000Z",
+      "summaryShort": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’. \"These are not your friends.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "he-made-your-free-video-player-run-smoothly-now-he-s-doing-that-",
-      "title": "He made your free video player run smoothly. Now he's doing that for robots.",
+      "id": "in-the-weights-is-your-new-ai-centric-vanity-search",
+      "title": "In the Weights is your new AI-centric vanity search",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
-      "publishedAt": "2026-06-20T00:47:44.000Z",
-      "summaryShort": "He made your free video player run smoothly. Now he's doing that for robots..",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "from-pgp-to-mythos-a-brief-history-of-export-controls-that-didn-",
-      "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "publishedAt": "2026-06-19T22:40:14.000Z",
-      "summaryShort": "From PGP to Mythos: a brief history of export controls that didn't stop anyone. For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective.",
+      "sourceUrl": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "publishedAt": "2026-06-20T19:41:11.000Z",
+      "summaryShort": "In the Weights is your new AI-centric vanity search. So ...",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "go-eyes-robotaxis-and-acquisitions-after-japan-s-biggest-ipo-of-",
-      "title": "Go eyes robotaxis and acquisitions after Japan's biggest IPO of 2026. Here's why it matters",
+      "id": "founders-fund-s-outlier-bet-on-humanely-killed-fish",
+      "title": "Founders Fund's outlier bet on humanely killed fish",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
-      "publishedAt": "2026-06-19T21:45:00.000Z",
-      "summaryShort": "Go eyes robotaxis and acquisitions after Japan's biggest IPO of 2026. Here's why it matters.",
+      "sourceUrl": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+      "publishedAt": "2026-06-20T18:26:02.000Z",
+      "summaryShort": "Founders Fund's outlier bet on humanely killed fish. Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
       "tags": [
         "Engineering"
       ]
