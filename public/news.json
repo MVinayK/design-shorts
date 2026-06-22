@@ -1,91 +1,90 @@
 {
-  "generatedAt": "2026-06-22T04:59:12.757Z",
+  "generatedAt": "2026-06-22T17:04:50.929Z",
   "items": [
     {
-      "id": "anthropic-reports-claude-now-handles-95-of-internal-analytics-qu",
-      "title": "Anthropic Reports Claude Now Handles 95% of Internal Analytics Queries",
+      "id": "presentation-challenging-google-analytics-building-a-scalable-co",
+      "title": "Presentation: Challenging Google Analytics: Building a Scalable, Cost-Effective User Tracking Service",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/anthropic-claude-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-21T16:47:00.000Z",
-      "summaryShort": "Anthropic Reports Claude Now Handles 95% of Internal Analytics Queries. Anthropic recently reported that Claude now handles around 95% of its internal analytics requests, letting employees query business data independently instead of relyin",
+      "sourceUrl": "https://www.infoq.com/presentations/mobile-user-tracking-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-22T15:07:00.000Z",
+      "summaryShort": "Presentation: Challenging Google Analytics: Building a Scalable, Cost-Effective User Tracking Service. Alina Krasavina explains how Delivery Hero successfully deprecated Google Analytics and migrated to an internal user tracking platform.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "java-news-roundup-spring-tools-helidon-open-liberty-tomee-jobrun",
+      "title": "Java News Roundup: Spring Tools, Helidon, Open Liberty, TomEE, JobRunr, Hibernate, Commonhaus",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/java-news-roundup-jun15-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-22T13:15:00.000Z",
+      "summaryShort": "Java News Roundup: Spring Tools, Helidon, Open Liberty, TomEE, JobRunr, Hibernate, Commonhaus. This week's Java roundup for June 15th, 2026, features news highlighting: point releases of Spring Tools, Helidon, JobRunr and Gradle; the June 2",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "article-understanding-ml-model-poisoning-how-it-happens-and-how-",
+      "title": "Article: Understanding ML Model Poisoning: How It Happens and How to Detect It",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/understanding-ml-model-poisoning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-22T11:00:00.000Z",
+      "summaryShort": "Article: Understanding ML Model Poisoning: How It Happens and How to Detect It. In this article, the author explores data poisoning as a threat to machine learning systems, covering techniques such as label flipping, backdoors, clean-label ",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "inside-atlassian-s-forge-billing-architecture-for-distributed-us",
-      "title": "Inside Atlassian’s Forge Billing Architecture for Distributed Usage Tracking at Scale",
+      "id": "podcast-how-ebpf-empowers-developers-to-observe-inside-the-linux",
+      "title": "Podcast: How eBPF Empowers Developers to Observe Inside the Linux Kernel in a Safe and Unintrusive Way",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/forge-billing-usage-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-20T14:21:00.000Z",
-      "summaryShort": "Inside Atlassian’s Forge Billing Architecture for Distributed Usage Tracking at Scale. Atlassian details the Forge billing platform built for usage-based pricing across its cloud ecosystem.",
+      "sourceUrl": "https://www.infoq.com/podcasts/empowers-developers-inside-linux-kernel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-22T11:00:00.000Z",
+      "summaryShort": "Podcast: How eBPF Empowers Developers to Observe Inside the Linux Kernel in a Safe and Unintrusive Way. Dan Fineran explores how eBPF has evolved far beyond its roots in packet filtering into a robust, safe way to extend the Linux kernel.",
       "tags": [
-        "Databases",
-        "Cloud"
+        "Engineering"
       ]
     },
     {
-      "id": "apple-launches-core-ai-for-apple-silicon-optimized-on-device-gen",
-      "title": "Apple Launches Core AI for Apple-Silicon Optimized On-Device Generative AI",
+      "id": "aws-graviton5-reaches-general-availability-with-192-cores-and-fo",
+      "title": "AWS Graviton5 Reaches General Availability with 192 Cores and Formally Verified VM Isolation",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/apple-core-ai-wwdc/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-20T11:00:00.000Z",
-      "summaryShort": "Apple Launches Core AI for Apple-Silicon Optimized On-Device Generative AI. At WWDC 26, Apple announced the Core AI framework, the official successor to Core ML.",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/aws-graviton5-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-22T10:05:00.000Z",
+      "summaryShort": "AWS Graviton5 Reaches General Availability with 192 Cores and Formally Verified VM Isolation. AWS made Graviton5-powered EC2 M9g and M9gd instances generally available with 192 ARM cores, formally verified VM isolation via the Nitro Isolati",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-la",
+      "title": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "publishedAt": "2026-06-22T16:51:29.000Z",
+      "summaryShort": "SpaceX inks compute deal with Reflection AI, an open-source AI lab. Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "aws-adds-multi-region-replication-to-amazon-cognito-identity-ser",
-      "title": "AWS Adds Multi-Region Replication to Amazon Cognito Identity Service",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/cognito-replication-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-20T07:40:00.000Z",
-      "summaryShort": "AWS Adds Multi-Region Replication to Amazon Cognito Identity Service. AWS recently introduced Amazon Cognito multi-region replication, which automatically replicates user identities and user pool configurations from a primary region to a se",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "behind-the-scenes-block-450-jvm-repositories-into-monorepo-to-re",
-      "title": "Behind the Scenes: Block 450 JVM Repositories into Monorepo to Reduce Dependency Drift",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/block-450-jvm-monorepo-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-19T14:47:00.000Z",
-      "summaryShort": "Behind the Scenes: Block 450 JVM Repositories into Monorepo to Reduce Dependency Drift. Block, Inc.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "ubisoft-co-founder-claude-guillemot-dies-in-plane-crash",
-      "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+      "id": "whatsapp-gets-new-chief-as-meta-taps-india-s-cred-founder-kunal-",
+      "title": "WhatsApp gets new chief as Meta taps India's CRED founder Kunal Shah, and invests $900M in startup",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
-      "publishedAt": "2026-06-21T18:34:31.000Z",
-      "summaryShort": "Ubisoft co-founder Claude Guillemot dies in plane crash. Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.",
+      "sourceUrl": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
+      "publishedAt": "2026-06-22T15:21:42.000Z",
+      "summaryShort": "WhatsApp gets new chief as Meta taps India's CRED founder Kunal Shah, and invests $900M in startup. WhatsApp gets a new boss, as Will Cathcart moves to a new role at Meta, while Shah steps down as CEO of Indian fintech giant CRED to replace",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "polymarket-reportedly-paid-creators-to-post-deceptive-videos-abo",
-      "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+      "id": "instagram-looks-to-take-on-streaming-services-with-longer-form-e",
+      "title": "Instagram looks to take on streaming services with longer-form, episodic and live formats for its TV app",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
-      "publishedAt": "2026-06-21T16:35:00.000Z",
-      "summaryShort": "Polymarket reportedly paid creators to post deceptive videos about fake bets. Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "techcrunch-mobility-a-new-robotaxi-scorecard-shows-china-s-domin",
-      "title": "TechCrunch Mobility: A new robotaxi scorecard shows China's dominance",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
-      "publishedAt": "2026-06-21T16:05:00.000Z",
-      "summaryShort": "TechCrunch Mobility: A new robotaxi scorecard shows China's dominance. Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "sourceUrl": "https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/",
+      "publishedAt": "2026-06-22T14:14:10.000Z",
+      "summaryShort": "Instagram looks to take on streaming services with longer-form, episodic and live formats for its TV app. Instagram is coming for streaming services like Netflix and Amazon Prime Video as it sets its ambitions for living room viewing.",
       "tags": [
         "Engineering"
       ]
