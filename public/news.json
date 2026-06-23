@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-06-23T03:59:27.803Z",
+  "generatedAt": "2026-06-23T15:11:45.938Z",
   "items": [
+    {
+      "id": "lucide-releases-version-1-0-removing-brand-icons-and-cutting-bun",
+      "title": "Lucide Releases Version 1.0, Removing Brand Icons and Cutting Bundle Size for Millions of Projects",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/lucide-v1-icons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-23T13:28:00.000Z",
+      "summaryShort": "Lucide Releases Version 1.0, Removing Brand Icons and Cutting Bundle Size for Millions of Projects. Lucide has released version 1.0 of its open-source icon toolkit, marking its first stable major release.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-the-time-it-wasn-t-dns",
+      "title": "Presentation: The Time It Wasn't DNS",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/incident-dns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-23T13:05:00.000Z",
+      "summaryShort": "Presentation: The Time It Wasn't DNS. Sean Klein discusses why \"human error\" is a dangerous myth in complex systems.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "microsoft-expands-azure-kubernetes-service-with-bare-metal-fleet",
+      "title": "Microsoft Expands Azure Kubernetes Service with Bare Metal, Fleet Management and AI Infrastructure",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/microsoft-build-aks-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-23T12:00:00.000Z",
+      "summaryShort": "Microsoft Expands Azure Kubernetes Service with Bare Metal, Fleet Management and AI Infrastructure. At this year's Microsoft Build 2026, Microsoft unveiled a broad set of enhancements to Azure Kubernetes Service (AKS) aimed at making Kubern",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "aws-launches-blocks-an-open-source-typescript-framework-designed",
+      "title": "AWS Launches Blocks, an Open-Source TypeScript Framework Designed for AI Agents to Build Backends",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/aws-blocks-framework-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-23T09:15:00.000Z",
+      "summaryShort": "AWS Launches Blocks, an Open-Source TypeScript Framework Designed for AI Agents to Build Backends. AWS released Blocks in public preview, an open-source TypeScript framework where each Block bundles application code, local mocks, and AWS in",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "presentation-challenging-google-analytics-building-a-scalable-co",
       "title": "Presentation: Challenging Google Analytics: Building a Scalable, Cost-Effective User Tracking Service",
@@ -13,78 +59,34 @@
       ]
     },
     {
-      "id": "java-news-roundup-spring-tools-helidon-open-liberty-tomee-jobrun",
-      "title": "Java News Roundup: Spring Tools, Helidon, Open Liberty, TomEE, JobRunr, Hibernate, Commonhaus",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/java-news-roundup-jun15-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-22T13:15:00.000Z",
-      "summaryShort": "Java News Roundup: Spring Tools, Helidon, Open Liberty, TomEE, JobRunr, Hibernate, Commonhaus. This week's Java roundup for June 15th, 2026, features news highlighting: point releases of Spring Tools, Helidon, JobRunr and Gradle; the June 2",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "article-understanding-ml-model-poisoning-how-it-happens-and-how-",
-      "title": "Article: Understanding ML Model Poisoning: How It Happens and How to Detect It",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/understanding-ml-model-poisoning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-22T11:00:00.000Z",
-      "summaryShort": "Article: Understanding ML Model Poisoning: How It Happens and How to Detect It. In this article, the author explores data poisoning as a threat to machine learning systems, covering techniques such as label flipping, backdoors, clean-label ",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "podcast-how-ebpf-empowers-developers-to-observe-inside-the-linux",
-      "title": "Podcast: How eBPF Empowers Developers to Observe Inside the Linux Kernel in a Safe and Unintrusive Way",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/empowers-developers-inside-linux-kernel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-22T11:00:00.000Z",
-      "summaryShort": "Podcast: How eBPF Empowers Developers to Observe Inside the Linux Kernel in a Safe and Unintrusive Way. Dan Fineran explores how eBPF has evolved far beyond its roots in packet filtering into a robust, safe way to extend the Linux kernel.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "aws-graviton5-reaches-general-availability-with-192-cores-and-fo",
-      "title": "AWS Graviton5 Reaches General Availability with 192 Cores and Formally Verified VM Isolation",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/aws-graviton5-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-22T10:05:00.000Z",
-      "summaryShort": "AWS Graviton5 Reaches General Availability with 192 Cores and Formally Verified VM Isolation. AWS made Graviton5-powered EC2 M9g and M9gd instances generally available with 192 ARM cores, formally verified VM isolation via the Nitro Isolati",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "the-running-list-major-tech-layoffs-in-2026-where-employers-cite",
-      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "id": "halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hai",
+      "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "publishedAt": "2026-06-23T01:27:55.000Z",
-      "summaryShort": "The running list: major tech layoffs in 2026 where employers cited AI. A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "openai-launches-new-initiative-to-help-find-and-patch-open-sourc",
-      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "publishedAt": "2026-06-23T00:11:31.000Z",
-      "summaryShort": "OpenAI launches new initiative to help find and patch open-source bugs. OpenAI is attempting to tackle the security issues of the open source software community.",
+      "sourceUrl": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
+      "publishedAt": "2026-06-23T15:09:38.000Z",
+      "summaryShort": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment. HaloBraid aims to help salons speed up braiding with its first device, slated to launch later this year, that acts a braiding assistant for professional s",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash",
-      "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+      "id": "meta-debuts-new-cheaper-smart-glasses-under-its-own-brand",
+      "title": "Meta debuts new, cheaper smart glasses under its own brand",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
-      "publishedAt": "2026-06-22T22:59:57.000Z",
-      "summaryShort": "Tesla pushes back on Autopilot narrative after fatal Texas crash. Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
+      "sourceUrl": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
+      "publishedAt": "2026-06-23T14:11:23.000Z",
+      "summaryShort": "Meta debuts new, cheaper smart glasses under its own brand. The smart glasses are available in several countries starting today in a variety of color and lens combinations.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026",
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "publishedAt": "2026-06-23T14:00:00.000Z",
+      "summaryShort": "4 days left to save up to $190 on TechCrunch Founder Summit 2026. Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June 26 at 11:59 p.m.",
       "tags": [
         "Engineering"
       ]
