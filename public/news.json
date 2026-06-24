@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-06-24T04:01:31.112Z",
+  "generatedAt": "2026-06-24T14:41:44.055Z",
   "items": [
+    {
+      "id": "presentation-rules-for-understanding-language-models",
+      "title": "Presentation: Rules for Understanding Language Models",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/5-principles-llm-behavior/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-24T11:25:00.000Z",
+      "summaryShort": "Presentation: Rules for Understanding Language Models. Naomi Saphra discusses 5 rules governing language model behavior, breaking down why LLMs act like populations rather than individuals.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "article-beyond-clean-and-mvp-architecting-an-offline-first-react",
+      "title": "Article: Beyond CLEAN and MVP: Architecting an Offline-first Reactive Data Layer in Android",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/rdla-offline-first-reactive-android-data-layer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-24T09:00:00.000Z",
+      "summaryShort": "Article: Beyond CLEAN and MVP: Architecting an Offline-first Reactive Data Layer in Android. With the Reactive Data Layer Architecture (RDLA), you establish a clear boundary between public data APIs and private, framework-specific data-sour",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "lucide-releases-version-1-0-removing-brand-icons-and-cutting-bun",
       "title": "Lucide Releases Version 1.0, Removing Brand Icons and Cutting Bundle Size for Millions of Projects",
@@ -36,59 +58,36 @@
       ]
     },
     {
-      "id": "aws-launches-blocks-an-open-source-typescript-framework-designed",
-      "title": "AWS Launches Blocks, an Open-Source TypeScript Framework Designed for AI Agents to Build Backends",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/aws-blocks-framework-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-23T09:15:00.000Z",
-      "summaryShort": "AWS Launches Blocks, an Open-Source TypeScript Framework Designed for AI Agents to Build Backends. AWS released Blocks in public preview, an open-source TypeScript framework where each Block bundles application code, local mocks, and AWS in",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-challenging-google-analytics-building-a-scalable-co",
-      "title": "Presentation: Challenging Google Analytics: Building a Scalable, Cost-Effective User Tracking Service",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/mobile-user-tracking-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-22T15:07:00.000Z",
-      "summaryShort": "Presentation: Challenging Google Analytics: Building a Scalable, Cost-Effective User Tracking Service. Alina Krasavina explains how Delivery Hero successfully deprecated Google Analytics and migrated to an internal user tracking platform.",
+      "id": "if-you-want-to-cut-your-screen-time-just-get-a-brick",
+      "title": "If you want to cut your screen time, just get a Brick",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/",
+      "publishedAt": "2026-06-24T14:01:35.000Z",
+      "summaryShort": "If you want to cut your screen time, just get a Brick. After years of struggling to curb my screen time, apparently all I needed was a $59 hunk of plastic.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ra",
-      "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
+      "id": "3-days-left-to-save-up-to-190-on-your-techcrunch-founder-summit-",
+      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
-      "publishedAt": "2026-06-24T00:30:00.000Z",
-      "summaryShort": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India. Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India.",
+      "sourceUrl": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "publishedAt": "2026-06-24T14:00:00.000Z",
+      "summaryShort": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass. You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "india-s-moengage-bets-that-the-future-of-marketing-is-millions-o",
-      "title": "India's MoEngage bets that the future of marketing is millions of AI agents",
+      "id": "valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloombe",
+      "title": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-      "publishedAt": "2026-06-23T23:30:00.000Z",
-      "summaryShort": "India's MoEngage bets that the future of marketing is millions of AI agents. The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+      "sourceUrl": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
+      "publishedAt": "2026-06-24T13:58:14.000Z",
+      "summaryShort": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg. New details have emerged about Valor's latest fund, which last year announced it was raising an unspecified amount of capital.",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "superhuman-acquires-ai-detection-startup-gptzero",
-      "title": "Superhuman acquires AI detection startup GPTZero",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
-      "publishedAt": "2026-06-23T21:48:23.000Z",
-      "summaryShort": "Superhuman acquires AI detection startup GPTZero. Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero.",
-      "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
