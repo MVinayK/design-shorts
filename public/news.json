@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-06-25T04:02:05.403Z",
+  "generatedAt": "2026-06-25T14:41:33.568Z",
   "items": [
+    {
+      "id": "building-a-european-cloud-orchestration-platform-within-an-enter",
+      "title": "Building a European Cloud Orchestration Platform within an Enterprise",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/europe-cloud-enterprise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-25T11:06:00.000Z",
+      "summaryShort": "Building a European Cloud Orchestration Platform within an Enterprise. Modern cloud deployments involve many tools with different lifecycles, creating a heavy burden on engineers.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "presentation-rust-at-the-core-accelerating-polyglot-sdk-developm",
+      "title": "Presentation: Rust at the Core - Accelerating Polyglot SDK Development",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/rust-polyglot-sdk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-25T10:23:00.000Z",
+      "summaryShort": "Presentation: Rust at the Core - Accelerating Polyglot SDK Development. Spencer Judge discusses the architectural pattern of building a shared core in Rust with language-specific layers on top.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "cloudflare-ships-agent-skills-for-zero-trust-deployment-and-migr",
+      "title": "Cloudflare Ships Agent Skills for Zero Trust Deployment and Migration",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/cloudflare-one-stack-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-25T09:27:00.000Z",
+      "summaryShort": "Cloudflare Ships Agent Skills for Zero Trust Deployment and Migration. Cloudflare released the Cloudflare One stack, an open-source library of agent skills for planning, deploying, and managing Zero Trust environments.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "slack-outlines-four-phase-journey-to-a-multi-cloud-ai-serving-pl",
+      "title": "Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/slack-multicloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-25T07:02:00.000Z",
+      "summaryShort": "Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform. Slack has outlined how its AI serving infrastructure evolved through four distinct phases, moving from a self-managed Amazon SageMaker deployment to a multi-cloud archi",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "grab-builds-secure-agentic-ai-workload-platform",
       "title": "Grab Builds Secure Agentic AI Workload Platform",
@@ -14,79 +59,34 @@
       ]
     },
     {
-      "id": "anthropic-lead-html-increasingly-better-than-markdown-at-keeping",
-      "title": "Anthropic Lead: HTML Increasingly Better Than Markdown at Keeping Humans Engaged in Agentic Loops",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/anthropic-html-markdown-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-24T23:06:00.000Z",
-      "summaryShort": "Anthropic Lead: HTML Increasingly Better Than Markdown at Keeping Humans Engaged in Agentic Loops. Thariq Shihipar, engineering lead for the Claude Code team, recently published a blog post (Using Claude Code: The Unreasonable Effectiveness",
+      "id": "2-days-left-to-save-up-to-190-join-1-000-founders-and-investors-",
+      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+      "publishedAt": "2026-06-25T14:00:00.000Z",
+      "summaryShort": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit. 2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "google-openrl-is-an-experimental-self-hosted-api-for-llm-post-tr",
-      "title": "Google OpenRL is an Experimental Self-hosted API for LLM Post-Training Fine-tuning",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/google-open-rl-fine-tuning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-24T18:00:00.000Z",
-      "summaryShort": "Google OpenRL is an Experimental Self-hosted API for LLM Post-Training Fine-tuning. Google's GKE Labs has introduced OpenRL, an open-source project that provides a self-hosted API for post-training and fine-tuning Large Language Models (LLM",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "ai-is-moving-up-the-software-lifecycle-from-code-review-to-prd-g",
-      "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/ai-prd-code-review-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-24T14:57:00.000Z",
-      "summaryShort": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance. Technology companies are extending AI beyond code generation into earlier stages of the software lifecycle, including PRD validation, design inputs, and code review",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-rules-for-understanding-language-models",
-      "title": "Presentation: Rules for Understanding Language Models",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/5-principles-llm-behavior/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-24T11:25:00.000Z",
-      "summaryShort": "Presentation: Rules for Understanding Language Models. Naomi Saphra discusses 5 rules governing language model behavior, breaking down why LLMs act like populations rather than individuals.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "europe-is-pushing-back-on-washington-s-chip-war",
-      "title": "Europe is pushing back on Washington's chip war",
+      "id": "trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-",
+      "title": "Trump admin proposes axing brake-pedal requirement for AVs in a boost for Tesla",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-      "publishedAt": "2026-06-25T00:08:36.000Z",
-      "summaryShort": "Europe is pushing back on Washington's chip war. As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-boost-for-tesla/",
+      "publishedAt": "2026-06-25T13:58:05.000Z",
+      "summaryShort": "Trump admin proposes axing brake-pedal requirement for AVs in a boost for Tesla. The Department of Transportation wants to remove the brake-pedal requirement for vehicles \"designed to be driven exclusively by automated driving systems.\"",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "former-infosys-chief-has-a-new-startup-that-wants-to-challenge-t",
-      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "id": "adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs",
+      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "publishedAt": "2026-06-24T23:26:52.000Z",
-      "summaryShort": "Former Infosys chief has a new startup that wants to challenge the IT services world. Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "elon-suffers-another-day-short-of-trillionaire-status",
-      "title": "Elon suffers another day short of trillionaire status",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
-      "publishedAt": "2026-06-24T23:09:39.000Z",
-      "summaryShort": "Elon suffers another day short of trillionaire status. Right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index.",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+      "publishedAt": "2026-06-25T13:30:00.000Z",
+      "summaryShort": "Adobe acquires image and video enhancement tool maker Topaz Labs. Adobe said that it will integrate Topaz Labs' tools across its apps.",
       "tags": [
         "Engineering"
       ]
