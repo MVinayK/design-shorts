@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-06-24T14:41:44.055Z",
+  "generatedAt": "2026-06-25T04:02:05.403Z",
   "items": [
+    {
+      "id": "grab-builds-secure-agentic-ai-workload-platform",
+      "title": "Grab Builds Secure Agentic AI Workload Platform",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/grab-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-25T02:08:00.000Z",
+      "summaryShort": "Grab Builds Secure Agentic AI Workload Platform. Grab's security team built Palana, a Kubernetes-native secure execution platform, to run autonomous AI agents safely.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "anthropic-lead-html-increasingly-better-than-markdown-at-keeping",
+      "title": "Anthropic Lead: HTML Increasingly Better Than Markdown at Keeping Humans Engaged in Agentic Loops",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/anthropic-html-markdown-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-24T23:06:00.000Z",
+      "summaryShort": "Anthropic Lead: HTML Increasingly Better Than Markdown at Keeping Humans Engaged in Agentic Loops. Thariq Shihipar, engineering lead for the Claude Code team, recently published a blog post (Using Claude Code: The Unreasonable Effectiveness",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "google-openrl-is-an-experimental-self-hosted-api-for-llm-post-tr",
+      "title": "Google OpenRL is an Experimental Self-hosted API for LLM Post-Training Fine-tuning",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/google-open-rl-fine-tuning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-24T18:00:00.000Z",
+      "summaryShort": "Google OpenRL is an Experimental Self-hosted API for LLM Post-Training Fine-tuning. Google's GKE Labs has introduced OpenRL, an open-source project that provides a self-hosted API for post-training and fine-tuning Large Language Models (LLM",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "ai-is-moving-up-the-software-lifecycle-from-code-review-to-prd-g",
+      "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/ai-prd-code-review-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-24T14:57:00.000Z",
+      "summaryShort": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance. Technology companies are extending AI beyond code generation into earlier stages of the software lifecycle, including PRD validation, design inputs, and code review",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "presentation-rules-for-understanding-language-models",
       "title": "Presentation: Rules for Understanding Language Models",
@@ -13,79 +59,34 @@
       ]
     },
     {
-      "id": "article-beyond-clean-and-mvp-architecting-an-offline-first-react",
-      "title": "Article: Beyond CLEAN and MVP: Architecting an Offline-first Reactive Data Layer in Android",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/rdla-offline-first-reactive-android-data-layer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-24T09:00:00.000Z",
-      "summaryShort": "Article: Beyond CLEAN and MVP: Architecting an Offline-first Reactive Data Layer in Android. With the Reactive Data Layer Architecture (RDLA), you establish a clear boundary between public data APIs and private, framework-specific data-sour",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "lucide-releases-version-1-0-removing-brand-icons-and-cutting-bun",
-      "title": "Lucide Releases Version 1.0, Removing Brand Icons and Cutting Bundle Size for Millions of Projects",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/lucide-v1-icons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-23T13:28:00.000Z",
-      "summaryShort": "Lucide Releases Version 1.0, Removing Brand Icons and Cutting Bundle Size for Millions of Projects. Lucide has released version 1.0 of its open-source icon toolkit, marking its first stable major release.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-the-time-it-wasn-t-dns",
-      "title": "Presentation: The Time It Wasn't DNS",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/incident-dns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-23T13:05:00.000Z",
-      "summaryShort": "Presentation: The Time It Wasn't DNS. Sean Klein discusses why \"human error\" is a dangerous myth in complex systems.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "microsoft-expands-azure-kubernetes-service-with-bare-metal-fleet",
-      "title": "Microsoft Expands Azure Kubernetes Service with Bare Metal, Fleet Management and AI Infrastructure",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/microsoft-build-aks-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-23T12:00:00.000Z",
-      "summaryShort": "Microsoft Expands Azure Kubernetes Service with Bare Metal, Fleet Management and AI Infrastructure. At this year's Microsoft Build 2026, Microsoft unveiled a broad set of enhancements to Azure Kubernetes Service (AKS) aimed at making Kubern",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "if-you-want-to-cut-your-screen-time-just-get-a-brick",
-      "title": "If you want to cut your screen time, just get a Brick",
+      "id": "europe-is-pushing-back-on-washington-s-chip-war",
+      "title": "Europe is pushing back on Washington's chip war",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/",
-      "publishedAt": "2026-06-24T14:01:35.000Z",
-      "summaryShort": "If you want to cut your screen time, just get a Brick. After years of struggling to curb my screen time, apparently all I needed was a $59 hunk of plastic.",
+      "sourceUrl": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+      "publishedAt": "2026-06-25T00:08:36.000Z",
+      "summaryShort": "Europe is pushing back on Washington's chip war. As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "3-days-left-to-save-up-to-190-on-your-techcrunch-founder-summit-",
-      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+      "id": "former-infosys-chief-has-a-new-startup-that-wants-to-challenge-t",
+      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-      "publishedAt": "2026-06-24T14:00:00.000Z",
-      "summaryShort": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass. You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m.",
+      "sourceUrl": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "publishedAt": "2026-06-24T23:26:52.000Z",
+      "summaryShort": "Former Infosys chief has a new startup that wants to challenge the IT services world. Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloombe",
-      "title": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
+      "id": "elon-suffers-another-day-short-of-trillionaire-status",
+      "title": "Elon suffers another day short of trillionaire status",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
-      "publishedAt": "2026-06-24T13:58:14.000Z",
-      "summaryShort": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg. New details have emerged about Valor's latest fund, which last year announced it was raising an unspecified amount of capital.",
+      "sourceUrl": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
+      "publishedAt": "2026-06-24T23:09:39.000Z",
+      "summaryShort": "Elon suffers another day short of trillionaire status. Right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index.",
       "tags": [
         "Engineering"
       ]
