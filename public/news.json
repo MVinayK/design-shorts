@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-06-26T04:09:33.914Z",
+  "generatedAt": "2026-06-26T14:34:46.639Z",
   "items": [
+    {
+      "id": "presentation-ai-works-pull-requests-don-t-how-ai-is-breaking-the",
+      "title": "Presentation: AI Works, Pull Requests Don’t: How AI Is Breaking the SDLC and What To Do About It",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-sdlc-pull-request/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-26T14:17:00.000Z",
+      "summaryShort": "Presentation: AI Works, Pull Requests Don’t: How AI Is Breaking the SDLC and What To Do About It. Michael Webster discusses the rise of headless AI agents and their impact on software delivery pipelines.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "dapr-1-18-introduces-verifiable-execution-bringing-cryptographic",
+      "title": "Dapr 1.18 Introduces Verifiable Execution, Bringing Cryptographic Trust to AI Agents and Workflows",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/dapr-1-18-cryptographic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-26T12:00:00.000Z",
+      "summaryShort": "Dapr 1.18 Introduces Verifiable Execution, Bringing Cryptographic Trust to AI Agents and Workflows. Diagrid has announced the release of Dapr 1.18, introducing what it calls Verifiable Execution, a new set of capabilities designed to bring ",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "argo-cd-3-5-tightens-supply-chain-security-with-internal-mtls-an",
+      "title": "Argo CD 3.5 Tightens Supply Chain Security with Internal mTLS and Source Integrity",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/argocd-supply-chain-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-26T12:00:00.000Z",
+      "summaryShort": "Argo CD 3.5 Tightens Supply Chain Security with Internal mTLS and Source Integrity. The Argo CD project released a v3.5 release candidate in June 2026.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "how-cloudflare-solved-a-congestion-bug-in-quiche",
       "title": "How Cloudflare Solved a Congestion Bug in quiche",
@@ -24,37 +57,25 @@
       ]
     },
     {
-      "id": "presentation-rust-at-the-core-accelerating-polyglot-sdk-developm",
-      "title": "Presentation: Rust at the Core - Accelerating Polyglot SDK Development",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/rust-polyglot-sdk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-25T10:23:00.000Z",
-      "summaryShort": "Presentation: Rust at the Core - Accelerating Polyglot SDK Development. Spencer Judge discusses the architectural pattern of building a shared core in Rust with language-specific layers on top.",
+      "id": "robotaxis-drive-miles-just-to-get-cleaned-and-charged-this-new-s",
+      "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
+      "publishedAt": "2026-06-26T13:00:00.000Z",
+      "summaryShort": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that. Aseon Labs, which came out of Y Combinator's 2026 spring cohort, has raised $10 million from Crane Venture Partners and others.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "cloudflare-ships-agent-skills-for-zero-trust-deployment-and-migr",
-      "title": "Cloudflare Ships Agent Skills for Zero Trust Deployment and Migration",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/cloudflare-one-stack-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-25T09:27:00.000Z",
-      "summaryShort": "Cloudflare Ships Agent Skills for Zero Trust Deployment and Migration. Cloudflare released the Cloudflare One stack, an open-source library of agent skills for planning, deploying, and managing Zero Trust environments.",
+      "id": "early-bird-pricing-ends-tonight-for-techcrunch-founder-summit",
+      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+      "publishedAt": "2026-06-26T13:00:00.000Z",
+      "summaryShort": "Early Bird pricing ends tonight for TechCrunch Founder Summit. Save up to $190 on your pass to TechCrunch Founder Summit 2026.",
       "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "slack-outlines-four-phase-journey-to-a-multi-cloud-ai-serving-pl",
-      "title": "Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/slack-multicloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-25T07:02:00.000Z",
-      "summaryShort": "Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform. Slack has outlined how its AI serving infrastructure evolved through four distinct phases, moving from a self-managed Amazon SageMaker deployment to a multi-cloud archi",
-      "tags": [
-        "AI",
-        "Cloud"
+        "Engineering"
       ]
     },
     {
@@ -63,29 +84,7 @@
       "sourceName": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
       "publishedAt": "2026-06-25T23:34:39.000Z",
-      "summaryShort": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns. penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "youtube-shorts-are-getting-even-shorter-with-an-update-that-lets",
-      "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
-      "publishedAt": "2026-06-25T22:02:12.000Z",
-      "summaryShort": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed. YouTube Shorts is getting a makeover.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-a",
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "publishedAt": "2026-06-25T20:19:25.000Z",
-      "summaryShort": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents. Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+      "summaryShort": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns. OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public.",
       "tags": [
         "AI"
       ]
