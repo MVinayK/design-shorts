@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-25T14:41:33.568Z",
+  "generatedAt": "2026-06-26T04:09:33.914Z",
   "items": [
+    {
+      "id": "how-cloudflare-solved-a-congestion-bug-in-quiche",
+      "title": "How Cloudflare Solved a Congestion Bug in quiche",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/cloudflare-bug-quiche/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-25T19:00:00.000Z",
+      "summaryShort": "How Cloudflare Solved a Congestion Bug in quiche. Cloudflare has recently shared how they uncovered an issue in their Rust implementation of CUBIC, a congestion controller algorithm, which prevented it from recovering from a scenario of hea",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "building-a-european-cloud-orchestration-platform-within-an-enter",
       "title": "Building a European Cloud Orchestration Platform within an Enterprise",
@@ -47,48 +58,36 @@
       ]
     },
     {
-      "id": "grab-builds-secure-agentic-ai-workload-platform",
-      "title": "Grab Builds Secure Agentic AI Workload Platform",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/grab-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-25T02:08:00.000Z",
-      "summaryShort": "Grab Builds Secure Agentic AI Workload Platform. Grab's security team built Palana, a Kubernetes-native secure execution platform, to run autonomous AI agents safely.",
+      "id": "the-white-house-is-asking-openai-to-slow-roll-the-release-of-its",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "publishedAt": "2026-06-25T23:34:39.000Z",
+      "summaryShort": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns. penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public.",
       "tags": [
-        "AI",
-        "Cloud"
+        "AI"
       ]
     },
     {
-      "id": "2-days-left-to-save-up-to-190-join-1-000-founders-and-investors-",
-      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+      "id": "youtube-shorts-are-getting-even-shorter-with-an-update-that-lets",
+      "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-      "publishedAt": "2026-06-25T14:00:00.000Z",
-      "summaryShort": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit. 2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m.",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+      "publishedAt": "2026-06-25T22:02:12.000Z",
+      "summaryShort": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed. YouTube Shorts is getting a makeover.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-",
-      "title": "Trump admin proposes axing brake-pedal requirement for AVs in a boost for Tesla",
+      "id": "patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-a",
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/25/trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-boost-for-tesla/",
-      "publishedAt": "2026-06-25T13:58:05.000Z",
-      "summaryShort": "Trump admin proposes axing brake-pedal requirement for AVs in a boost for Tesla. The Department of Transportation wants to remove the brake-pedal requirement for vehicles \"designed to be driven exclusively by automated driving systems.\"",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "publishedAt": "2026-06-25T20:19:25.000Z",
+      "summaryShort": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents. Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
       "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs",
-      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-      "publishedAt": "2026-06-25T13:30:00.000Z",
-      "summaryShort": "Adobe acquires image and video enhancement tool maker Topaz Labs. Adobe said that it will integrate Topaz Labs' tools across its apps.",
-      "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
