@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-27T03:55:01.911Z",
+  "generatedAt": "2026-06-27T13:53:04.614Z",
   "items": [
+    {
+      "id": "aws-introduces-workload-credentials-provider-for-automated-certi",
+      "title": "AWS Introduces Workload Credentials Provider for Automated Certificate and Secret Management",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/aws-credentials-provider/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-27T11:04:00.000Z",
+      "summaryShort": "AWS Introduces Workload Credentials Provider for Automated Certificate and Secret Management. AWS has recently announced the AWS Workload Credentials Provider to automatically deliver and refresh certificates and secrets for applications.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "vercel-introduces-eve-an-open-source-framework-for-building-ai-a",
       "title": "Vercel Introduces Eve, an Open-Source Framework for Building AI Agents",
@@ -47,14 +58,14 @@
       ]
     },
     {
-      "id": "how-cloudflare-solved-a-congestion-bug-in-quiche",
-      "title": "How Cloudflare Solved a Congestion Bug in quiche",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/cloudflare-bug-quiche/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-25T19:00:00.000Z",
-      "summaryShort": "How Cloudflare Solved a Congestion Bug in quiche. Cloudflare has recently shared how they uncovered an issue in their Rust implementation of CUBIC, a congestion controller algorithm, which prevented it from recovering from a scenario of hea",
+      "id": "asian-ai-startups-launch-mythos-like-models-as-anthropic-s-expor",
+      "title": "Asian AI startups launch Mythos-like models as Anthropic's export ban drags on",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "publishedAt": "2026-06-27T12:00:00.000Z",
+      "summaryShort": "Asian AI startups launch Mythos-like models as Anthropic's export ban drags on. New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban.",
       "tags": [
-        "Cloud"
+        "AI"
       ]
     },
     {
@@ -75,17 +86,6 @@
       "sourceUrl": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
       "publishedAt": "2026-06-27T00:38:34.000Z",
       "summaryShort": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh. Mesh came out of stealth in February with a $50 million Series A.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-",
-      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn't steal an open source product",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
-      "publishedAt": "2026-06-26T22:00:37.000Z",
-      "summaryShort": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn't steal an open source product. Corgi became embroiled in controversy when Papermark accused it of stealing its software.",
       "tags": [
         "Engineering"
       ]
