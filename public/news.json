@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-06-26T14:34:46.639Z",
+  "generatedAt": "2026-06-27T03:55:01.911Z",
   "items": [
+    {
+      "id": "vercel-introduces-eve-an-open-source-framework-for-building-ai-a",
+      "title": "Vercel Introduces Eve, an Open-Source Framework for Building AI Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/vercel-eve-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-26T16:39:00.000Z",
+      "summaryShort": "Vercel Introduces Eve, an Open-Source Framework for Building AI Agents. Vercel has released Eve, an open-source framework for building, deploying, and operating AI agents in production.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "presentation-ai-works-pull-requests-don-t-how-ai-is-breaking-the",
       "title": "Presentation: AI Works, Pull Requests Don’t: How AI Is Breaking the SDLC and What To Do About It",
@@ -46,47 +58,36 @@
       ]
     },
     {
-      "id": "building-a-european-cloud-orchestration-platform-within-an-enter",
-      "title": "Building a European Cloud Orchestration Platform within an Enterprise",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/europe-cloud-enterprise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-25T11:06:00.000Z",
-      "summaryShort": "Building a European Cloud Orchestration Platform within an Enterprise. Modern cloud deployments involve many tools with different lifecycles, creating a heavy burden on engineers.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "robotaxis-drive-miles-just-to-get-cleaned-and-charged-this-new-s",
-      "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
+      "id": "trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-10",
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
-      "publishedAt": "2026-06-26T13:00:00.000Z",
-      "summaryShort": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that. Aseon Labs, which came out of Y Combinator's 2026 spring cohort, has raised $10 million from Crane Venture Partners and others.",
+      "sourceUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "publishedAt": "2026-06-27T01:01:37.000Z",
+      "summaryShort": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies. Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "early-bird-pricing-ends-tonight-for-techcrunch-founder-summit",
-      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+      "id": "ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh",
+      "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
-      "publishedAt": "2026-06-26T13:00:00.000Z",
-      "summaryShort": "Early Bird pricing ends tonight for TechCrunch Founder Summit. Save up to $190 on your pass to TechCrunch Founder Summit 2026.",
+      "sourceUrl": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+      "publishedAt": "2026-06-27T00:38:34.000Z",
+      "summaryShort": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh. Mesh came out of stealth in February with a $50 million Series A.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "the-white-house-is-asking-openai-to-slow-roll-the-release-of-its",
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "id": "corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-",
+      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn't steal an open source product",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "publishedAt": "2026-06-25T23:34:39.000Z",
-      "summaryShort": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns. OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public.",
+      "sourceUrl": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+      "publishedAt": "2026-06-26T22:00:37.000Z",
+      "summaryShort": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn't steal an open source product. Corgi became embroiled in controversy when Papermark accused it of stealing its software.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
