@@ -1,93 +1,93 @@
 {
-  "generatedAt": "2026-06-29T04:24:34.452Z",
+  "generatedAt": "2026-06-29T15:55:07.146Z",
   "items": [
     {
-      "id": "swift-6-4-brings-new-language-features-and-swift-testing-xctest-",
-      "title": "Swift 6.4 Brings New Language Features and Swift Testing/XCTest Interop",
+      "id": "eliya-25-brings-a-jvm-level-diagnostic-profile-to-openjdk-25-lts",
+      "title": "Eliya 25 Brings a JVM-Level Diagnostic Profile to OpenJDK 25 LTS",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/swift-6-4-beta-features/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-28T08:00:00.000Z",
-      "summaryShort": "Swift 6.4 Brings New Language Features and Swift Testing/XCTest Interop. Currently available as a beta in Xcode 27, Swift 6.4 introduces a range of enhancements: better C interoperability, simplified OS availability check, fine-grained warn",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/eliya-jvm-diagnostic-profile/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-29T14:50:00.000Z",
+      "summaryShort": "Eliya 25 Brings a JVM-Level Diagnostic Profile to OpenJDK 25 LTS. Asymm Systems has released Eliya 25.0.3, an OpenJDK 25 LTS distribution aimed at improving production diagnostics in Java environments.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "aws-previews-finops-agent-for-cost-analysis-and-optimization",
-      "title": "AWS Previews FinOps Agent for Cost Analysis and Optimization",
+      "id": "inside-target-s-llm-based-system-for-semantic-matching-in-market",
+      "title": "Inside Target’s LLM-Based System for Semantic Matching in Marketing Forecast Pipelines",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/aws-finops-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-28T05:55:00.000Z",
-      "summaryShort": "AWS Previews FinOps Agent for Cost Analysis and Optimization. Amazon has released AWS FinOps Agent in public preview, a managed service that automates several common FinOps workflows.",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/target-ai-campaign-forecasting/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-29T14:26:00.000Z",
+      "summaryShort": "Inside Target’s LLM-Based System for Semantic Matching in Marketing Forecast Pipelines. Target built a generative AI system to improve marketing campaign forecasting by retrieving and ranking similar historical campaigns.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "aws-introduces-workload-credentials-provider-for-automated-certi",
-      "title": "AWS Introduces Workload Credentials Provider for Automated Certificate and Secret Management",
+      "id": "presentation-million-pdfs-building-a-modern-document-infrastruct",
+      "title": "Presentation: Million PDFs: Building a Modern Document Infrastructure with Rust and Typst",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/aws-credentials-provider/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-27T11:04:00.000Z",
-      "summaryShort": "AWS Introduces Workload Credentials Provider for Automated Certificate and Secret Management. AWS has recently announced the AWS Workload Credentials Provider to automatically deliver and refresh certificates and secrets for applications.",
+      "sourceUrl": "https://www.infoq.com/presentations/document-infrastructure-rust-typst/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-29T12:35:00.000Z",
+      "summaryShort": "Presentation: Million PDFs: Building a Modern Document Infrastructure with Rust and Typst. Erik Steiger discusses the operational pain of legacy PDF generation in regulated banking and manufacturing.",
       "tags": [
-        "Engineering"
+        "Cloud"
       ]
     },
     {
-      "id": "vercel-introduces-eve-an-open-source-framework-for-building-ai-a",
-      "title": "Vercel Introduces Eve, an Open-Source Framework for Building AI Agents",
+      "id": "article-virtual-panel-security-in-the-machine-age-expert-insight",
+      "title": "Article: Virtual panel: Security in the Machine Age: Expert Insights on AI Threat Evolution",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/vercel-eve-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-26T16:39:00.000Z",
-      "summaryShort": "Vercel Introduces Eve, an Open-Source Framework for Building AI Agents. Vercel has released Eve, an open-source framework for building, deploying, and operating AI agents in production.",
+      "sourceUrl": "https://www.infoq.com/articles/security-ai-threat-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-29T11:00:00.000Z",
+      "summaryShort": "Article: Virtual panel: Security in the Machine Age: Expert Insights on AI Threat Evolution. This virtual panel brings together AI security experts to examine the evolution of AI-driven threats, from prompt injection and data poisoning to a",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "podcast-architectural-patterns-moving-beyond-cloud-native-to-loc",
+      "title": "Podcast: Architectural Patterns: Moving Beyond Cloud-Native to Local-First - Insights from Adam Wiggins",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/natural-evolution-cloud-native/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-29T11:00:00.000Z",
+      "summaryShort": "Podcast: Architectural Patterns: Moving Beyond Cloud-Native to Local-First - Insights from Adam Wiggins. In this episode, Heroku co-founder and Ink & Switch founder Adam Wiggins argues for a 'local-first' architecture that reconciles cloud-",
       "tags": [
         "AI",
         "Cloud"
       ]
     },
     {
-      "id": "presentation-ai-works-pull-requests-don-t-how-ai-is-breaking-the",
-      "title": "Presentation: AI Works, Pull Requests Don’t: How AI is Breaking the SDLC and What to Do about it",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-sdlc-pull-request/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-26T14:17:00.000Z",
-      "summaryShort": "Presentation: AI Works, Pull Requests Don’t: How AI is Breaking the SDLC and What to Do about it. Michael Webster discusses the rise of headless AI agents and their impact on software delivery pipelines.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "california-law-targeting-loud-streaming-ads-takes-effect-on-july",
-      "title": "California law targeting loud streaming ads takes effect on July 1",
+      "id": "rocket-lab-continues-buying-spree-by-acquiring-satellite-company",
+      "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
-      "publishedAt": "2026-06-28T21:34:14.000Z",
-      "summaryShort": "California law targeting loud streaming ads takes effect on July 1. Streaming ads might be getting a lot quieter.",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
+      "publishedAt": "2026-06-29T15:02:07.000Z",
+      "summaryShort": "Rocket Lab continues buying spree by acquiring satellite company Iridium. The all-stock deal values Iridium at $8 billion, and gives Rocket Lab even more firepower to compete against Amazon and SpaceX.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "ford-rehires-gray-beard-engineers-after-ai-falls-short",
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "id": "robot-hand-company-settles-tesla-trade-secret-suit-and-announces",
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "publishedAt": "2026-06-28T19:05:39.000Z",
-      "summaryShort": "Ford rehires ‘gray beard’ engineers after AI falls short. \"Mistakenly we thought that by just introducing artificial intelligence ...",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "publishedAt": "2026-06-29T14:00:08.000Z",
+      "summaryShort": "Robot hand company settles Tesla trade secret suit and announces $11M raise. The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "writer-ian-bogost-says-8216-the-small-stuff-can-help-us-reclaim-",
-      "title": "Writer Ian Bogost says &#8216;The Small Stuff' can help us reclaim our lives from too much convenience",
+      "id": "pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-dev",
+      "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
-      "publishedAt": "2026-06-28T17:03:16.000Z",
-      "summaryShort": "Writer Ian Bogost says &#8216;The Small Stuff' can help us reclaim our lives from too much convenience. Has Silicon Valley been building the wrong things?",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
+      "publishedAt": "2026-06-29T13:16:00.000Z",
+      "summaryShort": "Pocket raises $11M in bet on rising demand for AI note-taking devices. Pocket sells a $129 credit card-shaped puck, which sticks to the back of your phone, and promises unlimited recordings, transcriptions, and to-do items.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
