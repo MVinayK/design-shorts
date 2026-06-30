@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-29T15:55:07.146Z",
+  "generatedAt": "2026-06-30T04:04:18.514Z",
   "items": [
+    {
+      "id": "java-news-roundup-hardwood-1-0-endive-1-0-azul-payara-quarkus-wi",
+      "title": "Java News Roundup: Hardwood 1.0, Endive 1.0, Azul Payara, Quarkus, WildFly, LangChain4j, OSSI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/06/java-news-roundup-jun22-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-29T23:30:00.000Z",
+      "summaryShort": "Java News Roundup: Hardwood 1.0, Endive 1.0, Azul Payara, Quarkus, WildFly, LangChain4j, OSSI. This week's Java roundup for June 22nd, 2026, features news highlighting: the GA releases of Hardwood 1.0 and Endive 1.0; the June 2026 edition o",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "eliya-25-brings-a-jvm-level-diagnostic-profile-to-openjdk-25-lts",
       "title": "Eliya 25 Brings a JVM-Level Diagnostic Profile to OpenJDK 25 LTS",
@@ -46,46 +57,34 @@
       ]
     },
     {
-      "id": "podcast-architectural-patterns-moving-beyond-cloud-native-to-loc",
-      "title": "Podcast: Architectural Patterns: Moving Beyond Cloud-Native to Local-First - Insights from Adam Wiggins",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/natural-evolution-cloud-native/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-29T11:00:00.000Z",
-      "summaryShort": "Podcast: Architectural Patterns: Moving Beyond Cloud-Native to Local-First - Insights from Adam Wiggins. In this episode, Heroku co-founder and Ink & Switch founder Adam Wiggins argues for a 'local-first' architecture that reconciles cloud-",
+      "id": "the-ai-jobs-debate-just-got-messier",
+      "title": "The AI jobs debate just got messier",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "publishedAt": "2026-06-30T04:01:00.000Z",
+      "summaryShort": "The AI jobs debate just got messier. A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%.",
       "tags": [
-        "AI",
-        "Cloud"
+        "AI"
       ]
     },
     {
-      "id": "rocket-lab-continues-buying-spree-by-acquiring-satellite-company",
-      "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
+      "id": "vibe-coding-platform-base44-launches-own-model-as-ai-startups-se",
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
-      "publishedAt": "2026-06-29T15:02:07.000Z",
-      "summaryShort": "Rocket Lab continues buying spree by acquiring satellite company Iridium. The all-stock deal values Iridium at $8 billion, and gives Rocket Lab even more firepower to compete against Amazon and SpaceX.",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "publishedAt": "2026-06-30T02:28:41.000Z",
+      "summaryShort": "Vibe coding platform Base44 launches own model as AI startups seek defensibility. Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "robot-hand-company-settles-tesla-trade-secret-suit-and-announces",
-      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "id": "chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-star",
+      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-      "publishedAt": "2026-06-29T14:00:08.000Z",
-      "summaryShort": "Robot hand company settles Tesla trade secret suit and announces $11M raise. The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-dev",
-      "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
-      "publishedAt": "2026-06-29T13:16:00.000Z",
-      "summaryShort": "Pocket raises $11M in bet on rising demand for AI note-taking devices. Pocket sells a $129 credit card-shaped puck, which sticks to the back of your phone, and promises unlimited recordings, transcriptions, and to-do items.",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "publishedAt": "2026-06-29T20:55:50.000Z",
+      "summaryShort": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role. VCs remain thirsty to fund AI coding startups.",
       "tags": [
         "AI"
       ]
