@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-06-30T14:28:20.333Z",
+  "generatedAt": "2026-07-01T04:20:13.032Z",
   "items": [
+    {
+      "id": "presentation-trustworthy-productivity-securing-ai-accelerated-de",
+      "title": "Presentation: Trustworthy Productivity: Securing AI-Accelerated Development",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-06-30T14:35:00.000Z",
+      "summaryShort": "Presentation: Trustworthy Productivity: Securing AI-Accelerated Development. Sriram Madapusi Vasudevan discusses industry-converging patterns for securing autonomous AI agents in production.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "elastic-open-sources-atlas-agent-memory-based-on-cognitive-scien",
       "title": "Elastic Open-Sources Atlas Agent Memory Based on Cognitive Science",
@@ -46,45 +57,34 @@
       ]
     },
     {
-      "id": "java-news-roundup-hardwood-1-0-endive-1-0-azul-payara-quarkus-wi",
-      "title": "Java News Roundup: Hardwood 1.0, Endive 1.0, Azul Payara, Quarkus, WildFly, LangChain4j, OSSI",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/java-news-roundup-jun22-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-29T23:30:00.000Z",
-      "summaryShort": "Java News Roundup: Hardwood 1.0, Endive 1.0, Azul Payara, Quarkus, WildFly, LangChain4j, OSSI. This week's Java roundup for June 22nd, 2026, features news highlighting: the GA releases of Hardwood 1.0 and Endive 1.0; the June 2026 edition o",
+      "id": "the-8220-father-of-the-internet-8221-is-finally-retiring",
+      "title": "The &#8220;Father of the Internet&#8221; is finally retiring",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "publishedAt": "2026-07-01T03:15:37.000Z",
+      "summaryShort": "The &#8220;Father of the Internet&#8221; is finally retiring. Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "your-brand-deserves-its-own-stage-side-events-at-techcrunch-disr",
-      "title": "Your brand deserves its own stage — Side Events at TechCrunch Disrupt 2026",
+      "id": "trump-drops-restrictions-on-anthropic-s-mythos-and-fable-models",
+      "title": "Trump drops restrictions on Anthropic's Mythos and Fable models",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-06-30T14:00:00.000Z",
-      "summaryShort": "Your brand deserves its own stage — Side Events at TechCrunch Disrupt 2026. From October 10-16, host a Side Event and command the room during the week of TechCrunch Disrupt 2026.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "lumo-proton-s-privacy-focused-ai-chatbot-gets-an-upgrade",
-      "title": "Lumo, Proton's privacy-focused AI chatbot, gets an upgrade",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "publishedAt": "2026-06-30T14:00:00.000Z",
-      "summaryShort": "Lumo, Proton's privacy-focused AI chatbot, gets an upgrade. Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "publishedAt": "2026-07-01T02:16:06.000Z",
+      "summaryShort": "Trump drops restrictions on Anthropic's Mythos and Fable models. Anthropic said it would begin restoring access to the Fable on July 1.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other",
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "id": "wayve-launches-85m-employee-tender-offer-at-8-5b-valuation",
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "publishedAt": "2026-06-30T09:00:00.000Z",
-      "summaryShort": "Crypto exchange OKX wants AI agents to hire and pay each other. OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "publishedAt": "2026-07-01T02:04:40.000Z",
+      "summaryShort": "Wayve launches $85M employee tender offer at $8.5B valuation. Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
       "tags": [
         "AI"
       ]
