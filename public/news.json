@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-07-01T04:20:13.032Z",
+  "generatedAt": "2026-07-01T14:47:04.723Z",
   "items": [
+    {
+      "id": "instacart-scales-personalized-marketing-via-configuration-driven",
+      "title": "Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/instacart-multi-tenant-marketing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-01T14:05:00.000Z",
+      "summaryShort": "Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform. Instacart redesigned its personalized marketing system using a configuration-driven multi-tenant architecture on Storefront Pro.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-graph-rag-building-smarter-retrieval-workflows-with",
+      "title": "Presentation: Graph RAG: Building Smarter Retrieval Workflows with Knowledge Graphs",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/graph-rag-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-01T14:01:00.000Z",
+      "summaryShort": "Presentation: Graph RAG: Building Smarter Retrieval Workflows with Knowledge Graphs. Cassie Shum discusses the architectural evolution of GraphRAG and why data foundations are critical for advanced AI workflows.",
+      "tags": [
+        "AI",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "heroui-v3-lands-as-a-ground-up-rewrite-for-react-and-react-nativ",
+      "title": "HeroUI v3 Lands as a Ground-Up Rewrite for React and React Native, Built on Tailwind CSS v4",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/heroui-v3-rewrite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-01T12:16:00.000Z",
+      "summaryShort": "HeroUI v3 Lands as a Ground-Up Rewrite for React and React Native, Built on Tailwind CSS v4. HeroUI v3 is a redesigned React component library, previously NextUI, offering over 75 components, including 21 new ones, and a new React Native li",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-the-infrastructure-challenge-behind-production-ai",
+      "title": "Presentation: The Infrastructure Challenge Behind Production AI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-infrastructure-scaling-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-01T11:00:00.000Z",
+      "summaryShort": "Presentation: The Infrastructure Challenge Behind Production AI. The panelists explain the realities of running AI systems reliably at scale.",
+      "tags": [
+        "AI",
+        "Databases",
+        "Cloud"
+      ]
+    },
     {
       "id": "presentation-trustworthy-productivity-securing-ai-accelerated-de",
       "title": "Presentation: Trustworthy Productivity: Securing AI-Accelerated Development",
@@ -13,80 +60,36 @@
       ]
     },
     {
-      "id": "elastic-open-sources-atlas-agent-memory-based-on-cognitive-scien",
-      "title": "Elastic Open-Sources Atlas Agent Memory Based on Cognitive Science",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/elastic-atlas-agent-memory/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-30T13:00:00.000Z",
-      "summaryShort": "Elastic Open-Sources Atlas Agent Memory Based on Cognitive Science. Elastic open-sourced Atlas, a system built on Elasticsearch that maintains three categories of memory for agents.",
+      "id": "venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-fir",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "publishedAt": "2026-07-01T14:25:23.000Z",
+      "summaryShort": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off. Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "gemini-spark-google-s-agentic-assistant-is-now-available-on-mac",
+      "title": "Gemini Spark, Google's agentic assistant, is now available on Mac",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "publishedAt": "2026-07-01T14:20:19.000Z",
+      "summaryShort": "Gemini Spark, Google's agentic assistant, is now available on Mac. Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "microsoft-brings-ai-powered-vulnerability-remediation-to-azure-d",
-      "title": "Microsoft Brings AI-Powered Vulnerability Remediation to Azure DevOps with Copilot Autofix",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/azuredevops-copilot-autofix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-30T12:00:00.000Z",
-      "summaryShort": "Microsoft Brings AI-Powered Vulnerability Remediation to Azure DevOps with Copilot Autofix. Microsoft has announced the limited public preview of Copilot Autofix for GitHub Advanced Security for Azure DevOps, extending AI-powered vulnerabil",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "aws-launches-lambda-microvms-for-isolated-agent-and-user-code-ex",
-      "title": "AWS Launches Lambda MicroVMs for Isolated Agent and User Code Execution",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/06/aws-lambda-microvms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-30T09:09:00.000Z",
-      "summaryShort": "AWS Launches Lambda MicroVMs for Isolated Agent and User Code Execution. AWS launched Lambda MicroVMs, a new serverless compute primitive that runs each user session or AI agent in its own Firecracker virtual machine with hardware-level iso",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "article-scaling-java-based-real-time-systems-the-hidden-tradeoff",
-      "title": "Article: Scaling Java-Based Real-Time Systems: The Hidden Tradeoffs of Event-Driven Design",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/tradeoffs-event-driven-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-30T09:00:00.000Z",
-      "summaryShort": "Article: Scaling Java-Based Real-Time Systems: The Hidden Tradeoffs of Event-Driven Design. Event-driven architecture promises scalability, but in Java-based real-time systems the tradeoffs only surface in production.",
+      "id": "sony-to-end-physical-playstation-game-disc-production-in-2028",
+      "title": "Sony to end physical PlayStation game disc production in 2028",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/",
+      "publishedAt": "2026-07-01T14:16:32.000Z",
+      "summaryShort": "Sony to end physical PlayStation game disc production in 2028. Sony will stop producing physical discs for all new PlayStation games beginning in 2028, as the company embraces an all-digital future.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "the-8220-father-of-the-internet-8221-is-finally-retiring",
-      "title": "The &#8220;Father of the Internet&#8221; is finally retiring",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "publishedAt": "2026-07-01T03:15:37.000Z",
-      "summaryShort": "The &#8220;Father of the Internet&#8221; is finally retiring. Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "trump-drops-restrictions-on-anthropic-s-mythos-and-fable-models",
-      "title": "Trump drops restrictions on Anthropic's Mythos and Fable models",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "publishedAt": "2026-07-01T02:16:06.000Z",
-      "summaryShort": "Trump drops restrictions on Anthropic's Mythos and Fable models. Anthropic said it would begin restoring access to the Fable on July 1.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "wayve-launches-85m-employee-tender-offer-at-8-5b-valuation",
-      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-      "publishedAt": "2026-07-01T02:04:40.000Z",
-      "summaryShort": "Wayve launches $85M employee tender offer at $8.5B valuation. Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
-      "tags": [
-        "AI"
       ]
     }
   ]
