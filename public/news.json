@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-07-02T03:59:47.091Z",
+  "generatedAt": "2026-07-02T14:11:49.498Z",
   "items": [
+    {
+      "id": "shifting-platform-development-from-projects-to-products",
+      "title": "Shifting Platform Development from Projects to Products",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/platform-projects-products/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-02T11:27:00.000Z",
+      "summaryShort": "Shifting Platform Development from Projects to Products. A company shifted from project- to product-thinking after their platform outgrew single-team use.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "apple-extends-private-cloud-compute-to-google-cloud-for-the-firs",
+      "title": "Apple Extends Private Cloud Compute to Google Cloud for the First Time",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/apple-pcc-google-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-02T10:04:00.000Z",
+      "summaryShort": "Apple Extends Private Cloud Compute to Google Cloud for the First Time. Apple chose Google Cloud to run Private Cloud Compute outside its own data centers for the first time, using NVIDIA Blackwell GPUs, Intel TDX, and Google's Titan chip.",
+      "tags": [
+        "Cloud",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "presentation-enhancing-reliability-using-service-level-prioritiz",
+      "title": "Presentation: Enhancing Reliability Using Service-Level Prioritized Load Shedding at Netflix",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/service-level-prioritized-load-shedding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-02T09:20:00.000Z",
+      "summaryShort": "Presentation: Enhancing Reliability Using Service-Level Prioritized Load Shedding at Netflix. The speakers discuss Netflix’s architecture for surviving extreme traffic spikes.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "instacart-scales-personalized-marketing-via-configuration-driven",
       "title": "Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform",
@@ -25,69 +59,34 @@
       ]
     },
     {
-      "id": "heroui-v3-lands-as-a-ground-up-rewrite-for-react-and-react-nativ",
-      "title": "HeroUI v3 Lands as a Ground-Up Rewrite for React and React Native, Built on Tailwind CSS v4",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/heroui-v3-rewrite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-01T12:16:00.000Z",
-      "summaryShort": "HeroUI v3 Lands as a Ground-Up Rewrite for React and React Native, Built on Tailwind CSS v4. HeroUI v3 is a redesigned React component library, previously NextUI, offering over 75 components, including 21 new ones, and a new React Native li",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-the-infrastructure-challenge-behind-production-ai",
-      "title": "Presentation: The Infrastructure Challenge Behind Production AI",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-infrastructure-scaling-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-01T11:00:00.000Z",
-      "summaryShort": "Presentation: The Infrastructure Challenge Behind Production AI. The panelists explain the realities of running AI systems reliably at scale.",
-      "tags": [
-        "AI",
-        "Databases",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-trustworthy-productivity-securing-ai-accelerated-de",
-      "title": "Presentation: Trustworthy Productivity: Securing AI-Accelerated Development",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-06-30T14:35:00.000Z",
-      "summaryShort": "Presentation: Trustworthy Productivity: Securing AI-Accelerated Development. Sriram Madapusi Vasudevan discusses industry-converging patterns for securing autonomous AI agents in production.",
+      "id": "microsoft-launches-its-own-ai-deployment-company-with-2-5-billio",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "publishedAt": "2026-07-02T13:53:00.000Z",
+      "summaryShort": "Microsoft launches its own AI deployment company with $2.5 billion commitment. Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releas",
-      "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+      "id": "tesla-saw-a-massive-sales-jump-in-the-second-quarter",
+      "title": "Tesla saw a massive sales jump in the second quarter",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
-      "publishedAt": "2026-07-01T23:57:55.000Z",
-      "summaryShort": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year. Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest.",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/",
+      "publishedAt": "2026-07-02T13:20:15.000Z",
+      "summaryShort": "Tesla saw a massive sales jump in the second quarter. The company delivered more than 480,000 EVs globally, seemingly thanks to geographic expansion and cheaper versions of the Model 3, Model Y, and Cybertruck.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "bending-spoons-defies-saas-slump-surges-40-on-first-day-of-tradi",
-      "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
+      "id": "rivian-raises-ev-sales-forecast-as-q2-production-ramps-up",
+      "title": "Rivian raises EV sales forecast as Q2 production ramps up",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
-      "publishedAt": "2026-07-01T22:47:04.000Z",
-      "summaryShort": "Bending Spoons defies SaaS slump, surges 40% on first day of trading. The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "after-18b-ipo-bending-spoons-founder-says-success-comes-from-min",
-      "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
-      "publishedAt": "2026-07-01T22:28:35.000Z",
-      "summaryShort": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck. The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/",
+      "publishedAt": "2026-07-02T12:30:00.000Z",
+      "summaryShort": "Rivian raises EV sales forecast as Q2 production ramps up. The company now expects to ship a few thousand more vehicles by the end of 2026 than it previously expected, after launching its R2 SUV last month.",
       "tags": [
         "Engineering"
       ]
