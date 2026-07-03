@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-02T14:11:49.498Z",
+  "generatedAt": "2026-07-03T03:43:50.798Z",
   "items": [
+    {
+      "id": "swiftui-adds-new-document-protocol-improves-performance-and-more",
+      "title": "SwiftUI Adds New Document Protocol, Improves Performance, and More",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/swiftui-wwdc26/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-02T16:00:00.000Z",
+      "summaryShort": "SwiftUI Adds New Document Protocol, Improves Performance, and More. Announced at WWDC 2026, the latest SwiftUI release brings a new Document protocol for efficient disk access and snapshot-based updates, along with improved APIs for reorder",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "shifting-platform-development-from-projects-to-products",
       "title": "Shifting Platform Development from Projects to Products",
@@ -47,46 +58,34 @@
       ]
     },
     {
-      "id": "presentation-graph-rag-building-smarter-retrieval-workflows-with",
-      "title": "Presentation: Graph RAG: Building Smarter Retrieval Workflows with Knowledge Graphs",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/graph-rag-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-01T14:01:00.000Z",
-      "summaryShort": "Presentation: Graph RAG: Building Smarter Retrieval Workflows with Knowledge Graphs. Cassie Shum discusses the architectural evolution of GraphRAG and why data foundations are critical for advanced AI workflows.",
+      "id": "last-chance-to-apply-startup-battlefield-australia-applications-",
+      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+      "publishedAt": "2026-07-03T00:00:00.000Z",
+      "summaryShort": "Last chance to apply — Startup Battlefield Australia applications close July 6. If you're going to apply for Startup Battlefield Australia, now is the time.",
       "tags": [
-        "AI",
-        "Architecture"
+        "Engineering"
       ]
     },
     {
-      "id": "microsoft-launches-its-own-ai-deployment-company-with-2-5-billio",
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "id": "mark-zuckerberg-tells-staff-that-ai-agents-haven-t-progressed-as",
+      "title": "Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "publishedAt": "2026-07-02T13:53:00.000Z",
-      "summaryShort": "Microsoft launches its own AI deployment company with $2.5 billion commitment. Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "tesla-saw-a-massive-sales-jump-in-the-second-quarter",
-      "title": "Tesla saw a massive sales jump in the second quarter",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/",
-      "publishedAt": "2026-07-02T13:20:15.000Z",
-      "summaryShort": "Tesla saw a massive sales jump in the second quarter. The company delivered more than 480,000 EVs globally, seemingly thanks to geographic expansion and cheaper versions of the Model 3, Model Y, and Cybertruck.",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "publishedAt": "2026-07-02T23:38:10.000Z",
+      "summaryShort": "Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped. At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "rivian-raises-ev-sales-forecast-as-q2-production-ramps-up",
-      "title": "Rivian raises EV sales forecast as Q2 production ramps up",
+      "id": "private-space-pilots-are-flying-orbital-missions-for-the-us-spac",
+      "title": "Private space pilots are flying orbital missions for the US Space Force",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/",
-      "publishedAt": "2026-07-02T12:30:00.000Z",
-      "summaryShort": "Rivian raises EV sales forecast as Q2 production ramps up. The company now expects to ship a few thousand more vehicles by the end of 2026 than it previously expected, after launching its R2 SUV last month.",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
+      "publishedAt": "2026-07-02T23:01:06.000Z",
+      "summaryShort": "Private space pilots are flying orbital missions for the US Space Force. True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S.",
       "tags": [
         "Engineering"
       ]
