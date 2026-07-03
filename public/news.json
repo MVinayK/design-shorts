@@ -1,58 +1,68 @@
 {
-  "generatedAt": "2026-07-03T03:43:50.798Z",
+  "generatedAt": "2026-07-03T14:19:40.394Z",
   "items": [
     {
-      "id": "swiftui-adds-new-document-protocol-improves-performance-and-more",
-      "title": "SwiftUI Adds New Document Protocol, Improves Performance, and More",
+      "id": "hardwood-promises-high-speed-jvm-apache-parquet-processing-with-",
+      "title": "Hardwood Promises High-Speed JVM Apache Parquet Processing with Zero Mandatory Dependencies",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/swiftui-wwdc26/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-02T16:00:00.000Z",
-      "summaryShort": "SwiftUI Adds New Document Protocol, Improves Performance, and More. Announced at WWDC 2026, the latest SwiftUI release brings a new Document protocol for efficient disk access and snapshot-based updates, along with improved APIs for reorder",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/hardwood-java-parquet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-03T12:12:00.000Z",
+      "summaryShort": "Hardwood Promises High-Speed JVM Apache Parquet Processing with Zero Mandatory Dependencies. Hardwood, the project Gunnar Morling kick-started handling of Parquet files in Java, reached version 1.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "shifting-platform-development-from-projects-to-products",
-      "title": "Shifting Platform Development from Projects to Products",
+      "id": "opentelemetry-graduates-to-cncf-s-highest-maturity-level",
+      "title": "OpenTelemetry Graduates to CNCF's Highest Maturity Level",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/platform-projects-products/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-02T11:27:00.000Z",
-      "summaryShort": "Shifting Platform Development from Projects to Products. A company shifted from project- to product-thinking after their platform outgrew single-team use.",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/opentelemetry-cncf-maturity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-03T12:00:00.000Z",
+      "summaryShort": "OpenTelemetry Graduates to CNCF's Highest Maturity Level. The Cloud Native Computing Foundation (CNCF) has announced the graduation of OpenTelemetry, elevating the project to the foundation's highest level of maturity and formally recognizi",
       "tags": [
         "Cloud"
       ]
     },
     {
-      "id": "apple-extends-private-cloud-compute-to-google-cloud-for-the-firs",
-      "title": "Apple Extends Private Cloud Compute to Google Cloud for the First Time",
+      "id": "mini-book-agentic-ai-architecture",
+      "title": "Mini book: Agentic AI Architecture",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/apple-pcc-google-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-02T10:04:00.000Z",
-      "summaryShort": "Apple Extends Private Cloud Compute to Google Cloud for the First Time. Apple chose Google Cloud to run Private Cloud Compute outside its own data centers for the first time, using NVIDIA Blackwell GPUs, Intel TDX, and Google's Titan chip.",
+      "sourceUrl": "https://www.infoq.com/minibooks/agentic-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-03T11:00:00.000Z",
+      "summaryShort": "Mini book: Agentic AI Architecture. In this eMag, we try to establish agentic AI architecture as a new type of software architecture that will likely dominate the industry for years to come.",
       "tags": [
-        "Cloud",
-        "Architecture"
+        "AI"
       ]
     },
     {
-      "id": "presentation-enhancing-reliability-using-service-level-prioritiz",
-      "title": "Presentation: Enhancing Reliability Using Service-Level Prioritized Load Shedding at Netflix",
+      "id": "oracle-quietly-halves-free-tier-ampere-a1-compute-limits-with-no",
+      "title": "Oracle Quietly Halves Free Tier Ampere A1 Compute Limits with No Public Announcement",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/service-level-prioritized-load-shedding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-02T09:20:00.000Z",
-      "summaryShort": "Presentation: Enhancing Reliability Using Service-Level Prioritized Load Shedding at Netflix. The speakers discuss Netflix’s architecture for surviving extreme traffic spikes.",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/oracle-cloud-free-tier-limits/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-03T10:13:00.000Z",
+      "summaryShort": "Oracle Quietly Halves Free Tier Ampere A1 Compute Limits with No Public Announcement. Oracle halved the Always Free Ampere A1 compute allowance from 4 OCPUs and 24 GB RAM to 2 OCPUs and 12 GB RAM with no public announcement.",
       "tags": [
-        "Engineering"
+        "Cloud"
       ]
     },
     {
-      "id": "instacart-scales-personalized-marketing-via-configuration-driven",
-      "title": "Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform",
+      "id": "presentation-fine-tuning-the-enterprise-reinforcement-learning-i",
+      "title": "Presentation: Fine Tuning the Enterprise: Reinforcement Learning in Practice",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/instacart-multi-tenant-marketing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-01T14:05:00.000Z",
-      "summaryShort": "Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform. Instacart redesigned its personalized marketing system using a configuration-driven multi-tenant architecture on Storefront Pro.",
+      "sourceUrl": "https://www.infoq.com/presentations/rft-openai-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-03T09:22:00.000Z",
+      "summaryShort": "Presentation: Fine Tuning the Enterprise: Reinforcement Learning in Practice. The speakers discuss Agent RFT, OpenAI’s platform for fine-tuning reasoning models via real-time tool interactions and custom reward signals.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "politician-who-investigated-spyware-abuses-had-his-phone-hacked-",
+      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+      "publishedAt": "2026-07-03T05:05:00.000Z",
+      "summaryShort": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware. A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an E",
       "tags": [
         "Engineering"
       ]
@@ -77,17 +87,6 @@
       "summaryShort": "Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped. At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "private-space-pilots-are-flying-orbital-missions-for-the-us-spac",
-      "title": "Private space pilots are flying orbital missions for the US Space Force",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
-      "publishedAt": "2026-07-02T23:01:06.000Z",
-      "summaryShort": "Private space pilots are flying orbital missions for the US Space Force. True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
