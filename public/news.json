@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-07-03T14:19:40.394Z",
+  "generatedAt": "2026-07-04T03:36:33.521Z",
   "items": [
+    {
+      "id": "cloudflare-details-unified-data-platform-where-billing-workloads",
+      "title": "Cloudflare Details Unified Data Platform Where Billing Workloads Account for 53% of Queries",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/cloudflare-unified-data-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-03T14:29:00.000Z",
+      "summaryShort": "Cloudflare Details Unified Data Platform Where Billing Workloads Account for 53% of Queries. Cloudflare details Town Lake, an internal unified data platform, and Skipper, an AI analytics agent unifying access to operational, billing, securi",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "hardwood-promises-high-speed-jvm-apache-parquet-processing-with-",
       "title": "Hardwood Promises High-Speed JVM Apache Parquet Processing with Zero Mandatory Dependencies",
@@ -46,47 +58,36 @@
       ]
     },
     {
-      "id": "presentation-fine-tuning-the-enterprise-reinforcement-learning-i",
-      "title": "Presentation: Fine Tuning the Enterprise: Reinforcement Learning in Practice",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/rft-openai-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-03T09:22:00.000Z",
-      "summaryShort": "Presentation: Fine Tuning the Enterprise: Reinforcement Learning in Practice. The speakers discuss Agent RFT, OpenAI’s platform for fine-tuning reasoning models via real-time tool interactions and custom reward signals.",
+      "id": "the-only-ai-glossary-you-ll-need-this-year",
+      "title": "The only AI glossary you'll need this year",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "publishedAt": "2026-07-03T21:20:00.000Z",
+      "summaryShort": "The only AI glossary you'll need this year. The rise of AI has brought an avalanche of new terms and slang.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "politician-who-investigated-spyware-abuses-had-his-phone-hacked-",
-      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+      "id": "the-browser-wars-aren-t-about-search-anymore-here-are-the-best-a",
+      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
-      "publishedAt": "2026-07-03T05:05:00.000Z",
-      "summaryShort": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware. A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an E",
+      "sourceUrl": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "publishedAt": "2026-07-03T18:43:00.000Z",
+      "summaryShort": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari. We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "last-chance-to-apply-startup-battlefield-australia-applications-",
-      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+      "id": "the-dune-keypad-device-can-be-your-meeting-controller-and-more",
+      "title": "The Dune keypad device can be your meeting controller and more",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
-      "publishedAt": "2026-07-03T00:00:00.000Z",
-      "summaryShort": "Last chance to apply — Startup Battlefield Australia applications close July 6. If you're going to apply for Startup Battlefield Australia, now is the time.",
+      "sourceUrl": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+      "publishedAt": "2026-07-03T18:28:30.000Z",
+      "summaryShort": "The Dune keypad device can be your meeting controller and more. The gadget has three buttons, and it changes context based on what app you are looking at.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "mark-zuckerberg-tells-staff-that-ai-agents-haven-t-progressed-as",
-      "title": "Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "publishedAt": "2026-07-02T23:38:10.000Z",
-      "summaryShort": "Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped. At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-      "tags": [
-        "AI"
       ]
     }
   ]
