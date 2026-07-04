@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-04T03:36:33.521Z",
+  "generatedAt": "2026-07-04T13:44:15.277Z",
   "items": [
+    {
+      "id": "cycle-introduces-eu-control-plane-as-sovereignty-debate-continue",
+      "title": "Cycle Introduces EU Control Plane as Sovereignty Debate Continues",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/cycle-eu-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-04T08:15:00.000Z",
+      "summaryShort": "Cycle Introduces EU Control Plane as Sovereignty Debate Continues. Cycle recently introduced a separate EU-based control plane, allowing European customers to keep platform management data and telemetry within Europe.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "cloudflare-details-unified-data-platform-where-billing-workloads",
       "title": "Cloudflare Details Unified Data Platform Where Billing Workloads Account for 53% of Queries",
@@ -19,7 +30,7 @@
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/news/2026/07/hardwood-java-parquet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-07-03T12:12:00.000Z",
-      "summaryShort": "Hardwood Promises High-Speed JVM Apache Parquet Processing with Zero Mandatory Dependencies. Hardwood, the project Gunnar Morling kick-started handling of Parquet files in Java, reached version 1.",
+      "summaryShort": "Hardwood Promises High-Speed JVM Apache Parquet Processing with Zero Mandatory Dependencies. Hardwood, the project Gunnar Morling kick-started to improve the handling of Parquet files in Java, reached version 1.",
       "tags": [
         "Engineering"
       ]
@@ -44,17 +55,6 @@
       "summaryShort": "Mini book: Agentic AI Architecture. In this eMag, we try to establish agentic AI architecture as a new type of software architecture that will likely dominate the industry for years to come.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "oracle-quietly-halves-free-tier-ampere-a1-compute-limits-with-no",
-      "title": "Oracle Quietly Halves Free Tier Ampere A1 Compute Limits with No Public Announcement",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/oracle-cloud-free-tier-limits/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-03T10:13:00.000Z",
-      "summaryShort": "Oracle Quietly Halves Free Tier Ampere A1 Compute Limits with No Public Announcement. Oracle halved the Always Free Ampere A1 compute allowance from 4 OCPUs and 24 GB RAM to 2 OCPUs and 12 GB RAM with no public announcement.",
-      "tags": [
-        "Cloud"
       ]
     },
     {
