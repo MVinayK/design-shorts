@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-05T03:55:11.173Z",
+  "generatedAt": "2026-07-05T13:50:26.515Z",
   "items": [
+    {
+      "id": "aws-introduces-amazon-s3-annotations",
+      "title": "AWS Introduces Amazon S3 Annotations",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/aws-s3-annotations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-05T08:55:00.000Z",
+      "summaryShort": "AWS Introduces Amazon S3 Annotations. AWS recently announced Amazon S3 Annotations, a feature that lets teams attach rich, searchable context such as summaries, classifications, compliance data, or AI-generated insights directly to S3 objec",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "claude-reaches-ga-on-microsoft-foundry-european-enterprises-cann",
+      "title": "Claude Reaches GA on Microsoft Foundry: European Enterprises Cannot Deploy It",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/claude-foundry-ga-europe/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-05T08:13:00.000Z",
+      "summaryShort": "Claude Reaches GA on Microsoft Foundry: European Enterprises Cannot Deploy It. Claude models reached GA on Microsoft Foundry with Azure-native billing and governance, but no European data zone exists.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "cycle-introduces-eu-control-plane-as-sovereignty-debate-continue",
       "title": "Cycle Introduces EU Control Plane as Sovereignty Debate Continues",
@@ -36,23 +58,23 @@
       ]
     },
     {
-      "id": "opentelemetry-graduates-to-cncf-s-highest-maturity-level",
-      "title": "OpenTelemetry Graduates to CNCF's Highest Maturity Level",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/opentelemetry-cncf-maturity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-03T12:00:00.000Z",
-      "summaryShort": "OpenTelemetry Graduates to CNCF's Highest Maturity Level. The Cloud Native Computing Foundation (CNCF) has announced the graduation of OpenTelemetry, elevating the project to the foundation's highest level of maturity and formally recognizi",
+      "id": "what-is-bending-spoons-the-little-known-aol-and-vimeo-owner-that",
+      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that's now public",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "publishedAt": "2026-07-05T13:33:32.000Z",
+      "summaryShort": "What is Bending Spoons? The little-known AOL and Vimeo owner that's now public.",
       "tags": [
-        "Cloud"
+        "Engineering"
       ]
     },
     {
-      "id": "mini-book-agentic-ai-architecture",
-      "title": "Mini book: Agentic AI Architecture",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/minibooks/agentic-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-03T11:00:00.000Z",
-      "summaryShort": "Mini book: Agentic AI Architecture. In this eMag, we try to establish agentic AI architecture as a new type of software architecture that will likely dominate the industry for years to come.",
+      "id": "almost-90-new-unicorns-have-been-minted-so-far-this-year-here-th",
+      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "publishedAt": "2026-07-05T12:47:39.000Z",
+      "summaryShort": "Almost 90 new unicorns have been minted so far this year — here they are. With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
       "tags": [
         "AI"
       ]
@@ -66,28 +88,6 @@
       "summaryShort": "New Google commercial imagines a Declaration of Independence written with help from AI. Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Goog",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "midjourney-wants-hollywood-studios-to-reveal-the-details-of-thei",
-      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "publishedAt": "2026-07-04T18:00:05.000Z",
-      "summaryShort": "Midjourney wants Hollywood studios to reveal the details of their AI usage. As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "alibaba-reportedly-bans-employees-from-using-claude-code",
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "publishedAt": "2026-07-04T16:32:08.000Z",
-      "summaryShort": "Alibaba reportedly bans employees from using Claude Code. Alibaba has reportedly classified Claude Code as high-risk software.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
