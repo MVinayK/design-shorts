@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T13:50:26.515Z",
+  "generatedAt": "2026-07-06T04:01:55.996Z",
   "items": [
     {
       "id": "aws-introduces-amazon-s3-annotations",
@@ -58,36 +58,36 @@
       ]
     },
     {
-      "id": "what-is-bending-spoons-the-little-known-aol-and-vimeo-owner-that",
-      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that's now public",
+      "id": "uber-s-european-expansion-plans-may-have-hit-a-speed-bump",
+      "title": "Uber’s European expansion plans may have hit a speed bump",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
-      "publishedAt": "2026-07-05T13:33:32.000Z",
-      "summaryShort": "What is Bending Spoons? The little-known AOL and Vimeo owner that's now public.",
+      "sourceUrl": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+      "publishedAt": "2026-07-05T21:35:17.000Z",
+      "summaryShort": "Uber’s European expansion plans may have hit a speed bump. Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "almost-90-new-unicorns-have-been-minted-so-far-this-year-here-th",
-      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+      "id": "trump-memecoin-investors-lost-3-8-billion-analysis-finds",
+      "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
-      "publishedAt": "2026-07-05T12:47:39.000Z",
-      "summaryShort": "Almost 90 new unicorns have been minted so far this year — here they are. With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
+      "sourceUrl": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
+      "publishedAt": "2026-07-05T20:29:05.000Z",
+      "summaryShort": "Trump memecoin investors lost $3.8 billion, analysis finds. Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "new-google-commercial-imagines-a-declaration-of-independence-wri",
-      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "id": "amazon-will-stop-accepting-new-customers-for-mechanical-turk",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "publishedAt": "2026-07-04T20:55:25.000Z",
-      "summaryShort": "New Google commercial imagines a Declaration of Independence written with help from AI. Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Goog",
+      "sourceUrl": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "publishedAt": "2026-07-05T17:43:36.000Z",
+      "summaryShort": "Amazon will stop accepting new customers for Mechanical Turk. These may be the last days of Amazon’s Mechanical Turk.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
