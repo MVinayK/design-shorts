@@ -1,91 +1,91 @@
 {
-  "generatedAt": "2026-07-06T04:01:55.996Z",
+  "generatedAt": "2026-07-06T15:43:16.554Z",
   "items": [
     {
-      "id": "aws-introduces-amazon-s3-annotations",
-      "title": "AWS Introduces Amazon S3 Annotations",
+      "id": "netflix-cuts-cassandra-read-latency-from-seconds-to-milliseconds",
+      "title": "Netflix Cuts Cassandra Read Latency from Seconds to Milliseconds with Dynamic Partition Splitting",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/aws-s3-annotations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-05T08:55:00.000Z",
-      "summaryShort": "AWS Introduces Amazon S3 Annotations. AWS recently announced Amazon S3 Annotations, a feature that lets teams attach rich, searchable context such as summaries, classifications, compliance data, or AI-generated insights directly to S3 objec",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "claude-reaches-ga-on-microsoft-foundry-european-enterprises-cann",
-      "title": "Claude Reaches GA on Microsoft Foundry: European Enterprises Cannot Deploy It",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/claude-foundry-ga-europe/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-05T08:13:00.000Z",
-      "summaryShort": "Claude Reaches GA on Microsoft Foundry: European Enterprises Cannot Deploy It. Claude models reached GA on Microsoft Foundry with Azure-native billing and governance, but no European data zone exists.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "cycle-introduces-eu-control-plane-as-sovereignty-debate-continue",
-      "title": "Cycle Introduces EU Control Plane as Sovereignty Debate Continues",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/cycle-eu-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-04T08:15:00.000Z",
-      "summaryShort": "Cycle Introduces EU Control Plane as Sovereignty Debate Continues. Cycle recently introduced a separate EU-based control plane, allowing European customers to keep platform management data and telemetry within Europe.",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/netflix-cassandra-partition/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-06T14:24:00.000Z",
+      "summaryShort": "Netflix Cuts Cassandra Read Latency from Seconds to Milliseconds with Dynamic Partition Splitting. Netflix engineers introduced dynamic partition splitting for Cassandra to address wide partitions in time series workloads.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "cloudflare-details-unified-data-platform-where-billing-workloads",
-      "title": "Cloudflare Details Unified Data Platform Where Billing Workloads Account for 53% of Queries",
+      "id": "infoq-opens-ai-security-privacy-engineering-cohort-for-regulated",
+      "title": "InfoQ Opens AI Security & Privacy Engineering Cohort for Regulated Industries",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/cloudflare-unified-data-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-03T14:29:00.000Z",
-      "summaryShort": "Cloudflare Details Unified Data Platform Where Billing Workloads Account for 53% of Queries. Cloudflare details Town Lake, an internal unified data platform, and Skipper, an AI analytics agent unifying access to operational, billing, securi",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/online-cohort-ai-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-06T12:00:00.000Z",
+      "summaryShort": "InfoQ Opens AI Security & Privacy Engineering Cohort for Regulated Industries. InfoQ has opened enrollment for a five-week AI Security & Privacy Engineering cohort for senior engineers and architects in regulated industries, focused on appl",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "podcast-spite-driven-engineering-a-new-blueprint-for-cloud-secur",
+      "title": "Podcast: Spite-Driven Engineering: A New Blueprint for Cloud Security in the AI Native Era",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/new-blueprint-cloud-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-06T11:00:00.000Z",
+      "summaryShort": "Podcast: Spite-Driven Engineering: A New Blueprint for Cloud Security in the AI Native Era. In this episode, Alex Zenla (CTO/Co-founder, Edera) challenges the \"laissez-faire\" attitude toward modern infrastructure.",
       "tags": [
         "AI",
         "Cloud"
       ]
     },
     {
-      "id": "hardwood-promises-high-speed-jvm-apache-parquet-processing-with-",
-      "title": "Hardwood Promises High-Speed JVM Apache Parquet Processing with Zero Mandatory Dependencies",
+      "id": "presentation-practical-robustness-going-beyond-memory-safety-in-",
+      "title": "Presentation: Practical Robustness: Going Beyond Memory Safety in Rust",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/hardwood-java-parquet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-03T12:12:00.000Z",
-      "summaryShort": "Hardwood Promises High-Speed JVM Apache Parquet Processing with Zero Mandatory Dependencies. Hardwood, the project Gunnar Morling kick-started to improve the handling of Parquet files in Java, reached version 1.",
+      "sourceUrl": "https://www.infoq.com/presentations/rust-autonomous-mobile-robots/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-06T09:01:00.000Z",
+      "summaryShort": "Presentation: Practical Robustness: Going Beyond Memory Safety in Rust. Andy Brinkmeyer shares how engineering leaders and architects can use Rust to build failure-proof systems.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "uber-s-european-expansion-plans-may-have-hit-a-speed-bump",
-      "title": "Uber’s European expansion plans may have hit a speed bump",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
-      "publishedAt": "2026-07-05T21:35:17.000Z",
-      "summaryShort": "Uber’s European expansion plans may have hit a speed bump. Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.",
+      "id": "ai-model-context-protocol-adds-centralised-auth-for-enterprise",
+      "title": "AI Model Context Protocol Adds Centralised Auth for Enterprise",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/mcp-ema-enterprise-auth/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-06T08:00:00.000Z",
+      "summaryShort": "AI Model Context Protocol Adds Centralised Auth for Enterprise. The Model Context Protocol team has promoted its Enterprise-Managed Authorisation extension to stable status, adding a centralised way for organisations to control access to MC",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "trump-memecoin-investors-lost-3-8-billion-analysis-finds",
-      "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+      "id": "microsoft-lays-off-nearly-5-000-employees-across-xbox-commercial",
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
-      "publishedAt": "2026-07-05T20:29:05.000Z",
-      "summaryShort": "Trump memecoin investors lost $3.8 billion, analysis finds. Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "publishedAt": "2026-07-06T15:32:43.000Z",
+      "summaryShort": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales. Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "amazon-will-stop-accepting-new-customers-for-mechanical-turk",
-      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "id": "reddit-is-using-llms-to-solve-a-problem-llms-largely-created",
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "publishedAt": "2026-07-05T17:43:36.000Z",
-      "summaryShort": "Amazon will stop accepting new customers for Mechanical Turk. These may be the last days of Amazon’s Mechanical Turk.",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "publishedAt": "2026-07-06T15:22:08.000Z",
+      "summaryShort": "Reddit is using LLMs to solve a problem LLMs largely created. In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-a",
+      "title": "Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/",
+      "publishedAt": "2026-07-06T14:43:59.000Z",
+      "summaryShort": "Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year. The hacking operations disclosed in a Canadian spy agency's annual report underscores some pressing national security threats facing the countr",
       "tags": [
         "Engineering"
       ]
