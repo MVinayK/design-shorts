@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-06T15:43:16.554Z",
+  "generatedAt": "2026-07-07T03:52:51.324Z",
   "items": [
+    {
+      "id": "java-news-roundup-strict-field-initialization-glassfish-graalvm-",
+      "title": "Java News Roundup: Strict Field Initialization, GlassFish, GraalVM, JReleaser, RefactorFirst",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/java-news-roundup-jun29-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-06T23:30:00.000Z",
+      "summaryShort": "Java News Roundup: Strict Field Initialization, GlassFish, GraalVM, JReleaser, RefactorFirst. This week's Java roundup for June 29th, 2026, features news highlighting: a new JEP candidate, Strict Field Initialization; point releases of Graa",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "netflix-cuts-cassandra-read-latency-from-seconds-to-milliseconds",
       "title": "Netflix Cuts Cassandra Read Latency from Seconds to Milliseconds with Dynamic Partition Splitting",
@@ -47,47 +58,37 @@
       ]
     },
     {
-      "id": "ai-model-context-protocol-adds-centralised-auth-for-enterprise",
-      "title": "AI Model Context Protocol Adds Centralised Auth for Enterprise",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/mcp-ema-enterprise-auth/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-06T08:00:00.000Z",
-      "summaryShort": "AI Model Context Protocol Adds Centralised Auth for Enterprise. The Model Context Protocol team has promoted its Enterprise-Managed Authorisation extension to stable status, adding a centralised way for organisations to control access to MC",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "microsoft-lays-off-nearly-5-000-employees-across-xbox-commercial",
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "id": "netflix-invented-binge-watching-now-it-may-have-outgrown-it",
+      "title": "Netflix invented binge-watching. Now it may have outgrown it.",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "publishedAt": "2026-07-06T15:32:43.000Z",
-      "summaryShort": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales. Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "reddit-is-using-llms-to-solve-a-problem-llms-largely-created",
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "publishedAt": "2026-07-06T15:22:08.000Z",
-      "summaryShort": "Reddit is using LLMs to solve a problem LLMs largely created. In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-a",
-      "title": "Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/",
-      "publishedAt": "2026-07-06T14:43:59.000Z",
-      "summaryShort": "Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year. The hacking operations disclosed in a Canadian spy agency's annual report underscores some pressing national security threats facing the countr",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+      "publishedAt": "2026-07-07T00:47:33.000Z",
+      "summaryShort": "Netflix invented binge-watching. Now it may have outgrown it..",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "the-8216-first-ai-run-ransomware-attack-still-needed-a-human",
+      "title": "The &#8216;first' AI-run ransomware attack still needed a human",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "publishedAt": "2026-07-06T23:56:14.000Z",
+      "summaryShort": "The &#8216;first' AI-run ransomware attack still needed a human. An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the inf",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "us-investors-will-soon-get-access-to-sk-hynix-another-memory-mak",
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "publishedAt": "2026-07-06T23:21:03.000Z",
+      "summaryShort": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom. SK Hynix is experiencing a boom credited to AI.",
+      "tags": [
+        "AI"
       ]
     }
   ]
