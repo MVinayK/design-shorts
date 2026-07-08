@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-08T03:19:37.853Z",
+  "generatedAt": "2026-07-08T14:25:37.002Z",
   "items": [
+    {
+      "id": "presentation-the-multi-agent-approach-building-reliable-and-cont",
+      "title": "Presentation: The Multi-Agent Approach: Building Reliable and Controllable Software Development Automation",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/multi-agent-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-08T14:06:00.000Z",
+      "summaryShort": "Presentation: The Multi-Agent Approach: Building Reliable and Controllable Software Development Automation. Itamar Friedman discusses how architects and engineering leaders can break through the AI productivity ceiling using adaptive multi-",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "switching-from-postgresql-to-clickhouse-for-improved-performance",
       "title": "Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability",
@@ -47,47 +58,36 @@
       ]
     },
     {
-      "id": "node-js-26-temporal-api-enabled-by-default-v8-14-6-and-a-round-o",
-      "title": "Node.js 26: Temporal API Enabled by Default, V8 14.6, and a Round of Deprecations",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/nodejs-26-temporal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-07T06:51:00.000Z",
-      "summaryShort": "Node.js 26: Temporal API Enabled by Default, V8 14.6, and a Round of Deprecations. Node.js 26 has been released, featuring the Temporal API enabled by default, an updated V8 engine to version 14.6, and the Undici HTTP client upgraded to 8.0",
+      "id": "venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocke",
+      "title": "Venus Aerospace raises $90M Series B to build a new kind of rocket engine",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/",
+      "publishedAt": "2026-07-08T14:07:49.000Z",
+      "summaryShort": "Venus Aerospace raises $90M Series B to build a new kind of rocket engine. Build a new kind of rocket engine, and the world will beat a path to your door.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "final-extension-startup-battlefield-australia-applications-now-c",
-      "title": "Final extension: Startup Battlefield Australia applications now close July 20",
+      "id": "blue-origin-reportedly-raising-10b-at-130b-valuation",
+      "title": "Blue Origin reportedly raising $10B at $130B valuation",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
-      "publishedAt": "2026-07-07T22:30:00.000Z",
-      "summaryShort": "Final extension: Startup Battlefield Australia applications now close July 20. If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
+      "publishedAt": "2026-07-08T14:04:53.000Z",
+      "summaryShort": "Blue Origin reportedly raising $10B at $130B valuation. Blue Origin is raising $10 billion at a $130 billion pre-money valuation from Coatue Asset Management, Bezos himself and other big-name investors, the New York Times reported.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "meta-just-launched-a-new-ai-generator-muse-image-and-users-are-a",
-      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "id": "venus-williams-backed-weward-can-now-lock-your-apps-until-you-hi",
+      "title": "Venus Williams-backed WeWard can now lock your apps until you hit your steps",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "publishedAt": "2026-07-07T22:18:10.000Z",
-      "summaryShort": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos. The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/",
+      "publishedAt": "2026-07-08T13:00:00.000Z",
+      "summaryShort": "Venus Williams-backed WeWard can now lock your apps until you hit your steps. With funding from tennis star and angel investor Venus Williams, the French app WeWard says that it increases walking time by almost 25%.",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-8230-yet",
-      "title": "Why the rise of open source AI isn't hurting Anthropic &#8230; yet",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "publishedAt": "2026-07-07T20:04:32.000Z",
-      "summaryShort": "Why the rise of open source AI isn't hurting Anthropic &#8230; yet. Open source models’ success isn’t coming at the expense of frontier labs.",
-      "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
