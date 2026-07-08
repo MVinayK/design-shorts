@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-07-07T14:47:37.705Z",
+  "generatedAt": "2026-07-08T03:19:37.853Z",
   "items": [
     {
+      "id": "switching-from-postgresql-to-clickhouse-for-improved-performance",
+      "title": "Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/momentic-postgres-clickhouse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-07T20:00:00.000Z",
+      "summaryShort": "Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability. Momentic, the company behind an AI-driven software testing platform, recently rearchitected its caching system to handle over 2 million queries per day across",
+      "tags": [
+        "AI",
+        "Databases"
+      ]
+    },
+    {
       "id": "aws-expands-devops-agent-with-ai-powered-release-management-to-v",
-      "title": "AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code Before Production",
+      "title": "AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/news/2026/07/aws-devops-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-07-07T12:00:00.000Z",
-      "summaryShort": "AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code Before Production. Amazon Web Services (AWS) has announced a major expansion of its AWS DevOps Agent, introducing new release management capabilities designed to a",
+      "summaryShort": "AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production. Amazon Web Services (AWS) has announced a major expansion of its AWS DevOps Agent, introducing new release management capabilities designed to a",
       "tags": [
         "AI"
       ]
@@ -46,47 +58,36 @@
       ]
     },
     {
-      "id": "java-news-roundup-strict-field-initialization-glassfish-graalvm-",
-      "title": "Java News Roundup: Strict Field Initialization, GlassFish, GraalVM, JReleaser, RefactorFirst",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/java-news-roundup-jun29-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-06T23:30:00.000Z",
-      "summaryShort": "Java News Roundup: Strict Field Initialization, GlassFish, GraalVM, JReleaser, RefactorFirst. This week's Java roundup for June 29th, 2026, features news highlighting: a new JEP candidate, Strict Field Initialization; point releases of Graa",
+      "id": "final-extension-startup-battlefield-australia-applications-now-c",
+      "title": "Final extension: Startup Battlefield Australia applications now close July 20",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+      "publishedAt": "2026-07-07T22:30:00.000Z",
+      "summaryShort": "Final extension: Startup Battlefield Australia applications now close July 20. If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "ai-law-startup-norm-raises-120m-hits-unicorn-valuation",
-      "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+      "id": "meta-just-launched-a-new-ai-generator-muse-image-and-users-are-a",
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
-      "publishedAt": "2026-07-07T14:35:42.000Z",
-      "summaryShort": "AI law startup Norm raises $120M, hits unicorn valuation. AI law startup Norm has raised a $120 million Series C round led by Kholsa Ventures, valuing the startup at $1.2 billion.",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "publishedAt": "2026-07-07T22:18:10.000Z",
+      "summaryShort": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos. The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "this-startup-pits-dealerships-against-each-other-to-bid-on-your-",
-      "title": "This startup pits dealerships against each other to bid on your used car",
+      "id": "why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-8230-yet",
+      "title": "Why the rise of open source AI isn't hurting Anthropic &#8230; yet",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
-      "publishedAt": "2026-07-07T14:00:00.000Z",
-      "summaryShort": "This startup pits dealerships against each other to bid on your used car. Bidbus, which lets dealerships bid on used cars, has raised $15 million in a Series A round that was led by early-stage mobility fund Ibex Investors.",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "publishedAt": "2026-07-07T20:04:32.000Z",
+      "summaryShort": "Why the rise of open source AI isn't hurting Anthropic &#8230; yet. Open source models’ success isn’t coming at the expense of frontier labs.",
       "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websi",
-      "title": "Hacktivists call out Trump by hacking and defacing US Army websites",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/",
-      "publishedAt": "2026-07-07T13:10:00.000Z",
-      "summaryShort": "Hacktivists call out Trump by hacking and defacing US Army websites. The U.S.",
-      "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
