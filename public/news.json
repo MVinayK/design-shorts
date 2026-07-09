@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-08T14:25:37.002Z",
+  "generatedAt": "2026-07-09T03:45:42.445Z",
   "items": [
+    {
+      "id": "airbnb-shares-architecture-behind-sitar-agent-dynamic-configurat",
+      "title": "Airbnb Shares Architecture Behind Sitar-Agent Dynamic Configuration Sidecar for Kubernetes Services",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/sitar-agent-sidecar-config/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-08T14:25:00.000Z",
+      "summaryShort": "Airbnb Shares Architecture Behind Sitar-Agent Dynamic Configuration Sidecar for Kubernetes Services. Airbnb engineers detailed Sitar-agent, a Kubernetes sidecar for dynamic configuration delivery across tens of thousands of pods, processing",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "presentation-the-multi-agent-approach-building-reliable-and-cont",
       "title": "Presentation: The Multi-Agent Approach: Building Reliable and Controllable Software Development Automation",
@@ -47,45 +58,34 @@
       ]
     },
     {
-      "id": "how-hubspot-scaled-semantic-search-to-20-billion-vectors",
-      "title": "How HubSpot Scaled Semantic Search to 20 Billion Vectors",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/hubspot-semantic-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-07T08:00:00.000Z",
-      "summaryShort": "How HubSpot Scaled Semantic Search to 20 Billion Vectors. SaaS software vendor HubSpot has described how its semantic search platform grew from a proof of concept into an internal service that now manages more than 20 billion vectors across",
+      "id": "truecaller-clashes-with-india-s-telecom-regulator-over-anti-spam",
+      "title": "Truecaller clashes with India's telecom regulator over anti-spam rules",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
+      "publishedAt": "2026-07-09T02:30:00.000Z",
+      "summaryShort": "Truecaller clashes with India's telecom regulator over anti-spam rules. The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocke",
-      "title": "Venus Aerospace raises $90M Series B to build a new kind of rocket engine",
+      "id": "despite-8216-misgivings-judge-approves-elon-musk-s-1-5m-sec-sett",
+      "title": "Despite &#8216;misgivings,' judge approves Elon Musk's $1.5M SEC settlement",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/",
-      "publishedAt": "2026-07-08T14:07:49.000Z",
-      "summaryShort": "Venus Aerospace raises $90M Series B to build a new kind of rocket engine. Build a new kind of rocket engine, and the world will beat a path to your door.",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
+      "publishedAt": "2026-07-08T23:11:42.000Z",
+      "summaryShort": "Despite &#8216;misgivings,' judge approves Elon Musk's $1.5M SEC settlement. The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now X) has come to an end.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "blue-origin-reportedly-raising-10b-at-130b-valuation",
-      "title": "Blue Origin reportedly raising $10B at $130B valuation",
+      "id": "lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b",
+      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
-      "publishedAt": "2026-07-08T14:04:53.000Z",
-      "summaryShort": "Blue Origin reportedly raising $10B at $130B valuation. Blue Origin is raising $10 billion at a $130 billion pre-money valuation from Coatue Asset Management, Bezos himself and other big-name investors, the New York Times reported.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "venus-williams-backed-weward-can-now-lock-your-apps-until-you-hi",
-      "title": "Venus Williams-backed WeWard can now lock your apps until you hit your steps",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/",
-      "publishedAt": "2026-07-08T13:00:00.000Z",
-      "summaryShort": "Venus Williams-backed WeWard can now lock your apps until you hit your steps. With funding from tennis star and angel investor Venus Williams, the French app WeWard says that it increases walking time by almost 25%.",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "publishedAt": "2026-07-08T22:41:33.000Z",
+      "summaryShort": "Lovable reportedly in talks to double its valuation to $13.2B. The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
       "tags": [
         "Engineering"
       ]
