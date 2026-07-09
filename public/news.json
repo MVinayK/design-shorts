@@ -1,93 +1,93 @@
 {
-  "generatedAt": "2026-07-09T03:45:42.445Z",
+  "generatedAt": "2026-07-09T15:20:16.313Z",
   "items": [
     {
-      "id": "airbnb-shares-architecture-behind-sitar-agent-dynamic-configurat",
-      "title": "Airbnb Shares Architecture Behind Sitar-Agent Dynamic Configuration Sidecar for Kubernetes Services",
+      "id": "how-open-source-enables-collaboration-in-creating-a-platform",
+      "title": "How Open Source Enables Collaboration in Creating a Platform",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/sitar-agent-sidecar-config/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-08T14:25:00.000Z",
-      "summaryShort": "Airbnb Shares Architecture Behind Sitar-Agent Dynamic Configuration Sidecar for Kubernetes Services. Airbnb engineers detailed Sitar-agent, a Kubernetes sidecar for dynamic configuration delivery across tens of thousands of pods, processing",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/open-source-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-09T11:53:00.000Z",
+      "summaryShort": "How Open Source Enables Collaboration in Creating a Platform. A platform is a collaboration system: platform teams depend on application teams, and both need shared standards.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "presentation-the-multi-agent-approach-building-reliable-and-cont",
-      "title": "Presentation: The Multi-Agent Approach: Building Reliable and Controllable Software Development Automation",
+      "id": "openai-fixes-18-year-old-gnu-libunwind-bug-by-treating-crash-deb",
+      "title": "OpenAI Fixes 18-Year-Old GNU libunwind Bug by Treating Crash Debugging Like Epidemiology",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/multi-agent-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-08T14:06:00.000Z",
-      "summaryShort": "Presentation: The Multi-Agent Approach: Building Reliable and Controllable Software Development Automation. Itamar Friedman discusses how architects and engineering leaders can break through the AI productivity ceiling using adaptive multi-",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/openai-libunwind-core-dumps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-09T10:15:00.000Z",
+      "summaryShort": "OpenAI Fixes 18-Year-Old GNU libunwind Bug by Treating Crash Debugging Like Epidemiology. OpenAI found two unrelated bugs masquerading as one in ChatGPT's data infrastructure.",
       "tags": [
-        "AI"
+        "Cloud"
       ]
     },
     {
-      "id": "switching-from-postgresql-to-clickhouse-for-improved-performance",
-      "title": "Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability",
+      "id": "article-beat-aligned-mobile-audio-streaming-with-virtual-chunks-",
+      "title": "Article: Beat-Aligned Mobile Audio Streaming with Virtual Chunks and Native Playback",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/momentic-postgres-clickhouse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-07T20:00:00.000Z",
-      "summaryShort": "Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability. Momentic, the company behind an AI-driven software testing platform, recently rearchitected its caching system to handle over 2 million queries per day across",
+      "sourceUrl": "https://www.infoq.com/articles/android-beat-aligned-mobile-audio-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-09T09:00:00.000Z",
+      "summaryShort": "Article: Beat-Aligned Mobile Audio Streaming with Virtual Chunks and Native Playback. In this article, I describe the challenges and the design of a React Native real-time mobile beat-aligned playback system for iOS and Android.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "alloydb-ships-proxy-models-that-replace-llm-calls-with-local-inf",
+      "title": "AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference Inside the Database",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/alloydb-ai-proxy-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-09T08:00:00.000Z",
+      "summaryShort": "AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference Inside the Database. Google shipped AlloyDB AI functions GA with a proxy model architecture that trains a lightweight local model from LLM outputs, then runs queries at ",
       "tags": [
         "AI",
         "Databases"
       ]
     },
     {
-      "id": "aws-expands-devops-agent-with-ai-powered-release-management-to-v",
-      "title": "AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production",
+      "id": "aws-details-how-one-customer-scaled-to-one-million-lambda-functi",
+      "title": "AWS Details How One Customer Scaled to One Million Lambda Functions",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/aws-devops-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-07T12:00:00.000Z",
-      "summaryShort": "AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production. Amazon Web Services (AWS) has announced a major expansion of its AWS DevOps Agent, introducing new release management capabilities designed to a",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/aws-lambda-1m/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-09T07:44:00.000Z",
+      "summaryShort": "AWS Details How One Customer Scaled to One Million Lambda Functions. AWS has outlined how ProGlove, an industrial-wearables manufacturer, was able to scale its SaaS platform to run more than one million AWS Lambda functions spread across th",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-",
+      "title": "Block reaches $45M settlement with 46 states over Cash App fraud probe",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-probe/",
+      "publishedAt": "2026-07-09T15:16:34.000Z",
+      "summaryShort": "Block reaches $45M settlement with 46 states over Cash App fraud probe. State attorneys general said they found that Block misled users by falsely advertising that Cash App provided bank-like protections, including advanced fraud detection.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "anthropic-s-new-claude-feature-is-quietly-selling-you-on-ai",
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "publishedAt": "2026-07-09T14:53:09.000Z",
+      "summaryShort": "Anthropic’s new Claude feature is quietly selling you on AI. Claude’s new Reflect dashboard doesn’t just visualize how you use AI.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "presentation-designing-ai-platforms-for-reliability-tools-for-ce",
-      "title": "Presentation: Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/reliable-ai-platforms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-07T08:03:00.000Z",
-      "summaryShort": "Presentation: Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery. Aaron Erickson explains how NVIDIA designs and tests purpose-built AI agent hierarchies.",
+      "id": "anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of",
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "publishedAt": "2026-07-09T14:51:00.000Z",
+      "summaryShort": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits. Three big AI IPOs are set to generate more value than all the U.S.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "truecaller-clashes-with-india-s-telecom-regulator-over-anti-spam",
-      "title": "Truecaller clashes with India's telecom regulator over anti-spam rules",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
-      "publishedAt": "2026-07-09T02:30:00.000Z",
-      "summaryShort": "Truecaller clashes with India's telecom regulator over anti-spam rules. The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "despite-8216-misgivings-judge-approves-elon-musk-s-1-5m-sec-sett",
-      "title": "Despite &#8216;misgivings,' judge approves Elon Musk's $1.5M SEC settlement",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
-      "publishedAt": "2026-07-08T23:11:42.000Z",
-      "summaryShort": "Despite &#8216;misgivings,' judge approves Elon Musk's $1.5M SEC settlement. The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now X) has come to an end.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b",
-      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-      "publishedAt": "2026-07-08T22:41:33.000Z",
-      "summaryShort": "Lovable reportedly in talks to double its valuation to $13.2B. The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
