@@ -1,91 +1,91 @@
 {
-  "generatedAt": "2026-07-10T03:47:52.754Z",
+  "generatedAt": "2026-07-10T14:38:27.893Z",
   "items": [
     {
-      "id": "presentation-accelerating-netflix-data-a-cross-team-journey-from",
-      "title": "Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online",
+      "id": "slack-introduces-agent-driven-end-to-end-testing-to-improve-resi",
+      "title": "Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/netflix-data-offline-online/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-09T15:20:00.000Z",
-      "summaryShort": "Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online. Raj Ummadisetty and Ken Kurzweil share Netflix's architectural pivot to CloudStream, a repeatable capture, conversion, and deployment framework.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "how-open-source-enables-collaboration-in-creating-a-platform",
-      "title": "How Open Source Enables Collaboration in Creating a Platform",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/open-source-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-09T11:53:00.000Z",
-      "summaryShort": "How Open Source Enables Collaboration in Creating a Platform. A platform is a collaboration system: platform teams depend on application teams, and both need shared standards.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "openai-fixes-18-year-old-gnu-libunwind-bug-by-treating-crash-deb",
-      "title": "OpenAI Fixes 18-Year-Old GNU libunwind Bug by Treating Crash Debugging Like Epidemiology",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/openai-libunwind-core-dumps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-09T10:15:00.000Z",
-      "summaryShort": "OpenAI Fixes 18-Year-Old GNU libunwind Bug by Treating Crash Debugging Like Epidemiology. OpenAI found two unrelated bugs masquerading as one in ChatGPT's data infrastructure.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "article-beat-aligned-mobile-audio-streaming-with-virtual-chunks-",
-      "title": "Article: Beat-Aligned Mobile Audio Streaming with Virtual Chunks and Native Playback",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/android-beat-aligned-mobile-audio-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-09T09:00:00.000Z",
-      "summaryShort": "Article: Beat-Aligned Mobile Audio Streaming with Virtual Chunks and Native Playback. In this article, I describe the challenges and the design of a React Native real-time mobile beat-aligned playback system for iOS and Android.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "alloydb-ships-proxy-models-that-replace-llm-calls-with-local-inf",
-      "title": "AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/alloydb-ai-proxy-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-09T08:00:00.000Z",
-      "summaryShort": "AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database. Google shipped AlloyDB AI functions GA with a proxy model architecture that trains a lightweight local model from LLM outputs, then runs queries at ",
-      "tags": [
-        "AI",
-        "Databases"
-      ]
-    },
-    {
-      "id": "openai-says-gpt-5-6-is-the-8216-preferred-model-for-microsoft-co",
-      "title": "OpenAI says GPT 5.6 is the &#8216;preferred model' for Microsoft Copilot 365 amid breakup chatter",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "publishedAt": "2026-07-10T00:16:54.000Z",
-      "summaryShort": "OpenAI says GPT 5.6 is the &#8216;preferred model' for Microsoft Copilot 365 amid breakup chatter. OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/slack-agentic-e2e-testing-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-10T13:48:00.000Z",
+      "summaryShort": "Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation. Agentic testing is an AI-driven approach to end-to-end test automation introduced by Slack engineering.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "don-t-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclud",
-      "title": "Don't want to invest in Elon Musk? Two new ETFs explicitly exclude him",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
-      "publishedAt": "2026-07-10T00:13:00.000Z",
-      "summaryShort": "Don't want to invest in Elon Musk? Two new ETFs explicitly exclude him.",
+      "id": "presentation-chaos-engineering-gpu-clusters",
+      "title": "Presentation: Chaos Engineering GPU Clusters",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/chaos-engineering-gpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-10T13:42:00.000Z",
+      "summaryShort": "Presentation: Chaos Engineering GPU Clusters. Bryan Oliver discusses the frontier of AI infrastructure: chaos engineering for large-scale GPU clusters.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "linux-foundation-launches-akrites-to-protect-critical-open-sourc",
+      "title": "Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered Threats",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/akrites-open-source-ai-threats/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-10T12:00:00.000Z",
+      "summaryShort": "Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered Threats. The Linux Foundation has launched Akrites, a new industry-wide initiative aimed at defending the world's most critical open source software ",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "github-copilot-cli-gets-tabs-and-no-config-file-tool-setup-in-re",
+      "title": "GitHub Copilot CLI Gets Tabs and No-Config-File Tool Setup in Redesigned Terminal UI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/copilot-cli-terminal-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-10T10:00:00.000Z",
+      "summaryShort": "GitHub Copilot CLI Gets Tabs and No-Config-File Tool Setup in Redesigned Terminal UI. GitHub has made the redesigned GitHub Copilot CLI terminal interface generally available.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "fidji-simo-steps-down-from-openai-s-no-2-role",
-      "title": "Fidji Simo steps down from OpenAI's no. 2 role",
+      "id": "article-trade-offs-in-multi-region-architectures-latency-vs-cost",
+      "title": "Article: Trade-Offs in Multi-Region Architectures: Latency vs. Cost",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/multi-region-latency-cost-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-10T09:00:00.000Z",
+      "summaryShort": "Article: Trade-Offs in Multi-Region Architectures: Latency vs. Cost.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "eu-threatens-meta-with-fines-over-addictive-features-on-facebook",
+      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "publishedAt": "2026-07-09T23:38:00.000Z",
-      "summaryShort": "Fidji Simo steps down from OpenAI's no. 2 role.",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+      "publishedAt": "2026-07-10T14:19:40.000Z",
+      "summaryShort": "EU threatens Meta with fines over addictive features on Facebook and Instagram. The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized ",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "florida-ransomware-negotiator-convicted-for-helping-ransomware-g",
+      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
+      "publishedAt": "2026-07-10T14:11:03.000Z",
+      "summaryShort": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies. A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "after-apple-india-s-smartphone-manufacturing-boom-enters-new-pha",
+      "title": "After Apple, India's smartphone manufacturing boom enters new phase with Vivo JV",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
+      "publishedAt": "2026-07-10T04:36:20.000Z",
+      "summaryShort": "After Apple, India's smartphone manufacturing boom enters new phase with Vivo JV. Vivo's joint venture could become a template for Chinese smartphone makers in India.",
       "tags": [
         "Engineering"
       ]
