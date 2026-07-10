@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-09T15:20:16.313Z",
+  "generatedAt": "2026-07-10T03:47:52.754Z",
   "items": [
+    {
+      "id": "presentation-accelerating-netflix-data-a-cross-team-journey-from",
+      "title": "Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/netflix-data-offline-online/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-09T15:20:00.000Z",
+      "summaryShort": "Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online. Raj Ummadisetty and Ken Kurzweil share Netflix's architectural pivot to CloudStream, a repeatable capture, conversion, and deployment framework.",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "how-open-source-enables-collaboration-in-creating-a-platform",
       "title": "How Open Source Enables Collaboration in Creating a Platform",
@@ -36,58 +47,47 @@
     },
     {
       "id": "alloydb-ships-proxy-models-that-replace-llm-calls-with-local-inf",
-      "title": "AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference Inside the Database",
+      "title": "AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/news/2026/07/alloydb-ai-proxy-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-07-09T08:00:00.000Z",
-      "summaryShort": "AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference Inside the Database. Google shipped AlloyDB AI functions GA with a proxy model architecture that trains a lightweight local model from LLM outputs, then runs queries at ",
+      "summaryShort": "AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database. Google shipped AlloyDB AI functions GA with a proxy model architecture that trains a lightweight local model from LLM outputs, then runs queries at ",
       "tags": [
         "AI",
         "Databases"
       ]
     },
     {
-      "id": "aws-details-how-one-customer-scaled-to-one-million-lambda-functi",
-      "title": "AWS Details How One Customer Scaled to One Million Lambda Functions",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/aws-lambda-1m/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-09T07:44:00.000Z",
-      "summaryShort": "AWS Details How One Customer Scaled to One Million Lambda Functions. AWS has outlined how ProGlove, an industrial-wearables manufacturer, was able to scale its SaaS platform to run more than one million AWS Lambda functions spread across th",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-",
-      "title": "Block reaches $45M settlement with 46 states over Cash App fraud probe",
+      "id": "openai-says-gpt-5-6-is-the-8216-preferred-model-for-microsoft-co",
+      "title": "OpenAI says GPT 5.6 is the &#8216;preferred model' for Microsoft Copilot 365 amid breakup chatter",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-probe/",
-      "publishedAt": "2026-07-09T15:16:34.000Z",
-      "summaryShort": "Block reaches $45M settlement with 46 states over Cash App fraud probe. State attorneys general said they found that Block misled users by falsely advertising that Cash App provided bank-like protections, including advanced fraud detection.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "anthropic-s-new-claude-feature-is-quietly-selling-you-on-ai",
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "publishedAt": "2026-07-09T14:53:09.000Z",
-      "summaryShort": "Anthropic’s new Claude feature is quietly selling you on AI. Claude’s new Reflect dashboard doesn’t just visualize how you use AI.",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "publishedAt": "2026-07-10T00:16:54.000Z",
+      "summaryShort": "OpenAI says GPT 5.6 is the &#8216;preferred model' for Microsoft Copilot 365 amid breakup chatter. OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of",
-      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "id": "don-t-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclud",
+      "title": "Don't want to invest in Elon Musk? Two new ETFs explicitly exclude him",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-      "publishedAt": "2026-07-09T14:51:00.000Z",
-      "summaryShort": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits. Three big AI IPOs are set to generate more value than all the U.S.",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
+      "publishedAt": "2026-07-10T00:13:00.000Z",
+      "summaryShort": "Don't want to invest in Elon Musk? Two new ETFs explicitly exclude him.",
       "tags": [
-        "AI"
+        "Engineering"
+      ]
+    },
+    {
+      "id": "fidji-simo-steps-down-from-openai-s-no-2-role",
+      "title": "Fidji Simo steps down from OpenAI's no. 2 role",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "publishedAt": "2026-07-09T23:38:00.000Z",
+      "summaryShort": "Fidji Simo steps down from OpenAI's no. 2 role.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
