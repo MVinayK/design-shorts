@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-07-10T14:38:27.893Z",
+  "generatedAt": "2026-07-11T03:14:11.536Z",
   "items": [
+    {
+      "id": "cloudflare-introduces-temporary-accounts-for-autonomous-worker-d",
+      "title": "Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/cloudflare-temp-accounts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-10T15:16:00.000Z",
+      "summaryShort": "Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment. Cloudflare has recently introduced temporary accounts that let AI agents deploy Cloudflare Workers immediately, without first creating or authenticating with a perma",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "slack-introduces-agent-driven-end-to-end-testing-to-improve-resi",
       "title": "Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation",
@@ -47,47 +59,36 @@
       ]
     },
     {
-      "id": "article-trade-offs-in-multi-region-architectures-latency-vs-cost",
-      "title": "Article: Trade-Offs in Multi-Region Architectures: Latency vs. Cost",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/multi-region-latency-cost-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-10T09:00:00.000Z",
-      "summaryShort": "Article: Trade-Offs in Multi-Region Architectures: Latency vs. Cost.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "eu-threatens-meta-with-fines-over-addictive-features-on-facebook",
-      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+      "id": "us-cybersecurity-agency-cisa-had-to-build-its-incident-playbook-",
+      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
-      "publishedAt": "2026-07-10T14:19:40.000Z",
-      "summaryShort": "EU threatens Meta with fines over addictive features on Facebook and Instagram. The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized ",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+      "publishedAt": "2026-07-11T01:01:28.000Z",
+      "summaryShort": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals. Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to ream",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "florida-ransomware-negotiator-convicted-for-helping-ransomware-g",
-      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
+      "id": "phia-accused-of-8216-cookie-stuffing-taking-affiliate-credit-on-",
+      "title": "Phia accused of &#8216;cookie stuffing,' taking affiliate credit on purchases it didn't earn",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
-      "publishedAt": "2026-07-10T14:11:03.000Z",
-      "summaryShort": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies. A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers.",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+      "publishedAt": "2026-07-11T00:29:25.000Z",
+      "summaryShort": "Phia accused of &#8216;cookie stuffing,' taking affiliate credit on purchases it didn't earn. Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stu",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "after-apple-india-s-smartphone-manufacturing-boom-enters-new-pha",
-      "title": "After Apple, India's smartphone manufacturing boom enters new phase with Vivo JV",
+      "id": "meta-removes-controversial-ai-feature-on-instagram-after-backlas",
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
-      "publishedAt": "2026-07-10T04:36:20.000Z",
-      "summaryShort": "After Apple, India's smartphone manufacturing boom enters new phase with Vivo JV. Vivo's joint venture could become a template for Chinese smartphone makers in India.",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "publishedAt": "2026-07-10T23:55:07.000Z",
+      "summaryShort": "Meta removes controversial AI feature on Instagram after backlash. \"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog p",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
