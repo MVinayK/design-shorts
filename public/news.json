@@ -1,92 +1,90 @@
 {
-  "generatedAt": "2026-07-13T03:28:57.518Z",
+  "generatedAt": "2026-07-13T14:44:46.510Z",
   "items": [
     {
-      "id": "cloudflare-identifies-race-condition-in-hyper-s-http-1-implement",
-      "title": "Cloudflare Identifies Race Condition in hyper’s HTTP/1 Implementation",
+      "id": "the-path-to-sovereign-data-challenges-and-priorities-in-local-fi",
+      "title": "The Path to Sovereign Data: Challenges and Priorities in Local-First Computing",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/cloudflare-hyper-bug-fix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-12T06:18:00.000Z",
-      "summaryShort": "Cloudflare Identifies Race Condition in hyper’s HTTP/1 Implementation. Cloudflare recently documented how its development team identified and fixed a rare bug in the widely used Rust HTTP library hyper that could silently truncate large HTT",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/data-ownership-localfirst/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-13T14:14:00.000Z",
+      "summaryShort": "The Path to Sovereign Data: Challenges and Priorities in Local-First Computing. A panel on data ownership challenged the definition of \"ownership,\" arguing it must extend beyond simple account control to include structural independence, int",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "how-doordash-built-an-ai-shopping-assistant-that-doesn-t-rely-on",
+      "title": "How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/doordash-ai-ask-assistant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-13T14:08:00.000Z",
+      "summaryShort": "How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone. DoorDash details the architecture behind Ask DoorDash, its AI-powered conversational shopping assistant, combining LLMs, specialized AI agents, MCP-based toolin",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "java-news-roundup-tornadovm-5-jhipster-google-adk-omnifish-build",
+      "title": "Java News Roundup: TornadoVM 5, JHipster, Google ADK, OmniFish Build of Payara, Introducing Vidocq",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/java-news-roundup-jul06-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-13T12:40:00.000Z",
+      "summaryShort": "Java News Roundup: TornadoVM 5, JHipster, Google ADK, OmniFish Build of Payara, Introducing Vidocq. This week's Java roundup for July 6th, 2026, features news highlighting: the GA release of TornadoVM 5.0; point releases of JHipster, Keyclo",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-road-to-compliance-will-your-internal-users-hate-yo",
+      "title": "Presentation: Road to Compliance: Will Your Internal Users Hate Your Platform Team?",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/platform-engineering-team-compliance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-13T12:20:00.000Z",
+      "summaryShort": "Presentation: Road to Compliance: Will Your Internal Users Hate Your Platform Team?. Davide de Paolis discusses the realities of rolling out cloud infrastructure compliance without fracturing developer relations.",
       "tags": [
         "Cloud"
       ]
     },
     {
-      "id": "cloudflare-introduces-temporary-accounts-for-autonomous-worker-d",
-      "title": "Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment",
+      "id": "article-removing-a-hidden-round-trip-from-a-multi-region-aws-api",
+      "title": "Article: Removing a Hidden Round Trip from a Multi-Region AWS API",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/cloudflare-temp-accounts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-10T15:16:00.000Z",
-      "summaryShort": "Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment. Cloudflare has recently introduced temporary accounts that let AI agents deploy Cloudflare Workers immediately, without first creating or authenticating with a perma",
+      "sourceUrl": "https://www.infoq.com/articles/aws-multi-region-signing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-13T11:00:00.000Z",
+      "summaryShort": "Article: Removing a Hidden Round Trip from a Multi-Region AWS API. When a series of regional outages forced a rethink of a multi-region AWS API, the team discovered that an obstacle to global failover was hiding in plain sight: a pre-flight",
       "tags": [
-        "AI",
-        "Cloud"
+        "Engineering"
       ]
     },
     {
-      "id": "slack-introduces-agent-driven-end-to-end-testing-to-improve-resi",
-      "title": "Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/slack-agentic-e2e-testing-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-10T13:48:00.000Z",
-      "summaryShort": "Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation. Agentic testing is an AI-driven approach to end-to-end test automation introduced by Slack engineering.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-chaos-engineering-gpu-clusters",
-      "title": "Presentation: Chaos Engineering GPU Clusters",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/chaos-engineering-gpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-10T13:42:00.000Z",
-      "summaryShort": "Presentation: Chaos Engineering GPU Clusters. Bryan Oliver discusses the frontier of AI infrastructure: chaos engineering for large-scale GPU clusters.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "linux-foundation-launches-akrites-to-protect-critical-open-sourc",
-      "title": "Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered Threats",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/akrites-open-source-ai-threats/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-10T12:00:00.000Z",
-      "summaryShort": "Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered Threats. The Linux Foundation has launched Akrites, a new industry-wide initiative aimed at defending the world's most critical open source software ",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "techcrunch-mobility-a-robotaxi-ultimatum",
-      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "id": "spacex-cleared-to-fly-starship-again-after-booster-failure-in-ma",
+      "title": "SpaceX cleared to fly Starship again after booster failure in May",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
-      "publishedAt": "2026-07-12T16:07:00.000Z",
-      "summaryShort": "TechCrunch Mobility: A robotaxi ultimatum. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+      "publishedAt": "2026-07-13T14:19:44.000Z",
+      "summaryShort": "SpaceX cleared to fly Starship again after booster failure in May. This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, ",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "waze-adds-new-ai-powered-features-and-customization-updates",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "publishedAt": "2026-07-13T14:18:16.000Z",
+      "summaryShort": "Waze adds new AI-powered features and customization updates. Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better po",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-na",
-      "title": "Reed Jobs would rather talk about curing cancer than his last name",
+      "id": "lapd-lets-contract-with-surveillance-giant-flock-expire-citing-8",
+      "title": "LAPD lets contract with surveillance giant Flock expire, citing &#8216;serious concerns' over civil liberties and privacy",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
-      "publishedAt": "2026-07-12T00:16:06.000Z",
-      "summaryShort": "Reed Jobs would rather talk about curing cancer than his last name. When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "this-slushie-machine-was-a-lifesaver-during-nyc-s-heat-wave",
-      "title": "This slushie machine was a lifesaver during NYC's heat wave",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
-      "publishedAt": "2026-07-11T22:00:00.000Z",
-      "summaryShort": "This slushie machine was a lifesaver during NYC's heat wave. Ninja's latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade.",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+      "publishedAt": "2026-07-13T14:13:38.000Z",
+      "summaryShort": "LAPD lets contract with surveillance giant Flock expire, citing &#8216;serious concerns' over civil liberties and privacy. The LAPD, one of Flock's biggest government customers, is ending its contract with the company citing civil liberties",
       "tags": [
         "Engineering"
       ]
