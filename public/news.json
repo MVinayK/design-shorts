@@ -1,57 +1,68 @@
 {
-  "generatedAt": "2026-07-14T02:51:13.502Z",
+  "generatedAt": "2026-07-14T13:55:26.675Z",
   "items": [
     {
-      "id": "the-path-to-sovereign-data-challenges-and-priorities-in-local-fi",
-      "title": "The Path to Sovereign Data: Challenges and Priorities in Local-First Computing",
+      "id": "google-and-industry-partners-announce-agentic-resource-discovery",
+      "title": "Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/data-ownership-localfirst/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-13T14:14:00.000Z",
-      "summaryShort": "The Path to Sovereign Data: Challenges and Priorities in Local-First Computing. A panel on data ownership challenged the definition of \"ownership,\" arguing it must extend beyond simple account control to include structural independence, int",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "how-doordash-built-an-ai-shopping-assistant-that-doesn-t-rely-on",
-      "title": "How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/doordash-ai-ask-assistant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-13T14:08:00.000Z",
-      "summaryShort": "How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone. DoorDash details the architecture behind Ask DoorDash, its AI-powered conversational shopping assistant, combining LLMs, specialized AI agents, MCP-based toolin",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-14T13:40:00.000Z",
+      "summaryShort": "Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents. Google and industry partners announced Agentic Resource Discovery (ARD) Specification, an open standard for publishing, discovering, and verifying",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "java-news-roundup-tornadovm-5-jhipster-google-adk-omnifish-build",
-      "title": "Java News Roundup: TornadoVM 5, JHipster, Google ADK, OmniFish Build of Payara, Introducing Vidocq",
+      "id": "meta-s-noninvasive-brain-computer-interface-brain2qwerty-achieve",
+      "title": "Meta's Noninvasive Brain–Computer Interface Brain2Qwerty Achieves 61% Accuracy",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/java-news-roundup-jul06-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-13T12:40:00.000Z",
-      "summaryShort": "Java News Roundup: TornadoVM 5, JHipster, Google ADK, OmniFish Build of Payara, Introducing Vidocq. This week's Java roundup for July 6th, 2026, features news highlighting: the GA release of TornadoVM 5.0; point releases of JHipster, Keyclo",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/meta-brain-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-14T13:00:00.000Z",
+      "summaryShort": "Meta's Noninvasive Brain–Computer Interface Brain2Qwerty Achieves 61% Accuracy. Meta recently open-sourced Brain2Qwerty v2, a noninvasive Brain–Computer Interface (BCI) that can decode sentences from thoughts using electroencephalography (E",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "presentation-road-to-compliance-will-your-internal-users-hate-yo",
-      "title": "Presentation: Road to Compliance: Will Your Internal Users Hate Your Platform Team?",
+      "id": "presentation-lessons-learned-in-migrating-to-micro-frontends",
+      "title": "Presentation: Lessons Learned in Migrating to Micro-Frontends",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/platform-engineering-team-compliance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-13T12:20:00.000Z",
-      "summaryShort": "Presentation: Road to Compliance: Will Your Internal Users Hate Your Platform Team?. Davide de Paolis discusses the realities of rolling out cloud infrastructure compliance without fracturing developer relations.",
+      "sourceUrl": "https://www.infoq.com/presentations/migration-micro-frontend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-14T12:42:00.000Z",
+      "summaryShort": "Presentation: Lessons Learned in Migrating to Micro-Frontends. Luca Mezzalira shares proven learnings from guiding hundreds of teams through the migration from monolithic web applications to distributed frontend architectures.",
       "tags": [
-        "Cloud"
+        "Architecture"
       ]
     },
     {
-      "id": "article-removing-a-hidden-round-trip-from-a-multi-region-aws-api",
-      "title": "Article: Removing a Hidden Round Trip from a Multi-Region AWS API",
+      "id": "linkerd-2-20-delivers-smarter-traffic-management-and-dramatic-ef",
+      "title": "Linkerd 2.20 Delivers Smarter Traffic Management and Dramatic Efficiency Gains",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/aws-multi-region-signing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-13T11:00:00.000Z",
-      "summaryShort": "Article: Removing a Hidden Round Trip from a Multi-Region AWS API. When a series of regional outages forced a rethink of a multi-region AWS API, the team discovered that an obstacle to global failover was hiding in plain sight: a pre-flight",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/linkerd-2-20-improvements/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-14T12:00:00.000Z",
+      "summaryShort": "Linkerd 2.20 Delivers Smarter Traffic Management and Dramatic Efficiency Gains. The Linkerd community has announced the release of Linkerd 2.20, introducing a series of performance, observability, and traffic management enhancements that fu",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "google-s-genkit-ships-agents-api-with-detached-turns-and-human-i",
+      "title": "Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/genkit-agents-api-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-14T10:17:00.000Z",
+      "summaryShort": "Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go. Google released the Genkit Agents API in preview for TypeScript and Go.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "pinwheel-launches-a-retro-inspired-landline-phone-for-kids",
+      "title": "Pinwheel launches a retro-inspired landline phone for kids",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
+      "publishedAt": "2026-07-14T09:00:00.000Z",
+      "summaryShort": "Pinwheel launches a retro-inspired landline phone for kids. Kid-friendly tech company Pinwheel announced the launch of a new landline phone designed to let children stay connected without the distractions of a smartphone.",
       "tags": [
         "Engineering"
       ]
@@ -69,22 +80,11 @@
     },
     {
       "id": "uber-s-product-chief-on-hotels-robotaxis-and-why-the-company-doe",
-      "title": "Uber's product chief on hotels, robotaxis, and why the company doesn't want to be &#8220;everything for everyone&#8221;",
+      "title": "Uber's product chief on hotels, robotaxis, and why the company doesn't want to be &#8216;everything for everyone'",
       "sourceName": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
       "publishedAt": "2026-07-14T00:45:00.000Z",
-      "summaryShort": "Uber's product chief on hotels, robotaxis, and why the company doesn't want to be &#8220;everything for everyone&#8221;. Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its incre",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "video-generation-startup-pixverse-raises-439m-valuation-soars-pa",
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "publishedAt": "2026-07-14T00:00:00.000Z",
-      "summaryShort": "Video-generation startup PixVerse raises $439M, valuation soars past $2B. With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "summaryShort": "Uber's product chief on hotels, robotaxis, and why the company doesn't want to be &#8216;everything for everyone'. Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingl",
       "tags": [
         "AI"
       ]
