@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T14:44:46.510Z",
+  "generatedAt": "2026-07-14T02:51:13.502Z",
   "items": [
     {
       "id": "the-path-to-sovereign-data-challenges-and-priorities-in-local-fi",
@@ -57,36 +57,36 @@
       ]
     },
     {
-      "id": "spacex-cleared-to-fly-starship-again-after-booster-failure-in-ma",
-      "title": "SpaceX cleared to fly Starship again after booster failure in May",
+      "id": "already-rich-already-successful-why-the-last-wave-of-tech-winner",
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
-      "publishedAt": "2026-07-13T14:19:44.000Z",
-      "summaryShort": "SpaceX cleared to fly Starship again after booster failure in May. This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, ",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "waze-adds-new-ai-powered-features-and-customization-updates",
-      "title": "Waze adds new AI-powered features and customization updates",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-      "publishedAt": "2026-07-13T14:18:16.000Z",
-      "summaryShort": "Waze adds new AI-powered features and customization updates. Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better po",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "publishedAt": "2026-07-14T02:46:42.000Z",
+      "summaryShort": "Already rich, already successful, why the last wave of tech winners is grinding again. They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even mor",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "lapd-lets-contract-with-surveillance-giant-flock-expire-citing-8",
-      "title": "LAPD lets contract with surveillance giant Flock expire, citing &#8216;serious concerns' over civil liberties and privacy",
+      "id": "uber-s-product-chief-on-hotels-robotaxis-and-why-the-company-doe",
+      "title": "Uber's product chief on hotels, robotaxis, and why the company doesn't want to be &#8220;everything for everyone&#8221;",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-      "publishedAt": "2026-07-13T14:13:38.000Z",
-      "summaryShort": "LAPD lets contract with surveillance giant Flock expire, citing &#8216;serious concerns' over civil liberties and privacy. The LAPD, one of Flock's biggest government customers, is ending its contract with the company citing civil liberties",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "publishedAt": "2026-07-14T00:45:00.000Z",
+      "summaryShort": "Uber's product chief on hotels, robotaxis, and why the company doesn't want to be &#8220;everything for everyone&#8221;. Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its incre",
       "tags": [
-        "Engineering"
+        "AI"
+      ]
+    },
+    {
+      "id": "video-generation-startup-pixverse-raises-439m-valuation-soars-pa",
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "summaryShort": "Video-generation startup PixVerse raises $439M, valuation soars past $2B. With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "tags": [
+        "AI"
       ]
     }
   ]
