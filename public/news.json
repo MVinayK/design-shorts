@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-15T02:49:34.183Z",
+  "generatedAt": "2026-07-15T13:52:01.388Z",
   "items": [
+    {
+      "id": "presentation-postgres-for-production-agents-your-relational-foun",
+      "title": "Presentation: Postgres for Production Agents: Your Relational Foundation for Enterprise AI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/postgres-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-15T12:57:00.000Z",
+      "summaryShort": "Presentation: Postgres for Production Agents: Your Relational Foundation for Enterprise AI. Gwen Shapira shares how teams are scaling AI features using PostgreSQL for mission-critical apps.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "aws-ships-claude-apps-gateway-as-self-hosted-control-plane-for-c",
+      "title": "AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/claude-apps-gateway-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-15T11:04:00.000Z",
+      "summaryShort": "AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop. AWS and Anthropic have released the Claude apps gateway for AWS, a self-hosted control plane that centralizes identity, policy, telemetry, routin",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "google-cloud-workbench-notebooks-extension-connects-vs-code-to-g",
       "title": "Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks",
@@ -35,58 +57,36 @@
       ]
     },
     {
-      "id": "presentation-lessons-learned-in-migrating-to-micro-frontends",
-      "title": "Presentation: Lessons Learned in Migrating to Micro-Frontends",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/migration-micro-frontend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-14T12:42:00.000Z",
-      "summaryShort": "Presentation: Lessons Learned in Migrating to Micro-Frontends. Luca Mezzalira shares proven learnings from guiding hundreds of teams through the migration from monolithic web applications to distributed frontend architectures.",
-      "tags": [
-        "Architecture"
-      ]
-    },
-    {
-      "id": "linkerd-2-20-delivers-smarter-traffic-management-and-dramatic-ef",
-      "title": "Linkerd 2.20 Delivers Smarter Traffic Management and Dramatic Efficiency Gains",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/linkerd-2-20-improvements/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-14T12:00:00.000Z",
-      "summaryShort": "Linkerd 2.20 Delivers Smarter Traffic Management and Dramatic Efficiency Gains. The Linkerd community has announced the release of Linkerd 2.20, introducing a series of performance, observability, and traffic management enhancements that fu",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discover",
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "id": "anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "publishedAt": "2026-07-15T00:27:04.000Z",
-      "summaryShort": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B. The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "publishedAt": "2026-07-15T13:10:47.000Z",
+      "summaryShort": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models. Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "lorde-says-ai-glasses-are-8216-not-sexy",
-      "title": "Lorde says AI glasses are &#8216;not sexy'",
+      "id": "rime-picks-up-24m-series-a-to-help-enterprises-field-customer-ca",
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-      "publishedAt": "2026-07-14T23:10:02.000Z",
-      "summaryShort": "Lorde says AI glasses are &#8216;not sexy'. \"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "publishedAt": "2026-07-15T13:00:00.000Z",
+      "summaryShort": "Rime picks up $24M Series A to help enterprises field customer calls. Rime is handling over 100 million calls each month across multiple companies",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "openai-s-first-hardware-device-is-reportedly-a-screenless-speake",
-      "title": "OpenAI's first hardware device is reportedly a screenless speaker that can move",
+      "id": "reelful-s-ai-turns-your-camera-roll-into-short-form-videos-for-s",
+      "title": "Reelful's AI turns your camera roll into short-form videos for social media",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "publishedAt": "2026-07-14T22:22:24.000Z",
-      "summaryShort": "OpenAI's first hardware device is reportedly a screenless speaker that can move. The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is d",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "publishedAt": "2026-07-15T13:00:00.000Z",
+      "summaryShort": "Reelful's AI turns your camera roll into short-form videos for social media. The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
