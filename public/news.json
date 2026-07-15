@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-14T13:55:26.675Z",
+  "generatedAt": "2026-07-15T02:49:34.183Z",
   "items": [
+    {
+      "id": "google-cloud-workbench-notebooks-extension-connects-vs-code-to-g",
+      "title": "Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/cloud-workbench-vscode-extension/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-14T22:00:00.000Z",
+      "summaryShort": "Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks. The Google Cloud Workbench Notebooks extension for VS Code is a new tool that enables developers to connect their local IDE directly to managed",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "google-and-industry-partners-announce-agentic-resource-discovery",
       "title": "Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents",
@@ -46,47 +57,36 @@
       ]
     },
     {
-      "id": "google-s-genkit-ships-agents-api-with-detached-turns-and-human-i",
-      "title": "Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/genkit-agents-api-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-14T10:17:00.000Z",
-      "summaryShort": "Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go. Google released the Genkit Agents API in preview for TypeScript and Go.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "pinwheel-launches-a-retro-inspired-landline-phone-for-kids",
-      "title": "Pinwheel launches a retro-inspired landline phone for kids",
+      "id": "openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discover",
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
-      "publishedAt": "2026-07-14T09:00:00.000Z",
-      "summaryShort": "Pinwheel launches a retro-inspired landline phone for kids. Kid-friendly tech company Pinwheel announced the launch of a new landline phone designed to let children stay connected without the distractions of a smartphone.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "already-rich-already-successful-why-the-last-wave-of-tech-winner",
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "publishedAt": "2026-07-14T02:46:42.000Z",
-      "summaryShort": "Already rich, already successful, why the last wave of tech winners is grinding again. They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even mor",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "publishedAt": "2026-07-15T00:27:04.000Z",
+      "summaryShort": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B. The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "uber-s-product-chief-on-hotels-robotaxis-and-why-the-company-doe",
-      "title": "Uber's product chief on hotels, robotaxis, and why the company doesn't want to be &#8216;everything for everyone'",
+      "id": "lorde-says-ai-glasses-are-8216-not-sexy",
+      "title": "Lorde says AI glasses are &#8216;not sexy'",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "publishedAt": "2026-07-14T00:45:00.000Z",
-      "summaryShort": "Uber's product chief on hotels, robotaxis, and why the company doesn't want to be &#8216;everything for everyone'. Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingl",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "publishedAt": "2026-07-14T23:10:02.000Z",
+      "summaryShort": "Lorde says AI glasses are &#8216;not sexy'. \"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "openai-s-first-hardware-device-is-reportedly-a-screenless-speake",
+      "title": "OpenAI's first hardware device is reportedly a screenless speaker that can move",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "publishedAt": "2026-07-14T22:22:24.000Z",
+      "summaryShort": "OpenAI's first hardware device is reportedly a screenless speaker that can move. The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is d",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
