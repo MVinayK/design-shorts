@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-15T13:52:01.388Z",
+  "generatedAt": "2026-07-16T02:56:28.756Z",
   "items": [
+    {
+      "id": "stripe-benchmark-shows-ai-agents-build-integrations-but-struggle",
+      "title": "Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/stripe-ai-agents-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-15T14:25:00.000Z",
+      "summaryShort": "Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation. Stripe introduces a benchmark suite to evaluate whether AI agents can build real-world Stripe integrations across backend, frontend, and browser-based checkou",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "presentation-postgres-for-production-agents-your-relational-foun",
       "title": "Presentation: Postgres for Production Agents: Your Relational Foundation for Enterprise AI",
@@ -46,47 +57,36 @@
       ]
     },
     {
-      "id": "meta-s-noninvasive-brain-computer-interface-brain2qwerty-achieve",
-      "title": "Meta's Noninvasive Brain–Computer Interface Brain2Qwerty Achieves 61% Accuracy",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/meta-brain-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-14T13:00:00.000Z",
-      "summaryShort": "Meta's Noninvasive Brain–Computer Interface Brain2Qwerty Achieves 61% Accuracy. Meta recently open-sourced Brain2Qwerty v2, a noninvasive Brain–Computer Interface (BCI) that can decode sentences from thoughts using electroencephalography (E",
+      "id": "why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-h",
+      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+      "publishedAt": "2026-07-16T00:20:42.000Z",
+      "summaryShort": "Why Greylock capped its new fund at $1.5B when it says it could have raised more. By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "id": "microsoft-is-reportedly-training-salespeople-to-talk-down-openai",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "publishedAt": "2026-07-15T13:10:47.000Z",
-      "summaryShort": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models. Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "publishedAt": "2026-07-15T23:59:44.000Z",
+      "summaryShort": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic. Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "rime-picks-up-24m-series-a-to-help-enterprises-field-customer-ca",
-      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "id": "tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-c",
+      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-      "publishedAt": "2026-07-15T13:00:00.000Z",
-      "summaryShort": "Rime picks up $24M Series A to help enterprises field customer calls. Rime is handling over 100 million calls each month across multiple companies",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+      "publishedAt": "2026-07-15T20:22:52.000Z",
+      "summaryShort": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms. The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "reelful-s-ai-turns-your-camera-roll-into-short-form-videos-for-s",
-      "title": "Reelful's AI turns your camera roll into short-form videos for social media",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-      "publishedAt": "2026-07-15T13:00:00.000Z",
-      "summaryShort": "Reelful's AI turns your camera roll into short-form videos for social media. The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
-      "tags": [
-        "AI"
       ]
     }
   ]
