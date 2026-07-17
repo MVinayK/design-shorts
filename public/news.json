@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-07-17T03:13:22.783Z",
+  "generatedAt": "2026-07-17T13:48:07.469Z",
   "items": [
+    {
+      "id": "presentation-from-otel-to-slms-distilling-frontier-model-behavio",
+      "title": "Presentation: From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/otel-slm-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-17T13:17:00.000Z",
+      "summaryShort": "Presentation: From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry. Ben O'Mahony discusses building custom AI-powered Language Server Protocols (LSPs) that go beyond standard rule-based checkers.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "cloud-native-infrastructure-emerges-as-the-foundation-for-trustw",
+      "title": "Cloud Native Infrastructure Emerges as the Foundation for Trustworthy Agentic AI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/cncf-trustworthy-agentic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-17T12:00:00.000Z",
+      "summaryShort": "Cloud Native Infrastructure Emerges as the Foundation for Trustworthy Agentic AI. A new technical analysis published by the Cloud Native Computing Foundation (CNCF) argues that the future of agentic AI will be built not on entirely new infr",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "how-uber-builds-zone-failure-resilient-opensearch-clusters",
+      "title": "How Uber Builds Zone-Failure-Resilient OpenSearch Clusters",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/uber-opensearch-zone-failure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-17T10:00:00.000Z",
+      "summaryShort": "How Uber Builds Zone-Failure-Resilient OpenSearch Clusters. Uber explained how it keeps its OpenSearch deployments running during a zone outage.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "qcon-ai-boston-production-ai-moves-beyond-prompts-to-platforms-h",
+      "title": "QCon AI Boston: Production AI Moves Beyond Prompts to Platforms, Harnesses, and Evals",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/production-ai-platforms-evals/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-17T09:00:00.000Z",
+      "summaryShort": "QCon AI Boston: Production AI Moves Beyond Prompts to Platforms, Harnesses, and Evals. QCon AI Boston 2026 focused on the operational challenges of deploying AI agents, emphasizing the need for robust production infrastructure.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "aws-continuum-to-enable-agentic-code-security-for-enterprises",
       "title": "AWS Continuum to Enable Agentic Code Security for Enterprises",
@@ -13,48 +59,15 @@
       ]
     },
     {
-      "id": "developing-and-deploying-a-platform-that-the-business-understand",
-      "title": "Developing and Deploying a Platform that the Business Understands and Developers Actually Want",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/platform-business-users/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-16T11:09:00.000Z",
-      "summaryShort": "Developing and Deploying a Platform that the Business Understands and Developers Actually Want. A lot of platform teams face a problem: they build a lot of really cool stuff, and then their developers don't use it.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-the-rust-high-performance-talk-you-did-not-expect",
-      "title": "Presentation: The Rust High Performance Talk You Did Not Expect",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/rust-tps-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-16T10:20:00.000Z",
-      "summaryShort": "Presentation: The Rust High Performance Talk You Did Not Expect. Ruth Linehan explains how migrating high-performance caching services from Kotlin to Rust shattered internal preconceptions around delivery velocity and engineering overhead.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "ai-agents-with-cloud-credentials-are-outrunning-billing-guardrai",
-      "title": "AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/ai-agents-billing-guardrails/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-16T10:17:00.000Z",
-      "summaryShort": "AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes. A three-person agency received a $14,000 AWS bill in one day after attackers extracted static access keys and burned Claude invocations on Be",
+      "id": "why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "publishedAt": "2026-07-17T12:00:00.000Z",
+      "summaryShort": "Why the first GPU financiers are turning to inference chips in a $400 million deal. A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
       "tags": [
         "AI",
         "Cloud"
-      ]
-    },
-    {
-      "id": "stripe-benchmark-shows-ai-agents-build-integrations-but-struggle",
-      "title": "Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/stripe-ai-agents-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-15T14:25:00.000Z",
-      "summaryShort": "Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation. Stripe introduces a benchmark suite to evaluate whether AI agents can build real-world Stripe integrations across backend, frontend, and browser-based checkou",
-      "tags": [
-        "AI"
       ]
     },
     {
@@ -75,17 +88,6 @@
       "sourceUrl": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
       "publishedAt": "2026-07-16T23:01:27.000Z",
       "summaryShort": "SpaceX suddenly aborts second Starship V3 launch after ignition. The company didn't immediately say what went wrong.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ran",
-      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
-      "publishedAt": "2026-07-16T21:22:31.000Z",
-      "summaryShort": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack. Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
       "tags": [
         "Engineering"
       ]
