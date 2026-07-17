@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-16T14:03:39.376Z",
+  "generatedAt": "2026-07-17T03:13:22.783Z",
   "items": [
+    {
+      "id": "aws-continuum-to-enable-agentic-code-security-for-enterprises",
+      "title": "AWS Continuum to Enable Agentic Code Security for Enterprises",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/aws-continuum-code-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-16T19:00:00.000Z",
+      "summaryShort": "AWS Continuum to Enable Agentic Code Security for Enterprises. Amazon Web Services has recently introduced AWS Continuum, a new integrated security platform to automate the discovery, enforcement, and remediation of security issues across c",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "developing-and-deploying-a-platform-that-the-business-understand",
       "title": "Developing and Deploying a Platform that the Business Understands and Developers Actually Want",
@@ -47,47 +58,36 @@
       ]
     },
     {
-      "id": "presentation-postgres-for-production-agents-your-relational-foun",
-      "title": "Presentation: Postgres for Production Agents: Your Relational Foundation for Enterprise AI",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/postgres-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-15T12:57:00.000Z",
-      "summaryShort": "Presentation: Postgres for Production Agents: Your Relational Foundation for Enterprise AI. Gwen Shapira shares how teams are scaling AI features using PostgreSQL for mission-critical apps.",
+      "id": "san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-tra",
+      "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+      "publishedAt": "2026-07-16T23:25:22.000Z",
+      "summaryShort": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco. In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi opera",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "apple-intelligence-approved-for-launch-in-china-with-alibaba-and",
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "id": "spacex-suddenly-aborts-second-starship-v3-launch-after-ignition",
+      "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "publishedAt": "2026-07-16T13:17:59.000Z",
-      "summaryShort": "Apple Intelligence approved for launch in China with Alibaba and Baidu. The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "sourceUrl": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+      "publishedAt": "2026-07-16T23:01:27.000Z",
+      "summaryShort": "SpaceX suddenly aborts second Starship V3 launch after ignition. The company didn't immediately say what went wrong.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "ultrahuman-s-former-hardware-vp-raises-5-5m-for-devices-that-con",
-      "title": "Ultrahuman's former hardware VP raises $5.5M for devices that control AI agents, not just record you",
+      "id": "coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ran",
+      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
-      "publishedAt": "2026-07-16T11:30:00.000Z",
-      "summaryShort": "Ultrahuman's former hardware VP raises $5.5M for devices that control AI agents, not just record you. Aina is going to pilot a new device in the coming weeks.",
+      "sourceUrl": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+      "publishedAt": "2026-07-16T21:22:31.000Z",
+      "summaryShort": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack. Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-",
-      "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "summaryShort": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot. The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, p",
-      "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
