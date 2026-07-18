@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-18T02:50:53.483Z",
+  "generatedAt": "2026-07-18T13:25:28.563Z",
   "items": [
+    {
+      "id": "version-controlled-sql-database-dolt-releases-2-0-with-automatic",
+      "title": "Version Controlled SQL Database Dolt Releases 2.0 with Automatic Storage Cleanup and Compression",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/dolt-version-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-18T07:28:00.000Z",
+      "summaryShort": "Version Controlled SQL Database Dolt Releases 2.0 with Automatic Storage Cleanup and Compression. DoltHub has recently released Dolt 2.0, a major update to the open source version-controlled SQL database.",
+      "tags": [
+        "Databases"
+      ]
+    },
     {
       "id": "presentation-from-otel-to-slms-distilling-frontier-model-behavio",
       "title": "Presentation: From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry",
@@ -48,12 +59,12 @@
       ]
     },
     {
-      "id": "aws-continuum-to-enable-agentic-code-security-for-enterprises",
-      "title": "AWS Continuum to Enable Agentic Code Security for Enterprises",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/aws-continuum-code-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-16T19:00:00.000Z",
-      "summaryShort": "AWS Continuum to Enable Agentic Code Security for Enterprises. Amazon Web Services has recently introduced AWS Continuum, a new integrated security platform to automate the discovery, enforcement, and remediation of security issues across c",
+      "id": "neil-rimer-thinks-the-ai-money-is-coming-back-out",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "publishedAt": "2026-07-18T04:47:25.000Z",
+      "summaryShort": "Neil Rimer thinks the AI money is coming back out. Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily",
       "tags": [
         "AI"
       ]
@@ -76,17 +87,6 @@
       "sourceUrl": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
       "publishedAt": "2026-07-17T22:55:09.000Z",
       "summaryShort": "Vertu wants executives to pay $6,880 for an AI agent — here's how it actually performs. From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "databricks-hits-188b-valuation-extending-its-run-as-ai-s-favorit",
-      "title": "Databricks hits $188B valuation, extending its run as AI's favorite second act",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "publishedAt": "2026-07-17T22:12:56.000Z",
-      "summaryShort": "Databricks hits $188B valuation, extending its run as AI's favorite second act. Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
       "tags": [
         "AI"
       ]
