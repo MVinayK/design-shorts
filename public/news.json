@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-19T03:21:54.307Z",
+  "generatedAt": "2026-07-19T13:27:12.563Z",
   "items": [
+    {
+      "id": "google-s-alphaevolve-reaches-general-availability-with-evolution",
+      "title": "Google's AlphaEvolve Reaches General Availability with Evolutionary Code Optimization as a Service",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/alphaevolve-generally-available/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-19T10:16:00.000Z",
+      "summaryShort": "Google's AlphaEvolve Reaches General Availability with Evolutionary Code Optimization as a Service. Google's AlphaEvolve reached general availability on the Gemini Enterprise Agent Platform, turning the DeepMind research project into an evo",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "aws-introduces-cloudformation-express-mode-for-faster-infrastruc",
+      "title": "AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/cloudformation-express-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-19T05:59:00.000Z",
+      "summaryShort": "AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments. AWS has recently introduced CloudFormation express mode, a deployment option that can reduce infrastructure deployment times by marking stack operations compl",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "pinecone-introduces-nexus-engine-for-compiling-business-context-",
       "title": "Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents",
@@ -33,29 +55,6 @@
       "summaryShort": "Presentation: From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry. Ben O'Mahony discusses building custom AI-powered Language Server Protocols (LSPs) that go beyond standard rule-based checkers.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "cloud-native-infrastructure-emerges-as-the-foundation-for-trustw",
-      "title": "Cloud Native Infrastructure Emerges as the Foundation for Trustworthy Agentic AI",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/cncf-trustworthy-agentic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-17T12:00:00.000Z",
-      "summaryShort": "Cloud Native Infrastructure Emerges as the Foundation for Trustworthy Agentic AI. A new technical analysis published by the Cloud Native Computing Foundation (CNCF) argues that the future of agentic AI will be built not on entirely new infr",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "how-uber-builds-zone-failure-resilient-opensearch-clusters",
-      "title": "How Uber Builds Zone-Failure-Resilient OpenSearch Clusters",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/uber-opensearch-zone-failure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-17T10:00:00.000Z",
-      "summaryShort": "How Uber Builds Zone-Failure-Resilient OpenSearch Clusters. Uber explained how it keeps its OpenSearch deployments running during a zone outage.",
-      "tags": [
-        "Engineering"
       ]
     },
     {
