@@ -1,60 +1,81 @@
 {
-  "generatedAt": "2026-07-20T03:35:59.060Z",
+  "generatedAt": "2026-07-20T14:17:23.041Z",
   "items": [
     {
-      "id": "how-netflix-built-genpage-a-single-genai-model-to-build-personal",
-      "title": "How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages",
+      "id": "doordash-uses-envoy-and-valkey-for-a-1-5m-rps-proxy-cache-with-9",
+      "title": "DoorDash Uses Envoy and Valkey for a 1.5M RPS Proxy Cache with 99.99999% Availability",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/netflix-llm-homepage-generation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-19T20:00:00.000Z",
-      "summaryShort": "How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages. GenPage is a generative AI system developed by Netflix to replace its traditional multi-stage recommendation pipeline by directly generating personalized user ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/doordash-entity-cache-proxy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-20T13:53:00.000Z",
+      "summaryShort": "DoorDash Uses Envoy and Valkey for a 1.5M RPS Proxy Cache with 99.99999% Availability. DoorDash has developed Entity Cache, a transparent proxy caching platform built on Envoy and Valkey to reduce redundant service-to-service requests acros",
+      "tags": [
+        "Architecture"
+      ]
+    },
+    {
+      "id": "three-infoq-certification-cohorts-start-this-august-meet-the-fac",
+      "title": "Three InfoQ Certification Cohorts Start This August: Meet the Facilitators",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/infoq-online-cohorts-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-20T13:00:00.000Z",
+      "summaryShort": "Three InfoQ Certification Cohorts Start This August: Meet the Facilitators. InfoQ has opened enrollment for three five-week online certification cohorts starting in August, each led by a senior practitioner applying QCon talk frameworks to ",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "google-s-alphaevolve-reaches-general-availability-with-evolution",
-      "title": "Google's AlphaEvolve Reaches General Availability with Evolutionary Code Optimization as a Service",
+      "id": "presentation-platform-engineering-for-everyone-success-can-t-be-",
+      "title": "Presentation: Platform Engineering for Everyone - Success Can’t Be Coded",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/alphaevolve-generally-available/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-19T10:16:00.000Z",
-      "summaryShort": "Google's AlphaEvolve Reaches General Availability with Evolutionary Code Optimization as a Service. Google's AlphaEvolve reached general availability on the Gemini Enterprise Agent Platform, turning the DeepMind research project into an evo",
+      "sourceUrl": "https://www.infoq.com/presentations/platform-engineering-product-mindset/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-20T11:50:00.000Z",
+      "summaryShort": "Presentation: Platform Engineering for Everyone - Success Can’t Be Coded. Max Korbacher explains why successful internal development platforms cannot be built on tech alone.",
       "tags": [
         "Cloud"
       ]
     },
     {
-      "id": "aws-introduces-cloudformation-express-mode-for-faster-infrastruc",
-      "title": "AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments",
+      "id": "podcast-strands-agents-with-clare-liguori",
+      "title": "Podcast: Strands Agents with Clare Liguori",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/cloudformation-express-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-19T05:59:00.000Z",
-      "summaryShort": "AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments. AWS has recently introduced CloudFormation express mode, a deployment option that can reduce infrastructure deployment times by marking stack operations compl",
+      "sourceUrl": "https://www.infoq.com/podcasts/strands-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-20T11:00:00.000Z",
+      "summaryShort": "Podcast: Strands Agents with Clare Liguori. Thomas Betts talks with Clare Liguori, the technical lead on the open source Strands Agents SDK.",
       "tags": [
-        "Cloud"
+        "AI"
       ]
     },
     {
-      "id": "pinecone-introduces-nexus-engine-for-compiling-business-context-",
-      "title": "Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents",
+      "id": "aws-releases-loom-an-open-source-reference-platform-for-governin",
+      "title": "AWS Releases Loom, an Open-Source Reference Platform for Governing AI Agents at Enterprise Scale",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/pinecon-nexus-knowledge-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-18T14:00:00.000Z",
-      "summaryShort": "Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents. Now generally available, Pinecone Nexus is a \"knowledge engine\" for AI agents that transforms enterprise data into a structured layer agents",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/loom-aws-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-20T10:04:00.000Z",
+      "summaryShort": "AWS Releases Loom, an Open-Source Reference Platform for Governing AI Agents at Enterprise Scale. AWS released Loom, an open-source reference platform on AWS Labs for governing AI agents at scale.",
       "tags": [
-        "AI",
-        "Architecture"
+        "AI"
       ]
     },
     {
-      "id": "version-controlled-sql-database-dolt-releases-2-0-with-automatic",
-      "title": "Version Controlled SQL Database Dolt Releases 2.0 with Automatic Storage Cleanup and Compression",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/dolt-version-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-18T07:28:00.000Z",
-      "summaryShort": "Version Controlled SQL Database Dolt Releases 2.0 with Automatic Storage Cleanup and Compression. DoltHub has recently released Dolt 2.0, a major update to the open source version-controlled SQL database.",
+      "id": "hugging-face-confirms-breach-affected-internal-datasets-and-cred",
+      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+      "publishedAt": "2026-07-20T12:39:28.000Z",
+      "summaryShort": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action. Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
       "tags": [
-        "Databases"
+        "Engineering"
+      ]
+    },
+    {
+      "id": "strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-",
+      "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+      "publishedAt": "2026-07-20T12:30:00.000Z",
+      "summaryShort": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community. For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from ",
+      "tags": [
+        "Engineering"
       ]
     },
     {
@@ -66,28 +87,6 @@
       "summaryShort": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup. Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "what-to-watch-for-after-jensen-huang-s-japan-visit",
-      "title": "What to watch for after Jensen Huang's Japan visit",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-      "publishedAt": "2026-07-19T21:16:07.000Z",
-      "summaryShort": "What to watch for after Jensen Huang's Japan visit. Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "can-an-apple-lawsuit-derail-openai-s-hardware-plans",
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "publishedAt": "2026-07-19T19:24:45.000Z",
-      "summaryShort": "Can an Apple lawsuit derail OpenAI’s hardware plans?. On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
