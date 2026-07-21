@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-20T14:17:23.041Z",
+  "generatedAt": "2026-07-21T03:16:24.579Z",
   "items": [
+    {
+      "id": "java-news-roundup-value-objects-wildfly-41-tornadovm-langchain4j",
+      "title": "Java News Roundup: Value Objects, WildFly 41, TornadoVM, LangChain4j, Oracle AI Agent Studio",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/java-news-roundup-jul13-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-20T18:45:00.000Z",
+      "summaryShort": "Java News Roundup: Value Objects, WildFly 41, TornadoVM, LangChain4j, Oracle AI Agent Studio. This week's Java roundup for July 13th, 2026, features news highlighting: a reintroduction of Value Objects (Preview); the GA release of WildFly 4",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "doordash-uses-envoy-and-valkey-for-a-1-5m-rps-proxy-cache-with-9",
       "title": "DoorDash Uses Envoy and Valkey for a 1.5M RPS Proxy Cache with 99.99999% Availability",
@@ -46,45 +57,34 @@
       ]
     },
     {
-      "id": "aws-releases-loom-an-open-source-reference-platform-for-governin",
-      "title": "AWS Releases Loom, an Open-Source Reference Platform for Governing AI Agents at Enterprise Scale",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/loom-aws-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-20T10:04:00.000Z",
-      "summaryShort": "AWS Releases Loom, an Open-Source Reference Platform for Governing AI Agents at Enterprise Scale. AWS released Loom, an open-source reference platform on AWS Labs for governing AI agents at scale.",
+      "id": "anthropic-s-landmark-1-5b-copyright-settlement-is-approved",
+      "title": "Anthropic's landmark $1.5B copyright settlement is approved",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "publishedAt": "2026-07-21T00:12:24.000Z",
+      "summaryShort": "Anthropic's landmark $1.5B copyright settlement is approved. The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "hugging-face-confirms-breach-affected-internal-datasets-and-cred",
-      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+      "id": "colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at",
+      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
-      "publishedAt": "2026-07-20T12:39:28.000Z",
-      "summaryShort": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action. Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+      "publishedAt": "2026-07-20T23:39:35.000Z",
+      "summaryShort": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation. The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-",
-      "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+      "id": "trump-s-latest-ai-czar-has-already-resigned",
+      "title": "Trump's latest AI czar has already resigned",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
-      "publishedAt": "2026-07-20T12:30:00.000Z",
-      "summaryShort": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community. For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from ",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "netflix-paid-587m-for-ben-affleck-s-ai-filmmaking-startup",
-      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
-      "publishedAt": "2026-07-19T21:45:00.000Z",
-      "summaryShort": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup. Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "publishedAt": "2026-07-20T22:21:04.000Z",
+      "summaryShort": "Trump's latest AI czar has already resigned. The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
       "tags": [
         "AI"
       ]
