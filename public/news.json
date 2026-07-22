@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-07-22T03:14:30.649Z",
+  "generatedAt": "2026-07-22T14:06:38.622Z",
   "items": [
+    {
+      "id": "anthropic-details-how-it-contains-claude-across-web-code-and-cow",
+      "title": "Anthropic Details How It Contains Claude Across Web, Code, and Cowork",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/anthropic-claude-containment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-22T12:25:00.000Z",
+      "summaryShort": "Anthropic Details How It Contains Claude Across Web, Code, and Cowork. Anthropic detailed the containment architectures it uses for Claude across its products.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-from-copy-paste-to-composition-building-agents-like",
+      "title": "Presentation: From Copy-Paste to Composition: Building Agents Like Real Software",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/agent-software-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-22T11:57:00.000Z",
+      "summaryShort": "Presentation: From Copy-Paste to Composition: Building Agents Like Real Software. Jake Mannix discusses moving AI agents past chaotic \"1970s BASIC\" architectures.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "aws-billing-bug-shows-customers-trillion-dollar-estimates-while-",
+      "title": "AWS Billing Bug Shows Customers Trillion-Dollar Estimates While Its Own Cost Alarms Fail to Act",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/aws-billing-estimates-incident/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-22T10:19:00.000Z",
+      "summaryShort": "AWS Billing Bug Shows Customers Trillion-Dollar Estimates While Its Own Cost Alarms Fail to Act. A configuration change in AWS's bill computation system showed customers estimated bills in the billions and trillions of dollars for over 24 h",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "gke-security-blueprint-joins-growing-list-of-cloud-ai-frameworks",
+      "title": "GKE Security Blueprint Joins Growing List of Cloud AI Frameworks",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/google-gke-ai-security-blueprint/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-22T08:00:00.000Z",
+      "summaryShort": "GKE Security Blueprint Joins Growing List of Cloud AI Frameworks. Google Cloud has published a new blueprint setting out how organisations should secure artificial intelligence workloads running on Google Kubernetes Engine, arguing that the",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "android-studio-quail-2-redesigns-agent-mode-streamlines-ai-assis",
       "title": "Android Studio Quail 2 Redesigns Agent Mode, Streamlines AI-Assisted Coding",
@@ -13,79 +58,34 @@
       ]
     },
     {
-      "id": "rspack-2-0-performance-gains-leaner-dependencies-and-esm-core",
-      "title": "RSPack 2.0: Performance Gains, Leaner Dependencies and ESM Core",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/rspack-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-21T15:23:00.000Z",
-      "summaryShort": "RSPack 2.0: Performance Gains, Leaner Dependencies and ESM Core. Rspack, developed by ByteDance, has released version 2.0, featuring enhanced performance, reduced dependencies, and a focus on modern ECMAScript modules.",
+      "id": "cascade-raises-3-5m-to-help-construction-firms-find-and-win-proj",
+      "title": "Cascade raises $3.5M to help construction firms find and win projects",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/",
+      "publishedAt": "2026-07-22T13:28:36.000Z",
+      "summaryShort": "Cascade raises $3.5M to help construction firms find and win projects. a16z Speedrun, Ada Ventures, and Snowball VC have invested in Cascade's $3.5 million seed round.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "gitlab-brings-carbon-awareness-to-ci-cd-to-measure-the-environme",
-      "title": "GitLab Brings Carbon Awareness to CI/CD to Measure the Environmental Cost of Software Delivery",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/gitlab-carbon-awareness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-21T12:00:00.000Z",
-      "summaryShort": "GitLab Brings Carbon Awareness to CI/CD to Measure the Environmental Cost of Software Delivery. GitLab has introduced a new approach to Green DevOps, demonstrating how software engineering teams can measure the carbon emissions generated by",
+      "id": "the-browser-wars-aren-t-about-search-anymore-here-are-the-best-a",
+      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "publishedAt": "2026-07-22T13:20:35.000Z",
+      "summaryShort": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari. We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "presentation-engineering-ai-for-creativity-and-curiosity-on-mobi",
-      "title": "Presentation: Engineering AI for Creativity and Curiosity on Mobile",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-mobile/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-21T10:20:00.000Z",
-      "summaryShort": "Presentation: Engineering AI for Creativity and Curiosity on Mobile. Bhavuk Jain discusses translating foundational AI into scalable mobile products.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "yelp-unifies-ml-model-training-with-training-orchestrator",
-      "title": "Yelp Unifies ML Model Training with Training Orchestrator",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/yelp-ai-model-training/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-21T10:00:00.000Z",
-      "summaryShort": "Yelp Unifies ML Model Training with Training Orchestrator. Yelp has launched Training Orchestrator.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "dimension-capital-s-800m-third-fund-shows-the-intersection-of-sc",
-      "title": "Dimension Capital's $800M third fund shows the intersection of science and compute is booming",
+      "id": "passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to",
+      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
-      "publishedAt": "2026-07-22T01:27:58.000Z",
-      "summaryShort": "Dimension Capital's $800M third fund shows the intersection of science and compute is booming. The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagi",
-      "title": "Meta is testing an AI bedtime story app for people with no imagination",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-      "publishedAt": "2026-07-21T23:55:10.000Z",
-      "summaryShort": "Meta is testing an AI bedtime story app for people with no imagination. At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "these-are-the-countries-moving-to-ban-social-media-for-children",
-      "title": "These are the countries moving to ban social media for children",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
-      "publishedAt": "2026-07-21T20:57:35.000Z",
-      "summaryShort": "These are the countries moving to ban social media for children. Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, socia",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "summaryShort": "Passionfroot raises $15M to expand its B2B creator marketplace to the US. Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
       "tags": [
         "Engineering"
       ]
