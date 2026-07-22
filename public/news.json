@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-21T14:03:48.997Z",
+  "generatedAt": "2026-07-22T03:14:30.649Z",
   "items": [
+    {
+      "id": "android-studio-quail-2-redesigns-agent-mode-streamlines-ai-assis",
+      "title": "Android Studio Quail 2 Redesigns Agent Mode, Streamlines AI-Assisted Coding",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/android-studio-quail-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-21T19:00:00.000Z",
+      "summaryShort": "Android Studio Quail 2 Redesigns Agent Mode, Streamlines AI-Assisted Coding. The latest release of Android Studio, Quail 2, now stable, expands Gemini/AI Agent Mode inside the IDE by enabling multiple AI conversations in parallel and furthe",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "rspack-2-0-performance-gains-leaner-dependencies-and-esm-core",
+      "title": "RSPack 2.0: Performance Gains, Leaner Dependencies and ESM Core",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/rspack-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-21T15:23:00.000Z",
+      "summaryShort": "RSPack 2.0: Performance Gains, Leaner Dependencies and ESM Core. Rspack, developed by ByteDance, has released version 2.0, featuring enhanced performance, reduced dependencies, and a focus on modern ECMAScript modules.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "gitlab-brings-carbon-awareness-to-ci-cd-to-measure-the-environme",
       "title": "GitLab Brings Carbon Awareness to CI/CD to Measure the Environmental Cost of Software Delivery",
@@ -36,56 +58,34 @@
       ]
     },
     {
-      "id": "gitlab-19-2-puts-ai-agents-to-work-on-the-security-backlog",
-      "title": "GitLab 19.2 Puts AI Agents to Work on the Security Backlog",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/gitlab-19-2-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-21T08:00:00.000Z",
-      "summaryShort": "GitLab 19.2 Puts AI Agents to Work on the Security Backlog. GitLab has released version 19.2 of its DevSecOps platform, adding agentic automation aimed at the security and review work that has piled up as AI coding tools generate more code ",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "java-news-roundup-value-objects-wildfly-41-tornadovm-langchain4j",
-      "title": "Java News Roundup: Value Objects, WildFly 41, TornadoVM, LangChain4j, Oracle AI Agent Studio",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/java-news-roundup-jul13-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-20T18:45:00.000Z",
-      "summaryShort": "Java News Roundup: Value Objects, WildFly 41, TornadoVM, LangChain4j, Oracle AI Agent Studio. This week's Java roundup for July 13th, 2026, features news highlighting: a reintroduction of Value Objects (Preview); the GA release of WildFly 4",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "the-xteink-x4-pro-could-be-the-tiny-e-reader-of-your-dreams",
-      "title": "The Xteink X4 Pro could be the tiny e-reader of your dreams",
+      "id": "dimension-capital-s-800m-third-fund-shows-the-intersection-of-sc",
+      "title": "Dimension Capital's $800M third fund shows the intersection of science and compute is booming",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/the-xteink-x4-pro-could-be-the-tiny-e-reader-of-your-dreams/",
-      "publishedAt": "2026-07-21T14:00:00.000Z",
-      "summaryShort": "The Xteink X4 Pro could be the tiny e-reader of your dreams. Xteink makes its pocket-sized e-reader even better with a touchscreen and front light.",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+      "publishedAt": "2026-07-22T01:27:58.000Z",
+      "summaryShort": "Dimension Capital's $800M third fund shows the intersection of science and compute is booming. The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-",
-      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "id": "meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagi",
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-      "publishedAt": "2026-07-21T13:27:42.000Z",
-      "summaryShort": "Music streamer Deezer says more than 50% of daily uploads are AI-generated. Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "publishedAt": "2026-07-21T23:55:10.000Z",
+      "summaryShort": "Meta is testing an AI bedtime story app for people with no imagination. At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "bluecore-energy-raises-10m-to-build-portable-nuclear-reactors-on",
-      "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
+      "id": "these-are-the-countries-moving-to-ban-social-media-for-children",
+      "title": "These are the countries moving to ban social media for children",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
-      "publishedAt": "2026-07-21T13:20:00.000Z",
-      "summaryShort": "Bluecore Energy raises $10M to build portable nuclear reactors on barges. Maritime nuclear energy startup Bluecore Energy has raised $10 million in a pre-seed funding round led by Slauson &#038; Co.",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
+      "publishedAt": "2026-07-21T20:57:35.000Z",
+      "summaryShort": "These are the countries moving to ban social media for children. Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, socia",
       "tags": [
         "Engineering"
       ]
