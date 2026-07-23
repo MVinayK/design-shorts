@@ -1,93 +1,91 @@
 {
-  "generatedAt": "2026-07-23T03:21:26.194Z",
+  "generatedAt": "2026-07-23T14:12:58.679Z",
   "items": [
     {
-      "id": "github-increased-instant-navigation-from-4-to-22-by-rethinking-c",
-      "title": "GitHub Increased Instant Navigation from 4% to 22% by Rethinking Client Side Architecture",
+      "id": "achieving-compliance-as-a-platform-engineering-team-by-helping-d",
+      "title": "Achieving Compliance as a Platform Engineering Team by Helping Developers",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/github-issues-navigation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-22T14:09:00.000Z",
-      "summaryShort": "GitHub Increased Instant Navigation from 4% to 22% by Rethinking Client Side Architecture. GitHub redesigned GitHub Issues navigation using a client-side architecture that combines caching, predictive prefetching, and service workers to red",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/platform-that-helps-developers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-23T11:42:00.000Z",
+      "summaryShort": "Achieving Compliance as a Platform Engineering Team by Helping Developers. When a new platform team set out on implementing their roadmap through forced workflows with poor documentation, developer experience declined.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "anthropic-details-how-it-contains-claude-across-web-code-and-cow",
-      "title": "Anthropic Details How It Contains Claude Across Web, Code, and Cowork",
+      "id": "presentation-compiling-workflows-into-databases-the-architecture",
+      "title": "Presentation: Compiling Workflows into Databases: The Architecture That Shouldn't Work (But Does)",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/anthropic-claude-containment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-22T12:25:00.000Z",
-      "summaryShort": "Anthropic Details How It Contains Claude Across Web, Code, and Cowork. Anthropic detailed the containment architectures it uses for Claude across its products.",
+      "sourceUrl": "https://www.infoq.com/presentations/dbos/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-23T10:26:00.000Z",
+      "summaryShort": "Presentation: Compiling Workflows into Databases: The Architecture That Shouldn't Work (But Does). Jeremy Edberg & Qian Li discuss why external orchestrators decrease reliability and how to use your existing database for durable execution.",
       "tags": [
-        "Engineering"
+        "AI",
+        "Databases"
       ]
     },
     {
-      "id": "presentation-from-copy-paste-to-composition-building-agents-like",
-      "title": "Presentation: From Copy-Paste to Composition: Building Agents Like Real Software",
+      "id": "qcon-ai-new-york-2026-registration-opens-for-december-15-16-prod",
+      "title": "QCon AI New York 2026: Registration Opens for December 15-16 Production-AI Conference",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/agent-software-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-22T11:57:00.000Z",
-      "summaryShort": "Presentation: From Copy-Paste to Composition: Building Agents Like Real Software. Jake Mannix discusses moving AI agents past chaotic \"1970s BASIC\" architectures.",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/qcon-ai-newyork-2026-live/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-23T10:00:00.000Z",
+      "summaryShort": "QCon AI New York 2026: Registration Opens for December 15-16 Production-AI Conference. QCon AI New York 2026 (Dec 15-16) has opened registration at The Westin Jersey City Newport.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "aws-billing-bug-shows-customers-trillion-dollar-estimates-while-",
-      "title": "AWS Billing Bug Shows Customers Trillion-Dollar Estimates While Its Own Cost Alarms Fail to Act",
+      "id": "ink-switch-introduces-bijou64-canonical-variable-length-integer-",
+      "title": "Ink & Switch Introduces Bijou64: Canonical Variable-Length Integer Encoding for Safe Parsing",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/aws-billing-estimates-incident/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-22T10:19:00.000Z",
-      "summaryShort": "AWS Billing Bug Shows Customers Trillion-Dollar Estimates While Its Own Cost Alarms Fail to Act. A configuration change in AWS's bill computation system showed customers estimated bills in the billions and trillions of dollars for over 24 h",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/bijou64-canonical-varint/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-23T09:43:00.000Z",
+      "summaryShort": "Ink & Switch Introduces Bijou64: Canonical Variable-Length Integer Encoding for Safe Parsing. Ink & Switch published bijou64, a variable-length integer encoding where every number has exactly one byte representation, closing the canonicalit",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "gke-security-blueprint-joins-growing-list-of-cloud-ai-frameworks",
-      "title": "GKE Security Blueprint Joins Growing List of Cloud AI Frameworks",
+      "id": "article-multi-agent-ai-for-production-security-operations-an-a2a",
+      "title": "Article: Multi-Agent AI for Production Security Operations: An A2A and MCP Architecture in a 5G Core",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/google-gke-ai-security-blueprint/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-22T08:00:00.000Z",
-      "summaryShort": "GKE Security Blueprint Joins Growing List of Cloud AI Frameworks. Google Cloud has published a new blueprint setting out how organisations should secure artificial intelligence workloads running on Google Kubernetes Engine, arguing that the",
+      "sourceUrl": "https://www.infoq.com/articles/multi-agent-security-operations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-23T09:00:00.000Z",
+      "summaryShort": "Article: Multi-Agent AI for Production Security Operations: An A2A and MCP Architecture in a 5G Core. The bottleneck in a mature SOC is rarely analyst triage; rather, it is the detection-engineering team's ability to keep the rule base alig",
       "tags": [
-        "AI",
-        "Cloud"
+        "AI"
       ]
     },
     {
-      "id": "after-shocking-quarter-ibm-insists-that-ai-isn-t-killing-the-mai",
-      "title": "After shocking quarter, IBM insists that AI isn't killing the mainframe",
+      "id": "your-backstage-pass-to-techcrunch-disrupt-2026-is-waiting",
+      "title": "Your backstage pass to TechCrunch Disrupt 2026 is waiting",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "publishedAt": "2026-07-22T23:47:54.000Z",
-      "summaryShort": "After shocking quarter, IBM insists that AI isn't killing the mainframe. After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/your-backstage-pass-to-techcrunch-disrupt-2026-is-waiting/",
+      "publishedAt": "2026-07-23T14:02:00.000Z",
+      "summaryShort": "Your backstage pass to TechCrunch Disrupt 2026 is waiting. Volunteer at TechCrunch Disrupt 2026 and get a behind-the-scenes look at how one of the world's biggest startup conferences gets built.",
       "tags": [
-        "AI",
-        "Cloud"
+        "Engineering"
       ]
     },
     {
-      "id": "google-justifies-its-massive-ai-spending-with-a-booming-cloud-bu",
-      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "id": "ford-bets-on-apple-for-its-next-generation-of-evs",
+      "title": "Ford bets on Apple for its next-generation of EVs",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "publishedAt": "2026-07-22T22:01:52.000Z",
-      "summaryShort": "Google justifies its massive AI spending with a booming cloud business. Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/",
+      "publishedAt": "2026-07-23T13:58:37.000Z",
+      "summaryShort": "Ford bets on Apple for its next-generation of EVs. Ford is the first automaker to use a new set of developer tools that will let it embed Apple Maps navigation and mapping directly into its vehicles' infotainment systems.",
       "tags": [
-        "AI",
-        "Cloud"
+        "Engineering"
       ]
     },
     {
-      "id": "treasury-threatens-sanctions-after-white-house-claims-moonshot-d",
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic's Fable",
+      "id": "experts-say-exploiting-anthropic-s-fable-isn-t-how-kimi-k3-got-s",
+      "title": "Experts say exploiting Anthropic's Fable isn't how Kimi K3 got so good",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "publishedAt": "2026-07-22T20:49:03.000Z",
-      "summaryShort": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic's Fable. The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "publishedAt": "2026-07-23T11:00:00.000Z",
+      "summaryShort": "Experts say exploiting Anthropic's Fable isn't how Kimi K3 got so good. \"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
       "tags": [
         "AI"
       ]
