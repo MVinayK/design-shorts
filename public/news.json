@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-23T14:12:58.679Z",
+  "generatedAt": "2026-07-24T03:15:10.671Z",
   "items": [
+    {
+      "id": "indirect-prompt-injection-exploits-github-s-ai-agent-to-leak-pri",
+      "title": "Indirect Prompt Injection Exploits GitHub's AI Agent to Leak Private Repository Data",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/gitlost-github-prompt-injection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-23T20:00:00.000Z",
+      "summaryShort": "Indirect Prompt Injection Exploits GitHub's AI Agent to Leak Private Repository Data. GitLost is a prompt-injection exploit discovered by Noma Security that tricks GitHub's new Agentic Workflows into leaking private data.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "expedia-uses-ai-driven-service-telemetry-analyzer-to-accelerate-",
+      "title": "Expedia Uses AI Driven Service Telemetry Analyzer to Accelerate Incident Investigation",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/expedia-ai-observability-star/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-23T14:15:00.000Z",
+      "summaryShort": "Expedia Uses AI Driven Service Telemetry Analyzer to Accelerate Incident Investigation. Expedia Group has introduced STAR, an internal AI-assisted observability platform that helps engineers investigate production incidents using service te",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "achieving-compliance-as-a-platform-engineering-team-by-helping-d",
       "title": "Achieving Compliance as a Platform Engineering Team by Helping Developers",
@@ -36,58 +58,36 @@
       ]
     },
     {
-      "id": "ink-switch-introduces-bijou64-canonical-variable-length-integer-",
-      "title": "Ink & Switch Introduces Bijou64: Canonical Variable-Length Integer Encoding for Safe Parsing",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/bijou64-canonical-varint/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-23T09:43:00.000Z",
-      "summaryShort": "Ink & Switch Introduces Bijou64: Canonical Variable-Length Integer Encoding for Safe Parsing. Ink & Switch published bijou64, a variable-length integer encoding where every number has exactly one byte representation, closing the canonicalit",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "article-multi-agent-ai-for-production-security-operations-an-a2a",
-      "title": "Article: Multi-Agent AI for Production Security Operations: An A2A and MCP Architecture in a 5G Core",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/multi-agent-security-operations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-23T09:00:00.000Z",
-      "summaryShort": "Article: Multi-Agent AI for Production Security Operations: An A2A and MCP Architecture in a 5G Core. The bottleneck in a mature SOC is rarely analyst triage; rather, it is the detection-engineering team's ability to keep the rule base alig",
+      "id": "how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecuri",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "publishedAt": "2026-07-24T01:00:00.000Z",
+      "summaryShort": "How AI guardrails are impeding the work of offensive cybersecurity researchers. We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guar",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "your-backstage-pass-to-techcrunch-disrupt-2026-is-waiting",
-      "title": "Your backstage pass to TechCrunch Disrupt 2026 is waiting",
+      "id": "meet-the-judges-who-will-crown-australia-s-next-breakout-startup",
+      "title": "Meet the judges who will crown Australia's next breakout startup",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/your-backstage-pass-to-techcrunch-disrupt-2026-is-waiting/",
-      "publishedAt": "2026-07-23T14:02:00.000Z",
-      "summaryShort": "Your backstage pass to TechCrunch Disrupt 2026 is waiting. Volunteer at TechCrunch Disrupt 2026 and get a behind-the-scenes look at how one of the world's biggest startup conferences gets built.",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+      "publishedAt": "2026-07-24T00:05:00.000Z",
+      "summaryShort": "Meet the judges who will crown Australia's next breakout startup. TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "ford-bets-on-apple-for-its-next-generation-of-evs",
-      "title": "Ford bets on Apple for its next-generation of EVs",
+      "id": "mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-",
+      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/",
-      "publishedAt": "2026-07-23T13:58:37.000Z",
-      "summaryShort": "Ford bets on Apple for its next-generation of EVs. Ford is the first automaker to use a new set of developer tools that will let it embed Apple Maps navigation and mapping directly into its vehicles' infotainment systems.",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+      "publishedAt": "2026-07-23T22:40:08.000Z",
+      "summaryShort": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics. Shashua has been invited to take the chairman of the board seat.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "experts-say-exploiting-anthropic-s-fable-isn-t-how-kimi-k3-got-s",
-      "title": "Experts say exploiting Anthropic's Fable isn't how Kimi K3 got so good",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "publishedAt": "2026-07-23T11:00:00.000Z",
-      "summaryShort": "Experts say exploiting Anthropic's Fable isn't how Kimi K3 got so good. \"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-      "tags": [
-        "AI"
       ]
     }
   ]
