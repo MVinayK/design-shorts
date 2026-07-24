@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-07-24T03:15:10.671Z",
+  "generatedAt": "2026-07-24T13:53:57.357Z",
   "items": [
+    {
+      "id": "presentation-autonomous-data-products-for-the-autonomous-era-ret",
+      "title": "Presentation: Autonomous Data Products for the Autonomous Era: Rethinking Data Architecture for GenAI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-framework-data-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-24T13:30:00.000Z",
+      "summaryShort": "Presentation: Autonomous Data Products for the Autonomous Era: Rethinking Data Architecture for GenAI. Jörg Schad explains how to tame the complex \"data management hairball\" to build scalable, safe architectures for AI.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "airbus-makes-protection-from-extraterritorial-law-a-scored-crite",
+      "title": "Airbus Makes Protection from Extraterritorial Law a Scored Criterion in Its Cloud Tender",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-24T10:42:00.000Z",
+      "summaryShort": "Airbus Makes Protection from Extraterritorial Law a Scored Criterion in Its Cloud Tender. Airbus selected Scaleway as its sovereign cloud provider after a tender that scored protection against non-European extraterritorial legislation along",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "article-the-self-building-agent-a-langchain4j-experiment",
+      "title": "Article: The Self-Building Agent: A LangChain4j Experiment",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/self-building-agent-langchain4j/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-24T09:00:00.000Z",
+      "summaryShort": "Article: The Self-Building Agent: A LangChain4j Experiment. The article discusses an experiment where a code assistant had to design an agentic system using LangChain4j documentation.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "jotai-v2-20-rework-store-building-blocks-for-high-throughput-per",
+      "title": "Jotai v2.20: Rework Store Building Blocks for High-Throughput Performance and Sets the Stage for v3",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/jotai-rework-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-24T06:26:00.000Z",
+      "summaryShort": "Jotai v2.20: Rework Store Building Blocks for High-Throughput Performance and Sets the Stage for v3. Jotai v2.20.0 has been released, focusing on improved performance for high-throughput scenarios.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "indirect-prompt-injection-exploits-github-s-ai-agent-to-leak-pri",
       "title": "Indirect Prompt Injection Exploits GitHub's AI Agent to Leak Private Repository Data",
@@ -13,48 +58,25 @@
       ]
     },
     {
-      "id": "expedia-uses-ai-driven-service-telemetry-analyzer-to-accelerate-",
-      "title": "Expedia Uses AI Driven Service Telemetry Analyzer to Accelerate Incident Investigation",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/expedia-ai-observability-star/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-23T14:15:00.000Z",
-      "summaryShort": "Expedia Uses AI Driven Service Telemetry Analyzer to Accelerate Incident Investigation. Expedia Group has introduced STAR, an internal AI-assisted observability platform that helps engineers investigate production incidents using service te",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "achieving-compliance-as-a-platform-engineering-team-by-helping-d",
-      "title": "Achieving Compliance as a Platform Engineering Team by Helping Developers",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/platform-that-helps-developers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-23T11:42:00.000Z",
-      "summaryShort": "Achieving Compliance as a Platform Engineering Team by Helping Developers. When a new platform team set out on implementing their roadmap through forced workflows with poor documentation, developer experience declined.",
+      "id": "openai-s-new-voice-mode-makes-it-to-the-chatgpt-desktop-app",
+      "title": "OpenAI's new voice mode makes it to the ChatGPT desktop app",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "publishedAt": "2026-07-24T13:36:42.000Z",
+      "summaryShort": "OpenAI's new voice mode makes it to the ChatGPT desktop app. ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "presentation-compiling-workflows-into-databases-the-architecture",
-      "title": "Presentation: Compiling Workflows into Databases: The Architecture That Shouldn't Work (But Does)",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/dbos/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-23T10:26:00.000Z",
-      "summaryShort": "Presentation: Compiling Workflows into Databases: The Architecture That Shouldn't Work (But Does). Jeremy Edberg & Qian Li discuss why external orchestrators decrease reliability and how to use your existing database for durable execution.",
+      "id": "facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a",
+      "title": "Facebook launches a dedicated Marketplace app for sellers, adds a free verification system",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/",
+      "publishedAt": "2026-07-24T12:47:15.000Z",
+      "summaryShort": "Facebook launches a dedicated Marketplace app for sellers, adds a free verification system. Seller is a dedicated Marketplace app for people who list and sell items frequently.",
       "tags": [
-        "AI",
-        "Databases"
-      ]
-    },
-    {
-      "id": "qcon-ai-new-york-2026-registration-opens-for-december-15-16-prod",
-      "title": "QCon AI New York 2026: Registration Opens for December 15-16 Production-AI Conference",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/qcon-ai-newyork-2026-live/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-23T10:00:00.000Z",
-      "summaryShort": "QCon AI New York 2026: Registration Opens for December 15-16 Production-AI Conference. QCon AI New York 2026 (Dec 15-16) has opened registration at The Westin Jersey City Newport.",
-      "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
@@ -66,28 +88,6 @@
       "summaryShort": "How AI guardrails are impeding the work of offensive cybersecurity researchers. We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guar",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "meet-the-judges-who-will-crown-australia-s-next-breakout-startup",
-      "title": "Meet the judges who will crown Australia's next breakout startup",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
-      "publishedAt": "2026-07-24T00:05:00.000Z",
-      "summaryShort": "Meet the judges who will crown Australia's next breakout startup. TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-",
-      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
-      "publishedAt": "2026-07-23T22:40:08.000Z",
-      "summaryShort": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics. Shashua has been invited to take the chairman of the board seat.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
