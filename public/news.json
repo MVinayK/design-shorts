@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-25T03:13:45.062Z",
+  "generatedAt": "2026-07-25T13:44:39.904Z",
   "items": [
+    {
+      "id": "ai-root-cause-analysis-shifts-from-model-reasoning-to-context-en",
+      "title": "AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/ai-rca-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-25T09:00:00.000Z",
+      "summaryShort": "AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering. Engineers are increasingly arguing that modern LLMs can already reason through root cause analysis once given correctly prepared context, shifting the hard problem t",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "how-zalando-built-an-in-process-client-side-load-balancer-for-on",
+      "title": "How Zalando Built an In-Process Client-Side Load Balancer for One Million Requests per Second",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/client-side-load-balancer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-25T06:43:00.000Z",
+      "summaryShort": "How Zalando Built an In-Process Client-Side Load Balancer for One Million Requests per Second. The engineering team at Zalando recently described the design and implementation of an in-process, client-side load balancer for a high-throughpu",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "presentation-autonomous-data-products-for-the-autonomous-era-ret",
       "title": "Presentation: Autonomous Data Products for the Autonomous Era: Rethinking Data Architecture for GenAI",
@@ -36,23 +58,12 @@
       ]
     },
     {
-      "id": "jotai-v2-20-rework-store-building-blocks-for-high-throughput-per",
-      "title": "Jotai v2.20: Rework Store Building Blocks for High-Throughput Performance and Sets the Stage for v3",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/jotai-rework-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-24T06:26:00.000Z",
-      "summaryShort": "Jotai v2.20: Rework Store Building Blocks for High-Throughput Performance and Sets the Stage for v3. Jotai v2.20.0 has been released, focusing on improved performance for high-throughput scenarios.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "indirect-prompt-injection-exploits-github-s-ai-agent-to-leak-pri",
-      "title": "Indirect Prompt Injection Exploits GitHub's AI Agent to Leak Private Repository Data",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/gitlost-github-prompt-injection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-23T20:00:00.000Z",
-      "summaryShort": "Indirect Prompt Injection Exploits GitHub's AI Agent to Leak Private Repository Data. GitLost is a prompt-injection exploit discovered by Noma Security that tricks GitHub's new Agentic Workflows into leaking private data.",
+      "id": "one-fallen-power-line-exposed-a-growing-ai-data-center-problem-h",
+      "title": "One fallen power line exposed a growing AI data center problem. Here's how to fix it.",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "publishedAt": "2026-07-25T13:05:00.000Z",
+      "summaryShort": "One fallen power line exposed a growing AI data center problem. Here's how to fix it..",
       "tags": [
         "AI"
       ]
@@ -77,17 +88,6 @@
       "summaryShort": "SpaceX launches new V3 Starlink satellites but suffers another booster failure. The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-tal",
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "publishedAt": "2026-07-24T22:25:58.000Z",
-      "summaryShort": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M. The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-      "tags": [
-        "AI"
       ]
     }
   ]
