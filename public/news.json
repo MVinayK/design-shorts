@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T13:53:57.357Z",
+  "generatedAt": "2026-07-25T03:13:45.062Z",
   "items": [
     {
       "id": "presentation-autonomous-data-products-for-the-autonomous-era-ret",
@@ -58,34 +58,34 @@
       ]
     },
     {
-      "id": "openai-s-new-voice-mode-makes-it-to-the-chatgpt-desktop-app",
-      "title": "OpenAI's new voice mode makes it to the ChatGPT desktop app",
+      "id": "i-tried-out-openai-s-new-ai-keypad-which-will-be-fun-for-some-co",
+      "title": "I tried out OpenAI's new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "publishedAt": "2026-07-24T13:36:42.000Z",
-      "summaryShort": "OpenAI's new voice mode makes it to the ChatGPT desktop app. ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "publishedAt": "2026-07-25T00:23:11.000Z",
+      "summaryShort": "I tried out OpenAI's new AI keypad — which will be fun for some coders and slightly mystifying to everyone else. OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "spacex-launches-new-v3-starlink-satellites-but-suffers-another-b",
+      "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+      "publishedAt": "2026-07-24T23:25:47.000Z",
+      "summaryShort": "SpaceX launches new V3 Starlink satellites but suffers another booster failure. The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a",
-      "title": "Facebook launches a dedicated Marketplace app for sellers, adds a free verification system",
+      "id": "prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-tal",
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/",
-      "publishedAt": "2026-07-24T12:47:15.000Z",
-      "summaryShort": "Facebook launches a dedicated Marketplace app for sellers, adds a free verification system. Seller is a dedicated Marketplace app for people who list and sell items frequently.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecuri",
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "publishedAt": "2026-07-24T01:00:00.000Z",
-      "summaryShort": "How AI guardrails are impeding the work of offensive cybersecurity researchers. We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guar",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "publishedAt": "2026-07-24T22:25:58.000Z",
+      "summaryShort": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M. The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
       "tags": [
         "AI"
       ]
