@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-26T03:27:07.584Z",
+  "generatedAt": "2026-07-26T13:39:01.318Z",
   "items": [
+    {
+      "id": "ai-enabled-security-researchers-discover-how-a-crafted-video-can",
+      "title": "AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/pixelsmash-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-26T09:09:00.000Z",
+      "summaryShort": "AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC. JFrog Security Research revealed \"PixelSmash,\" a vulnerability in the FFmpeg media framework, allowing for Remote Code Execution and Denia",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "amazon-eks-adds-kubernetes-version-rollback-within-7-days-of-an-",
+      "title": "Amazon EKS Adds Kubernetes Version Rollback Within 7 Days of an Upgrade",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/eks-version-rollback/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-26T06:04:00.000Z",
+      "summaryShort": "Amazon EKS Adds Kubernetes Version Rollback Within 7 Days of an Upgrade. Amazon EKS has recently introduced support for Kubernetes version rollbacks, letting practitioners revert a cluster's control plane to its previous Kubernetes version ",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "ai-root-cause-analysis-shifts-from-model-reasoning-to-context-en",
       "title": "AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering",
@@ -33,28 +55,6 @@
       "tags": [
         "AI",
         "Cloud"
-      ]
-    },
-    {
-      "id": "airbus-makes-protection-from-extraterritorial-law-a-scored-crite",
-      "title": "Airbus Makes Protection from Extraterritorial Law a Scored Criterion in Its Cloud Tender",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-24T10:42:00.000Z",
-      "summaryShort": "Airbus Makes Protection from Extraterritorial Law a Scored Criterion in Its Cloud Tender. Airbus selected Scaleway as its sovereign cloud provider after a tender that scored protection against non-European extraterritorial legislation along",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "article-the-self-building-agent-a-langchain4j-experiment",
-      "title": "Article: The Self-Building Agent: A LangChain4j Experiment",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/self-building-agent-langchain4j/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-24T09:00:00.000Z",
-      "summaryShort": "Article: The Self-Building Agent: A LangChain4j Experiment. The article discusses an experiment where a code assistant had to design an agentic system using LangChain4j documentation.",
-      "tags": [
-        "Engineering"
       ]
     },
     {
