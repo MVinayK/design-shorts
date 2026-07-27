@@ -1,93 +1,92 @@
 {
-  "generatedAt": "2026-07-27T03:35:51.571Z",
+  "generatedAt": "2026-07-27T14:46:19.790Z",
   "items": [
     {
-      "id": "ai-enabled-security-researchers-discover-how-a-crafted-video-can",
-      "title": "AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC",
+      "id": "java-news-roundup-simple-json-api-jeps-for-jdk-28-oracle-cpus-em",
+      "title": "Java News Roundup: Simple JSON API, JEPs for JDK 28, Oracle CPUs, Embabel 1.0, Azul Payara, Helidon",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/pixelsmash-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-26T09:09:00.000Z",
-      "summaryShort": "AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC. JFrog Security Research revealed \"PixelSmash,\" a vulnerability in the FFmpeg media framework, allowing for Remote Code Execution and Denia",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "amazon-eks-adds-kubernetes-version-rollback-within-7-days-of-an-",
-      "title": "Amazon EKS Adds Kubernetes Version Rollback Within 7 Days of an Upgrade",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/eks-version-rollback/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-26T06:04:00.000Z",
-      "summaryShort": "Amazon EKS Adds Kubernetes Version Rollback Within 7 Days of an Upgrade. Amazon EKS has recently introduced support for Kubernetes version rollbacks, letting practitioners revert a cluster's control plane to its previous Kubernetes version ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/java-news-roundup-jul20-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-27T13:00:00.000Z",
+      "summaryShort": "Java News Roundup: Simple JSON API, JEPs for JDK 28, Oracle CPUs, Embabel 1.0, Azul Payara, Helidon. This week's Java roundup for July 20th, 2026, features news highlighting: two JEPs proposed to target for JDK 28; new JEPs 540 and 541, Sim",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "ai-root-cause-analysis-shifts-from-model-reasoning-to-context-en",
-      "title": "AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering",
+      "id": "podcast-rethinking-data-moving-from-the-traditional-three-tier-w",
+      "title": "Podcast: Rethinking Data: Moving From the Traditional Three-Tier Web Stack to Client-Side Event Sourcing",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/ai-rca-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-25T09:00:00.000Z",
-      "summaryShort": "AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering. Engineers are increasingly arguing that modern LLMs can already reason through root cause analysis once given correctly prepared context, shifting the hard problem t",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "how-zalando-built-an-in-process-client-side-load-balancer-for-on",
-      "title": "How Zalando Built an In-Process Client-Side Load Balancer for One Million Requests per Second",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/client-side-load-balancer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-25T06:43:00.000Z",
-      "summaryShort": "How Zalando Built an In-Process Client-Side Load Balancer for One Million Requests per Second. The engineering team at Zalando recently described the design and implementation of an in-process, client-side load balancer for a high-throughpu",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-autonomous-data-products-for-the-autonomous-era-ret",
-      "title": "Presentation: Autonomous Data Products for the Autonomous Era: Rethinking Data Architecture for GenAI",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-framework-data-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-24T13:30:00.000Z",
-      "summaryShort": "Presentation: Autonomous Data Products for the Autonomous Era: Rethinking Data Architecture for GenAI. Jörg Schad explains how to tame the complex \"data management hairball\" to build scalable, safe architectures for AI.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "are-brain-waves-the-next-unlock-for-physical-ai",
-      "title": "Are brain waves the next unlock for physical AI?",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "publishedAt": "2026-07-27T00:19:14.000Z",
-      "summaryShort": "Are brain waves the next unlock for physical AI?. Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "can-apple-make-smart-glasses-that-aren-t-a-constant-privacy-thre",
-      "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
-      "publishedAt": "2026-07-26T21:06:44.000Z",
-      "summaryShort": "Can Apple make smart glasses that aren’t a constant privacy threat?. As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.",
+      "sourceUrl": "https://www.infoq.com/podcasts/rethinking-data-client-event-sourcing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-27T13:00:00.000Z",
+      "summaryShort": "Podcast: Rethinking Data: Moving From the Traditional Three-Tier Web Stack to Client-Side Event Sourcing. Johannes Schickling explores how he moved beyond the traditional three-tier web stack to a local-first approach.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "making-sense-of-the-panic-over-chinese-ai",
-      "title": "Making sense of the panic over Chinese AI",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "publishedAt": "2026-07-26T19:40:57.000Z",
-      "summaryShort": "Making sense of the panic over Chinese AI. On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "id": "presentation-clean-architecture-for-serverless-business-logic-yo",
+      "title": "Presentation: Clean Architecture for Serverless: Business Logic You Can Take Anywhere",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/kotlin-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-27T11:26:00.000Z",
+      "summaryShort": "Presentation: Clean Architecture for Serverless: Business Logic You Can Take Anywhere. Elena van Engelen discusses how to eliminate serverless vendor lock-in without sacrificing native cloud capabilities.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "article-an-evolutionary-architecture-pattern-for-managing-ai-s-p",
+      "title": "Article: An Evolutionary Architecture Pattern for Managing AI’s Pace of Change",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/evolutionary-architecture-pattern/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-27T11:00:00.000Z",
+      "summaryShort": "Article: An Evolutionary Architecture Pattern for Managing AI’s Pace of Change. Traditional API gateways assume deterministic services and simple schemas - assumptions agentic AI breaks.",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "netflix-details-its-in-house-llm-serving-platform-with-triton-an",
+      "title": "Netflix Details Its In-House LLM Serving Platform with Triton and vLLM",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/netflix-llm-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-27T07:33:00.000Z",
+      "summaryShort": "Netflix Details Its In-House LLM Serving Platform with Triton and vLLM. Netflix has described the production lessons behind bringing LLM inference into its internal serving platform, including the challenges of supporting different model si",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "snapchat-now-lets-you-share-what-you-re-listening-to-in-real-tim",
+      "title": "Snapchat now lets you share what you're listening to in real time",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/",
+      "publishedAt": "2026-07-27T13:00:00.000Z",
+      "summaryShort": "Snapchat now lets you share what you're listening to in real time. Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real t",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusti",
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "publishedAt": "2026-07-27T13:00:00.000Z",
+      "summaryShort": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume. The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "europe-got-its-own-tbpn-style-live-show-and-everyone-s-angling-f",
+      "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+      "publishedAt": "2026-07-27T10:00:00.000Z",
+      "summaryShort": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot. On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
