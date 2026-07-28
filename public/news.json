@@ -1,91 +1,90 @@
 {
-  "generatedAt": "2026-07-28T02:52:09.074Z",
+  "generatedAt": "2026-07-28T14:20:28.198Z",
   "items": [
     {
-      "id": "microsoft-releases-net-11-preview-6-with-language-and-framework-",
-      "title": "Microsoft Releases .NET 11 Preview 6 With Language and Framework Updates",
+      "id": "grafana-assistant-expands-to-more-than-30-data-sources",
+      "title": "Grafana Assistant Expands to More Than 30 Data Sources",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/dotnet-11-preview-6/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-27T15:09:00.000Z",
-      "summaryShort": "Microsoft Releases .NET 11 Preview 6 With Language and Framework Updates. Microsoft has released .NET 11 Preview 6, with updates across C#, ASP.NET Core, .NET MAUI, and Entity Framework Core.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "java-news-roundup-simple-json-api-jeps-for-jdk-28-oracle-cpus-em",
-      "title": "Java News Roundup: Simple JSON API, JEPs for JDK 28, Oracle CPUs, Embabel 1.0, Azul Payara, Helidon",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/java-news-roundup-jul20-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-27T13:00:00.000Z",
-      "summaryShort": "Java News Roundup: Simple JSON API, JEPs for JDK 28, Oracle CPUs, Embabel 1.0, Azul Payara, Helidon. This week's Java roundup for July 20th, 2026, features news highlighting: two JEPs proposed to target for JDK 28; new JEPs 540 and 541, Sim",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "podcast-rethinking-data-moving-from-the-traditional-three-tier-w",
-      "title": "Podcast: Rethinking Data: Moving From the Traditional Three-Tier Web Stack to Client-Side Event Sourcing",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/rethinking-data-client-event-sourcing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-27T13:00:00.000Z",
-      "summaryShort": "Podcast: Rethinking Data: Moving From the Traditional Three-Tier Web Stack to Client-Side Event Sourcing. Johannes Schickling explores how he moved beyond the traditional three-tier web stack to a local-first approach.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-clean-architecture-for-serverless-business-logic-yo",
-      "title": "Presentation: Clean Architecture for Serverless: Business Logic You Can Take Anywhere",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/kotlin-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-27T11:26:00.000Z",
-      "summaryShort": "Presentation: Clean Architecture for Serverless: Business Logic You Can Take Anywhere. Elena van Engelen discusses how to eliminate serverless vendor lock-in without sacrificing native cloud capabilities.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "article-an-evolutionary-architecture-pattern-for-managing-ai-s-p",
-      "title": "Article: An Evolutionary Architecture Pattern for Managing AI’s Pace of Change",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/evolutionary-architecture-pattern/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-27T11:00:00.000Z",
-      "summaryShort": "Article: An Evolutionary Architecture Pattern for Managing AI’s Pace of Change. Traditional API gateways assume deterministic services and simple schemas - assumptions agentic AI breaks.",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/grafana-assistant-data-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-28T12:00:00.000Z",
+      "summaryShort": "Grafana Assistant Expands to More Than 30 Data Sources. Grafana Labs has expanded the capabilities of Grafana Assistant, enabling its AI-powered observability assistant to query and correlate data across more than 30 different data sources ",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "anthropic-s-dario-amodei-responds-doesn-t-oppose-open-weight-mod",
-      "title": "Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "publishedAt": "2026-07-28T00:13:33.000Z",
-      "summaryShort": "Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI. Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+      "id": "presentation-the-future-of-engineering-mindsets-that-matter-when",
+      "title": "Presentation: The Future of Engineering: Mindsets That Matter When Code Isn’t Enough",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-future-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-28T11:10:00.000Z",
+      "summaryShort": "Presentation: The Future of Engineering: Mindsets That Matter When Code Isn’t Enough. Ben Greene discusses how software engineers can adapt and thrive in an era of rapid AI code automation.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "satya-nadella-says-companies-that-trust-one-ai-for-everything-ma",
-      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-      "publishedAt": "2026-07-27T21:17:11.000Z",
-      "summaryShort": "Satya Nadella says companies that trust one AI for everything may not survive. Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in tr",
+      "id": "remix-3-beta-preview-ditches-react-for-a-web-standards-full-stac",
+      "title": "Remix 3 Beta Preview Ditches React for a Web-Standards Full-Stack Framework",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/remix-3-beta-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-28T09:02:00.000Z",
+      "summaryShort": "Remix 3 Beta Preview Ditches React for a Web-Standards Full-Stack Framework. Remix 3 is a full-stack web framework that moves away from React, focusing on web platform primitives.",
       "tags": [
-        "AI",
-        "Cloud"
+        "Engineering"
       ]
     },
     {
-      "id": "thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fus",
-      "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+      "id": "article-the-hard-stop-rule-from-3-hcm-monoliths-to-120-domain-mi",
+      "title": "Article: The Hard-Stop Rule: From 3 HCM Monoliths to 120 Domain Microservices",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/pull-based-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-28T09:00:00.000Z",
+      "summaryShort": "Article: The Hard-Stop Rule: From 3 HCM Monoliths to 120 Domain Microservices. A payroll and HR software team rebuilt three monoliths into over 120 smaller services over five years, with no dedicated migration budget.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "aws-launches-amazon-guardduty-investigation-agent-to-automate-th",
+      "title": "AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/guardduty-investigation-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-28T07:14:00.000Z",
+      "summaryShort": "AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage. AWS released a public preview of the GuardDuty investigation agent, which correlates findings, 90-day activity logs, and resource topologies into structured report",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators",
+      "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
-      "publishedAt": "2026-07-27T20:40:12.000Z",
-      "summaryShort": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors. Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
+      "sourceUrl": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "publishedAt": "2026-07-28T14:00:00.000Z",
+      "summaryShort": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises. Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual r",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "apple-launches-8216-upgrade-device-leasing-program-in-partnershi",
+      "title": "Apple launches &#8216;Upgrade' device leasing program in partnership with Klarna",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
+      "publishedAt": "2026-07-28T13:50:27.000Z",
+      "summaryShort": "Apple launches &#8216;Upgrade' device leasing program in partnership with Klarna. Leasing prices start at $17.99 per month for iPhone, $11.99 for Apple Watch, $24.99 for Mac, and $11.99 for iPad.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "recursive-superintelligence-signs-410-compute-deal-with-amazon",
+      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "publishedAt": "2026-07-28T13:19:17.000Z",
+      "summaryShort": "Recursive Superintelligence signs $410 compute deal with Amazon. Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
       "tags": [
         "Engineering"
       ]
