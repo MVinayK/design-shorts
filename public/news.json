@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-27T14:46:19.790Z",
+  "generatedAt": "2026-07-28T02:52:09.074Z",
   "items": [
+    {
+      "id": "microsoft-releases-net-11-preview-6-with-language-and-framework-",
+      "title": "Microsoft Releases .NET 11 Preview 6 With Language and Framework Updates",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/dotnet-11-preview-6/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-27T15:09:00.000Z",
+      "summaryShort": "Microsoft Releases .NET 11 Preview 6 With Language and Framework Updates. Microsoft has released .NET 11 Preview 6, with updates across C#, ASP.NET Core, .NET MAUI, and Entity Framework Core.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "java-news-roundup-simple-json-api-jeps-for-jdk-28-oracle-cpus-em",
       "title": "Java News Roundup: Simple JSON API, JEPs for JDK 28, Oracle CPUs, Embabel 1.0, Azul Payara, Helidon",
@@ -46,45 +57,35 @@
       ]
     },
     {
-      "id": "netflix-details-its-in-house-llm-serving-platform-with-triton-an",
-      "title": "Netflix Details Its In-House LLM Serving Platform with Triton and vLLM",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/netflix-llm-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-27T07:33:00.000Z",
-      "summaryShort": "Netflix Details Its In-House LLM Serving Platform with Triton and vLLM. Netflix has described the production lessons behind bringing LLM inference into its internal serving platform, including the challenges of supporting different model si",
+      "id": "anthropic-s-dario-amodei-responds-doesn-t-oppose-open-weight-mod",
+      "title": "Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "publishedAt": "2026-07-28T00:13:33.000Z",
+      "summaryShort": "Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI. Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "snapchat-now-lets-you-share-what-you-re-listening-to-in-real-tim",
-      "title": "Snapchat now lets you share what you're listening to in real time",
+      "id": "satya-nadella-says-companies-that-trust-one-ai-for-everything-ma",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/",
-      "publishedAt": "2026-07-27T13:00:00.000Z",
-      "summaryShort": "Snapchat now lets you share what you're listening to in real time. Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real t",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "publishedAt": "2026-07-27T21:17:11.000Z",
+      "summaryShort": "Satya Nadella says companies that trust one AI for everything may not survive. Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in tr",
       "tags": [
-        "Engineering"
+        "AI",
+        "Cloud"
       ]
     },
     {
-      "id": "enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusti",
-      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "id": "thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fus",
+      "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-      "publishedAt": "2026-07-27T13:00:00.000Z",
-      "summaryShort": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume. The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "europe-got-its-own-tbpn-style-live-show-and-everyone-s-angling-f",
-      "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
-      "publishedAt": "2026-07-27T10:00:00.000Z",
-      "summaryShort": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot. On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
+      "publishedAt": "2026-07-27T20:40:12.000Z",
+      "summaryShort": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors. Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
       "tags": [
         "Engineering"
       ]
