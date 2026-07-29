@@ -1,92 +1,93 @@
 {
-  "generatedAt": "2026-07-29T03:11:42.268Z",
+  "generatedAt": "2026-07-29T14:20:17.578Z",
   "items": [
     {
-      "id": "github-introduces-default-cooldown-policy-for-dependabot-version",
-      "title": "GitHub Introduces Default \"Cooldown\" Policy for Dependabot Version Updates",
+      "id": "microsoft-three-layer-llm-routing-architecture-for-ai-agents-on-",
+      "title": "Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/github-dependabot-cooldown/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-28T19:00:00.000Z",
-      "summaryShort": "GitHub Introduces Default \"Cooldown\" Policy for Dependabot Version Updates. Instead of immediately opening pull requests when newer dependency versions are released, Dependabot now waits three days before suggesting upgrades, thus increasin",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "grafana-assistant-expands-to-more-than-30-data-sources",
-      "title": "Grafana Assistant Expands to More Than 30 Data Sources",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/grafana-assistant-data-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-28T12:00:00.000Z",
-      "summaryShort": "Grafana Assistant Expands to More Than 30 Data Sources. Grafana Labs has expanded the capabilities of Grafana Assistant, enabling its AI-powered observability assistant to query and correlate data across more than 30 different data sources ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/microsoft-agents-aks-routing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-29T12:00:00.000Z",
+      "summaryShort": "Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS. Microsoft has released a reference architecture for routing agent traffic on Azure Kubernetes Service.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "presentation-the-future-of-engineering-mindsets-that-matter-when",
-      "title": "Presentation: The Future of Engineering: Mindsets That Matter When Code Isn’t Enough",
+      "id": "cloudflare-makes-internal-dns-generally-available",
+      "title": "Cloudflare Makes Internal DNS Generally Available",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-future-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-28T11:10:00.000Z",
-      "summaryShort": "Presentation: The Future of Engineering: Mindsets That Matter When Code Isn’t Enough. Ben Greene discusses how software engineers can adapt and thrive in an era of rapid AI code automation.",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/cloudflare-internal-dns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-29T10:30:00.000Z",
+      "summaryShort": "Cloudflare Makes Internal DNS Generally Available. Cloudflare has launched its Internal DNS service, providing authoritative and recursive DNS for private networks.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "presentation-getting-rid-of-leetcode-interviews-in-the-world-of-",
+      "title": "Presentation: Getting Rid of LeetCode Interviews in the World of AI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-lead-interview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-29T10:25:00.000Z",
+      "summaryShort": "Presentation: Getting Rid of LeetCode Interviews in the World of AI. Daniel Doubrovkine explains why traditional LeetCode whiteboard interviews fail to evaluate senior engineering talent.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "remix-3-beta-preview-ditches-react-for-a-web-standards-full-stac",
-      "title": "Remix 3 Beta Preview Ditches React for a Web-Standards Full-Stack Framework",
+      "id": "article-securing-mcp-in-production-defense-in-depth-beyond-the-g",
+      "title": "Article: Securing MCP in Production: Defense-in-Depth Beyond the Gateway",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/remix-3-beta-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-28T09:02:00.000Z",
-      "summaryShort": "Remix 3 Beta Preview Ditches React for a Web-Standards Full-Stack Framework. Remix 3 is a full-stack web framework that moves away from React, focusing on web platform primitives.",
+      "sourceUrl": "https://www.infoq.com/articles/securing-mcp-production-gateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-29T09:00:00.000Z",
+      "summaryShort": "Article: Securing MCP in Production: Defense-in-Depth Beyond the Gateway. This article presents a defense-in-depth approach for securing Model Context Protocol (MCP) deployments in production.",
       "tags": [
-        "Engineering"
+        "AI",
+        "Cloud"
       ]
     },
     {
-      "id": "article-the-hard-stop-rule-from-3-hcm-monoliths-to-120-domain-mi",
-      "title": "Article: The Hard-Stop Rule: From 3 HCM Monoliths to 120 Domain Microservices",
+      "id": "net-11-preview-6-modernises-maui-collectionview-and-android-shel",
+      "title": ".NET 11 Preview 6 Modernises MAUI CollectionView and Android Shell",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/pull-based-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-28T09:00:00.000Z",
-      "summaryShort": "Article: The Hard-Stop Rule: From 3 HCM Monoliths to 120 Domain Microservices. A payroll and HR software team rebuilt three monoliths into over 120 smaller services over five years, with no dedicated migration budget.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proli",
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "publishedAt": "2026-07-29T00:09:05.000Z",
-      "summaryShort": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents. The deal is Cyera's third acquisition this year.",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/net-maui-11-preview-6/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-29T08:00:00.000Z",
+      "summaryShort": ".NET 11 Preview 6 Modernises MAUI CollectionView and Android Shell. Microsoft has released .NET 11 Preview 6 with several architectural and reliability improvements for .NET MAUI.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "bot-detection-startup-spur-nabs-200m-from-insight",
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "id": "doordash-is-building-its-own-drone-delivery-business",
+      "title": "DoorDash is building its own drone delivery business",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "publishedAt": "2026-07-28T21:29:34.000Z",
-      "summaryShort": "Bot-detection startup Spur nabs $200M from Insight. Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
+      "publishedAt": "2026-07-29T13:00:00.000Z",
+      "summaryShort": "DoorDash is building its own drone delivery business. DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-id",
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "id": "fast-metals-is-treating-waste-with-more-waste-to-extract-critica",
+      "title": "Fast Metals is treating waste with more waste to extract critical minerals",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "publishedAt": "2026-07-28T20:45:12.000Z",
-      "summaryShort": "MCP startup Runlayer accuses Rippling of stealing its product idea. Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
+      "publishedAt": "2026-07-29T12:00:00.000Z",
+      "summaryShort": "Fast Metals is treating waste with more waste to extract critical minerals. Aluminum production has saddled the world with billions of tons of caustic waste.",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "publishedAt": "2026-07-29T11:00:00.000Z",
+      "summaryShort": "As AI content floods the internet, Pangram raises $9M to detect it. Pangram has raised $9 million to scale its AI detection software.",
+      "tags": [
+        "AI"
       ]
     }
   ]
