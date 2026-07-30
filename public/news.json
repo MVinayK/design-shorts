@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-07-30T02:44:07.304Z",
+  "generatedAt": "2026-07-30T14:12:37.949Z",
   "items": [
+    {
+      "id": "presentation-parting-the-clouds-the-rise-of-disaggregated-system",
+      "title": "Presentation: Parting the Clouds: The Rise of Disaggregated Systems",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/disaggregation-industrial-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-30T13:50:00.000Z",
+      "summaryShort": "Presentation: Parting the Clouds: The Rise of Disaggregated Systems. Murat Demirbas discusses the shift toward disaggregated cloud database architectures driven by cloud economics.",
+      "tags": [
+        "Databases",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ai-assisted-software-development-team-profiles-and-capabilities-",
+      "title": "AI-Assisted Software Development: Team Profiles and Capabilities for Putting Research into Action",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/AI-research-into-action/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-30T11:30:00.000Z",
+      "summaryShort": "AI-Assisted Software Development: Team Profiles and Capabilities for Putting Research into Action. AI is an amplifier; strategic focus on the organizational system brings the greatest returns.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "aws-lambda-s-self-managed-code-storage-lifts-the-account-quota-n",
+      "title": "AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/lambda-self-managed-storage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-30T07:57:00.000Z",
+      "summaryShort": "AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit. AWS Lambda can now reference deployment packages directly in customer-owned S3 buckets, removing the per-Region code storage quota and raising the ",
+      "tags": [
+        "Databases"
+      ]
+    },
     {
       "id": "microsoft-three-layer-llm-routing-architecture-for-ai-agents-on-",
       "title": "Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS",
@@ -24,71 +58,36 @@
       ]
     },
     {
-      "id": "presentation-getting-rid-of-leetcode-interviews-in-the-world-of-",
-      "title": "Presentation: Getting Rid of LeetCode Interviews in the World of AI",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-lead-interview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-29T10:25:00.000Z",
-      "summaryShort": "Presentation: Getting Rid of LeetCode Interviews in the World of AI. Daniel Doubrovkine explains why traditional LeetCode whiteboard interviews fail to evaluate senior engineering talent.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "article-securing-mcp-in-production-defense-in-depth-beyond-the-g",
-      "title": "Article: Securing MCP in Production: Defense-in-Depth Beyond the Gateway",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/securing-mcp-production-gateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-29T09:00:00.000Z",
-      "summaryShort": "Article: Securing MCP in Production: Defense-in-Depth Beyond the Gateway. This article presents a defense-in-depth approach for securing Model Context Protocol (MCP) deployments in production.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "net-11-preview-6-modernises-maui-collectionview-and-android-shel",
-      "title": ".NET 11 Preview 6 Modernises MAUI CollectionView and Android Shell",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/net-maui-11-preview-6/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-29T08:00:00.000Z",
-      "summaryShort": ".NET 11 Preview 6 Modernises MAUI CollectionView and Android Shell. Microsoft has released .NET 11 Preview 6 with several architectural and reliability improvements for .NET MAUI.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "microsoft-is-openly-competing-with-openai-anthropic-more-than-ev",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "id": "techcrunch-disrupt-2026-s-biggest-stage-features-leaders-from-am",
+      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "publishedAt": "2026-07-30T00:21:06.000Z",
-      "summaryShort": "Microsoft is openly competing with OpenAI, Anthropic more than ever. Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+      "publishedAt": "2026-07-30T14:00:00.000Z",
+      "summaryShort": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come. The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "mark-zuckerberg-predicts-that-billions-of-people-will-have-perso",
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "id": "ftc-sues-hims-038-hers-for-allegedly-sharing-patients-medical-da",
+      "title": "FTC sues Hims &#038; Hers for allegedly sharing patients' medical data with advertisers Meta and Snap",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-      "publishedAt": "2026-07-29T23:00:11.000Z",
-      "summaryShort": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years. As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
+      "publishedAt": "2026-07-30T13:30:52.000Z",
+      "summaryShort": "FTC sues Hims &#038; Hers for allegedly sharing patients' medical data with advertisers Meta and Snap. The U.S.",
       "tags": [
-        "AI",
-        "Cloud"
+        "Engineering"
       ]
     },
     {
-      "id": "microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-m",
-      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "id": "zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service",
+      "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-      "publishedAt": "2026-07-29T22:46:03.000Z",
-      "summaryShort": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag. When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its inves",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
+      "publishedAt": "2026-07-30T13:09:03.000Z",
+      "summaryShort": "Zoox clears final federal hurdle to launch paid robotaxi service. Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its cu",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
