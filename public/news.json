@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T14:20:17.578Z",
+  "generatedAt": "2026-07-30T02:44:07.304Z",
   "items": [
     {
       "id": "microsoft-three-layer-llm-routing-architecture-for-ai-agents-on-",
@@ -58,34 +58,35 @@
       ]
     },
     {
-      "id": "doordash-is-building-its-own-drone-delivery-business",
-      "title": "DoorDash is building its own drone delivery business",
+      "id": "microsoft-is-openly-competing-with-openai-anthropic-more-than-ev",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
-      "publishedAt": "2026-07-29T13:00:00.000Z",
-      "summaryShort": "DoorDash is building its own drone delivery business. DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "publishedAt": "2026-07-30T00:21:06.000Z",
+      "summaryShort": "Microsoft is openly competing with OpenAI, Anthropic more than ever. Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "fast-metals-is-treating-waste-with-more-waste-to-extract-critica",
-      "title": "Fast Metals is treating waste with more waste to extract critical minerals",
+      "id": "mark-zuckerberg-predicts-that-billions-of-people-will-have-perso",
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
-      "publishedAt": "2026-07-29T12:00:00.000Z",
-      "summaryShort": "Fast Metals is treating waste with more waste to extract critical minerals. Aluminum production has saddled the world with billions of tons of caustic waste.",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "publishedAt": "2026-07-29T23:00:11.000Z",
+      "summaryShort": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years. As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
       "tags": [
-        "Engineering"
+        "AI",
+        "Cloud"
       ]
     },
     {
-      "id": "as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it",
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "id": "microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-m",
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "publishedAt": "2026-07-29T11:00:00.000Z",
-      "summaryShort": "As AI content floods the internet, Pangram raises $9M to detect it. Pangram has raised $9 million to scale its AI detection software.",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "publishedAt": "2026-07-29T22:46:03.000Z",
+      "summaryShort": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag. When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its inves",
       "tags": [
         "AI"
       ]
