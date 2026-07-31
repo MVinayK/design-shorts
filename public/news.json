@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-07-31T03:26:47.779Z",
+  "generatedAt": "2026-07-31T14:20:09.599Z",
   "items": [
+    {
+      "id": "presentation-the-free-lunch-guide-to-idea-circularity",
+      "title": "Presentation: The Free-Lunch Guide to Idea Circularity",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-31T11:00:00.000Z",
+      "summaryShort": "Presentation: The Free-Lunch Guide to Idea Circularity. Holly Cummins discusses why \"nothing is new under the sun\" in tech.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "article-virtual-threads-after-jdk-24-what-changed-for-production",
+      "title": "Article: Virtual Threads After JDK 24: What Changed for Production Java",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/virtual-threads-after-jdk24/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-31T09:00:00.000Z",
+      "summaryShort": "Article: Virtual Threads After JDK 24: What Changed for Production Java. JDK 24 removed the monitor-related carrier-thread pinning that stalled Netflix and similar teams on Java 21.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "presentation-parting-the-clouds-the-rise-of-disaggregated-system",
       "title": "Presentation: Parting the Clouds: The Rise of Disaggregated Systems",
@@ -36,25 +59,25 @@
       ]
     },
     {
-      "id": "microsoft-three-layer-llm-routing-architecture-for-ai-agents-on-",
-      "title": "Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/microsoft-agents-aks-routing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-29T12:00:00.000Z",
-      "summaryShort": "Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS. Microsoft has released a reference architecture for routing agent traffic on Azure Kubernetes Service.",
+      "id": "tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex",
+      "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
+      "publishedAt": "2026-07-31T13:45:53.000Z",
+      "summaryShort": "Tesla reportedly might sell its China business ahead of a SpaceX merger. Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "cloudflare-makes-internal-dns-generally-available",
-      "title": "Cloudflare Makes Internal DNS Generally Available",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/cloudflare-internal-dns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-29T10:30:00.000Z",
-      "summaryShort": "Cloudflare Makes Internal DNS Generally Available. Cloudflare has launched its Internal DNS service, providing authoritative and recursive DNS for private networks.",
+      "id": "repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-f",
+      "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+      "publishedAt": "2026-07-31T12:00:00.000Z",
+      "summaryShort": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers. Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
       "tags": [
-        "Cloud"
+        "AI"
       ]
     },
     {
@@ -66,29 +89,6 @@
       "summaryShort": "Anthropic says its own AI models breached three companies during security tests. After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "apple-stockpiles-inventory-as-it-braces-for-8216-significant-sup",
-      "title": "Apple stockpiles inventory as it braces for &#8216;significant supply constraints'",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
-      "publishedAt": "2026-07-30T23:28:05.000Z",
-      "summaryShort": "Apple stockpiles inventory as it braces for &#8216;significant supply constraints'. Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last S",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "ai-hedge-fund-situational-awareness-may-have-sold-its-public-por",
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "publishedAt": "2026-07-30T23:25:58.000Z",
-      "summaryShort": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares. The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted.",
-      "tags": [
-        "AI",
-        "Architecture"
       ]
     }
   ]
