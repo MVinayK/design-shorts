@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-07-31T14:20:09.599Z",
+  "generatedAt": "2026-08-01T03:25:46.508Z",
   "items": [
+    {
+      "id": "terraform-introduces-tfpolicy-an-hcl-based-policy-as-code-framew",
+      "title": "Terraform Introduces tfpolicy, an HCL-based Policy-as-Code Framework",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/terraform-policy-as-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-31T18:00:00.000Z",
+      "summaryShort": "Terraform Introduces tfpolicy, an HCL-based Policy-as-Code Framework. HashiCorp has introduced tfpolicy, a new HCL-based policy-as-code framework for Terraform, now available in public beta within HCP Terraform.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "dropbox-integrates-mcp-and-dash-to-close-the-gap-between-securit",
+      "title": "Dropbox Integrates MCP and Dash to Close the Gap Between Security Design and Code Review",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/07/dropbox-mcp-ai-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-07-31T14:36:00.000Z",
+      "summaryShort": "Dropbox Integrates MCP and Dash to Close the Gap Between Security Design and Code Review. Dropbox has integrated Model Context Protocol (MCP) with its internal knowledge platform, Dash, to surface security design context during AI assisted ",
+      "tags": [
+        "AI",
+        "Architecture"
+      ]
+    },
     {
       "id": "presentation-the-free-lunch-guide-to-idea-circularity",
       "title": "Presentation: The Free-Lunch Guide to Idea Circularity",
@@ -37,56 +60,34 @@
       ]
     },
     {
-      "id": "ai-assisted-software-development-team-profiles-and-capabilities-",
-      "title": "AI-Assisted Software Development: Team Profiles and Capabilities for Putting Research into Action",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/AI-research-into-action/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-30T11:30:00.000Z",
-      "summaryShort": "AI-Assisted Software Development: Team Profiles and Capabilities for Putting Research into Action. AI is an amplifier; strategic focus on the organizational system brings the greatest returns.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "aws-lambda-s-self-managed-code-storage-lifts-the-account-quota-n",
-      "title": "AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/07/lambda-self-managed-storage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-30T07:57:00.000Z",
-      "summaryShort": "AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit. AWS Lambda can now reference deployment packages directly in customer-owned S3 buckets, removing the per-Region code storage quota and raising the ",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex",
-      "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
+      "id": "openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amo",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
-      "publishedAt": "2026-07-31T13:45:53.000Z",
-      "summaryShort": "Tesla reportedly might sell its China business ahead of a SpaceX merger. Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan.",
+      "sourceUrl": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "publishedAt": "2026-07-31T22:47:26.000Z",
+      "summaryShort": "OpenAI reportedly finds evidence that more of its agents ran amok. OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-f",
-      "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+      "id": "rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-",
+      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
-      "publishedAt": "2026-07-31T12:00:00.000Z",
-      "summaryShort": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers. Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
+      "sourceUrl": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
+      "publishedAt": "2026-07-31T22:00:08.000Z",
+      "summaryShort": "Rivian spinoff Also to start delivering e-bikes after months of delays. Also has big plans beyond the TM-B.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "anthropic-says-its-own-ai-models-breached-three-companies-during",
-      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "id": "silicon-valley-loves-young-founders-until-it-doesn-t",
+      "title": "Silicon Valley loves young founders. Until it doesn't.",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "publishedAt": "2026-07-31T01:06:54.000Z",
-      "summaryShort": "Anthropic says its own AI models breached three companies during security tests. After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "sourceUrl": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "publishedAt": "2026-07-31T22:00:00.000Z",
+      "summaryShort": "Silicon Valley loves young founders. Until it doesn't..",
       "tags": [
         "AI"
       ]
