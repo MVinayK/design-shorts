@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-01T03:25:46.508Z",
+  "generatedAt": "2026-08-01T13:37:37.987Z",
   "items": [
+    {
+      "id": "aws-introduces-free-sandbox-environments-for-workshops",
+      "title": "AWS Introduces Free Sandbox Environments for Workshops",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/aws-builder-sandbox/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-01T04:49:00.000Z",
+      "summaryShort": "AWS Introduces Free Sandbox Environments for Workshops. AWS Builder Center now offers free, time-limited sandbox environments for workshops, so developers no longer need to use their own AWS account and credit card or worry about unexpected",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "terraform-introduces-tfpolicy-an-hcl-based-policy-as-code-framew",
       "title": "Terraform Introduces tfpolicy, an HCL-based Policy-as-Code Framework",
@@ -48,15 +59,14 @@
       ]
     },
     {
-      "id": "presentation-parting-the-clouds-the-rise-of-disaggregated-system",
-      "title": "Presentation: Parting the Clouds: The Rise of Disaggregated Systems",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/disaggregation-industrial-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-30T13:50:00.000Z",
-      "summaryShort": "Presentation: Parting the Clouds: The Rise of Disaggregated Systems. Murat Demirbas discusses the shift toward disaggregated cloud database architectures driven by cloud economics.",
+      "id": "what-s-the-best-handheld-mini-fan",
+      "title": "What's the best handheld mini fan?",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
+      "publishedAt": "2026-08-01T13:36:54.000Z",
+      "summaryShort": "What's the best handheld mini fan?. From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
       "tags": [
-        "Databases",
-        "Cloud"
+        "Engineering"
       ]
     },
     {
@@ -79,17 +89,6 @@
       "summaryShort": "Rivian spinoff Also to start delivering e-bikes after months of delays. Also has big plans beyond the TM-B.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "silicon-valley-loves-young-founders-until-it-doesn-t",
-      "title": "Silicon Valley loves young founders. Until it doesn't.",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "publishedAt": "2026-07-31T22:00:00.000Z",
-      "summaryShort": "Silicon Valley loves young founders. Until it doesn't..",
-      "tags": [
-        "AI"
       ]
     }
   ]
