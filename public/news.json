@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-02T03:25:12.197Z",
+  "generatedAt": "2026-08-02T13:38:06.821Z",
   "items": [
+    {
+      "id": "cloudflare-introduces-meerkat-for-strongly-consistent-global-coo",
+      "title": "Cloudflare Introduces Meerkat for Strongly Consistent Global Coordination",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-meerkat-consensus/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-02T06:17:00.000Z",
+      "summaryShort": "Cloudflare Introduces Meerkat for Strongly Consistent Global Coordination. Cloudflare recently introduced Meerkat, an internal globally consistent control-plane service based on the QuePaxa consensus algorithm.",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "aws-introduces-free-sandbox-environments-for-workshops",
       "title": "AWS Introduces Free Sandbox Environments for Workshops",
@@ -45,17 +56,6 @@
       "tags": [
         "AI",
         "Cloud"
-      ]
-    },
-    {
-      "id": "article-virtual-threads-after-jdk-24-what-changed-for-production",
-      "title": "Article: Virtual Threads After JDK 24: What Changed for Production Java",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/virtual-threads-after-jdk24/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-07-31T09:00:00.000Z",
-      "summaryShort": "Article: Virtual Threads After JDK 24: What Changed for Production Java. JDK 24 removed the monitor-related carrier-thread pinning that stalled Netflix and similar teams on Java 21.",
-      "tags": [
-        "Engineering"
       ]
     },
     {
