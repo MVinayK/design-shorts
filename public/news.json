@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T13:37:37.987Z",
+  "generatedAt": "2026-08-02T03:25:12.197Z",
   "items": [
     {
       "id": "aws-introduces-free-sandbox-environments-for-workshops",
@@ -59,36 +59,36 @@
       ]
     },
     {
-      "id": "what-s-the-best-handheld-mini-fan",
-      "title": "What's the best handheld mini fan?",
+      "id": "inside-the-london-hacker-house-taking-a-stand-against-founder-bu",
+      "title": "Inside the London hacker house taking a stand against founder burnout",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
-      "publishedAt": "2026-08-01T13:36:54.000Z",
-      "summaryShort": "What's the best handheld mini fan?. From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
+      "sourceUrl": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "publishedAt": "2026-08-01T21:14:48.000Z",
+      "summaryShort": "Inside the London hacker house taking a stand against founder burnout. How one founder house is betting work-life balance can beat burnout .",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amo",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "id": "judge-denies-xai-s-request-to-block-minnesota-ban-on-nudify-apps",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "publishedAt": "2026-07-31T22:47:26.000Z",
-      "summaryShort": "OpenAI reportedly finds evidence that more of its agents ran amok. OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+      "sourceUrl": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "publishedAt": "2026-08-01T20:26:04.000Z",
+      "summaryShort": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps. Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-",
-      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+      "id": "youtuber-hank-green-says-his-ai-usage-is-not-healthy",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-      "publishedAt": "2026-07-31T22:00:08.000Z",
-      "summaryShort": "Rivian spinoff Also to start delivering e-bikes after months of delays. Also has big plans beyond the TM-B.",
+      "sourceUrl": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "publishedAt": "2026-08-01T19:45:45.000Z",
+      "summaryShort": "YouTuber Hank Green says his AI usage is ‘not healthy’. Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ...",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
