@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T13:38:06.821Z",
+  "generatedAt": "2026-08-03T03:27:25.834Z",
   "items": [
     {
       "id": "cloudflare-introduces-meerkat-for-strongly-consistent-global-coo",
@@ -59,36 +59,36 @@
       ]
     },
     {
-      "id": "inside-the-london-hacker-house-taking-a-stand-against-founder-bu",
-      "title": "Inside the London hacker house taking a stand against founder burnout",
+      "id": "the-global-memory-shortage-hits-the-macbook-air",
+      "title": "The global memory shortage hits the MacBook Air",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-      "publishedAt": "2026-08-01T21:14:48.000Z",
-      "summaryShort": "Inside the London hacker house taking a stand against founder burnout. How one founder house is betting work-life balance can beat burnout .",
+      "sourceUrl": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "publishedAt": "2026-08-02T21:33:59.000Z",
+      "summaryShort": "The global memory shortage hits the MacBook Air. The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "judge-denies-xai-s-request-to-block-minnesota-ban-on-nudify-apps",
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "id": "sam-altman-and-ai-s-decel-debate",
+      "title": "Sam Altman and AI’s decel debate",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "publishedAt": "2026-08-01T20:26:04.000Z",
-      "summaryShort": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps. Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "youtuber-hank-green-says-his-ai-usage-is-not-healthy",
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "publishedAt": "2026-08-01T19:45:45.000Z",
-      "summaryShort": "YouTuber Hank Green says his AI usage is ‘not healthy’. Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ...",
+      "sourceUrl": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "publishedAt": "2026-08-02T20:54:22.000Z",
+      "summaryShort": "Sam Altman and AI’s decel debate. On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "malaysia-is-reportedly-shutting-down-balaji-srinivasan-s-network",
+      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+      "publishedAt": "2026-08-02T17:05:07.000Z",
+      "summaryShort": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School. Let's see how this \"frontier community for techno-optimists\" is doing ...",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
