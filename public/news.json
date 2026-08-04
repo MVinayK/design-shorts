@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-08-04T02:55:45.162Z",
+  "generatedAt": "2026-08-04T14:26:19.872Z",
   "items": [
+    {
+      "id": "platform-engineering-maturity-emerges-as-a-key-differentiator-fo",
+      "title": "Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-04T12:00:00.000Z",
+      "summaryShort": "Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success. Platform engineering maturity is emerging as an important factor in determining whether organizations can turn AI adoption into sustainable operational",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-microservices-platforms-when-team-topologies-meets-",
+      "title": "Presentation: Microservices Platforms: When Team Topologies Meets Microservices Patterns",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/microservices-platform-team-topology/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-04T11:45:00.000Z",
+      "summaryShort": "Presentation: Microservices Platforms: When Team Topologies Meets Microservices Patterns. Chris Richardson discusses leveraging Team Topologies and internal platforms to accelerate microservices delivery.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "eslint-rspack-plugin-5-0-0-ships-as-a-pure-esm-package-aligning-",
+      "title": "eslint-rspack-plugin 5.0.0 Ships as a Pure ESM Package, Aligning with the Rstack Ecosystem",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/eslint-rspack-plugin-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-04T07:39:00.000Z",
+      "summaryShort": "eslint-rspack-plugin 5.0.0 Ships as a Pure ESM Package, Aligning with the Rstack Ecosystem. Version 5.0.0 of eslint-rspack-plugin has been released as a pure ESM package, aligning with the Rspack ecosystem and removing its CommonJS build.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "swarm-of-openai-agents-exploit-artifactory-zero-day-to-escape-sa",
+      "title": "Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/openai-huggingface-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-04T06:42:00.000Z",
+      "summaryShort": "Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face. Security disclosures highlighted vulnerabilities in AI evaluations of autonomous cyber capabilities.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "azure-and-community-guidelines-on-choosing-between-a-skill-or-a-",
       "title": "Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent",
@@ -13,81 +58,36 @@
       ]
     },
     {
-      "id": "java-news-roundup-openjdk-jeps-jakarta-ee-graalvm-tornadovm-micr",
-      "title": "Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/java-news-roundup-jul27-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-03T14:30:00.000Z",
-      "summaryShort": "Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven. This week's Java roundup for July 27th, 2026, features news highlighting: OpenJDK JEPs targeted and proposed to target for JDK 28; the GA r",
+      "id": "apple-says-more-ex-employees-may-have-taken-confidential-data-to",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "publishedAt": "2026-08-04T14:03:01.000Z",
+      "summaryShort": "Apple says more ex-employees may have taken confidential data to OpenAI. Apple says its trade secrets investigation into OpenAI has widened.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "spotify-now-has-over-300m-subscribers",
+      "title": "Spotify now has over 300M subscribers",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
+      "publishedAt": "2026-08-04T13:52:58.000Z",
+      "summaryShort": "Spotify now has over 300M subscribers. Notably, the company saw its subscriber base swell by 9% in the second quarter despite raising prices in several regions this year.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "india-moves-to-give-its-instant-payments-network-a-business-mode",
+      "title": "India moves to give its instant payments network a business model",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
+      "publishedAt": "2026-08-04T13:31:17.000Z",
+      "summaryShort": "India moves to give its instant payments network a business model. The legislation lays the groundwork for a potential overhaul of India's zero-merchant-discount-rate regime, under which businesses have not paid fees to accept UPI payments ",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "hubspot-redesigns-jita-authorization-with-rule-engine-architectu",
-      "title": "HubSpot Redesigns JITA Authorization with Rule Engine Architecture",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/hubspot-jita-rule-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-03T13:59:00.000Z",
-      "summaryShort": "HubSpot Redesigns JITA Authorization with Rule Engine Architecture. HubSpot has redesigned its Just-In-Time Access (JITA) authorization system using a rule engine architecture.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "article-enabling-evolutionary-architecture-through-the-preservat",
-      "title": "Article: Enabling Evolutionary Architecture Through the Preservation of Change Locality",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/evolutionary-architecture-change-locality/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-03T11:00:00.000Z",
-      "summaryShort": "Article: Enabling Evolutionary Architecture Through the Preservation of Change Locality. Why do simple features suddenly require cross-team negotiations?",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "podcast-webassembly-on-the-jvm-feature-evolution-performance-and",
-      "title": "Podcast: WebAssembly on the JVM: Feature Evolution, Performance, and the Transition to Endive",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/feature-evolution-performance-transition-endive/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-03T11:00:00.000Z",
-      "summaryShort": "Podcast: WebAssembly on the JVM: Feature Evolution, Performance, and the Transition to Endive. Andrea Peruffo discusses the evolution of WebAssembly beyond the browser and its growing role on the server-side JVM.",
-      "tags": [
-        "Architecture"
-      ]
-    },
-    {
-      "id": "after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-82",
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist'",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "publishedAt": "2026-08-03T23:19:50.000Z",
-      "summaryShort": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist'. After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterpri",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "snap-ceo-sidesteps-specs-preorder-questions-on-q2-earnings-call",
-      "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
-      "publishedAt": "2026-08-03T22:10:58.000Z",
-      "summaryShort": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call. When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "aws-is-helping-vibe-coding-startup-superblocks-and-the-implicati",
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "publishedAt": "2026-08-03T20:00:00.000Z",
-      "summaryShort": "AWS is helping vibe-coding startup Superblocks, and the implications are big. AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers.",
-      "tags": [
-        "AI",
-        "Cloud"
       ]
     }
   ]
