@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-03T14:49:19.704Z",
+  "generatedAt": "2026-08-04T02:55:45.162Z",
   "items": [
+    {
+      "id": "azure-and-community-guidelines-on-choosing-between-a-skill-or-a-",
+      "title": "Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/choosing-between-subagent-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-03T19:00:00.000Z",
+      "summaryShort": "Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent. In a recent Azure Architecture blog article, Azure lead engineer Kishorekumar Pattabiraman outlines practical criteria for choosing between skills, sub-agents, and o",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "java-news-roundup-openjdk-jeps-jakarta-ee-graalvm-tornadovm-micr",
       "title": "Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven",
@@ -46,47 +57,37 @@
       ]
     },
     {
-      "id": "microsoft-agent-framework-harness-and-hosted-agents-reach-genera",
-      "title": "Microsoft Agent Framework Harness and Hosted Agents Reach General Availability",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-03T10:30:00.000Z",
-      "summaryShort": "Microsoft Agent Framework Harness and Hosted Agents Reach General Availability. Microsoft's Agent Framework now ships a supported runtime.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threa",
-      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+      "id": "after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-82",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist'",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-      "publishedAt": "2026-08-03T12:50:46.000Z",
-      "summaryShort": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate. Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pente",
+      "sourceUrl": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "publishedAt": "2026-08-03T23:19:50.000Z",
+      "summaryShort": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist'. After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterpri",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "samsung-bans-smart-tv-apps-that-share-users-internet-connections",
-      "title": "Samsung bans smart TV apps that share users' internet connections with strangers",
+      "id": "snap-ceo-sidesteps-specs-preorder-questions-on-q2-earnings-call",
+      "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
-      "publishedAt": "2026-08-03T12:10:41.000Z",
-      "summaryShort": "Samsung bans smart TV apps that share users' internet connections with strangers. New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.",
+      "sourceUrl": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+      "publishedAt": "2026-08-03T22:10:58.000Z",
+      "summaryShort": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call. When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deploym",
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "id": "aws-is-helping-vibe-coding-startup-superblocks-and-the-implicati",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "publishedAt": "2026-08-03T10:00:00.000Z",
-      "summaryShort": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem. June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "sourceUrl": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "publishedAt": "2026-08-03T20:00:00.000Z",
+      "summaryShort": "AWS is helping vibe-coding startup Superblocks, and the implications are big. AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers.",
       "tags": [
-        "AI"
+        "AI",
+        "Cloud"
       ]
     }
   ]
