@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-04T14:26:19.872Z",
+  "generatedAt": "2026-08-05T02:51:47.655Z",
   "items": [
+    {
+      "id": "presentation-the-five-stages-of-ai-maturity-in-engineering-organ",
+      "title": "Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-04T16:00:00.000Z",
+      "summaryShort": "Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck. Quotient CEO Lizzie Matusov explains why soaring AI spend often fails to improve software delivery.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "platform-engineering-maturity-emerges-as-a-key-differentiator-fo",
       "title": "Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success",
@@ -47,47 +58,36 @@
       ]
     },
     {
-      "id": "azure-and-community-guidelines-on-choosing-between-a-skill-or-a-",
-      "title": "Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/choosing-between-subagent-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-03T19:00:00.000Z",
-      "summaryShort": "Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent. In a recent Azure Architecture blog article, Azure lead engineer Kishorekumar Pattabiraman outlines practical criteria for choosing between skills, sub-agents, and o",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "apple-says-more-ex-employees-may-have-taken-confidential-data-to",
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "id": "elon-musk-repeatedly-one-upped-his-execs-on-spacex-s-first-earni",
+      "title": "Elon Musk repeatedly one-upped his execs on SpaceX's first earnings call",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "publishedAt": "2026-08-04T14:03:01.000Z",
-      "summaryShort": "Apple says more ex-employees may have taken confidential data to OpenAI. Apple says its trade secrets investigation into OpenAI has widened.",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
+      "publishedAt": "2026-08-04T22:30:58.000Z",
+      "summaryShort": "Elon Musk repeatedly one-upped his execs on SpaceX's first earnings call. Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "spotify-now-has-over-300m-subscribers",
-      "title": "Spotify now has over 300M subscribers",
+      "id": "lucid-s-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis",
+      "title": "Lucid's turnaround plan hinges on $1.4B in cash savings, robotaxis",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
-      "publishedAt": "2026-08-04T13:52:58.000Z",
-      "summaryShort": "Spotify now has over 300M subscribers. Notably, the company saw its subscriber base swell by 9% in the second quarter despite raising prices in several regions this year.",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+      "publishedAt": "2026-08-04T22:24:00.000Z",
+      "summaryShort": "Lucid's turnaround plan hinges on $1.4B in cash savings, robotaxis. Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "india-moves-to-give-its-instant-payments-network-a-business-mode",
-      "title": "India moves to give its instant payments network a business model",
+      "id": "how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026",
+      "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
-      "publishedAt": "2026-08-04T13:31:17.000Z",
-      "summaryShort": "India moves to give its instant payments network a business model. The legislation lays the groundwork for a potential overhaul of India's zero-merchant-discount-rate regime, under which businesses have not paid fees to accept UPI payments ",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-08-04T22:18:30.000Z",
+      "summaryShort": "How to get the best hotel deals for TechCrunch Disrupt 2026. We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
