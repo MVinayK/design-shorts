@@ -1,90 +1,91 @@
 {
-  "generatedAt": "2026-08-06T02:55:28.480Z",
+  "generatedAt": "2026-08-06T14:23:06.450Z",
   "items": [
     {
-      "id": "jiohotstar-explains-the-distributed-engineering-behind-personali",
-      "title": "JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale",
+      "id": "from-projects-to-products-turning-platforms-into-products-people",
+      "title": "From Projects to Products: Turning Platforms into Products People Use",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/jiohotstar-ad-decisioning-flow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-05T14:09:00.000Z",
-      "summaryShort": "JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale. JioHotstar explains the distributed architecture behind its real-time ad request workflow, covering ad decisioning, waterfall tiering, pacin",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/platform-products-people-use/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-06T11:59:00.000Z",
+      "summaryShort": "From Projects to Products: Turning Platforms into Products People Use. Having a platform is not enough; the real challenge is ensuring that it is understandable, usable, and actually adopted by its users.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "presentation-automatically-retrofitting-jit-compilers",
-      "title": "Presentation: Automatically Retrofitting JIT Compilers",
+      "id": "presentation-from-ms-to-s-oss-valkey-architecture-patterns-for-m",
+      "title": "Presentation: From ms to µs: OSS Valkey Architecture Patterns for Modern AI",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/yk-meta-tracing-jit-compiler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-05T11:00:00.000Z",
-      "summaryShort": "Presentation: Automatically Retrofitting JIT Compilers. Laurence Tratt discusses yk, an open-source meta-tracing JIT compiler framework.",
+      "sourceUrl": "https://www.infoq.com/presentations/valkey-architecture-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-06T09:34:00.000Z",
+      "summaryShort": "Presentation: From ms to µs: OSS Valkey Architecture Patterns for Modern AI. Dumanshu Goyal discusses optimizing data layers for low-latency workloads like AI feature stores.",
       "tags": [
-        "Engineering"
+        "AI",
+        "Cloud"
       ]
     },
     {
-      "id": "ponytail-agent-skill-corrects-its-own-benchmark-after-contributo",
-      "title": "Ponytail Agent Skill Corrects Its Own Benchmark After Contributor Challenge",
+      "id": "wiz-discloses-cosmosescape-and-practitioners-debate-what-custome",
+      "title": "Wiz Discloses CosmosEscape, and Practitioners Debate What Customers Could Have Done",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/ponytail-agent-skill-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-05T08:05:00.000Z",
-      "summaryShort": "Ponytail Agent Skill Corrects Its Own Benchmark After Contributor Challenge. A single-author repo of instruction files, not code, Ponytail passed 44,000 GitHub stars in nine days by making coding agents stop over-building.",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/cosmosescape-master-key/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-06T09:21:00.000Z",
+      "summaryShort": "Wiz Discloses CosmosEscape, and Practitioners Debate What Customers Could Have Done. Wiz Research disclosed CosmosEscape, a chain that escaped Azure Cosmos DB's Gremlin sandbox and reached a platform-wide key granting read and write access ",
       "tags": [
-        "Engineering"
+        "Databases"
       ]
     },
     {
-      "id": "skiasharp-4-0-establishes-milestone-aligned-release-cadence",
-      "title": "SkiaSharp 4.0 Establishes Milestone-Aligned Release Cadence",
+      "id": "article-runtime-agnostic-ai-workflows-a-pattern-for-production-d",
+      "title": "Article: Runtime-Agnostic AI Workflows: A Pattern for Production Durability and Fast Eval Iteration",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/skia-sharp-4-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-05T08:00:00.000Z",
-      "summaryShort": "SkiaSharp 4.0 Establishes Milestone-Aligned Release Cadence. Microsoft and Uno Platform have released the first stable versions in the SkiaSharp 4 series, beginning with SkiaSharp 4.148.0 and followed shortly afterward by 4.150.0.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-the-five-stages-of-ai-maturity-in-engineering-organ",
-      "title": "Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-04T16:00:00.000Z",
-      "summaryShort": "Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck. Quotient CEO Lizzie Matusov explains why soaring AI spend often fails to improve software delivery.",
+      "sourceUrl": "https://www.infoq.com/articles/ai-workflow-pattern/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-06T09:00:00.000Z",
+      "summaryShort": "Article: Runtime-Agnostic AI Workflows: A Pattern for Production Durability and Fast Eval Iteration. AI workflows have two needs that trade off directly.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday",
-      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+      "id": "pods-as-workers-not-agents-rethinking-the-deployment-unit-for-ai",
+      "title": "Pods as Workers, Not Agents: Rethinking the Deployment Unit for AI Agents on Kubernetes",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/pod-deployment-unit-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-06T06:00:00.000Z",
+      "summaryShort": "Pods as Workers, Not Agents: Rethinking the Deployment Unit for AI Agents on Kubernetes. Running AI agents on Kubernetes raises a key question: should each agent get its own Pod?",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "ebay-continues-to-bet-on-live-shopping-after-record-quarter",
+      "title": "eBay continues to bet on live shopping after record quarter",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
-      "publishedAt": "2026-08-05T22:55:43.000Z",
-      "summaryShort": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday. Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted ",
+      "sourceUrl": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/",
+      "publishedAt": "2026-08-06T14:17:46.000Z",
+      "summaryShort": "eBay continues to bet on live shopping after record quarter. eBay touted an increase in eBay Live's gross merchandise volume as it plans to expand it to more international markets in the coming weeks and months.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "nikita-bier-steps-down-as-x-s-head-of-product",
-      "title": "Nikita Bier steps down as X's head of product",
+      "id": "amid-legal-battles-suno-says-it-will-start-watermarking-songs",
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
-      "publishedAt": "2026-08-05T21:30:50.000Z",
-      "summaryShort": "Nikita Bier steps down as X's head of product. The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
+      "sourceUrl": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "publishedAt": "2026-08-06T13:31:57.000Z",
+      "summaryShort": "Amid legal battles, Suno says it will start watermarking songs. Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "travis-kalanick-s-robotics-startup-atoms-taps-former-uber-financ",
-      "title": "Travis Kalanick's robotics startup Atoms taps former Uber finance chief as CFO",
+      "id": "ford-s-new-electric-truck-8216-fathom-starts-at-28-350",
+      "title": "Ford's new electric truck, &#8216;Fathom', starts at $28,350",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
-      "publishedAt": "2026-08-05T21:26:40.000Z",
-      "summaryShort": "Travis Kalanick's robotics startup Atoms taps former Uber finance chief as CFO. Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.",
+      "sourceUrl": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/",
+      "publishedAt": "2026-08-06T13:01:25.000Z",
+      "summaryShort": "Ford's new electric truck, &#8216;Fathom', starts at $28,350. Due in \"fall 2027,\" Ford said Thursday that it won't reveal what Fathom looks like until early next year.",
       "tags": [
         "Engineering"
       ]
