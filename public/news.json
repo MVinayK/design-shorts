@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-05T14:19:23.281Z",
+  "generatedAt": "2026-08-06T02:55:28.480Z",
   "items": [
+    {
+      "id": "jiohotstar-explains-the-distributed-engineering-behind-personali",
+      "title": "JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/jiohotstar-ad-decisioning-flow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-05T14:09:00.000Z",
+      "summaryShort": "JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale. JioHotstar explains the distributed architecture behind its real-time ad request workflow, covering ad decisioning, waterfall tiering, pacin",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "presentation-automatically-retrofitting-jit-compilers",
       "title": "Presentation: Automatically Retrofitting JIT Compilers",
@@ -46,47 +57,36 @@
       ]
     },
     {
-      "id": "platform-engineering-maturity-emerges-as-a-key-differentiator-fo",
-      "title": "Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-04T12:00:00.000Z",
-      "summaryShort": "Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success. Platform engineering maturity is emerging as an important factor in determining whether organizations can turn AI adoption into sustainable operational",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "anthropic-is-hiring-an-ai-chip-design-team",
-      "title": "Anthropic is hiring an AI chip design team",
+      "id": "get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday",
+      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "publishedAt": "2026-08-05T14:13:18.000Z",
-      "summaryShort": "Anthropic is hiring an AI chip design team. Anthropic is building a team for designing its own custom AI chips.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-shor",
-      "title": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/",
-      "publishedAt": "2026-08-05T13:21:43.000Z",
-      "summaryShort": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed. As streamers compete with social media giants for viewer attention, Disney+ is partnering with TikTok to bring creator content to its app.",
+      "sourceUrl": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+      "publishedAt": "2026-08-05T22:55:43.000Z",
+      "summaryShort": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday. Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted ",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-build",
-      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "id": "nikita-bier-steps-down-as-x-s-head-of-product",
+      "title": "Nikita Bier steps down as X's head of product",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-      "publishedAt": "2026-08-05T12:28:38.000Z",
-      "summaryShort": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store. MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+      "sourceUrl": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+      "publishedAt": "2026-08-05T21:30:50.000Z",
+      "summaryShort": "Nikita Bier steps down as X's head of product. The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
       "tags": [
-        "AI"
+        "Engineering"
+      ]
+    },
+    {
+      "id": "travis-kalanick-s-robotics-startup-atoms-taps-former-uber-financ",
+      "title": "Travis Kalanick's robotics startup Atoms taps former Uber finance chief as CFO",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+      "publishedAt": "2026-08-05T21:26:40.000Z",
+      "summaryShort": "Travis Kalanick's robotics startup Atoms taps former Uber finance chief as CFO. Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
