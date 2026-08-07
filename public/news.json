@@ -1,60 +1,81 @@
 {
-  "generatedAt": "2026-08-07T02:51:48.723Z",
+  "generatedAt": "2026-08-07T13:13:49.558Z",
   "items": [
     {
-      "id": "from-projects-to-products-turning-platforms-into-products-people",
-      "title": "From Projects to Products: Turning Platforms into Products People Use",
+      "id": "ai-is-transforming-incident-response-but-the-hardest-problems-ma",
+      "title": "AI Is Transforming Incident Response - but the Hardest Problems May Still Belong to Humans",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/platform-products-people-use/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-06T11:59:00.000Z",
-      "summaryShort": "From Projects to Products: Turning Platforms into Products People Use. Having a platform is not enough; the real challenge is ensuring that it is understandable, usable, and actually adopted by its users.",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/ai-incident-response/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-07T12:00:00.000Z",
+      "summaryShort": "AI Is Transforming Incident Response - but the Hardest Problems May Still Belong to Humans. Artificial intelligence is rapidly changing how engineering teams respond to production incidents, offering the ability to summarize incident channe",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-rewriting-all-of-spotify-s-code-base-all-the-time",
+      "title": "Presentation: Rewriting All of Spotify's Code Base, All the Time",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/spotify-ai-codebase-migration-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-07T11:00:00.000Z",
+      "summaryShort": "Presentation: Rewriting All of Spotify's Code Base, All the Time. Jo Kelly-Fenton and Aleksandar Mitic explain how Spotify created \"Honk,\" an AI coding agent, to handle complex fleet-wide codebase migrations.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "article-infoq-culture-and-methods-trends-report-2026",
+      "title": "Article: InfoQ Culture and Methods Trends Report - 2026",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/culture-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-07T09:00:00.000Z",
+      "summaryShort": "Article: InfoQ Culture and Methods Trends Report - 2026. This report summarizes how the InfoQ Culture and Methods editorial team sees the ongoing and emergent trends in the culture and methods space in 2026.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "presentation-from-ms-to-s-oss-valkey-architecture-patterns-for-m",
-      "title": "Presentation: From ms to µs: OSS Valkey Architecture Patterns for Modern AI",
+      "id": "podcast-culture-methods-trends-2026-the-human-side-of-ai-enginee",
+      "title": "Podcast: Culture & Methods Trends 2026: The Human Side of AI Engineering",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/valkey-architecture-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-06T09:34:00.000Z",
-      "summaryShort": "Presentation: From ms to µs: OSS Valkey Architecture Patterns for Modern AI. Dumanshu Goyal discusses optimizing data layers for low-latency workloads like AI feature stores.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "wiz-discloses-cosmosescape-and-practitioners-debate-what-custome",
-      "title": "Wiz Discloses CosmosEscape, and Practitioners Debate What Customers Could Have Done",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/cosmosescape-master-key/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-06T09:21:00.000Z",
-      "summaryShort": "Wiz Discloses CosmosEscape, and Practitioners Debate What Customers Could Have Done. Wiz Research disclosed CosmosEscape, a chain that escaped Azure Cosmos DB's Gremlin sandbox and reached a platform-wide key granting read and write access ",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "article-runtime-agnostic-ai-workflows-a-pattern-for-production-d",
-      "title": "Article: Runtime-Agnostic AI Workflows: A Pattern for Production Durability and Fast Eval Iteration",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/ai-workflow-pattern/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-06T09:00:00.000Z",
-      "summaryShort": "Article: Runtime-Agnostic AI Workflows: A Pattern for Production Durability and Fast Eval Iteration. AI workflows have two needs that trade off directly.",
+      "sourceUrl": "https://www.infoq.com/podcasts/infoq-culture-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-07T09:00:00.000Z",
+      "summaryShort": "Podcast: Culture & Methods Trends 2026: The Human Side of AI Engineering. This is the Engineering Culture Trends Report for 2026.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "pods-as-workers-not-agents-rethinking-the-deployment-unit-for-ai",
-      "title": "Pods as Workers, Not Agents: Rethinking the Deployment Unit for AI Agents on Kubernetes",
+      "id": "uno-platform-6-6-adds-native-aot-vulkan-rendering-and-broader-ac",
+      "title": "Uno Platform 6.6 Adds Native AOT, Vulkan Rendering, and Broader Accessibility Support",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/pod-deployment-unit-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-06T06:00:00.000Z",
-      "summaryShort": "Pods as Workers, Not Agents: Rethinking the Deployment Unit for AI Agents on Kubernetes. Running AI agents on Kubernetes raises a key question: should each agent get its own Pod?",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/uno-platform-6-6/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-07T08:00:00.000Z",
+      "summaryShort": "Uno Platform 6.6 Adds Native AOT, Vulkan Rendering, and Broader Accessibility Support. Uno Platform 6.6 introduces Native AOT publishing across five target platforms, an optional Vulkan rendering backend, and automatic registration for the ",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "the-founder-s-guide-to-techcrunch-disrupt-2026-everything-you-ne",
+      "title": "The founder's guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "publishedAt": "2026-08-07T12:30:00.000Z",
+      "summaryShort": "The founder's guide to TechCrunch Disrupt 2026: Everything you need to know. TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era?",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "new-mexico-court-orders-meta-to-pay-additional-567m-in-child-saf",
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "publishedAt": "2026-08-07T11:40:37.000Z",
+      "summaryShort": "New Mexico court orders Meta to pay additional $567M in child safety case. Meta's total fine has raked up to $942 million in this case",
+      "tags": [
+        "Engineering"
       ]
     },
     {
@@ -66,28 +87,6 @@
       "summaryShort": "OpenAI's new AI smart speaker will reportedly sell for between $300 and $400. Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-",
-      "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-      "publishedAt": "2026-08-06T22:00:00.000Z",
-      "summaryShort": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands. Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "vogue-just-gave-another-nod-of-approval-to-the-tech-world",
-      "title": "Vogue just gave another nod of approval to the tech world",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
-      "publishedAt": "2026-08-06T21:24:47.000Z",
-      "summaryShort": "Vogue just gave another nod of approval to the tech world. Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
