@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-08-07T13:13:49.558Z",
+  "generatedAt": "2026-08-08T01:55:47.867Z",
   "items": [
+    {
+      "id": "cloudflare-launches-persistent-stateful-computer-like-environmen",
+      "title": "Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-07T21:00:00.000Z",
+      "summaryShort": "Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents. Cloudflare has introduced Cloudflare Computer, a new open-source runtime designed to give AI agents something closer to a real \"computer\" instead of just ephem",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "instacart-builds-blueberry-an-ai-powered-assistant-to-help-on-ca",
+      "title": "Instacart Builds Blueberry, an AI-Powered Assistant to Help On-Call Engineers Investigate Incidents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/instacart-blueberry-sre-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-07T14:34:00.000Z",
+      "summaryShort": "Instacart Builds Blueberry, an AI-Powered Assistant to Help On-Call Engineers Investigate Incidents. Instacart introduced Blueberry, an AI-assisted incident response system that helps on-call engineers investigate production issues faster.",
+      "tags": [
+        "AI",
+        "Architecture"
+      ]
+    },
     {
       "id": "ai-is-transforming-incident-response-but-the-hardest-problems-ma",
       "title": "AI Is Transforming Incident Response - but the Hardest Problems May Still Belong to Humans",
@@ -35,58 +59,36 @@
       ]
     },
     {
-      "id": "podcast-culture-methods-trends-2026-the-human-side-of-ai-enginee",
-      "title": "Podcast: Culture & Methods Trends 2026: The Human Side of AI Engineering",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/infoq-culture-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-07T09:00:00.000Z",
-      "summaryShort": "Podcast: Culture & Methods Trends 2026: The Human Side of AI Engineering. This is the Engineering Culture Trends Report for 2026.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "uno-platform-6-6-adds-native-aot-vulkan-rendering-and-broader-ac",
-      "title": "Uno Platform 6.6 Adds Native AOT, Vulkan Rendering, and Broader Accessibility Support",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/uno-platform-6-6/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-07T08:00:00.000Z",
-      "summaryShort": "Uno Platform 6.6 Adds Native AOT, Vulkan Rendering, and Broader Accessibility Support. Uno Platform 6.6 introduces Native AOT publishing across five target platforms, an optional Vulkan rendering backend, and automatic registration for the ",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "the-founder-s-guide-to-techcrunch-disrupt-2026-everything-you-ne",
-      "title": "The founder's guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "id": "openai-says-it-slowed-astra-model-development-over-security-conc",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "publishedAt": "2026-08-07T12:30:00.000Z",
-      "summaryShort": "The founder's guide to TechCrunch Disrupt 2026: Everything you need to know. TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era?",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "publishedAt": "2026-08-07T22:48:24.000Z",
+      "summaryShort": "OpenAI says it slowed Astra model development over security concerns. OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks ",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "new-mexico-court-orders-meta-to-pay-additional-567m-in-child-saf",
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "id": "after-rippling-blew-millions-on-ai-in-months-it-built-an-employe",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "publishedAt": "2026-08-07T11:40:37.000Z",
-      "summaryShort": "New Mexico court orders Meta to pay additional $567M in child safety case. Meta's total fine has raked up to $942 million in this case",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "publishedAt": "2026-08-07T21:30:11.000Z",
+      "summaryShort": "After Rippling blew millions on AI in months, it built an employee ROI tool. After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "wacom-s-movinkpad-11-is-a-fun-midpriced-entry-point-for-digital-",
+      "title": "Wacom's MovinkPad 11 is a fun, midpriced entry point for digital artists",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+      "publishedAt": "2026-08-07T21:20:00.000Z",
+      "summaryShort": "Wacom's MovinkPad 11 is a fun, midpriced entry point for digital artists. The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "openai-s-new-ai-smart-speaker-will-reportedly-sell-for-between-3",
-      "title": "OpenAI's new AI smart speaker will reportedly sell for between $300 and $400",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "publishedAt": "2026-08-06T22:43:53.000Z",
-      "summaryShort": "OpenAI's new AI smart speaker will reportedly sell for between $300 and $400. Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-      "tags": [
-        "AI"
       ]
     }
   ]
