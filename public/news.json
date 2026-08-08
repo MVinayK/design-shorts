@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-08-08T01:55:47.867Z",
+  "generatedAt": "2026-08-08T12:57:03.226Z",
   "items": [
+    {
+      "id": "presentation-keeping-chatgpt-fast-as-ai-development-accelerates",
+      "title": "Presentation: Keeping ChatGPT Fast as AI Development Accelerates",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/openai-performance-engineering-agentic-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-08T09:00:00.000Z",
+      "summaryShort": "Presentation: Keeping ChatGPT Fast as AI Development Accelerates. Martin Spier explains how agentic workflows dramatically increase code change volume at OpenAI.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "cloudflare-s-precursor-detects-bots-and-ai-agents-through-contin",
+      "title": "Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-08T07:54:00.000Z",
+      "summaryShort": "Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis. Cloudflare recently introduced Precursor, a client-side behavioral analysis engine that continuously evaluates session interactions, such as mouse mov",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "github-hardens-npm-and-actions-defaults-drawing-debate-over-dela",
+      "title": "GitHub Hardens npm and Actions Defaults, Drawing Debate over Delays versus Signing",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/github-npm-actions-defaults/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-08T07:45:00.000Z",
+      "summaryShort": "GitHub Hardens npm and Actions Defaults, Drawing Debate over Delays versus Signing. GitHub consolidated the npm and Actions changes it shipped from March to July 2026 against supply chain attacks, several of which alter defaults rather than",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "cloudflare-launches-persistent-stateful-computer-like-environmen",
       "title": "Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents",
@@ -23,39 +57,6 @@
       "tags": [
         "AI",
         "Architecture"
-      ]
-    },
-    {
-      "id": "ai-is-transforming-incident-response-but-the-hardest-problems-ma",
-      "title": "AI Is Transforming Incident Response - but the Hardest Problems May Still Belong to Humans",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/ai-incident-response/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-07T12:00:00.000Z",
-      "summaryShort": "AI Is Transforming Incident Response - but the Hardest Problems May Still Belong to Humans. Artificial intelligence is rapidly changing how engineering teams respond to production incidents, offering the ability to summarize incident channe",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-rewriting-all-of-spotify-s-code-base-all-the-time",
-      "title": "Presentation: Rewriting All of Spotify's Code Base, All the Time",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/spotify-ai-codebase-migration-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-07T11:00:00.000Z",
-      "summaryShort": "Presentation: Rewriting All of Spotify's Code Base, All the Time. Jo Kelly-Fenton and Aleksandar Mitic explain how Spotify created \"Honk,\" an AI coding agent, to handle complex fleet-wide codebase migrations.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "article-infoq-culture-and-methods-trends-report-2026",
-      "title": "Article: InfoQ Culture and Methods Trends Report - 2026",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/culture-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-07T09:00:00.000Z",
-      "summaryShort": "Article: InfoQ Culture and Methods Trends Report - 2026. This report summarizes how the InfoQ Culture and Methods editorial team sees the ongoing and emergent trends in the culture and methods space in 2026.",
-      "tags": [
-        "Engineering"
       ]
     },
     {
