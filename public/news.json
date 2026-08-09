@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-09T02:03:48.138Z",
+  "generatedAt": "2026-08-09T12:59:52.398Z",
   "items": [
+    {
+      "id": "stripe-uses-graph-search-and-state-machines-to-automate-database",
+      "title": "Stripe Uses Graph Search and State Machines to Automate Database Remediation",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-09T06:55:00.000Z",
+      "summaryShort": "Stripe Uses Graph Search and State Machines to Automate Database Remediation. The engineering team at Stripe recently described how they automated database incident recovery by modeling their global infrastructure as a graph.",
+      "tags": [
+        "AI",
+        "Databases",
+        "Cloud"
+      ]
+    },
     {
       "id": "presentation-keeping-chatgpt-fast-as-ai-development-accelerates",
       "title": "Presentation: Keeping ChatGPT Fast as AI Development Accelerates",
@@ -45,18 +58,6 @@
       "tags": [
         "AI",
         "Cloud"
-      ]
-    },
-    {
-      "id": "instacart-builds-blueberry-an-ai-powered-assistant-to-help-on-ca",
-      "title": "Instacart Builds Blueberry, an AI-Powered Assistant to Help On-Call Engineers Investigate Incidents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/instacart-blueberry-sre-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-07T14:34:00.000Z",
-      "summaryShort": "Instacart Builds Blueberry, an AI-Powered Assistant to Help On-Call Engineers Investigate Incidents. Instacart introduced Blueberry, an AI-assisted incident response system that helps on-call engineers investigate production issues faster.",
-      "tags": [
-        "AI",
-        "Architecture"
       ]
     },
     {
