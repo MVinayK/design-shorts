@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T12:59:52.398Z",
+  "generatedAt": "2026-08-10T02:08:00.668Z",
   "items": [
     {
       "id": "stripe-uses-graph-search-and-state-machines-to-automate-database",
@@ -27,11 +27,11 @@
     },
     {
       "id": "cloudflare-s-precursor-detects-bots-and-ai-agents-through-contin",
-      "title": "Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis",
+      "title": "Cloudflare's Precursor Detects Bots and AI Agents through Continuous Behavioral Analysis",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-08-08T07:54:00.000Z",
-      "summaryShort": "Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis. Cloudflare recently introduced Precursor, a client-side behavioral analysis engine that continuously evaluates session interactions, such as mouse mov",
+      "summaryShort": "Cloudflare's Precursor Detects Bots and AI Agents through Continuous Behavioral Analysis. Cloudflare recently introduced Precursor, a client-side behavioral analysis engine that continuously evaluates session interactions, such as mouse mov",
       "tags": [
         "AI",
         "Cloud"
@@ -50,47 +50,48 @@
     },
     {
       "id": "cloudflare-launches-persistent-stateful-computer-like-environmen",
-      "title": "Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents",
+      "title": "Cloudflare Launches Persistent, Stateful, Computer-Like Environments for Agents",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-08-07T21:00:00.000Z",
-      "summaryShort": "Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents. Cloudflare has introduced Cloudflare Computer, a new open-source runtime designed to give AI agents something closer to a real \"computer\" instead of just ephem",
+      "summaryShort": "Cloudflare Launches Persistent, Stateful, Computer-Like Environments for Agents. Cloudflare has introduced Cloudflare Computer, a new open-source runtime designed to give AI agents something closer to a real \"computer\" instead of just ephem",
       "tags": [
         "AI",
         "Cloud"
       ]
     },
     {
-      "id": "planned-amazon-data-center-could-become-the-biggest-climate-poll",
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "id": "embattled-hedge-fund-situational-awareness-invests-400m-in-chip-",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "publishedAt": "2026-08-08T21:24:02.000Z",
-      "summaryShort": "Planned Amazon data center could become the biggest climate polluter in the U.S.. As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in ",
+      "sourceUrl": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "publishedAt": "2026-08-09T20:35:17.000Z",
+      "summaryShort": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry. The AI-focused hedge fund is still making some big bets.",
+      "tags": [
+        "AI",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "anthropic-is-turning-claude-code-s-auto-mode-on-by-default",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "publishedAt": "2026-08-09T19:20:32.000Z",
+      "summaryShort": "Anthropic is turning Claude Code’s auto mode on by default. Programming with Claude Code will soon require even less human oversight.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "openai-acquires-presentation-startup-nextslide",
-      "title": "OpenAI acquires presentation startup NextSlide",
+      "id": "techcrunch-mobility-zoox-prepares-for-launch-and-uber-s-av-empir",
+      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "publishedAt": "2026-08-08T19:41:13.000Z",
-      "summaryShort": "OpenAI acquires presentation startup NextSlide. NextSlide says its team members are now working on ChatGPT.",
+      "sourceUrl": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+      "publishedAt": "2026-08-09T16:05:00.000Z",
+      "summaryShort": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "x-replaces-misaligned-revenue-sharing-program-with-original-cont",
-      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
-      "publishedAt": "2026-08-08T16:34:22.000Z",
-      "summaryShort": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards. X is winding down its existing Revenue Sharing program.",
-      "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
