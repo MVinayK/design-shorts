@@ -1,63 +1,84 @@
 {
-  "generatedAt": "2026-08-10T02:08:00.668Z",
+  "generatedAt": "2026-08-10T13:18:16.568Z",
   "items": [
     {
-      "id": "stripe-uses-graph-search-and-state-machines-to-automate-database",
-      "title": "Stripe Uses Graph Search and State Machines to Automate Database Remediation",
+      "id": "java-news-roundup-shenandoah-gc-teamcity-cve-a2a-java-sdk-camel-",
+      "title": "Java News Roundup: Shenandoah GC, TeamCity CVE, A2A Java SDK, Camel, Gradle, GlassFish, Groovy",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-09T06:55:00.000Z",
-      "summaryShort": "Stripe Uses Graph Search and State Machines to Automate Database Remediation. The engineering team at Stripe recently described how they automated database incident recovery by modeling their global infrastructure as a graph.",
-      "tags": [
-        "AI",
-        "Databases",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-keeping-chatgpt-fast-as-ai-development-accelerates",
-      "title": "Presentation: Keeping ChatGPT Fast as AI Development Accelerates",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/openai-performance-engineering-agentic-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-08T09:00:00.000Z",
-      "summaryShort": "Presentation: Keeping ChatGPT Fast as AI Development Accelerates. Martin Spier explains how agentic workflows dramatically increase code change volume at OpenAI.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "cloudflare-s-precursor-detects-bots-and-ai-agents-through-contin",
-      "title": "Cloudflare's Precursor Detects Bots and AI Agents through Continuous Behavioral Analysis",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-08T07:54:00.000Z",
-      "summaryShort": "Cloudflare's Precursor Detects Bots and AI Agents through Continuous Behavioral Analysis. Cloudflare recently introduced Precursor, a client-side behavioral analysis engine that continuously evaluates session interactions, such as mouse mov",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "github-hardens-npm-and-actions-defaults-drawing-debate-over-dela",
-      "title": "GitHub Hardens npm and Actions Defaults, Drawing Debate over Delays versus Signing",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/github-npm-actions-defaults/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-08T07:45:00.000Z",
-      "summaryShort": "GitHub Hardens npm and Actions Defaults, Drawing Debate over Delays versus Signing. GitHub consolidated the npm and Actions changes it shipped from March to July 2026 against supply chain attacks, several of which alter defaults rather than",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/java-news-roundup-aug03-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-10T12:45:00.000Z",
+      "summaryShort": "Java News Roundup: Shenandoah GC, TeamCity CVE, A2A Java SDK, Camel, Gradle, GlassFish, Groovy. This week's Java roundup for August 3rd, 2026, features news highlighting: JEP 535, Shenandoah GC: Generational Mode by Default, targeted for JD",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "cloudflare-launches-persistent-stateful-computer-like-environmen",
-      "title": "Cloudflare Launches Persistent, Stateful, Computer-Like Environments for Agents",
+      "id": "article-comprehension-as-an-architectural-characteristic-a-syste",
+      "title": "Article: Comprehension as an Architectural Characteristic: A System That Is Not Understood Cannot Evolve Safely",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-07T21:00:00.000Z",
-      "summaryShort": "Cloudflare Launches Persistent, Stateful, Computer-Like Environments for Agents. Cloudflare has introduced Cloudflare Computer, a new open-source runtime designed to give AI agents something closer to a real \"computer\" instead of just ephem",
+      "sourceUrl": "https://www.infoq.com/articles/system-comprehension-evolutionary-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-10T11:00:00.000Z",
+      "summaryShort": "Article: Comprehension as an Architectural Characteristic: A System That Is Not Understood Cannot Evolve Safely. As AI commoditizes code output, system comprehension silently decays, creating cognitive debt that threatens safe architectural",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "how-pinterest-secures-aws-infrastructure-at-scale-with-a-central",
+      "title": "How Pinterest Secures AWS Infrastructure at Scale with a Centralized Terraform Pipeline",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/pinterest-secures-aws-infra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-10T10:00:00.000Z",
+      "summaryShort": "How Pinterest Secures AWS Infrastructure at Scale with a Centralized Terraform Pipeline. Pinterest has revealed the Resource Provisioner Pipeline (RPP), its own Terraform execution engine.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "presentation-leveraging-adversary-emulation-for-genai-red-teamin",
+      "title": "Presentation: Leveraging Adversary Emulation for GenAI Red Teaming",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/emulation-genai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-10T09:32:00.000Z",
+      "summaryShort": "Presentation: Leveraging Adversary Emulation for GenAI Red Teaming. Kennedy Torkura discusses practical GenAI red teaming techniques to safeguard LLMs and knowledge bases against security threats like data poisoning and LLMjacking on AWS.",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "github-code-quality-targets-maintainability-as-ai-generated-code",
+      "title": "GitHub Code Quality Targets Maintainability as AI-Generated Code Increases",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/github-code-quality/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-10T08:00:00.000Z",
+      "summaryShort": "GitHub Code Quality Targets Maintainability as AI-Generated Code Increases. GitHub Code Quality is now generally available on GitHub Enterprise Cloud and GitHub Team.",
       "tags": [
         "AI",
         "Cloud"
+      ]
+    },
+    {
+      "id": "discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-c",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "summaryShort": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips. Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "google-play-adds-venmo-as-a-payment-option",
+      "title": "Google Play adds Venmo as a payment option",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "summaryShort": "Google Play adds Venmo as a payment option. The ability to add Venmo to Google Play comes as people are spending more money on apps and games.",
+      "tags": [
+        "Engineering"
       ]
     },
     {
@@ -70,28 +91,6 @@
       "tags": [
         "AI",
         "Architecture"
-      ]
-    },
-    {
-      "id": "anthropic-is-turning-claude-code-s-auto-mode-on-by-default",
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "publishedAt": "2026-08-09T19:20:32.000Z",
-      "summaryShort": "Anthropic is turning Claude Code’s auto mode on by default. Programming with Claude Code will soon require even less human oversight.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "techcrunch-mobility-zoox-prepares-for-launch-and-uber-s-av-empir",
-      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
-      "publishedAt": "2026-08-09T16:05:00.000Z",
-      "summaryShort": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "tags": [
-        "AI"
       ]
     }
   ]
