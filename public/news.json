@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-08-11T02:03:08.995Z",
+  "generatedAt": "2026-08-11T13:15:26.645Z",
   "items": [
+    {
+      "id": "how-netflix-scaled-its-real-time-service-map",
+      "title": "How Netflix Scaled Its Real-Time Service Map",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/netflix-service-topology/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-11T12:20:00.000Z",
+      "summaryShort": "How Netflix Scaled Its Real-Time Service Map. Netflix has described how it redesigned the streaming pipeline behind Service Topology, its real-time service dependencies map, to support production scale.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ibm-and-red-hat-expand-lightwell-to-strengthen-trust-and-governa",
+      "title": "IBM and Red Hat Expand Lightwell to Strengthen Trust and Governance for AI-Era Open Source",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/lightwell-ai-open-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-11T12:00:00.000Z",
+      "summaryShort": "IBM and Red Hat Expand Lightwell to Strengthen Trust and Governance for AI-Era Open Source. IBM and Red Hat have announced an expansion of Lightwell, introducing new commercial offerings designed to help organizations establish trusted, ver",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-producing-the-world-s-cheapest-tokens-a-how-to-guid",
+      "title": "Presentation: Producing the World's Cheapest Tokens: A How-to Guide",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-token-price/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-11T10:05:00.000Z",
+      "summaryShort": "Presentation: Producing the World's Cheapest Tokens: A How-to Guide. Meryem Arik discusses strategies for designing low-cost LLM inference architectures for high-volume, non-real-time workloads.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "jetbrains-details-its-first-steps-to-bring-rapidly-growing-ai-sp",
+      "title": "JetBrains Details Its First Steps to Bring Rapidly Growing AI Spend Under Control",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/jetbrains-ai-spend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-11T07:25:00.000Z",
+      "summaryShort": "JetBrains Details Its First Steps to Bring Rapidly Growing AI Spend Under Control. JetBrains has described how it began centralising AI usage after development-related spending increased roughly tenfold in six months.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "cloudflare-previews-automatic-webmcp-support-for-web-pages",
       "title": "CloudFlare Previews Automatic WebMCP Support for Web Pages",
@@ -14,82 +58,36 @@
       ]
     },
     {
-      "id": "project-valhalla-s-first-preview-jep-401-redefines-for-java-obje",
-      "title": "Project Valhalla's First Preview: JEP 401 Redefines == for Java Objects",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/jep401-value-objects-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-10T14:32:00.000Z",
-      "summaryShort": "Project Valhalla's First Preview: JEP 401 Redefines == for Java Objects. JEP 401, integrated into JDK 28, introduces value objects.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "canva-shares-s3-based-architecture-for-session-revocation-across",
-      "title": "Canva Shares S3 Based Architecture for Session Revocation Across Hundreds of Millions of Sessions",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/canva-session-revocation-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-10T14:14:00.000Z",
-      "summaryShort": "Canva Shares S3 Based Architecture for Session Revocation Across Hundreds of Millions of Sessions. Canva redesigned session revocation infrastructure to support 100M active sessions while reducing database lookups.",
-      "tags": [
-        "Databases",
-        "Cloud",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "java-news-roundup-shenandoah-gc-teamcity-cve-a2a-java-sdk-camel-",
-      "title": "Java News Roundup: Shenandoah GC, TeamCity CVE, A2A Java SDK, Camel, Gradle, GlassFish, Groovy",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/java-news-roundup-aug03-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-10T12:45:00.000Z",
-      "summaryShort": "Java News Roundup: Shenandoah GC, TeamCity CVE, A2A Java SDK, Camel, Gradle, GlassFish, Groovy. This week's Java roundup for August 3rd, 2026, features news highlighting: JEP 535, Shenandoah GC: Generational Mode by Default, targeted for JD",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "article-comprehension-as-an-architectural-characteristic-a-syste",
-      "title": "Article: Comprehension as an Architectural Characteristic: A System That Is Not Understood Cannot Evolve Safely",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/system-comprehension-evolutionary-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-10T11:00:00.000Z",
-      "summaryShort": "Article: Comprehension as an Architectural Characteristic: A System That Is Not Understood Cannot Evolve Safely. As AI commoditizes code output, system comprehension silently decays, creating cognitive debt that threatens safe architectural",
+      "id": "spotify-will-label-8216-ai-persona-profiles-and-exclude-their-mu",
+      "title": "Spotify will label &#8216;AI Persona' profiles and exclude their music from recommendations",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "publishedAt": "2026-08-11T13:00:00.000Z",
+      "summaryShort": "Spotify will label &#8216;AI Persona' profiles and exclude their music from recommendations. Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, ",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "openai-reportedly-completed-a-7-billion-employee-tender-offer",
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "id": "what-comes-after-the-smartphone-amazon-s-panos-panay-will-make-h",
+      "title": "What comes after the smartphone? Amazon's Panos Panay will make his case at TechCrunch Disrupt 2026",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "publishedAt": "2026-08-11T00:03:18.000Z",
-      "summaryShort": "OpenAI reportedly completed a $7 billion employee tender offer. San Francisco's housing market is in trouble again.",
+      "sourceUrl": "https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-08-11T12:30:00.000Z",
+      "summaryShort": "What comes after the smartphone? Amazon's Panos Panay will make his case at TechCrunch Disrupt 2026.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model",
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "id": "anthropic-says-it-will-watermark-text-generated-by-its-ai-models",
+      "title": "Anthropic says it will watermark text generated by its AI models",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "publishedAt": "2026-08-10T23:56:15.000Z",
-      "summaryShort": "As AI-led attacks multiply, OpenAI launches a new cyber model. OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "sourceUrl": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "publishedAt": "2026-08-11T12:13:47.000Z",
+      "summaryShort": "Anthropic says it will watermark text generated by its AI models. Anthropic will extend support for watermarking AI generations for older models as well.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "jeff-bezos-might-finally-get-his-hands-on-a-sports-team",
-      "title": "Jeff Bezos might finally get his hands on a sports team",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
-      "publishedAt": "2026-08-10T23:16:44.000Z",
-      "summaryShort": "Jeff Bezos might finally get his hands on a sports team. Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
