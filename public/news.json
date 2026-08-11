@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-10T13:18:16.568Z",
+  "generatedAt": "2026-08-11T02:03:08.995Z",
   "items": [
+    {
+      "id": "cloudflare-previews-automatic-webmcp-support-for-web-pages",
+      "title": "CloudFlare Previews Automatic WebMCP Support for Web Pages",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-10T20:00:00.000Z",
+      "summaryShort": "CloudFlare Previews Automatic WebMCP Support for Web Pages. Cloudflare announced a developer preview that lets any website enable a WebMCP (Web Model Context Protocol) interface with a single dashboard switch.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "project-valhalla-s-first-preview-jep-401-redefines-for-java-obje",
+      "title": "Project Valhalla's First Preview: JEP 401 Redefines == for Java Objects",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/jep401-value-objects-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-10T14:32:00.000Z",
+      "summaryShort": "Project Valhalla's First Preview: JEP 401 Redefines == for Java Objects. JEP 401, integrated into JDK 28, introduces value objects.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "canva-shares-s3-based-architecture-for-session-revocation-across",
+      "title": "Canva Shares S3 Based Architecture for Session Revocation Across Hundreds of Millions of Sessions",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/canva-session-revocation-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-10T14:14:00.000Z",
+      "summaryShort": "Canva Shares S3 Based Architecture for Session Revocation Across Hundreds of Millions of Sessions. Canva redesigned session revocation infrastructure to support 100M active sessions while reducing database lookups.",
+      "tags": [
+        "Databases",
+        "Cloud",
+        "Architecture"
+      ]
+    },
     {
       "id": "java-news-roundup-shenandoah-gc-teamcity-cve-a2a-java-sdk-camel-",
       "title": "Java News Roundup: Shenandoah GC, TeamCity CVE, A2A Java SDK, Camel, Gradle, GlassFish, Groovy",
@@ -24,73 +60,36 @@
       ]
     },
     {
-      "id": "how-pinterest-secures-aws-infrastructure-at-scale-with-a-central",
-      "title": "How Pinterest Secures AWS Infrastructure at Scale with a Centralized Terraform Pipeline",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/pinterest-secures-aws-infra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-10T10:00:00.000Z",
-      "summaryShort": "How Pinterest Secures AWS Infrastructure at Scale with a Centralized Terraform Pipeline. Pinterest has revealed the Resource Provisioner Pipeline (RPP), its own Terraform execution engine.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-leveraging-adversary-emulation-for-genai-red-teamin",
-      "title": "Presentation: Leveraging Adversary Emulation for GenAI Red Teaming",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/emulation-genai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-10T09:32:00.000Z",
-      "summaryShort": "Presentation: Leveraging Adversary Emulation for GenAI Red Teaming. Kennedy Torkura discusses practical GenAI red teaming techniques to safeguard LLMs and knowledge bases against security threats like data poisoning and LLMjacking on AWS.",
-      "tags": [
-        "AI",
-        "Cloud",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "github-code-quality-targets-maintainability-as-ai-generated-code",
-      "title": "GitHub Code Quality Targets Maintainability as AI-Generated Code Increases",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/github-code-quality/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-10T08:00:00.000Z",
-      "summaryShort": "GitHub Code Quality Targets Maintainability as AI-Generated Code Increases. GitHub Code Quality is now generally available on GitHub Enterprise Cloud and GitHub Team.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-c",
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "id": "openai-reportedly-completed-a-7-billion-employee-tender-offer",
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "publishedAt": "2026-08-10T12:00:00.000Z",
-      "summaryShort": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips. Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "google-play-adds-venmo-as-a-payment-option",
-      "title": "Google Play adds Venmo as a payment option",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
-      "publishedAt": "2026-08-10T12:00:00.000Z",
-      "summaryShort": "Google Play adds Venmo as a payment option. The ability to add Venmo to Google Play comes as people are spending more money on apps and games.",
+      "sourceUrl": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "publishedAt": "2026-08-11T00:03:18.000Z",
+      "summaryShort": "OpenAI reportedly completed a $7 billion employee tender offer. San Francisco's housing market is in trouble again.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "embattled-hedge-fund-situational-awareness-invests-400m-in-chip-",
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "id": "as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "publishedAt": "2026-08-09T20:35:17.000Z",
-      "summaryShort": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry. The AI-focused hedge fund is still making some big bets.",
+      "sourceUrl": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "publishedAt": "2026-08-10T23:56:15.000Z",
+      "summaryShort": "As AI-led attacks multiply, OpenAI launches a new cyber model. OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
       "tags": [
-        "AI",
-        "Architecture"
+        "AI"
+      ]
+    },
+    {
+      "id": "jeff-bezos-might-finally-get-his-hands-on-a-sports-team",
+      "title": "Jeff Bezos might finally get his hands on a sports team",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
+      "publishedAt": "2026-08-10T23:16:44.000Z",
+      "summaryShort": "Jeff Bezos might finally get his hands on a sports team. Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
