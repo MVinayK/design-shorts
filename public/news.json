@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-08-12T02:20:11.826Z",
+  "generatedAt": "2026-08-12T13:19:12.673Z",
   "items": [
+    {
+      "id": "article-infoq-cloud-and-devops-trends-report-2026",
+      "title": "Article: InfoQ Cloud and DevOps Trends Report - 2026",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/cloud-devops-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-12T11:00:00.000Z",
+      "summaryShort": "Article: InfoQ Cloud and DevOps Trends Report - 2026. InfoQ editorial staff and friends of InfoQ are discussing the current trends in the domain of Cloud and DevOps as part of the process of creating our annual 2026 trends report.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "podcast-cloud-and-devops-infoq-trends-report-2026-ai-resilience-",
+      "title": "Podcast: Cloud and DevOps InfoQ Trends Report 2026: AI, Resilience, Platforms, FinOps, and Sovereignty",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/cloud-devops-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-12T11:00:00.000Z",
+      "summaryShort": "Podcast: Cloud and DevOps InfoQ Trends Report 2026: AI, Resilience, Platforms, FinOps, and Sovereignty. In this episode of the podcast, members of the InfoQ editorial staff and friends of InfoQ will discuss current trends in the cloud and D",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "presentation-adopting-memory-safety-and-fine-grained-compartment",
+      "title": "Presentation: Adopting Memory-Safety and Fine-Grained Compartmentalisation with CHERI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/cheri-memory-safety-compartmentalization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-12T11:00:00.000Z",
+      "summaryShort": "Presentation: Adopting Memory-Safety and Fine-Grained Compartmentalisation with CHERI. David Chisnall discusses how the CHERI hardware architecture redefines pointer safety to solve isolation and sharing challenges.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "mcp-goes-stateless-and-developers-ask-whether-that-just-makes-it",
+      "title": "MCP Goes Stateless, and Developers Ask Whether That Just Makes It an API Again",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/mcp-stateless-gateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-12T09:48:00.000Z",
+      "summaryShort": "MCP Goes Stateless, and Developers Ask Whether That Just Makes It an API Again. The MCP 2026-07-28 specification removes the initialize handshake and session header, and adds required method and tool-name headers so gateways can route agent",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "how-netflix-scaled-its-real-time-service-map",
       "title": "How Netflix Scaled Its Real-Time Service Map",
@@ -13,79 +58,34 @@
       ]
     },
     {
-      "id": "ibm-and-red-hat-expand-lightwell-to-strengthen-trust-and-governa",
-      "title": "IBM and Red Hat Expand Lightwell to Strengthen Trust and Governance for AI-Era Open Source",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/lightwell-ai-open-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-11T12:00:00.000Z",
-      "summaryShort": "IBM and Red Hat Expand Lightwell to Strengthen Trust and Governance for AI-Era Open Source. IBM and Red Hat have announced an expansion of Lightwell, introducing new commercial offerings designed to help organizations establish trusted, ver",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-producing-the-world-s-cheapest-tokens-a-how-to-guid",
-      "title": "Presentation: Producing the World's Cheapest Tokens: A How-to Guide",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-token-price/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-11T10:05:00.000Z",
-      "summaryShort": "Presentation: Producing the World's Cheapest Tokens: A How-to Guide. Meryem Arik discusses strategies for designing low-cost LLM inference architectures for high-volume, non-real-time workloads.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "jetbrains-details-its-first-steps-to-bring-rapidly-growing-ai-sp",
-      "title": "JetBrains Details Its First Steps to Bring Rapidly Growing AI Spend Under Control",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/jetbrains-ai-spend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-11T07:25:00.000Z",
-      "summaryShort": "JetBrains Details Its First Steps to Bring Rapidly Growing AI Spend Under Control. JetBrains has described how it began centralising AI usage after development-related spending increased roughly tenfold in six months.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "cloudflare-previews-automatic-webmcp-support-for-web-pages",
-      "title": "CloudFlare Previews Automatic WebMCP Support for Web Pages",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-10T20:00:00.000Z",
-      "summaryShort": "CloudFlare Previews Automatic WebMCP Support for Web Pages. Cloudflare announced a developer preview that lets any website enable a WebMCP (Web Model Context Protocol) interface with a single dashboard switch.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-8216-coo",
-      "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was &#8216;cookie stuffing' for months",
+      "id": "ai-code-testing-startup-blacksmith-s-valuation-jumps-almost-10x-",
+      "title": "AI code-testing startup Blacksmith's valuation jumps almost 10x in less than a year",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
-      "publishedAt": "2026-08-11T21:39:58.000Z",
-      "summaryShort": "Phoebe Gates and Sophia Kianni reportedly knew Phia was &#8216;cookie stuffing' for months. Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+      "sourceUrl": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "publishedAt": "2026-08-12T11:00:00.000Z",
+      "summaryShort": "AI code-testing startup Blacksmith's valuation jumps almost 10x in less than a year. Blacksmith says revenue has grown more than tenfold over the past year.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "reservoir-raises-8m-to-make-water-heaters-that-people-and-the-gr",
+      "title": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
+      "publishedAt": "2026-08-12T10:00:00.000Z",
+      "summaryShort": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want. Reservoir has built an ultra-efficient water heater that can predict hot water demand, store energy, and detect plumbing leaks throughout a home.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "accel-closes-oversubscribed-550m-india-fund-within-weeks-19-mont",
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "id": "india-s-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-dema",
+      "title": "India's Yulu raises $93M as quick-commerce boom fuels e-bike demand",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-      "publishedAt": "2026-08-11T21:39:11.000Z",
-      "summaryShort": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last. The U.S.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "uber-surprised-robotics-company-serve-by-selling-its-entire-stak",
-      "title": "Uber surprised robotics company Serve by selling its entire stake",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
-      "publishedAt": "2026-08-11T20:02:02.000Z",
-      "summaryShort": "Uber surprised robotics company Serve by selling its entire stake. The divestiture comes as the two once-tight companies have started to diverge on the business side.",
+      "sourceUrl": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
+      "publishedAt": "2026-08-12T04:30:00.000Z",
+      "summaryShort": "India's Yulu raises $93M as quick-commerce boom fuels e-bike demand. Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
       "tags": [
         "Engineering"
       ]
