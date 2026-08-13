@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-08-12T13:19:12.673Z",
+  "generatedAt": "2026-08-13T02:22:07.200Z",
   "items": [
+    {
+      "id": "netflix-adopts-cloud-native-job-queueing-system-kueue-to-replace",
+      "title": "Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/netflix-kueue-kubernetes-batch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-12T14:30:00.000Z",
+      "summaryShort": "Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution. Netflix migrated most of its batch workloads onto Kueue, an open-source cloud-native batch job execution system that has outgrown its homegrown solution ",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "spotify-builds-external-index-to-enable-low-latency-point-querie",
+      "title": "Spotify Builds External Index to Enable Low Latency Point Queries on Its Data Lake",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/spotify-data-lake-point-queries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-12T14:26:00.000Z",
+      "summaryShort": "Spotify Builds External Index to Enable Low Latency Point Queries on Its Data Lake. Spotify introduced external indexing architecture for Apache Parquet data lakes that enables low-latency point queries without replicating datasets into ope",
+      "tags": [
+        "AI",
+        "Databases",
+        "Cloud"
+      ]
+    },
     {
       "id": "article-infoq-cloud-and-devops-trends-report-2026",
       "title": "Article: InfoQ Cloud and DevOps Trends Report - 2026",
@@ -36,56 +60,34 @@
       ]
     },
     {
-      "id": "mcp-goes-stateless-and-developers-ask-whether-that-just-makes-it",
-      "title": "MCP Goes Stateless, and Developers Ask Whether That Just Makes It an API Again",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/mcp-stateless-gateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-12T09:48:00.000Z",
-      "summaryShort": "MCP Goes Stateless, and Developers Ask Whether That Just Makes It an API Again. The MCP 2026-07-28 specification removes the initialize handshake and session header, and adds required method and tool-name headers so gateways can route agent",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "how-netflix-scaled-its-real-time-service-map",
-      "title": "How Netflix Scaled Its Real-Time Service Map",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/netflix-service-topology/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-11T12:20:00.000Z",
-      "summaryShort": "How Netflix Scaled Its Real-Time Service Map. Netflix has described how it redesigned the streaming pipeline behind Service Topology, its real-time service dependencies map, to support production scale.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "ai-code-testing-startup-blacksmith-s-valuation-jumps-almost-10x-",
-      "title": "AI code-testing startup Blacksmith's valuation jumps almost 10x in less than a year",
+      "id": "some-claude-users-are-mad-that-anthropic-s-new-watermarks-will-c",
+      "title": "Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-      "publishedAt": "2026-08-12T11:00:00.000Z",
-      "summaryShort": "AI code-testing startup Blacksmith's valuation jumps almost 10x in less than a year. Blacksmith says revenue has grown more than tenfold over the past year.",
+      "sourceUrl": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "publishedAt": "2026-08-12T22:26:37.000Z",
+      "summaryShort": "Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes. Is Anthropic's new watermarking system a travesty?",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ai-nuclear-power-firm-fermi-finally-has-a-new-ceo",
+      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+      "publishedAt": "2026-08-12T22:24:00.000Z",
+      "summaryShort": "AI nuclear power firm Fermi finally has a new CEO. Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "reservoir-raises-8m-to-make-water-heaters-that-people-and-the-gr",
-      "title": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
+      "id": "northrop-s-robot-space-mechanic-is-a-new-way-to-keep-satellites-",
+      "title": "Northrop's robot space mechanic is a new way to keep satellites at work longer",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
-      "publishedAt": "2026-08-12T10:00:00.000Z",
-      "summaryShort": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want. Reservoir has built an ultra-efficient water heater that can predict hot water demand, store energy, and detect plumbing leaks throughout a home.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "india-s-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-dema",
-      "title": "India's Yulu raises $93M as quick-commerce boom fuels e-bike demand",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
-      "publishedAt": "2026-08-12T04:30:00.000Z",
-      "summaryShort": "India's Yulu raises $93M as quick-commerce boom fuels e-bike demand. Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
+      "sourceUrl": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "publishedAt": "2026-08-12T20:53:41.000Z",
+      "summaryShort": "Northrop's robot space mechanic is a new way to keep satellites at work longer. The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
       "tags": [
         "Engineering"
       ]
