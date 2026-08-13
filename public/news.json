@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-08-13T02:22:07.200Z",
+  "generatedAt": "2026-08-13T13:21:11.399Z",
   "items": [
+    {
+      "id": "how-artificial-intelligence-disrupts-engineering-progression",
+      "title": "How Artificial Intelligence Disrupts Engineering Progression",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/AI-disrupts-engineering-progress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-13T11:28:00.000Z",
+      "summaryShort": "How Artificial Intelligence Disrupts Engineering Progression. AI is disrupting career progression by eliminating the learning opportunities at each rung while simultaneously enabling people to perform above their experience level, Alasdair ",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "anthropic-s-claude-breaches-sandbox-during-model-security-evalua",
+      "title": "Anthropic's Claude Breaches Sandbox During Model Security Evaluations",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/claude-sandox-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-13T10:10:00.000Z",
+      "summaryShort": "Anthropic's Claude Breaches Sandbox During Model Security Evaluations. Anthropic conducted an audit of 141006 evaluation runs after OpenAI's sandbox escape disclosure.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-migrating-uber-eats-feeds-to-webview",
+      "title": "Presentation: Migrating Uber Eats Feeds to Webview",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/migration-mobile-application/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-13T09:26:00.000Z",
+      "summaryShort": "Presentation: Migrating Uber Eats Feeds to Webview. Nick DiStefano shares how Uber Eats migrated from traditional native app screens to a native-driven, single-page WebView architecture.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "astro-7-rust-compiler-rust-markdown-pipeline-and-vite-8-for-buil",
+      "title": "Astro 7: Rust Compiler, Rust Markdown Pipeline and Vite 8 for Builds Up to 61% Faster",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/astro-7-release-speed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-13T06:16:00.000Z",
+      "summaryShort": "Astro 7: Rust Compiler, Rust Markdown Pipeline and Vite 8 for Builds Up to 61% Faster. Astro 7 focuses on build performance, utilizing native tooling and a rewritten compiler in Rust.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "netflix-adopts-cloud-native-job-queueing-system-kueue-to-replace",
       "title": "Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution",
@@ -10,53 +54,6 @@
       "summaryShort": "Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution. Netflix migrated most of its batch workloads onto Kueue, an open-source cloud-native batch job execution system that has outgrown its homegrown solution ",
       "tags": [
         "Cloud"
-      ]
-    },
-    {
-      "id": "spotify-builds-external-index-to-enable-low-latency-point-querie",
-      "title": "Spotify Builds External Index to Enable Low Latency Point Queries on Its Data Lake",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/spotify-data-lake-point-queries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-12T14:26:00.000Z",
-      "summaryShort": "Spotify Builds External Index to Enable Low Latency Point Queries on Its Data Lake. Spotify introduced external indexing architecture for Apache Parquet data lakes that enables low-latency point queries without replicating datasets into ope",
-      "tags": [
-        "AI",
-        "Databases",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "article-infoq-cloud-and-devops-trends-report-2026",
-      "title": "Article: InfoQ Cloud and DevOps Trends Report - 2026",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/cloud-devops-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-12T11:00:00.000Z",
-      "summaryShort": "Article: InfoQ Cloud and DevOps Trends Report - 2026. InfoQ editorial staff and friends of InfoQ are discussing the current trends in the domain of Cloud and DevOps as part of the process of creating our annual 2026 trends report.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "podcast-cloud-and-devops-infoq-trends-report-2026-ai-resilience-",
-      "title": "Podcast: Cloud and DevOps InfoQ Trends Report 2026: AI, Resilience, Platforms, FinOps, and Sovereignty",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/cloud-devops-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-12T11:00:00.000Z",
-      "summaryShort": "Podcast: Cloud and DevOps InfoQ Trends Report 2026: AI, Resilience, Platforms, FinOps, and Sovereignty. In this episode of the podcast, members of the InfoQ editorial staff and friends of InfoQ will discuss current trends in the cloud and D",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-adopting-memory-safety-and-fine-grained-compartment",
-      "title": "Presentation: Adopting Memory-Safety and Fine-Grained Compartmentalisation with CHERI",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/cheri-memory-safety-compartmentalization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-12T11:00:00.000Z",
-      "summaryShort": "Presentation: Adopting Memory-Safety and Fine-Grained Compartmentalisation with CHERI. David Chisnall discusses how the CHERI hardware architecture redefines pointer safety to solve isolation and sharing challenges.",
-      "tags": [
-        "Engineering"
       ]
     },
     {
