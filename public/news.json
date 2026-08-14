@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-13T13:21:11.399Z",
+  "generatedAt": "2026-08-14T02:20:08.086Z",
   "items": [
+    {
+      "id": "vercel-launches-v0-api-for-headless-app-building",
+      "title": "Vercel Launches v0 API for Headless App Building",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/vercel-v0-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-13T15:37:00.000Z",
+      "summaryShort": "Vercel Launches v0 API for Headless App Building. Vercel has made the v0 API generally available, enabling developers and AI agents to programmatically generate, iterate on, preview, and deploy applications through API calls.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "how-artificial-intelligence-disrupts-engineering-progression",
       "title": "How Artificial Intelligence Disrupts Engineering Progression",
@@ -46,45 +57,34 @@
       ]
     },
     {
-      "id": "netflix-adopts-cloud-native-job-queueing-system-kueue-to-replace",
-      "title": "Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/netflix-kueue-kubernetes-batch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-12T14:30:00.000Z",
-      "summaryShort": "Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution. Netflix migrated most of its batch workloads onto Kueue, an open-source cloud-native batch job execution system that has outgrown its homegrown solution ",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "some-claude-users-are-mad-that-anthropic-s-new-watermarks-will-c",
-      "title": "Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes",
+      "id": "investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-hea",
+      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "publishedAt": "2026-08-12T22:26:37.000Z",
-      "summaryShort": "Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes. Is Anthropic's new watermarking system a travesty?",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+      "publishedAt": "2026-08-13T22:12:40.000Z",
+      "summaryShort": "Investors sue Selena Gomez alleging fraud tied to her mental health startup. The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "ai-nuclear-power-firm-fermi-finally-has-a-new-ceo",
-      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "id": "flock-says-its-new-tool-will-help-identify-police-abuse-but-hasn",
+      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
-      "publishedAt": "2026-08-12T22:24:00.000Z",
-      "summaryShort": "AI nuclear power firm Fermi finally has a new CEO. Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+      "publishedAt": "2026-08-13T22:02:04.000Z",
+      "summaryShort": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works. The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abus",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "northrop-s-robot-space-mechanic-is-a-new-way-to-keep-satellites-",
-      "title": "Northrop's robot space mechanic is a new way to keep satellites at work longer",
+      "id": "if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware",
+      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
-      "publishedAt": "2026-08-12T20:53:41.000Z",
-      "summaryShort": "Northrop's robot space mechanic is a new way to keep satellites at work longer. The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+      "publishedAt": "2026-08-13T21:50:11.000Z",
+      "summaryShort": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously. Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
       "tags": [
         "Engineering"
       ]
