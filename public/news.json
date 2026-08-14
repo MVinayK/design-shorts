@@ -1,59 +1,70 @@
 {
-  "generatedAt": "2026-08-14T02:20:08.086Z",
+  "generatedAt": "2026-08-14T13:15:51.277Z",
   "items": [
     {
-      "id": "vercel-launches-v0-api-for-headless-app-building",
-      "title": "Vercel Launches v0 API for Headless App Building",
+      "id": "more-incidents-don-t-necessarily-mean-less-reliability",
+      "title": "More Incidents Don't Necessarily Mean Less Reliability",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/vercel-v0-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-13T15:37:00.000Z",
-      "summaryShort": "Vercel Launches v0 API for Headless App Building. Vercel has made the v0 API generally available, enabling developers and AI agents to programmatically generate, iterate on, preview, and deploy applications through API calls.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "how-artificial-intelligence-disrupts-engineering-progression",
-      "title": "How Artificial Intelligence Disrupts Engineering Progression",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/AI-disrupts-engineering-progress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-13T11:28:00.000Z",
-      "summaryShort": "How Artificial Intelligence Disrupts Engineering Progression. AI is disrupting career progression by eliminating the learning opportunities at each rung while simultaneously enabling people to perform above their experience level, Alasdair ",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "anthropic-s-claude-breaches-sandbox-during-model-security-evalua",
-      "title": "Anthropic's Claude Breaches Sandbox During Model Security Evaluations",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/claude-sandox-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-13T10:10:00.000Z",
-      "summaryShort": "Anthropic's Claude Breaches Sandbox During Model Security Evaluations. Anthropic conducted an audit of 141006 evaluation runs after OpenAI's sandbox escape disclosure.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-migrating-uber-eats-feeds-to-webview",
-      "title": "Presentation: Migrating Uber Eats Feeds to Webview",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/migration-mobile-application/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-13T09:26:00.000Z",
-      "summaryShort": "Presentation: Migrating Uber Eats Feeds to Webview. Nick DiStefano shares how Uber Eats migrated from traditional native app screens to a native-driven, single-page WebView architecture.",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/incidents-reliability-metrics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-14T12:00:00.000Z",
+      "summaryShort": "More Incidents Don't Necessarily Mean Less Reliability. One of the most common assumptions in engineering leadership is that a rising number of reported incidents signals declining system reliability.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "astro-7-rust-compiler-rust-markdown-pipeline-and-vite-8-for-buil",
-      "title": "Astro 7: Rust Compiler, Rust Markdown Pipeline and Vite 8 for Builds Up to 61% Faster",
+      "id": "presentation-the-right-300-tokens-beat-100k-noisy-ones-the-archi",
+      "title": "Presentation: The Right 300 Tokens Beat 100k Noisy Ones: The Architecture of Context Engineering",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/astro-7-release-speed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-13T06:16:00.000Z",
-      "summaryShort": "Astro 7: Rust Compiler, Rust Markdown Pipeline and Vite 8 for Builds Up to 61% Faster. Astro 7 focuses on build performance, utilizing native tooling and a rewritten compiler in Rust.",
+      "sourceUrl": "https://www.infoq.com/presentations/architecture-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-14T11:00:00.000Z",
+      "summaryShort": "Presentation: The Right 300 Tokens Beat 100k Noisy Ones: The Architecture of Context Engineering. Baruch Sadogursky and Patrick Debois discuss why coding agents fail due to bloated context windows and stuffed prompts.",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "llm-generated-graphql-mocks-arrive-at-airbnb-and-expedia-while-t",
+      "title": "LLM-Generated GraphQL Mocks Arrive at Airbnb and Expedia, While the Spec Lags Behind",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/graphql-llm-mocking-spec/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-14T10:01:00.000Z",
+      "summaryShort": "LLM-Generated GraphQL Mocks Arrive at Airbnb and Expedia, While the Spec Lags Behind. Expedia Group has open-sourced mockql-rs, a Rust CLI that fills @mock-annotated GraphQL fields with LLM-generated data at request time.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "podcast-founders-friction-and-focus-building-engineering-teams-a",
+      "title": "Podcast: Founders, Friction, and Focus: Building Engineering Teams at Early-Stage Startups",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/building-engineering-teams-early-stage-startups/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-14T09:00:00.000Z",
+      "summaryShort": "Podcast: Founders, Friction, and Focus: Building Engineering Teams at Early-Stage Startups. In this podcast, Shane Hastie, Lead Editor for Culture & Methods, spoke to David Gudeman about the unique culture of early-stage startup engineering",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "rx-net-7-0-reduces-deployment-size-by-splitting-windows-ui-suppo",
+      "title": "Rx.NET 7.0 Reduces Deployment Size by Splitting Windows UI Support",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/rx-net-7/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-14T08:00:00.000Z",
+      "summaryShort": "Rx.NET 7.0 Reduces Deployment Size by Splitting Windows UI Support. Rx.NET 7.0 has been released with a narrowly focused change aimed at reducing deployment size for Windows applications.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "uber-and-pony-ai-plan-to-bring-2-000-robotaxis-to-europe",
+      "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+      "publishedAt": "2026-08-14T10:44:30.000Z",
+      "summaryShort": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe. The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
+      "tags": [
+        "AI"
       ]
     },
     {
@@ -74,17 +85,6 @@
       "sourceUrl": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
       "publishedAt": "2026-08-13T22:02:04.000Z",
       "summaryShort": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works. The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abus",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware",
-      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
-      "publishedAt": "2026-08-13T21:50:11.000Z",
-      "summaryShort": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously. Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
       "tags": [
         "Engineering"
       ]
