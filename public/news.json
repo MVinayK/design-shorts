@@ -1,6 +1,41 @@
 {
-  "generatedAt": "2026-08-15T01:27:37.091Z",
+  "generatedAt": "2026-08-15T12:45:47.009Z",
   "items": [
+    {
+      "id": "presentation-from-models-to-agents-building-context-aware-consum",
+      "title": "Presentation: From Models to Agents: Building Context-Aware Consumer AI at Scale at DoorDash",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-agentic-recommendations-semantic-ids/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-15T11:00:00.000Z",
+      "summaryShort": "Presentation: From Models to Agents: Building Context-Aware Consumer AI at Scale at DoorDash. Sudeep Das shares how DoorDash shifts from legacy one-shot predictions to an agentic recommendation platform.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "cloudflare-adds-agent-tracing-with-truncation-limits-and-uneven-",
+      "title": "Cloudflare Adds Agent Tracing, with Truncation Limits and Uneven Payload Defaults",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-agent-tracing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-15T10:46:00.000Z",
+      "summaryShort": "Cloudflare Adds Agent Tracing, with Truncation Limits and Uneven Payload Defaults. Cloudflare launched agent tracing, adding spans for agent invocations, model calls, tool runs, and approvals to existing Workers traces.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "cloudflare-introduces-cache-response-rules-for-post-origin-cache",
+      "title": "Cloudflare Introduces Cache Response Rules for Post-Origin Cache Control",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-cache-rules/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-15T06:28:00.000Z",
+      "summaryShort": "Cloudflare Introduces Cache Response Rules for Post-Origin Cache Control. Cloudflare recently introduced Cache Response Rules, a rules engine that operates after an origin server responds but before content is written to Cloudflare's cache.",
+      "tags": [
+        "Cloud",
+        "Architecture"
+      ]
+    },
     {
       "id": "cloudflare-migrates-javascript-cdn-serving-9b-requests-a-day-to-",
       "title": "Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform",
@@ -19,39 +54,6 @@
       "sourceUrl": "https://www.infoq.com/news/2026/08/incidents-reliability-metrics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-08-14T12:00:00.000Z",
       "summaryShort": "More Incidents Don't Necessarily Mean Less Reliability. One of the most common assumptions in engineering leadership is that a rising number of reported incidents signals declining system reliability.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-the-right-300-tokens-beat-100k-noisy-ones-the-archi",
-      "title": "Presentation: The Right 300 Tokens Beat 100k Noisy Ones: The Architecture of Context Engineering",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/architecture-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-14T11:00:00.000Z",
-      "summaryShort": "Presentation: The Right 300 Tokens Beat 100k Noisy Ones: The Architecture of Context Engineering. Baruch Sadogursky and Patrick Debois discuss why coding agents fail due to bloated context windows and stuffed prompts.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "llm-generated-graphql-mocks-arrive-at-airbnb-and-expedia-while-t",
-      "title": "LLM-Generated GraphQL Mocks Arrive at Airbnb and Expedia, While the Spec Lags Behind",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/graphql-llm-mocking-spec/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-14T10:01:00.000Z",
-      "summaryShort": "LLM-Generated GraphQL Mocks Arrive at Airbnb and Expedia, While the Spec Lags Behind. Expedia Group has open-sourced mockql-rs, a Rust CLI that fills @mock-annotated GraphQL fields with LLM-generated data at request time.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "podcast-founders-friction-and-focus-building-engineering-teams-a",
-      "title": "Podcast: Founders, Friction, and Focus: Building Engineering Teams at Early-Stage Startups",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/building-engineering-teams-early-stage-startups/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-14T09:00:00.000Z",
-      "summaryShort": "Podcast: Founders, Friction, and Focus: Building Engineering Teams at Early-Stage Startups. In this podcast, Shane Hastie, Lead Editor for Culture & Methods, spoke to David Gudeman about the unique culture of early-stage startup engineering",
       "tags": [
         "Engineering"
       ]
