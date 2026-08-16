@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-16T01:39:17.383Z",
+  "generatedAt": "2026-08-16T12:47:49.583Z",
   "items": [
+    {
+      "id": "aws-open-sources-dogwood-extending-cedar-to-govern-sequences-of-",
+      "title": "AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-16T07:26:00.000Z",
+      "summaryShort": "AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls. AWS has open-sourced Dogwood, a policy language extending Cedar with temporal conditions so rules can reason about an agent's prior tool calls rather than on",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "aws-introduces-native-vector-search-for-dynamodb",
+      "title": "AWS Introduces Native Vector Search for DynamoDB",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/aws-dynamodb-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-16T07:21:00.000Z",
+      "summaryShort": "AWS Introduces Native Vector Search for DynamoDB. Amazon DynamoDB recently introduced native vector search, allowing developers to store embeddings alongside application data and run approximate nearest-neighbor queries directly from Dynamo",
+      "tags": [
+        "Databases"
+      ]
+    },
+    {
+      "id": "how-pgsimcity-turns-postgresql-complexity-into-a-virtual-city-3d",
+      "title": "How PGSimCity Turns PostgreSQL Complexity Into a Virtual City 3D Simulation",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/pgsimcity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-16T05:05:00.000Z",
+      "summaryShort": "How PGSimCity Turns PostgreSQL Complexity Into a Virtual City 3D Simulation. Nikolay Samokhvalov has developed PGSimCity, an open-source educational tool that visualises PostgreSQL mechanics as a 3D spatial simulation in the browser.",
+      "tags": [
+        "Databases"
+      ]
+    },
     {
       "id": "presentation-from-models-to-agents-building-context-aware-consum",
       "title": "Presentation: From Models to Agents: Building Context-Aware Consumer AI at Scale at DoorDash",
@@ -22,40 +55,6 @@
       "tags": [
         "AI",
         "Cloud"
-      ]
-    },
-    {
-      "id": "cloudflare-introduces-cache-response-rules-for-post-origin-cache",
-      "title": "Cloudflare Introduces Cache Response Rules for Post-Origin Cache Control",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-cache-rules/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-15T06:28:00.000Z",
-      "summaryShort": "Cloudflare Introduces Cache Response Rules for Post-Origin Cache Control. Cloudflare recently introduced Cache Response Rules, a rules engine that operates after an origin server responds but before content is written to Cloudflare's cache.",
-      "tags": [
-        "Cloud",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "cloudflare-migrates-javascript-cdn-serving-9b-requests-a-day-to-",
-      "title": "Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-cdnjs-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-14T14:42:00.000Z",
-      "summaryShort": "Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform. Cloudflare has migrated cdnjs, its open source CDN for JavaScript and CSS libraries, to its Developer Platform.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "more-incidents-don-t-necessarily-mean-less-reliability",
-      "title": "More Incidents Don't Necessarily Mean Less Reliability",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/incidents-reliability-metrics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-14T12:00:00.000Z",
-      "summaryShort": "More Incidents Don't Necessarily Mean Less Reliability. One of the most common assumptions in engineering leadership is that a rising number of reported incidents signals declining system reliability.",
-      "tags": [
-        "Engineering"
       ]
     },
     {
