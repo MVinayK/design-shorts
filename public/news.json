@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T12:45:47.009Z",
+  "generatedAt": "2026-08-16T01:39:17.383Z",
   "items": [
     {
       "id": "presentation-from-models-to-agents-building-context-aware-consum",
@@ -59,34 +59,34 @@
       ]
     },
     {
-      "id": "talks-to-sell-paypal-to-stripe-and-advent-are-heating-up",
-      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "id": "woman-claims-her-stepfather-used-grok-to-transform-childhood-pho",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-      "publishedAt": "2026-08-14T22:43:24.000Z",
-      "summaryShort": "Talks to sell PayPal to Stripe and Advent are heating up. PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "self-driving-trucks-are-officially-testing-on-california-highway",
-      "title": "Self-driving trucks are officially testing on California highways",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-      "publishedAt": "2026-08-14T20:37:49.000Z",
-      "summaryShort": "Self-driving trucks are officially testing on California highways. Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+      "sourceUrl": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "publishedAt": "2026-08-15T21:29:19.000Z",
+      "summaryShort": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery. The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "thrive-s-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphor",
-      "title": "Thrive's Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "id": "anthropic-shares-more-details-about-how-claude-s-new-watermarks-",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-      "publishedAt": "2026-08-14T19:33:00.000Z",
-      "summaryShort": "Thrive's Joshua Kushner chides Silicon Valley VCs over AI euphoria. The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment",
+      "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "publishedAt": "2026-08-15T18:58:39.000Z",
+      "summaryShort": "Anthropic shares more details about how Claude’s new watermarks will work. How will the watermarking actually work?",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "spacex-officially-closes-its-cursor-acquisition",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "publishedAt": "2026-08-15T16:30:00.000Z",
+      "summaryShort": "SpaceX officially closes its Cursor acquisition. AI coding startup Cursor is now officially a part of SpaceX.",
       "tags": [
         "AI"
       ]
