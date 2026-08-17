@@ -1,60 +1,61 @@
 {
-  "generatedAt": "2026-08-17T01:36:59.399Z",
+  "generatedAt": "2026-08-17T12:52:15.604Z",
   "items": [
     {
-      "id": "aws-open-sources-dogwood-extending-cedar-to-govern-sequences-of-",
-      "title": "AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls",
+      "id": "shadcn-brings-conversational-primitives-to-shadcn-ui-with-new-ch",
+      "title": "shadcn Brings Conversational Primitives to shadcn/ui with New Chat Components",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-16T07:26:00.000Z",
-      "summaryShort": "AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls. AWS has open-sourced Dogwood, a policy language extending Cedar with temporal conditions so rules can reason about an agent's prior tool calls rather than on",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/shadcn-conversational-primitives/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-17T11:01:00.000Z",
+      "summaryShort": "shadcn Brings Conversational Primitives to shadcn/ui with New Chat Components. Shadcn, a design engineer at Vercel, has introduced new components for chat interfaces within the shadcn/ui project.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "aws-introduces-native-vector-search-for-dynamodb",
-      "title": "AWS Introduces Native Vector Search for DynamoDB",
+      "id": "article-agentic-fitness-functions-extending-evolutionary-archite",
+      "title": "Article: Agentic Fitness Functions: Extending Evolutionary Architecture Beyond Deterministic Rules",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/aws-dynamodb-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-16T07:21:00.000Z",
-      "summaryShort": "AWS Introduces Native Vector Search for DynamoDB. Amazon DynamoDB recently introduced native vector search, allowing developers to store embeddings alongside application data and run approximate nearest-neighbor queries directly from Dynamo",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "how-pgsimcity-turns-postgresql-complexity-into-a-virtual-city-3d",
-      "title": "How PGSimCity Turns PostgreSQL Complexity into a Virtual City 3D Simulation",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/pgsimcity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-16T05:05:00.000Z",
-      "summaryShort": "How PGSimCity Turns PostgreSQL Complexity into a Virtual City 3D Simulation. Nikolay Samokhvalov has developed PGSimCity, an open-source educational tool that visualises PostgreSQL mechanics as a 3D spatial simulation in the browser.",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "presentation-from-models-to-agents-building-context-aware-consum",
-      "title": "Presentation: From Models to Agents: Building Context-Aware Consumer AI at Scale at DoorDash",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-agentic-recommendations-semantic-ids/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-15T11:00:00.000Z",
-      "summaryShort": "Presentation: From Models to Agents: Building Context-Aware Consumer AI at Scale at DoorDash. Sudeep Das shares how DoorDash shifts from legacy one-shot predictions to an agentic recommendation platform.",
+      "sourceUrl": "https://www.infoq.com/articles/agentic-fitness-functions-evolutionary-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-17T11:00:00.000Z",
+      "summaryShort": "Article: Agentic Fitness Functions: Extending Evolutionary Architecture Beyond Deterministic Rules. Deterministic rules safeguard hard metrics, but what about architectural intent?",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "cloudflare-adds-agent-tracing-with-truncation-limits-and-uneven-",
-      "title": "Cloudflare Adds Agent Tracing, with Truncation Limits and Uneven Payload Defaults",
+      "id": "podcast-will-agentic-ai-bring-fantasia-s-sorcerer-s-apprentice-t",
+      "title": "Podcast: Will Agentic AI Bring Fantasia’s Sorcerer's Apprentice to Life?: A Conversation with Tracy Bannon",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-agent-tracing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-15T10:46:00.000Z",
-      "summaryShort": "Cloudflare Adds Agent Tracing, with Truncation Limits and Uneven Payload Defaults. Cloudflare launched agent tracing, adding spans for agent invocations, model calls, tool runs, and approvals to existing Workers traces.",
+      "sourceUrl": "https://www.infoq.com/podcasts/agentic-ai-sorcerers-apprentice/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-17T11:00:00.000Z",
+      "summaryShort": "Podcast: Will Agentic AI Bring Fantasia’s Sorcerer's Apprentice to Life?: A Conversation with Tracy Bannon. In this podcast, Michael Stiefel spoke to Tracy Bannon about the role of artificial intelligence in software and the attendant risks",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "grafana-s-gcx-and-mcp-server-reach-ga-for-telemetry-driven-agent",
+      "title": "Grafana's gcx and MCP Server Reach GA for Telemetry-Driven Agent Development",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/grafana-mcp-server-telemetry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-17T10:00:00.000Z",
+      "summaryShort": "Grafana's gcx and MCP Server Reach GA for Telemetry-Driven Agent Development. Grafana Labs has announced general availability for two tools that let AI coding agents query live observability data during development: the gcx CLI and the Graf",
       "tags": [
         "AI",
         "Cloud"
+      ]
+    },
+    {
+      "id": "presentation-from-thousands-to-one-building-llm-powered-selectio",
+      "title": "Presentation: From Thousands to One: Building LLM-Powered Selection Systems",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/architecture-patterns-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-17T09:06:00.000Z",
+      "summaryShort": "Presentation: From Thousands to One: Building LLM-Powered Selection Systems. Jendrik Jördening shares practical engineering strategies for integrating LLMs into production pipelines.",
+      "tags": [
+        "AI",
+        "Databases"
       ]
     },
     {
