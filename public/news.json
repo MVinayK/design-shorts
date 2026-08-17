@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T12:47:49.583Z",
+  "generatedAt": "2026-08-17T01:36:59.399Z",
   "items": [
     {
       "id": "aws-open-sources-dogwood-extending-cedar-to-govern-sequences-of-",
@@ -25,11 +25,11 @@
     },
     {
       "id": "how-pgsimcity-turns-postgresql-complexity-into-a-virtual-city-3d",
-      "title": "How PGSimCity Turns PostgreSQL Complexity Into a Virtual City 3D Simulation",
+      "title": "How PGSimCity Turns PostgreSQL Complexity into a Virtual City 3D Simulation",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/news/2026/08/pgsimcity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-08-16T05:05:00.000Z",
-      "summaryShort": "How PGSimCity Turns PostgreSQL Complexity Into a Virtual City 3D Simulation. Nikolay Samokhvalov has developed PGSimCity, an open-source educational tool that visualises PostgreSQL mechanics as a 3D spatial simulation in the browser.",
+      "summaryShort": "How PGSimCity Turns PostgreSQL Complexity into a Virtual City 3D Simulation. Nikolay Samokhvalov has developed PGSimCity, an open-source educational tool that visualises PostgreSQL mechanics as a 3D spatial simulation in the browser.",
       "tags": [
         "Databases"
       ]
@@ -58,34 +58,34 @@
       ]
     },
     {
-      "id": "woman-claims-her-stepfather-used-grok-to-transform-childhood-pho",
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "id": "stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "publishedAt": "2026-08-15T21:29:19.000Z",
-      "summaryShort": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery. The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "sourceUrl": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "publishedAt": "2026-08-16T20:57:04.000Z",
+      "summaryShort": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+. OpenRouter's CEO recently described the startup as Stripe for AI.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "anthropic-shares-more-details-about-how-claude-s-new-watermarks-",
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "id": "why-people-aren-t-buying-mark-zuckerberg-s-ai-future",
+      "title": "Why people aren't buying Mark Zuckerberg’s AI future",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "publishedAt": "2026-08-15T18:58:39.000Z",
-      "summaryShort": "Anthropic shares more details about how Claude’s new watermarks will work. How will the watermarking actually work?",
+      "sourceUrl": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "publishedAt": "2026-08-16T20:32:01.000Z",
+      "summaryShort": "Why people aren't buying Mark Zuckerberg’s AI future. On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "spacex-officially-closes-its-cursor-acquisition",
-      "title": "SpaceX officially closes its Cursor acquisition",
+      "id": "anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trus",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "publishedAt": "2026-08-15T16:30:00.000Z",
-      "summaryShort": "SpaceX officially closes its Cursor acquisition. AI coding startup Cursor is now officially a part of SpaceX.",
+      "sourceUrl": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "publishedAt": "2026-08-16T16:53:51.000Z",
+      "summaryShort": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’. Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
       "tags": [
         "AI"
       ]
