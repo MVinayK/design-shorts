@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-08-17T12:52:15.604Z",
+  "generatedAt": "2026-08-18T01:26:40.748Z",
   "items": [
+    {
+      "id": "spacexai-launches-grok-bot-for-autonomous-ai-agents",
+      "title": "SpaceXAI Launches Grok Bot for Autonomous AI Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/grok-bot-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-17T18:02:00.000Z",
+      "summaryShort": "SpaceXAI Launches Grok Bot for Autonomous AI Agents. SpaceXAI has introduced Grok Bot, a system of persistent AI agents that operate on dedicated cloud computers and can interact with websites, applications, inboxes, and other tools.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "jep-540-proposed-to-target-jdk-28-with-a-simple-json-api",
+      "title": "JEP 540 Proposed to Target JDK 28 with a Simple JSON API",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/java-native-json-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-17T14:18:00.000Z",
+      "summaryShort": "JEP 540 Proposed to Target JDK 28 with a Simple JSON API. JEP 540, Simple JSON API, has progressed to Target status for JDK 28.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "grab-cuts-mechanical-analytics-work-from-44-to-30-with-ai-agents",
+      "title": "Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/grab-ai-analytics-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-17T13:41:00.000Z",
+      "summaryShort": "Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents. Grab is using AI agents to automate analytics workflows, cutting mechanical analyst work from 44% in February to 30% in June.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "cloudflare-turns-ci-pipelines-into-typescript-workflows",
+      "title": "Cloudflare Turns CI Pipelines into TypeScript Workflows",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-ci-code-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-17T13:00:00.000Z",
+      "summaryShort": "Cloudflare Turns CI Pipelines into TypeScript Workflows. Cloudflare has released cloudflare/ci, a CI SDK that defines pipelines in TypeScript on top of Cloudflare Workflows, giving each step durable retries and replay, concurrent steps by d",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "shadcn-brings-conversational-primitives-to-shadcn-ui-with-new-ch",
       "title": "shadcn Brings Conversational Primitives to shadcn/ui with New Chat Components",
@@ -13,82 +59,36 @@
       ]
     },
     {
-      "id": "article-agentic-fitness-functions-extending-evolutionary-archite",
-      "title": "Article: Agentic Fitness Functions: Extending Evolutionary Architecture Beyond Deterministic Rules",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/agentic-fitness-functions-evolutionary-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-17T11:00:00.000Z",
-      "summaryShort": "Article: Agentic Fitness Functions: Extending Evolutionary Architecture Beyond Deterministic Rules. Deterministic rules safeguard hard metrics, but what about architectural intent?",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "podcast-will-agentic-ai-bring-fantasia-s-sorcerer-s-apprentice-t",
-      "title": "Podcast: Will Agentic AI Bring Fantasia’s Sorcerer's Apprentice to Life?: A Conversation with Tracy Bannon",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/agentic-ai-sorcerers-apprentice/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-17T11:00:00.000Z",
-      "summaryShort": "Podcast: Will Agentic AI Bring Fantasia’s Sorcerer's Apprentice to Life?: A Conversation with Tracy Bannon. In this podcast, Michael Stiefel spoke to Tracy Bannon about the role of artificial intelligence in software and the attendant risks",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "grafana-s-gcx-and-mcp-server-reach-ga-for-telemetry-driven-agent",
-      "title": "Grafana's gcx and MCP Server Reach GA for Telemetry-Driven Agent Development",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/grafana-mcp-server-telemetry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-17T10:00:00.000Z",
-      "summaryShort": "Grafana's gcx and MCP Server Reach GA for Telemetry-Driven Agent Development. Grafana Labs has announced general availability for two tools that let AI coding agents query live observability data during development: the gcx CLI and the Graf",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-from-thousands-to-one-building-llm-powered-selectio",
-      "title": "Presentation: From Thousands to One: Building LLM-Powered Selection Systems",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/architecture-patterns-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-17T09:06:00.000Z",
-      "summaryShort": "Presentation: From Thousands to One: Building LLM-Powered Selection Systems. Jendrik Jördening shares practical engineering strategies for integrating LLMs into production pipelines.",
-      "tags": [
-        "AI",
-        "Databases"
-      ]
-    },
-    {
-      "id": "stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for",
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "id": "anthropic-s-annualized-revenue-surges-to-65b",
+      "title": "Anthropic's annualized revenue surges to $65B",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "publishedAt": "2026-08-16T20:57:04.000Z",
-      "summaryShort": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+. OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "sourceUrl": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "publishedAt": "2026-08-17T23:56:26.000Z",
+      "summaryShort": "Anthropic's annualized revenue surges to $65B. The model maker added $18 billion in annualized revenue in two months.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "why-people-aren-t-buying-mark-zuckerberg-s-ai-future",
-      "title": "Why people aren't buying Mark Zuckerberg’s AI future",
+      "id": "ai-automation-startup-relay-shuts-down-staff-joins-google-s-chro",
+      "title": "AI automation startup Relay shuts down, staff joins Google's Chrome team",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "publishedAt": "2026-08-16T20:32:01.000Z",
-      "summaryShort": "Why people aren't buying Mark Zuckerberg’s AI future. On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "sourceUrl": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "publishedAt": "2026-08-17T21:27:05.000Z",
+      "summaryShort": "AI automation startup Relay shuts down, staff joins Google's Chrome team. \"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trus",
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "id": "unprecedented-number-of-apple-users-received-recent-spyware-aler",
+      "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "publishedAt": "2026-08-16T16:53:51.000Z",
-      "summaryShort": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’. Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "sourceUrl": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
+      "publishedAt": "2026-08-17T20:18:35.000Z",
+      "summaryShort": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators. Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
