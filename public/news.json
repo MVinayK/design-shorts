@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-08-18T01:26:40.748Z",
+  "generatedAt": "2026-08-18T12:54:00.963Z",
   "items": [
+    {
+      "id": "presentation-turning-outward-growing-from-code-to-influence",
+      "title": "Presentation: Turning Outward: Growing From Code to Influence",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/working-across-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-18T12:31:00.000Z",
+      "summaryShort": "Presentation: Turning Outward: Growing From Code to Influence. Brad Grantham discusses how software engineers and architects can transition from individual contributors to influential technical leaders.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "github-brings-stacked-pull-requests-to-public-preview",
+      "title": "GitHub Brings Stacked Pull Requests to Public Preview",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/github-stacked-pull-requests/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
+      "summaryShort": "GitHub Brings Stacked Pull Requests to Public Preview. GitHub has announced that Stacked Pull Requests are now available in public preview, introducing native support for breaking large software changes into smaller, dependent pull requests",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "net-11-preview-7-adds-passkeys-incremental-xaml-hot-reload-and-s",
+      "title": ".NET 11 Preview 7 Adds Passkeys, Incremental XAML Hot Reload, and Shell Route Templates to MAUI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/dotnet-11-preview7-maui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-18T08:00:00.000Z",
+      "summaryShort": ".NET 11 Preview 7 Adds Passkeys, Incremental XAML Hot Reload, and Shell Route Templates to MAUI. Microsoft has released .NET 11 Preview 7 with a substantial set of .NET MAUI updates, including cross-platform passkey authentication, a new in",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "major-frontier-model-providers-adopt-watermarking-tech-to-comply",
+      "title": "Major Frontier Model Providers Adopt Watermarking Tech to Comply with EU Regulation",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/eu-ai-content-watermark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-18T05:05:00.000Z",
+      "summaryShort": "Major Frontier Model Providers Adopt Watermarking Tech to Comply with EU Regulation. As of August 2, 2026, the EU AI Act Article 50 requires AI systems to mark synthetic outputs in a machine-detectable manner.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "spacexai-launches-grok-bot-for-autonomous-ai-agents",
       "title": "SpaceXAI Launches Grok Bot for Autonomous AI Agents",
@@ -14,79 +58,34 @@
       ]
     },
     {
-      "id": "jep-540-proposed-to-target-jdk-28-with-a-simple-json-api",
-      "title": "JEP 540 Proposed to Target JDK 28 with a Simple JSON API",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/java-native-json-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-17T14:18:00.000Z",
-      "summaryShort": "JEP 540 Proposed to Target JDK 28 with a Simple JSON API. JEP 540, Simple JSON API, has progressed to Target status for JDK 28.",
+      "id": "reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to",
+      "title": "Reach Capital raises $265M Fund V to back AI founders building to &#8216;expand human potential'",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "summaryShort": "Reach Capital raises $265M Fund V to back AI founders building to &#8216;expand human potential'. Reach Capital announced Tuesday an oversubscribed $265M Fund V.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "fairphone-is-launching-its-latest-repairable-phone-in-the-us-too",
+      "title": "Fairphone is launching its latest repairable phone in the US too",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "summaryShort": "Fairphone is launching its latest repairable phone in the US too. The Fairphone 6+ is priced at $649 and will be available on Amazon.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "grab-cuts-mechanical-analytics-work-from-44-to-30-with-ai-agents",
-      "title": "Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/grab-ai-analytics-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-17T13:41:00.000Z",
-      "summaryShort": "Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents. Grab is using AI agents to automate analytics workflows, cutting mechanical analyst work from 44% in February to 30% in June.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "cloudflare-turns-ci-pipelines-into-typescript-workflows",
-      "title": "Cloudflare Turns CI Pipelines into TypeScript Workflows",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-ci-code-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-17T13:00:00.000Z",
-      "summaryShort": "Cloudflare Turns CI Pipelines into TypeScript Workflows. Cloudflare has released cloudflare/ci, a CI SDK that defines pipelines in TypeScript on top of Cloudflare Workflows, giving each step durable retries and replay, concurrent steps by d",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "shadcn-brings-conversational-primitives-to-shadcn-ui-with-new-ch",
-      "title": "shadcn Brings Conversational Primitives to shadcn/ui with New Chat Components",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/shadcn-conversational-primitives/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-17T11:01:00.000Z",
-      "summaryShort": "shadcn Brings Conversational Primitives to shadcn/ui with New Chat Components. Shadcn, a design engineer at Vercel, has introduced new components for chat interfaces within the shadcn/ui project.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "anthropic-s-annualized-revenue-surges-to-65b",
-      "title": "Anthropic's annualized revenue surges to $65B",
+      "id": "einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet",
+      "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "publishedAt": "2026-08-17T23:56:26.000Z",
-      "summaryShort": "Anthropic's annualized revenue surges to $65B. The model maker added $18 billion in annualized revenue in two months.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "ai-automation-startup-relay-shuts-down-staff-joins-google-s-chro",
-      "title": "AI automation startup Relay shuts down, staff joins Google's Chrome team",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "publishedAt": "2026-08-17T21:27:05.000Z",
-      "summaryShort": "AI automation startup Relay shuts down, staff joins Google's Chrome team. \"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "unprecedented-number-of-apple-users-received-recent-spyware-aler",
-      "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
-      "publishedAt": "2026-08-17T20:18:35.000Z",
-      "summaryShort": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators. Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
+      "sourceUrl": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
+      "publishedAt": "2026-08-18T10:30:00.000Z",
+      "summaryShort": "Einride strikes deal to add 500 Tesla Semis to its fleet. Einride will buy the Tesla Semis, which will be made to Amazon and other customers.",
       "tags": [
         "Engineering"
       ]
