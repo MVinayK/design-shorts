@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-08-19T01:34:29.517Z",
+  "generatedAt": "2026-08-19T12:54:55.901Z",
   "items": [
+    {
+      "id": "presentation-understanding-progressive-collapse-how-to-avoid-a-c",
+      "title": "Presentation: Understanding Progressive Collapse: How To Avoid A Cascading Failure",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/progressive-collapse-system-resilience/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-19T11:00:00.000Z",
+      "summaryShort": "Presentation: Understanding Progressive Collapse: How To Avoid A Cascading Failure. Sam Newman discusses the concept of progressive collapse in civil engineering and how it applies to distributed systems.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "net-11-preview-7-brings-updates-across-c-asp-net-core-ef-core-an",
+      "title": ".NET 11 Preview 7 Brings Updates Across C#, ASP.NET Core, EF Core, and Windows Forms",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/dotnet-11-preview-7/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-19T09:26:00.000Z",
+      "summaryShort": ".NET 11 Preview 7 Brings Updates Across C#, ASP.NET Core, EF Core, and Windows Forms. Last week Microsoft released .NET 11 Preview 7, with updates across C#, ASP.NET Core, .NET MAUI, Entity Framework Core, Windows Forms, and F#.",
+      "tags": [
+        "Architecture"
+      ]
+    },
+    {
+      "id": "multi-agent-collaboration-gets-persistent-compute-in-bedrock-age",
+      "title": "Multi Agent Collaboration Gets Persistent Compute in Bedrock AgentCore",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/aws-bedrock-agentcore-runtime/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-19T08:00:00.000Z",
+      "summaryShort": "Multi Agent Collaboration Gets Persistent Compute in Bedrock AgentCore. Amazon Web Services has extended Amazon Bedrock AgentCore with runtime instances, a new compute option that gives AI agents persistent infrastructure purpose-built for ",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "react-router-v8-a-deliberately-boring-release-with-esm-only-buil",
+      "title": "React Router v8: A Deliberately Boring Release with ESM-Only Builds and Default Middleware",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/react-route-v8/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-19T06:21:00.000Z",
+      "summaryShort": "React Router v8: A Deliberately Boring Release with ESM-Only Builds and Default Middleware. React Router v8 was released on June 17, 2026, with minimal breaking changes and new baselines.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "cloudflare-writeguard-brings-fine-grained-security-controls-for-",
       "title": "Cloudflare WriteGuard Brings Fine-Grained Security Controls for MCP Servers",
@@ -14,78 +59,34 @@
       ]
     },
     {
-      "id": "presentation-from-fab-to-token-the-state-of-the-market",
-      "title": "Presentation: From Fab To Token - The State Of The Market",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-hardware-tokenomics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-18T16:00:00.000Z",
-      "summaryShort": "Presentation: From Fab To Token - The State Of The Market. Jordan Nanos discusses how semiconductor constraints, data center expansion, and networking bottlenecks impact AI software architecture.",
+      "id": "ai-isn-t-close-to-curing-cancer-this-startup-says-it-knows-what-",
+      "title": "AI isn't close to curing cancer. This startup says it knows what it will take.",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "summaryShort": "AI isn't close to curing cancer. This startup says it knows what it will take..",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "netflix-open-sources-agentic-workflow-for-causal-inference",
-      "title": "Netflix Open-Sources Agentic Workflow for Causal Inference",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/netflix-oci-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-18T13:00:00.000Z",
-      "summaryShort": "Netflix Open-Sources Agentic Workflow for Causal Inference. Netflix open-sourced an agentic workflow for Observational Causal Inference (OCI) that reduces toil in causal analysis.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-turning-outward-growing-from-code-to-influence",
-      "title": "Presentation: Turning Outward: Growing From Code to Influence",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/working-across-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-18T12:31:00.000Z",
-      "summaryShort": "Presentation: Turning Outward: Growing From Code to Influence. Brad Grantham discusses how software engineers and architects can transition from individual contributors to influential technical leaders.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "github-brings-stacked-pull-requests-to-public-preview",
-      "title": "GitHub Brings Stacked Pull Requests to Public Preview",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/github-stacked-pull-requests/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-18T12:00:00.000Z",
-      "summaryShort": "GitHub Brings Stacked Pull Requests to Public Preview. GitHub has announced that Stacked Pull Requests are now available in public preview, introducing native support for breaking large software changes into smaller, dependent pull requests",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "cursor-capitalizes-on-github-frustration-launches-rival-hosting-",
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "id": "you-can-venmo-your-college-tuition-for-some-reason",
+      "title": "You can Venmo your college tuition, for some reason",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "publishedAt": "2026-08-18T22:14:25.000Z",
-      "summaryShort": "Cursor capitalizes on GitHub frustration, launches rival hosting platform. Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "doj-s-probe-into-andreessen-horowitz-over-board-seats-baffles-vc",
-      "title": "DOJ's probe into Andreessen Horowitz over board seats baffles VCs",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
-      "publishedAt": "2026-08-18T20:36:20.000Z",
-      "summaryShort": "DOJ's probe into Andreessen Horowitz over board seats baffles VCs. Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "summaryShort": "You can Venmo your college tuition, for some reason. Kids these days don't know how good they have it.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "tiktok-explores-peer-to-peer-payments-via-dms-report-says",
-      "title": "TikTok explores peer-to-peer payments via DMs, report says",
+      "id": "relativity-networks-raises-22-million-to-bring-a-faster-kind-of-",
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-      "publishedAt": "2026-08-18T20:03:56.000Z",
-      "summaryShort": "TikTok explores peer-to-peer payments via DMs, report says. If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "publishedAt": "2026-08-19T10:00:00.000Z",
+      "summaryShort": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers. Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
       "tags": [
         "Engineering"
       ]
