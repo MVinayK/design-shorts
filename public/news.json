@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-08-18T12:54:00.963Z",
+  "generatedAt": "2026-08-19T01:34:29.517Z",
   "items": [
+    {
+      "id": "cloudflare-writeguard-brings-fine-grained-security-controls-for-",
+      "title": "Cloudflare WriteGuard Brings Fine-Grained Security Controls for MCP Servers",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-writeguard-mcp-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-18T16:00:00.000Z",
+      "summaryShort": "Cloudflare WriteGuard Brings Fine-Grained Security Controls for MCP Servers. Cloudflare is introducing WriteGuard, now in private beta, to provide fine-grained security controls for MCP (Model Context Protocol) servers.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "presentation-from-fab-to-token-the-state-of-the-market",
+      "title": "Presentation: From Fab To Token - The State Of The Market",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-hardware-tokenomics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-18T16:00:00.000Z",
+      "summaryShort": "Presentation: From Fab To Token - The State Of The Market. Jordan Nanos discusses how semiconductor constraints, data center expansion, and networking bottlenecks impact AI software architecture.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "netflix-open-sources-agentic-workflow-for-causal-inference",
+      "title": "Netflix Open-Sources Agentic Workflow for Causal Inference",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/netflix-oci-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-18T13:00:00.000Z",
+      "summaryShort": "Netflix Open-Sources Agentic Workflow for Causal Inference. Netflix open-sourced an agentic workflow for Observational Causal Inference (OCI) that reduces toil in causal analysis.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "presentation-turning-outward-growing-from-code-to-influence",
       "title": "Presentation: Turning Outward: Growing From Code to Influence",
@@ -24,68 +58,34 @@
       ]
     },
     {
-      "id": "net-11-preview-7-adds-passkeys-incremental-xaml-hot-reload-and-s",
-      "title": ".NET 11 Preview 7 Adds Passkeys, Incremental XAML Hot Reload, and Shell Route Templates to MAUI",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/dotnet-11-preview7-maui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-18T08:00:00.000Z",
-      "summaryShort": ".NET 11 Preview 7 Adds Passkeys, Incremental XAML Hot Reload, and Shell Route Templates to MAUI. Microsoft has released .NET 11 Preview 7 with a substantial set of .NET MAUI updates, including cross-platform passkey authentication, a new in",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "major-frontier-model-providers-adopt-watermarking-tech-to-comply",
-      "title": "Major Frontier Model Providers Adopt Watermarking Tech to Comply with EU Regulation",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/eu-ai-content-watermark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-18T05:05:00.000Z",
-      "summaryShort": "Major Frontier Model Providers Adopt Watermarking Tech to Comply with EU Regulation. As of August 2, 2026, the EU AI Act Article 50 requires AI systems to mark synthetic outputs in a machine-detectable manner.",
+      "id": "cursor-capitalizes-on-github-frustration-launches-rival-hosting-",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "publishedAt": "2026-08-18T22:14:25.000Z",
+      "summaryShort": "Cursor capitalizes on GitHub frustration, launches rival hosting platform. Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "spacexai-launches-grok-bot-for-autonomous-ai-agents",
-      "title": "SpaceXAI Launches Grok Bot for Autonomous AI Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/grok-bot-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-17T18:02:00.000Z",
-      "summaryShort": "SpaceXAI Launches Grok Bot for Autonomous AI Agents. SpaceXAI has introduced Grok Bot, a system of persistent AI agents that operate on dedicated cloud computers and can interact with websites, applications, inboxes, and other tools.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to",
-      "title": "Reach Capital raises $265M Fund V to back AI founders building to &#8216;expand human potential'",
+      "id": "doj-s-probe-into-andreessen-horowitz-over-board-seats-baffles-vc",
+      "title": "DOJ's probe into Andreessen Horowitz over board seats baffles VCs",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
-      "publishedAt": "2026-08-18T11:00:00.000Z",
-      "summaryShort": "Reach Capital raises $265M Fund V to back AI founders building to &#8216;expand human potential'. Reach Capital announced Tuesday an oversubscribed $265M Fund V.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "fairphone-is-launching-its-latest-repairable-phone-in-the-us-too",
-      "title": "Fairphone is launching its latest repairable phone in the US too",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
-      "publishedAt": "2026-08-18T11:00:00.000Z",
-      "summaryShort": "Fairphone is launching its latest repairable phone in the US too. The Fairphone 6+ is priced at $649 and will be available on Amazon.",
+      "sourceUrl": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+      "publishedAt": "2026-08-18T20:36:20.000Z",
+      "summaryShort": "DOJ's probe into Andreessen Horowitz over board seats baffles VCs. Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet",
-      "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
+      "id": "tiktok-explores-peer-to-peer-payments-via-dms-report-says",
+      "title": "TikTok explores peer-to-peer payments via DMs, report says",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
-      "publishedAt": "2026-08-18T10:30:00.000Z",
-      "summaryShort": "Einride strikes deal to add 500 Tesla Semis to its fleet. Einride will buy the Tesla Semis, which will be made to Amazon and other customers.",
+      "sourceUrl": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+      "publishedAt": "2026-08-18T20:03:56.000Z",
+      "summaryShort": "TikTok explores peer-to-peer payments via DMs, report says. If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
       "tags": [
         "Engineering"
       ]
