@@ -1,93 +1,92 @@
 {
-  "generatedAt": "2026-08-20T01:27:44.932Z",
+  "generatedAt": "2026-08-20T12:56:53.494Z",
   "items": [
     {
-      "id": "docker-launches-fully-rebuilt-virtualization-layer-to-boost-perf",
-      "title": "Docker Launches Fully Rebuilt Virtualization Layer to Boost Performance and Improve Dev Experience",
+      "id": "next-js-16-3-instant-navigations-up-to-90-less-dev-memory-and-fa",
+      "title": "Next.js 16.3: Instant Navigations, Up to 90% Less Dev Memory and Faster Builds",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/docker-vmm-layer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-19T19:00:00.000Z",
-      "summaryShort": "Docker Launches Fully Rebuilt Virtualization Layer to Boost Performance and Improve Dev Experience. Docker VMM (virtual machine monitor) is Docker's new, first-party virtualization layer for Docker Desktop, replacing third-party virtualizat",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/vercel-next-js-16-3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-20T12:04:00.000Z",
+      "summaryShort": "Next.js 16.3: Instant Navigations, Up to 90% Less Dev Memory and Faster Builds. Vercel has released Next.js 16.3, featuring significant updates since version 16.0.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "whatsapp-tests-on-device-ml-for-scam-detection-with-privacy-pres",
-      "title": "Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics",
+      "id": "infoq-opens-enrollment-for-new-ai-assisted-engineering-online-ce",
+      "title": "InfoQ Opens Enrollment for New AI-Assisted Engineering Online Certification Program",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/whatsapp-scam-alert-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-19T14:17:00.000Z",
-      "summaryShort": "Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics. WhatsApp is testing Scam Alert in limited beta, using on device machine learning to detect potential scam messages from non contacts.",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/ai-assisted-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-20T12:00:00.000Z",
+      "summaryShort": "InfoQ Opens Enrollment for New AI-Assisted Engineering Online Certification Program. InfoQ has opened enrollment for the InfoQ Certified AI-Assisted Engineering Program, a five-week online certification program for senior engineers and arch",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "presentation-understanding-progressive-collapse-how-to-avoid-a-c",
-      "title": "Presentation: Understanding Progressive Collapse: How To Avoid A Cascading Failure",
+      "id": "how-code-in-the-age-of-artificial-intelligence-becomes-write-onl",
+      "title": "How Code in the Age of Artificial Intelligence Becomes Write-Only and Disposable",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/progressive-collapse-system-resilience/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-19T11:00:00.000Z",
-      "summaryShort": "Presentation: Understanding Progressive Collapse: How To Avoid A Cascading Failure. Sam Newman discusses the concept of progressive collapse in civil engineering and how it applies to distributed systems.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "net-11-preview-7-brings-updates-across-c-asp-net-core-ef-core-an",
-      "title": ".NET 11 Preview 7 Brings Updates Across C#, ASP.NET Core, EF Core, and Windows Forms",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/dotnet-11-preview-7/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-19T09:26:00.000Z",
-      "summaryShort": ".NET 11 Preview 7 Brings Updates Across C#, ASP.NET Core, EF Core, and Windows Forms. Last week Microsoft released .NET 11 Preview 7, with updates across C#, ASP.NET Core, .NET MAUI, Entity Framework Core, Windows Forms, and F#.",
-      "tags": [
-        "Architecture"
-      ]
-    },
-    {
-      "id": "multi-agent-collaboration-gets-persistent-compute-in-bedrock-age",
-      "title": "Multi Agent Collaboration Gets Persistent Compute in Bedrock AgentCore",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/aws-bedrock-agentcore-runtime/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-19T08:00:00.000Z",
-      "summaryShort": "Multi Agent Collaboration Gets Persistent Compute in Bedrock AgentCore. Amazon Web Services has extended Amazon Bedrock AgentCore with runtime instances, a new compute option that gives AI agents persistent infrastructure purpose-built for ",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "stripe-didn-t-really-buy-openrouter-because-of-the-8216-singular",
-      "title": "Stripe didn't really buy OpenRouter because of the &#8216;singularity'",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "publishedAt": "2026-08-19T23:32:00.000Z",
-      "summaryShort": "Stripe didn't really buy OpenRouter because of the &#8216;singularity'. What does a payments giant want with a startup that routes prompts between different AI models?",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/code-AI-write-only-disposable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-20T11:25:00.000Z",
+      "summaryShort": "How Code in the Age of Artificial Intelligence Becomes Write-Only and Disposable. Artificial intelligence (AI) makes all code write-only,.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "waymo-s-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-t",
-      "title": "Waymo's cheaper, next-gen robotaxi is now open to all riders in these three cities",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
-      "publishedAt": "2026-08-19T22:25:01.000Z",
-      "summaryShort": "Waymo's cheaper, next-gen robotaxi is now open to all riders in these three cities. The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
+      "id": "microsoft-releases-aspire-13-5-with-a-refreshed-dashboard-and-wo",
+      "title": "Microsoft Releases Aspire 13.5 With a Refreshed Dashboard and Workflow Improvements",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/dotnet-aspire-13-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-20T08:07:00.000Z",
+      "summaryShort": "Microsoft Releases Aspire 13.5 With a Refreshed Dashboard and Workflow Improvements. Last week, Microsoft released Aspire 13.5, an update that refreshes the dashboard and the aspire.dev homepage and adds several quality-of-life features.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "openai-seeks-to-one-up-anthropic-with-new-customer-privacy-prote",
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "publishedAt": "2026-08-19T22:10:46.000Z",
-      "summaryShort": "OpenAI seeks to one-up Anthropic with new customer privacy protections. A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "id": "flux-mirror-uses-gitless-gitops-to-keep-software-supply-chain-un",
+      "title": "Flux Mirror Uses Gitless GitOps to Keep Software Supply Chain Under Control",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/flux-mirror-gitless-gitops/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-20T08:00:00.000Z",
+      "summaryShort": "Flux Mirror Uses Gitless GitOps to Keep Software Supply Chain Under Control. Flux has introduced Flux Mirror, a CLI plugin that mirrors container images, Helm charts and OCI artifacts between registries from a declarative configuration.",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "us-says-hackers-are-targeting-vulnerable-water-systems-with-the-",
+      "title": "US says hackers are targeting vulnerable water systems with the help of AI",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
+      "publishedAt": "2026-08-20T12:43:19.000Z",
+      "summaryShort": "US says hackers are targeting vulnerable water systems with the help of AI. Hackers are targeting internet-connected Siemens controllers used in water facilities around the United States.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "meta-ai-s-new-mac-app-wants-you-to-talk-to-your-apps",
+      "title": "Meta AI's new Mac app wants you to talk to your apps",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "publishedAt": "2026-08-20T12:11:57.000Z",
+      "summaryShort": "Meta AI's new Mac app wants you to talk to your apps. Meta said its Muse Spark model is powering the dictation feature.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-la",
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "publishedAt": "2026-08-20T09:30:00.000Z",
+      "summaryShort": "Binance now lets AI agents trade, but keeping them in check is largely up to users. Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+      "tags": [
+        "AI"
       ]
     }
   ]
