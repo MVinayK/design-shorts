@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-20T12:56:53.494Z",
+  "generatedAt": "2026-08-21T01:38:08.041Z",
   "items": [
+    {
+      "id": "presentation-why-fetch-when-you-can-sync-building-local-first-ap",
+      "title": "Presentation: Why Fetch When You Can Sync? Building Local-First Apps on a Sync Engine Architecture",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/local-first-sync-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-20T13:19:00.000Z",
+      "summaryShort": "Presentation: Why Fetch When You Can Sync? Building Local-First Apps on a Sync Engine Architecture.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "next-js-16-3-instant-navigations-up-to-90-less-dev-memory-and-fa",
       "title": "Next.js 16.3: Instant Navigations, Up to 90% Less Dev Memory and Faster Builds",
@@ -46,47 +57,36 @@
       ]
     },
     {
-      "id": "flux-mirror-uses-gitless-gitops-to-keep-software-supply-chain-un",
-      "title": "Flux Mirror Uses Gitless GitOps to Keep Software Supply Chain Under Control",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/flux-mirror-gitless-gitops/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-20T08:00:00.000Z",
-      "summaryShort": "Flux Mirror Uses Gitless GitOps to Keep Software Supply Chain Under Control. Flux has introduced Flux Mirror, a CLI plugin that mirrors container images, Helm charts and OCI artifacts between registries from a declarative configuration.",
+      "id": "tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robo",
+      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+      "publishedAt": "2026-08-21T00:23:36.000Z",
+      "summaryShort": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada. Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "us-says-hackers-are-targeting-vulnerable-water-systems-with-the-",
-      "title": "US says hackers are targeting vulnerable water systems with the help of AI",
+      "id": "ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-train",
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
-      "publishedAt": "2026-08-20T12:43:19.000Z",
-      "summaryShort": "US says hackers are targeting vulnerable water systems with the help of AI. Hackers are targeting internet-connected Siemens controllers used in water facilities around the United States.",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "publishedAt": "2026-08-21T00:13:44.000Z",
+      "summaryShort": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom. Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "meta-ai-s-new-mac-app-wants-you-to-talk-to-your-apps",
-      "title": "Meta AI's new Mac app wants you to talk to your apps",
+      "id": "learn-what-vcs-actually-want-from-a-founder-who-s-raised-1b",
+      "title": "Learn what VCs actually want, from a founder who's raised $1B",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "publishedAt": "2026-08-20T12:11:57.000Z",
-      "summaryShort": "Meta AI's new Mac app wants you to talk to your apps. Meta said its Muse Spark model is powering the dictation feature.",
+      "sourceUrl": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+      "publishedAt": "2026-08-20T23:32:27.000Z",
+      "summaryShort": "Learn what VCs actually want, from a founder who's raised $1B. Investors want founders who understand the financial reality of their business.",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-la",
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "publishedAt": "2026-08-20T09:30:00.000Z",
-      "summaryShort": "Binance now lets AI agents trade, but keeping them in check is largely up to users. Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
-      "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
