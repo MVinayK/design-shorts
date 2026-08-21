@@ -1,59 +1,61 @@
 {
-  "generatedAt": "2026-08-21T01:38:08.041Z",
+  "generatedAt": "2026-08-21T12:56:01.937Z",
   "items": [
     {
-      "id": "presentation-why-fetch-when-you-can-sync-building-local-first-ap",
-      "title": "Presentation: Why Fetch When You Can Sync? Building Local-First Apps on a Sync Engine Architecture",
+      "id": "cloudflare-turns-engineering-standards-into-an-ai-enforced-contr",
+      "title": "Cloudflare Turns Engineering Standards Into an AI-Enforced Control System",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/local-first-sync-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-20T13:19:00.000Z",
-      "summaryShort": "Presentation: Why Fetch When You Can Sync? Building Local-First Apps on a Sync Engine Architecture.",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-ai-enforcement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-21T12:00:00.000Z",
+      "summaryShort": "Cloudflare Turns Engineering Standards Into an AI-Enforced Control System. Cloudflare has recently detailed how it is using AI to transform internal engineering standards from passive documentation into an actively enforced control system a",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "mini-book-architecture-as-a-socio-technical-craft",
+      "title": "Mini book: Architecture as a Socio-Technical Craft",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/minibooks/architect-sociotechnical-craft/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-21T11:30:00.000Z",
+      "summaryShort": "Mini book: Architecture as a Socio-Technical Craft. Architecture is not a fixed choice made once; fitness is a moving target driven by changing regulations, tech, and markets.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "next-js-16-3-instant-navigations-up-to-90-less-dev-memory-and-fa",
-      "title": "Next.js 16.3: Instant Navigations, Up to 90% Less Dev Memory and Faster Builds",
+      "id": "presentation-enchant-your-ai-and-apis-with-ebpf-magic-x1fa84",
+      "title": "Presentation: Enchant Your AI and APIs with eBPF Magic &#x1fa84;",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/vercel-next-js-16-3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-20T12:04:00.000Z",
-      "summaryShort": "Next.js 16.3: Instant Navigations, Up to 90% Less Dev Memory and Faster Builds. Vercel has released Next.js 16.3, featuring significant updates since version 16.0.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "infoq-opens-enrollment-for-new-ai-assisted-engineering-online-ce",
-      "title": "InfoQ Opens Enrollment for New AI-Assisted Engineering Online Certification Program",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/ai-assisted-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-20T12:00:00.000Z",
-      "summaryShort": "InfoQ Opens Enrollment for New AI-Assisted Engineering Online Certification Program. InfoQ has opened enrollment for the InfoQ Certified AI-Assisted Engineering Program, a five-week online certification program for senior engineers and arch",
+      "sourceUrl": "https://www.infoq.com/presentations/ebpf-ai-gateway-kubernetes-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-21T11:00:00.000Z",
+      "summaryShort": "Presentation: Enchant Your AI and APIs with eBPF Magic &#x1fa84;. Dan Finneran discusses the risks of unowned AI-generated code in production and demonstrates how eBPF can intercept and control AI API traffic in Kubernetes.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "how-code-in-the-age-of-artificial-intelligence-becomes-write-onl",
-      "title": "How Code in the Age of Artificial Intelligence Becomes Write-Only and Disposable",
+      "id": "azure-devops-remote-mcp-server-reaches-ga-without-support-for-cl",
+      "title": "Azure DevOps Remote MCP Server Reaches GA, Without Support for Claude, ChatGPT, or Cursor",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/code-AI-write-only-disposable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-20T11:25:00.000Z",
-      "summaryShort": "How Code in the Age of Artificial Intelligence Becomes Write-Only and Disposable. Artificial intelligence (AI) makes all code write-only,.",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/azure-devops-remote-mcp-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-21T09:55:00.000Z",
+      "summaryShort": "Azure DevOps Remote MCP Server Reaches GA, Without Support for Claude, ChatGPT, or Cursor. Microsoft has made the Azure DevOps Remote MCP Server generally available, offering a hosted endpoint into work items, repos, and pipelines with noth",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "microsoft-releases-aspire-13-5-with-a-refreshed-dashboard-and-wo",
-      "title": "Microsoft Releases Aspire 13.5 With a Refreshed Dashboard and Workflow Improvements",
+      "id": "s3-compatibility-doesn-t-guarantee-s3-level-security",
+      "title": "S3 Compatibility Doesn't Guarantee S3-Level Security",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/dotnet-aspire-13-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-20T08:07:00.000Z",
-      "summaryShort": "Microsoft Releases Aspire 13.5 With a Refreshed Dashboard and Workflow Improvements. Last week, Microsoft released Aspire 13.5, an update that refreshes the dashboard and the aspire.dev homepage and adds several quality-of-life features.",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/s3-clone-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-21T08:41:00.000Z",
+      "summaryShort": "S3 Compatibility Doesn't Guarantee S3-Level Security. Security researchers at Wiz recently examined S3-compatible object storage services across six popular neoclouds, revealing significant security gaps compared to Amazon S3.",
       "tags": [
-        "Engineering"
+        "Databases",
+        "Cloud"
       ]
     },
     {
