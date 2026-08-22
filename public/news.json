@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-08-21T12:56:01.937Z",
+  "generatedAt": "2026-08-22T01:26:46.711Z",
   "items": [
+    {
+      "id": "cloudflare-cuts-astro-github-issues-by-85-with-ai-agents",
+      "title": "Cloudflare Cuts Astro Github Issues by 85% with AI Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-astro-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-21T14:09:00.000Z",
+      "summaryShort": "Cloudflare Cuts Astro Github Issues by 85% with AI Agents. Cloudflare, Astro, AI agents, GitHub Actions, issue triage, agentic AI, software architecture, open source, developer tools, AI automation, automated testing, human in the loop, age",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "cloudflare-turns-engineering-standards-into-an-ai-enforced-contr",
       "title": "Cloudflare Turns Engineering Standards Into an AI-Enforced Control System",
@@ -47,48 +59,36 @@
       ]
     },
     {
-      "id": "s3-compatibility-doesn-t-guarantee-s3-level-security",
-      "title": "S3 Compatibility Doesn't Guarantee S3-Level Security",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/s3-clone-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-21T08:41:00.000Z",
-      "summaryShort": "S3 Compatibility Doesn't Guarantee S3-Level Security. Security researchers at Wiz recently examined S3-compatible object storage services across six popular neoclouds, revealing significant security gaps compared to Amazon S3.",
-      "tags": [
-        "Databases",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robo",
-      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+      "id": "japanese-space-tech-startup-letara-expands-beyond-satellite-thru",
+      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-      "publishedAt": "2026-08-21T00:23:36.000Z",
-      "summaryShort": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada. Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+      "publishedAt": "2026-08-22T01:03:06.000Z",
+      "summaryShort": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M. Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and se",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-train",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "id": "anthropic-s-opus-4-6-is-a-smut-machine",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "publishedAt": "2026-08-21T00:13:44.000Z",
-      "summaryShort": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom. Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "publishedAt": "2026-08-21T23:07:25.000Z",
+      "summaryShort": "Anthropic’s Opus 4.6 is a smut-machine. Anthropic forbids its Claude models from generating sexually explicit content.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "learn-what-vcs-actually-want-from-a-founder-who-s-raised-1b",
-      "title": "Learn what VCs actually want, from a founder who's raised $1B",
+      "id": "nvidia-partners-with-data-center-developer-cloverleaf",
+      "title": "Nvidia partners with data center developer Cloverleaf",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-      "publishedAt": "2026-08-20T23:32:27.000Z",
-      "summaryShort": "Learn what VCs actually want, from a founder who's raised $1B. Investors want founders who understand the financial reality of their business.",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "publishedAt": "2026-08-21T22:37:38.000Z",
+      "summaryShort": "Nvidia partners with data center developer Cloverleaf. Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
