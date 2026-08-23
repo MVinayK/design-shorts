@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-08-23T01:41:01.072Z",
+  "generatedAt": "2026-08-23T12:48:49.950Z",
   "items": [
+    {
+      "id": "ovhcloud-raises-prices-as-ai-memory-demand-reprices-non-ai-infra",
+      "title": "OVHcloud Raises Prices as AI Memory Demand Reprices Non-AI Infrastructure",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/ovhcloud-memory-price-rise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-23T08:43:00.000Z",
+      "summaryShort": "OVHcloud Raises Prices as AI Memory Demand Reprices Non-AI Infrastructure. OVHcloud will raise prices from September, with 2026-edition gaming servers up 87 percent and other recent servers 40 to 59 percent.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "dram-controller-register-manipulation-breaks-cpu-memory-isolatio",
+      "title": "DRAM Controller Register Manipulation Breaks CPU Memory Isolation",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/amd-memory-exploit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-23T04:04:00.000Z",
+      "summaryShort": "DRAM Controller Register Manipulation Breaks CPU Memory Isolation. Security researcher Christopher Domas developed skitter-creek-bath-salts, an open-source hardware security tool that disrupts CPU privilege boundaries by manipulating memory",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "cloudflare-announces-kitesurf-a-browser-engine-for-agents",
       "title": "Cloudflare Announces Kitesurf, a Browser Engine for Agents",
@@ -36,24 +59,12 @@
       ]
     },
     {
-      "id": "aws-releases-aws-bench-to-evaluate-agents-on-cloud-tasks",
-      "title": "AWS Releases Aws-Bench to Evaluate Agents on Cloud Tasks",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/aws-bench-agent-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-22T08:00:00.000Z",
-      "summaryShort": "AWS Releases Aws-Bench to Evaluate Agents on Cloud Tasks. AWS has released aws-bench, an open-source benchmark for evaluating AI agents on real AWS tasks such as misconfigurations and infrastructure provisioning.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "voidzero-releases-vite-beta-a-unified-web-toolchain-behind-a-sin",
-      "title": "VoidZero Releases Vite+ Beta: A Unified Web Toolchain Behind a Single Command",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/vite-plus-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-22T06:32:00.000Z",
-      "summaryShort": "VoidZero Releases Vite+ Beta: A Unified Web Toolchain Behind a Single Command. VoidZero has launched the beta of Vite+, a unified web development toolchain.",
+      "id": "two-years-after-launch-walmart-s-flipkart-is-closing-in-on-india",
+      "title": "Two years after launch, Walmart's Flipkart is closing in on India's quick-commerce leaders",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+      "publishedAt": "2026-08-23T03:00:00.000Z",
+      "summaryShort": "Two years after launch, Walmart's Flipkart is closing in on India's quick-commerce leaders. Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
       "tags": [
         "Engineering"
       ]
@@ -78,17 +89,6 @@
       "summaryShort": "Will the DOJ's investigation into a16z spook other VCs?. On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "inherent-founded-by-deepmind-alumni-says-its-ai-8216-teammate-ju",
-      "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate' just outperformed Anthropic and OpenAI at replicating research",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "publishedAt": "2026-08-22T19:00:00.000Z",
-      "summaryShort": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate' just outperformed Anthropic and OpenAI at replicating research. Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate sc",
-      "tags": [
-        "AI"
       ]
     }
   ]
