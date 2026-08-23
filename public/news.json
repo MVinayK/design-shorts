@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-22T12:47:49.765Z",
+  "generatedAt": "2026-08-23T01:41:01.072Z",
   "items": [
+    {
+      "id": "cloudflare-announces-kitesurf-a-browser-engine-for-agents",
+      "title": "Cloudflare Announces Kitesurf, a Browser Engine for Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-kitesurf-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-22T15:01:00.000Z",
+      "summaryShort": "Cloudflare Announces Kitesurf, a Browser Engine for Agents. Cloudflare recently introduced Kitesurf, a lightweight browser built for automated workloads.",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "presentation-safechat-building-ai-powered-safety-systems-at-scal",
       "title": "Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace",
@@ -48,46 +59,34 @@
       ]
     },
     {
-      "id": "cloudflare-cuts-astro-github-issues-by-85-with-ai-agents",
-      "title": "Cloudflare Cuts Astro GitHub Issues by 85% with AI Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-astro-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-21T14:09:00.000Z",
-      "summaryShort": "Cloudflare Cuts Astro GitHub Issues by 85% with AI Agents. Cloudflare, Astro, AI agents, GitHub Actions, issue triage, agentic AI, software architecture, open source, developer tools, AI automation, automated testing, human in the loop, age",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "michael-polansky-is-training-an-ai-model-on-skin-that-s-still-al",
-      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "id": "harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-instruct",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-      "publishedAt": "2026-08-22T01:31:04.000Z",
-      "summaryShort": "Michael Polansky is training an AI model on skin that’s still alive. Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps l",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "publishedAt": "2026-08-22T21:46:56.000Z",
+      "summaryShort": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors. In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "japanese-space-tech-startup-letara-expands-beyond-satellite-thru",
-      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+      "id": "will-the-doj-s-investigation-into-a16z-spook-other-vcs",
+      "title": "Will the DOJ's investigation into a16z spook other VCs?",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-      "publishedAt": "2026-08-22T01:03:06.000Z",
-      "summaryShort": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M. Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and se",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+      "publishedAt": "2026-08-22T20:24:20.000Z",
+      "summaryShort": "Will the DOJ's investigation into a16z spook other VCs?. On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "anthropic-s-opus-4-6-is-a-smut-machine",
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "id": "inherent-founded-by-deepmind-alumni-says-its-ai-8216-teammate-ju",
+      "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate' just outperformed Anthropic and OpenAI at replicating research",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "publishedAt": "2026-08-21T23:07:25.000Z",
-      "summaryShort": "Anthropic’s Opus 4.6 is a smut-machine. Anthropic forbids its Claude models from generating sexually explicit content.",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "publishedAt": "2026-08-22T19:00:00.000Z",
+      "summaryShort": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate' just outperformed Anthropic and OpenAI at replicating research. Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate sc",
       "tags": [
         "AI"
       ]
