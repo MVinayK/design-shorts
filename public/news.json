@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-08-24T01:38:57.690Z",
+  "generatedAt": "2026-08-24T12:58:23.199Z",
   "items": [
+    {
+      "id": "article-rightsizing-platform-engineering-building-the-platform-y",
+      "title": "Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/rightsizing-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-24T11:00:00.000Z",
+      "summaryShort": "Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs. Shift-left and DevOps have impacted how we flow changes from inception to production, but at the cost of increased cognitive load and duplica",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "podcast-the-human-edge-why-brownfield-codebases-need-mob-program",
+      "title": "Podcast: The Human Edge: Why Brownfield Codebases Need Mob Programming, Not Just AI Vibes",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/brownfield-codebases-mob-programming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-24T11:00:00.000Z",
+      "summaryShort": "Podcast: The Human Edge: Why Brownfield Codebases Need Mob Programming, Not Just AI Vibes. Asgaut Mjølne Söderbom and Ola Hast discuss the evolution of their software engineering practices past continuous deployment and pair engineering.",
+      "tags": [
+        "AI",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "presentation-prompt-to-prod-engineering-an-autonomous-sdlc-at-sc",
+      "title": "Presentation: Prompt to Prod: Engineering an Autonomous SDLC at Scale",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/autonomous-ai-software-development-roblox/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-24T11:00:00.000Z",
+      "summaryShort": "Presentation: Prompt to Prod: Engineering an Autonomous SDLC at Scale. Andrew Swerdlow shares how Roblox scales autonomous software development from prompt to production.",
+      "tags": [
+        "AI",
+        "Cloud",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "jdk-27-and-jdk-28-what-we-know-so-far",
+      "title": "JDK 27 and JDK 28: What We Know So Far",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/java-27-so-far/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-24T02:30:00.000Z",
+      "summaryShort": "JDK 27 and JDK 28: What We Know So Far. JDK 27, the second non-LTS release since JDK 25, has reached its first release candidate phase featuring a final set of nine new features, in the form of JEPs, that can be separated into four categori",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "cloudflare-os-cloudflare-s-open-source-corporate-ai-platform-bui",
       "title": "Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model",
@@ -12,51 +59,6 @@
         "AI",
         "Cloud",
         "Architecture"
-      ]
-    },
-    {
-      "id": "google-s-heir-aims-to-make-homomorphic-encrypted-inference-a-one",
-      "title": "Google's HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/google-heir-homomorphic-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-23T18:00:00.000Z",
-      "summaryShort": "Google's HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability. Google is introducing HEIR (Homomorphic Encryption Intermediate Representation), an open-source compiler and development toolchain designed to make encrypted",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "ovhcloud-raises-prices-as-ai-memory-demand-reprices-non-ai-infra",
-      "title": "OVHcloud Raises Prices as AI Memory Demand Reprices Non-AI Infrastructure",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/ovhcloud-memory-price-rise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-23T08:43:00.000Z",
-      "summaryShort": "OVHcloud Raises Prices as AI Memory Demand Reprices Non-AI Infrastructure. OVHcloud will raise prices from September, with 2026-edition gaming servers up 87 percent and other recent servers 40 to 59 percent.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "dram-controller-register-manipulation-breaks-cpu-memory-isolatio",
-      "title": "DRAM Controller Register Manipulation Breaks CPU Memory Isolation",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/amd-memory-exploit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-23T04:04:00.000Z",
-      "summaryShort": "DRAM Controller Register Manipulation Breaks CPU Memory Isolation. Security researcher Christopher Domas developed skitter-creek-bath-salts, an open-source hardware security tool that disrupts CPU privilege boundaries by manipulating memory",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "cloudflare-announces-kitesurf-a-browser-engine-for-agents",
-      "title": "Cloudflare Announces Kitesurf, a Browser Engine for Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-kitesurf-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-22T15:01:00.000Z",
-      "summaryShort": "Cloudflare Announces Kitesurf, a Browser Engine for Agents. Cloudflare recently introduced Kitesurf, a lightweight browser built for automated workloads.",
-      "tags": [
-        "Cloud"
       ]
     },
     {
