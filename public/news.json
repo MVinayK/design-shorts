@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-08-25T01:34:21.396Z",
+  "generatedAt": "2026-08-25T12:54:27.382Z",
   "items": [
+    {
+      "id": "bmc-vulnerabilities-put-thousands-of-servers-at-risk-of-hardware",
+      "title": "BMC Vulnerabilities Put Thousands of Servers at Risk of Hardware-Level Compromise",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/bmc-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-25T12:00:00.000Z",
+      "summaryShort": "BMC Vulnerabilities Put Thousands of Servers at Risk of Hardware-Level Compromise. Security researchers are warning that thousands of enterprise servers could be exposed to compromise through vulnerabilities in their Baseboard Management Co",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "nuxt-4-5-experimental-ssr-streaming-vite-8-and-an-rsbuild-powere",
+      "title": "Nuxt 4.5: Experimental SSR Streaming, Vite 8 and an Rsbuild-Powered Rspack Builder",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/nuxt-4-5-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-25T11:36:00.000Z",
+      "summaryShort": "Nuxt 4.5: Experimental SSR Streaming, Vite 8 and an Rsbuild-Powered Rspack Builder. Nuxt has released version 4.5, featuring updates such as a switch to Vite 8, a new Rspack 2 builder, and experimental SSR streaming.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "cursor-releases-origin-as-an-agent-native-alternative-to-github",
+      "title": "Cursor Releases Origin as an Agent-Native Alternative to GitHub",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/cursor-origin-alternative-github/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-25T08:00:00.000Z",
+      "summaryShort": "Cursor Releases Origin as an Agent-Native Alternative to GitHub. AI coding agent Cursor has launched Origin, a git based code hosting platform embedded inside its AI-powered editor, positioning it as an alternative to GitHub for teams that ",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "beyond-embedded-how-duckdb-v2-0-shifts-architecture-toward-distr",
+      "title": "Beyond Embedded: How DuckDB v2.0 Shifts Architecture Toward Distributed Network Capabilities",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/duckdb-v2-distributed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-25T06:06:00.000Z",
+      "summaryShort": "Beyond Embedded: How DuckDB v2.0 Shifts Architecture Toward Distributed Network Capabilities. DuckDB Labs has previewed DuckDB v2.0, codenamed \"Cyanoptera.\" This release includes over 10000 commits and introduces a client/server mode, enabl",
+      "tags": [
+        "Databases"
+      ]
+    },
     {
       "id": "microsoft-moves-ai-governance-from-policy-to-runtime-enforcement",
       "title": "Microsoft Moves AI Governance From Policy to Runtime Enforcement",
@@ -13,82 +57,34 @@
       ]
     },
     {
-      "id": "article-rightsizing-platform-engineering-building-the-platform-y",
-      "title": "Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/rightsizing-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-24T11:00:00.000Z",
-      "summaryShort": "Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs. Shift-left and DevOps have impacted how we flow changes from inception to production, but at the cost of increased cognitive load and duplica",
+      "id": "fiat-ventures-combines-venture-and-advisory-divisions-into-new-b",
+      "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
+      "publishedAt": "2026-08-25T12:37:37.000Z",
+      "summaryShort": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II. In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band",
+      "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
+      "publishedAt": "2026-08-25T12:00:00.000Z",
+      "summaryShort": "Fitbit founders launch Luffu Link, an LTE health and safety band. Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a p",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "podcast-the-human-edge-why-brownfield-codebases-need-mob-program",
-      "title": "Podcast: The Human Edge: Why Brownfield Codebases Need Mob Programming, Not Just AI Vibes",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/brownfield-codebases-mob-programming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-24T11:00:00.000Z",
-      "summaryShort": "Podcast: The Human Edge: Why Brownfield Codebases Need Mob Programming, Not Just AI Vibes. Asgaut Mjølne Söderbom and Ola Hast discuss the evolution of their software engineering practices past continuous deployment and pair engineering.",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "presentation-prompt-to-prod-engineering-an-autonomous-sdlc-at-sc",
-      "title": "Presentation: Prompt to Prod: Engineering an Autonomous SDLC at Scale",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/autonomous-ai-software-development-roblox/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-24T11:00:00.000Z",
-      "summaryShort": "Presentation: Prompt to Prod: Engineering an Autonomous SDLC at Scale. Andrew Swerdlow shares how Roblox scales autonomous software development from prompt to production.",
-      "tags": [
-        "AI",
-        "Cloud",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "jdk-27-and-jdk-28-what-we-know-so-far",
-      "title": "JDK 27 and JDK 28: What We Know So Far",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/java-27-so-far/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-24T02:30:00.000Z",
-      "summaryShort": "JDK 27 and JDK 28: What We Know So Far. JDK 27, the second non-LTS release since JDK 25, has reached its first release candidate phase featuring a final set of nine new features, in the form of JEPs, that can be separated into four categori",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "situational-awareness-star-ai-hedge-fund-that-nearly-imploded-no",
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "id": "8216-the-world-seems-to-be-ready-an-interview-with-openai-head-o",
+      "title": "&#8216;The world seems to be ready': An interview with OpenAI head of product Thibault Sottiaux",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "publishedAt": "2026-08-25T00:23:12.000Z",
-      "summaryShort": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC. The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at",
-      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-      "publishedAt": "2026-08-24T23:05:44.000Z",
-      "summaryShort": "Oura is reportedly eyeing a September IPO that could value it at more than $16B. We all knew it was coming.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo",
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "publishedAt": "2026-08-24T21:24:17.000Z",
-      "summaryShort": "Trump bought SpaceX shares two weeks after blockbuster IPO. The president bought when the stock was in the mid-$150 range.",
+      "sourceUrl": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "publishedAt": "2026-08-25T12:00:00.000Z",
+      "summaryShort": "&#8216;The world seems to be ready': An interview with OpenAI head of product Thibault Sottiaux. TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
       "tags": [
         "Engineering"
       ]
