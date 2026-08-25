@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-24T12:58:23.199Z",
+  "generatedAt": "2026-08-25T01:34:21.396Z",
   "items": [
+    {
+      "id": "microsoft-moves-ai-governance-from-policy-to-runtime-enforcement",
+      "title": "Microsoft Moves AI Governance From Policy to Runtime Enforcement",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-24T13:49:00.000Z",
+      "summaryShort": "Microsoft Moves AI Governance From Policy to Runtime Enforcement. Microsoft has outlined an AI governance architecture spanning nine governance domains and four functions: policy, control, visibility, and proof.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "article-rightsizing-platform-engineering-building-the-platform-y",
       "title": "Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs",
@@ -49,49 +60,37 @@
       ]
     },
     {
-      "id": "cloudflare-os-cloudflare-s-open-source-corporate-ai-platform-bui",
-      "title": "Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-23T22:50:00.000Z",
-      "summaryShort": "Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model. Cloudflare recently open-sourced Cloudflare OS.",
+      "id": "situational-awareness-star-ai-hedge-fund-that-nearly-imploded-no",
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "publishedAt": "2026-08-25T00:23:12.000Z",
+      "summaryShort": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC. The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
       "tags": [
         "AI",
-        "Cloud",
         "Architecture"
       ]
     },
     {
-      "id": "who-s-behind-the-new-stealth-model-ox-alpha",
-      "title": "Who's behind the new ‘stealth model’ Ox Alpha?",
+      "id": "oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at",
+      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "publishedAt": "2026-08-23T20:01:36.000Z",
-      "summaryShort": "Who's behind the new ‘stealth model’ Ox Alpha?. A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions",
-      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
-      "publishedAt": "2026-08-23T19:30:00.000Z",
-      "summaryShort": "Uber faces fine of nearly $1B over automated driver suspensions. The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+      "sourceUrl": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+      "publishedAt": "2026-08-24T23:05:44.000Z",
+      "summaryShort": "Oura is reportedly eyeing a September IPO that could value it at more than $16B. We all knew it was coming.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "linkdaze-s-smart-calendar-is-built-to-run-a-household-not-just-t",
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "id": "trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo",
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "publishedAt": "2026-08-23T19:14:08.000Z",
-      "summaryShort": "Linkdaze’s smart calendar is built to run a household, not just track a schedule. Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "sourceUrl": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "publishedAt": "2026-08-24T21:24:17.000Z",
+      "summaryShort": "Trump bought SpaceX shares two weeks after blockbuster IPO. The president bought when the stock was in the mid-$150 range.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
