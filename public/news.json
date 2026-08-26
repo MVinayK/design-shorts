@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-26T01:38:47.609Z",
+  "generatedAt": "2026-08-26T13:00:27.680Z",
   "items": [
+    {
+      "id": "presentation-can-claude-fix-itself-using-llms-for-incident-respo",
+      "title": "Presentation: Can Claude Fix Itself? Using LLMs for Incident Response",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/claude-sre-incidents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-26T11:00:00.000Z",
+      "summaryShort": "Presentation: Can Claude Fix Itself? Using LLMs for Incident Response.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "article-beyond-offset-lag-computing-time-in-queue-for-apache-hud",
+      "title": "Article: Beyond Offset Lag: Computing Time in Queue for Apache Hudi Data Lake Pipelines at Petabyte Scale",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/beyond-offset-lag-kafka-apache-hudi/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-26T09:00:00.000Z",
+      "summaryShort": "Article: Beyond Offset Lag: Computing Time in Queue for Apache Hudi Data Lake Pipelines at Petabyte Scale. In this article, author Srikanth Mamidala discusses the data lake architecture used for analytics, reporting, and machine learning an",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "diagrid-catalyst-2-0-adds-durable-and-verifiable-execution-for-a",
+      "title": "Diagrid Catalyst 2.0 Adds Durable and Verifiable Execution for AI Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/diagrid-catalyst-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-26T07:00:00.000Z",
+      "summaryShort": "Diagrid Catalyst 2.0 Adds Durable and Verifiable Execution for AI Agents. Diagrid Catalyst 2.0 applies Dapr-based recovery, signed workflow history and execution attestation across several agent frameworks.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "java-news-roundup-jdk-27-rc1-openjdk-jeps-jakarta-ee-bellsoft-he",
       "title": "Java News Roundup: JDK 27-RC1, OpenJDK JEPs, Jakarta EE, BellSoft, Helidon, Micrometer, Tika 4.0",
@@ -24,69 +57,36 @@
       ]
     },
     {
-      "id": "bmc-vulnerabilities-put-thousands-of-servers-at-risk-of-hardware",
-      "title": "BMC Vulnerabilities Put Thousands of Servers at Risk of Hardware-Level Compromise",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/bmc-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-25T12:00:00.000Z",
-      "summaryShort": "BMC Vulnerabilities Put Thousands of Servers at Risk of Hardware-Level Compromise. Security researchers are warning that thousands of enterprise servers could be exposed to compromise through vulnerabilities in their Baseboard Management Co",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "nuxt-4-5-experimental-ssr-streaming-vite-8-and-an-rsbuild-powere",
-      "title": "Nuxt 4.5: Experimental SSR Streaming, Vite 8 and an Rsbuild-Powered Rspack Builder",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/nuxt-4-5-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-25T11:36:00.000Z",
-      "summaryShort": "Nuxt 4.5: Experimental SSR Streaming, Vite 8 and an Rsbuild-Powered Rspack Builder. Nuxt has released version 4.5, featuring updates such as a switch to Vite 8, a new Rspack 2 builder, and experimental SSR streaming.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "cursor-releases-origin-as-an-agent-native-alternative-to-github",
-      "title": "Cursor Releases Origin as an Agent-Native Alternative to GitHub",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/cursor-origin-alternative-github/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-25T08:00:00.000Z",
-      "summaryShort": "Cursor Releases Origin as an Agent-Native Alternative to GitHub. AI coding agent Cursor has launched Origin, a git based code hosting platform embedded inside its AI-powered editor, positioning it as an alternative to GitHub for teams that ",
+      "id": "querystory-wants-you-to-believe-what-ai-is-telling-you",
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "publishedAt": "2026-08-26T13:00:00.000Z",
+      "summaryShort": "QueryStory wants you to believe what AI is telling you. The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "robotics-startup-generalist-reaches-3b-valuation-sources-say",
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "id": "arga-is-building-a-better-way-to-train-enterprise-ai-agents",
+      "title": "Arga is building a better way to train enterprise AI agents",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "publishedAt": "2026-08-26T00:40:59.000Z",
-      "summaryShort": "Robotics startup Generalist reaches $3B valuation, sources say. The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "publishedAt": "2026-08-26T12:55:28.000Z",
+      "summaryShort": "Arga is building a better way to train enterprise AI agents. Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "openai-loses-a-top-data-center-exec-as-stream-of-high-profile-de",
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "id": "hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-",
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "publishedAt": "2026-08-26T00:06:20.000Z",
-      "summaryShort": "OpenAI loses a top data center exec, as stream of high-profile departures continues. Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice Pr",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+      "publishedAt": "2026-08-26T12:00:00.000Z",
+      "summaryShort": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses. The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
       "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "x-sends-cease-and-desist-to-open-source-project-nitter-over-alle",
-      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
-      "publishedAt": "2026-08-25T20:44:12.000Z",
-      "summaryShort": "X sends cease-and-desist to open source project Nitter over alleged scraping. X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken ",
-      "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
