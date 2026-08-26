@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-25T12:54:27.382Z",
+  "generatedAt": "2026-08-26T01:38:47.609Z",
   "items": [
+    {
+      "id": "java-news-roundup-jdk-27-rc1-openjdk-jeps-jakarta-ee-bellsoft-he",
+      "title": "Java News Roundup: JDK 27-RC1, OpenJDK JEPs, Jakarta EE, BellSoft, Helidon, Micrometer, Tika 4.0",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/java-news-roundup-aug17-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-25T15:20:00.000Z",
+      "summaryShort": "Java News Roundup: JDK 27-RC1, OpenJDK JEPs, Jakarta EE, BellSoft, Helidon, Micrometer, Tika 4.0. This week's Java roundup for August 17th, 2026, features news highlighting: the first release candidate of JDK 27; JEP 541 and JEP 540 targete",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-continuous-delivery-for-foundational-platforms",
+      "title": "Presentation: Continuous Delivery for Foundational Platforms",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/cd-reliability-innovation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-25T13:34:00.000Z",
+      "summaryShort": "Presentation: Continuous Delivery for Foundational Platforms. Ian Nowland discusses why conventional CI/CD practices break down for stateful, core infrastructure.",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "bmc-vulnerabilities-put-thousands-of-servers-at-risk-of-hardware",
       "title": "BMC Vulnerabilities Put Thousands of Servers at Risk of Hardware-Level Compromise",
@@ -35,56 +57,34 @@
       ]
     },
     {
-      "id": "beyond-embedded-how-duckdb-v2-0-shifts-architecture-toward-distr",
-      "title": "Beyond Embedded: How DuckDB v2.0 Shifts Architecture Toward Distributed Network Capabilities",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/duckdb-v2-distributed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-25T06:06:00.000Z",
-      "summaryShort": "Beyond Embedded: How DuckDB v2.0 Shifts Architecture Toward Distributed Network Capabilities. DuckDB Labs has previewed DuckDB v2.0, codenamed \"Cyanoptera.\" This release includes over 10000 commits and introduces a client/server mode, enabl",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "microsoft-moves-ai-governance-from-policy-to-runtime-enforcement",
-      "title": "Microsoft Moves AI Governance From Policy to Runtime Enforcement",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-24T13:49:00.000Z",
-      "summaryShort": "Microsoft Moves AI Governance From Policy to Runtime Enforcement. Microsoft has outlined an AI governance architecture spanning nine governance domains and four functions: policy, control, visibility, and proof.",
+      "id": "robotics-startup-generalist-reaches-3b-valuation-sources-say",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "publishedAt": "2026-08-26T00:40:59.000Z",
+      "summaryShort": "Robotics startup Generalist reaches $3B valuation, sources say. The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "fiat-ventures-combines-venture-and-advisory-divisions-into-new-b",
-      "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
+      "id": "openai-loses-a-top-data-center-exec-as-stream-of-high-profile-de",
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
-      "publishedAt": "2026-08-25T12:37:37.000Z",
-      "summaryShort": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II. In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs.",
+      "sourceUrl": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "publishedAt": "2026-08-26T00:06:20.000Z",
+      "summaryShort": "OpenAI loses a top data center exec, as stream of high-profile departures continues. Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice Pr",
       "tags": [
-        "AI"
+        "Cloud"
       ]
     },
     {
-      "id": "fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band",
-      "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
+      "id": "x-sends-cease-and-desist-to-open-source-project-nitter-over-alle",
+      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
-      "publishedAt": "2026-08-25T12:00:00.000Z",
-      "summaryShort": "Fitbit founders launch Luffu Link, an LTE health and safety band. Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a p",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "8216-the-world-seems-to-be-ready-an-interview-with-openai-head-o",
-      "title": "&#8216;The world seems to be ready': An interview with OpenAI head of product Thibault Sottiaux",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-      "publishedAt": "2026-08-25T12:00:00.000Z",
-      "summaryShort": "&#8216;The world seems to be ready': An interview with OpenAI head of product Thibault Sottiaux. TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+      "sourceUrl": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "publishedAt": "2026-08-25T20:44:12.000Z",
+      "summaryShort": "X sends cease-and-desist to open source project Nitter over alleged scraping. X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken ",
       "tags": [
         "Engineering"
       ]
