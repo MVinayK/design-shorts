@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-26T13:00:27.680Z",
+  "generatedAt": "2026-08-27T08:30:52.083Z",
   "items": [
+    {
+      "id": "aws-introduces-specification-driven-composition-for-flexible-dat",
+      "title": "AWS Introduces Specification Driven Composition for Flexible Data Workflows",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/aws-spec-driven-data-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-26T14:18:00.000Z",
+      "summaryShort": "AWS Introduces Specification Driven Composition for Flexible Data Workflows. AWS describes a specification-driven approach for composing flexible data workflows by separating intent from processing logic.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "presentation-can-claude-fix-itself-using-llms-for-incident-respo",
       "title": "Presentation: Can Claude Fix Itself? Using LLMs for Incident Response",
@@ -46,47 +57,37 @@
       ]
     },
     {
-      "id": "presentation-continuous-delivery-for-foundational-platforms",
-      "title": "Presentation: Continuous Delivery for Foundational Platforms",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/cd-reliability-innovation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-25T13:34:00.000Z",
-      "summaryShort": "Presentation: Continuous Delivery for Foundational Platforms. Ian Nowland discusses why conventional CI/CD practices break down for stateful, core infrastructure.",
+      "id": "nvidia-closes-in-on-hugging-face-acquisition",
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "publishedAt": "2026-08-27T06:32:51.000Z",
+      "summaryShort": "Nvidia closes in on Hugging Face acquisition. Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud busi",
       "tags": [
+        "AI",
         "Cloud"
       ]
     },
     {
-      "id": "querystory-wants-you-to-believe-what-ai-is-telling-you",
-      "title": "QueryStory wants you to believe what AI is telling you",
+      "id": "viral-ai-startup-instinct-has-raised-350m-at-a-2-5b-valuation",
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-      "publishedAt": "2026-08-26T13:00:00.000Z",
-      "summaryShort": "QueryStory wants you to believe what AI is telling you. The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "publishedAt": "2026-08-27T00:24:57.000Z",
+      "summaryShort": "Viral AI startup Instinct has raised $350M at a $2.5B valuation. The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "arga-is-building-a-better-way-to-train-enterprise-ai-agents",
-      "title": "Arga is building a better way to train enterprise AI agents",
+      "id": "amazon-just-tripled-its-order-of-nvidia-chips-over-8216-surging-",
+      "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand'",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-      "publishedAt": "2026-08-26T12:55:28.000Z",
-      "summaryShort": "Arga is building a better way to train enterprise AI agents. Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "publishedAt": "2026-08-26T23:47:18.000Z",
+      "summaryShort": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand'. Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years.",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-",
-      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-      "publishedAt": "2026-08-26T12:00:00.000Z",
-      "summaryShort": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses. The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-      "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
