@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-28T10:44:27.864Z",
+  "generatedAt": "2026-08-28T22:00:04.422Z",
   "items": [
+    {
+      "id": "uber-builds-gitfarm-to-run-git-operations-as-a-service-for-large",
+      "title": "Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/uber-gitfarm-git-as-a-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-28T14:30:00.000Z",
+      "summaryShort": "Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos. Uber’s GitFarm provides Git operations as a centralized service, eliminating local repository clones across large scale monorepo workloads.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "aks-looks-to-make-node-disruption-more-predictable-with-new-nap-",
+      "title": "AKS Looks to Make Node Disruption More Predictable with New NAP Guidance",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/aks-node-disruption/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-28T12:00:00.000Z",
+      "summaryShort": "AKS Looks to Make Node Disruption More Predictable with New NAP Guidance. Microsoft is placing greater emphasis on controlling disruption in Azure Kubernetes Service (AKS) Node Auto-Provisioning (NAP), publishing new guidance to help platfo",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-from-dvds-to-global-streaming-how-netflix-s-commerc",
+      "title": "Presentation: From DVDs to Global Streaming: How Netflix’s Commerce Architecture Actually Evolved",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/netflix-commerce-architecture-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-28T11:00:00.000Z",
+      "summaryShort": "Presentation: From DVDs to Global Streaming: How Netflix’s Commerce Architecture Actually Evolved. Kasia Trapszo discusses how Netflix evolved its commerce platform from a U.S.",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "article-post-quantum-cryptography-in-spring-boot-four-patterns-y",
       "title": "Article: Post-Quantum Cryptography in Spring Boot: Four Patterns You Can Ship This Sprint",
@@ -24,71 +57,37 @@
       ]
     },
     {
-      "id": "audio-fingerprinting-discovered-on-alibaba-websites-while-debugg",
-      "title": "Audio Fingerprinting Discovered on Alibaba Websites While Debugging BLE Multipoint Disconnects",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/alibaba-audio-fingerprinting/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-28T07:07:00.000Z",
-      "summaryShort": "Audio Fingerprinting Discovered on Alibaba Websites While Debugging BLE Multipoint Disconnects. A recent discovery revealed that AliExpress employs silent audio streams for device fingerprinting, leveraging the Web Audio API.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "spring-news-roundup-first-milestone-releases-for-boot-framework-",
-      "title": "Spring News Roundup: First Milestone Releases for Boot, Framework, Data, Security, Modulith, Batch",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/spring-news-roundup-aug17-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-27T15:50:00.000Z",
-      "summaryShort": "Spring News Roundup: First Milestone Releases for Boot, Framework, Data, Security, Modulith, Batch. After a 10-week hiatus since the last batch of Spring ecosystem releases, there was a flurry of activity during the week of August 17th, 202",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "google-cloud-launches-ai-powered-agents-to-simplify-database-lif",
-      "title": "Google Cloud Launches AI-powered Agents to Simplify Database Lifecycle Management",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/google-database-operation-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-27T15:00:00.000Z",
-      "summaryShort": "Google Cloud Launches AI-powered Agents to Simplify Database Lifecycle Management. Google Cloud has introduced AI-powered Database Operations Agents, featuring an Onboarding Agent that streamlines database setup and an Observability Agent t",
+      "id": "neocloud-lambda-secures-1b-in-debt-to-buy-more-chips",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "publishedAt": "2026-08-28T20:24:11.000Z",
+      "summaryShort": "Neocloud Lambda secures $1B in debt to buy more chips. Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft.",
       "tags": [
         "AI",
-        "Databases",
         "Cloud"
       ]
     },
     {
-      "id": "as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bet",
-      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+      "id": "an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
-      "publishedAt": "2026-08-28T09:33:00.000Z",
-      "summaryShort": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space. Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even",
+      "sourceUrl": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "publishedAt": "2026-08-28T19:30:38.000Z",
+      "summaryShort": "An Anthropic researcher just gave us a peek at self-improving AI. Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "brave-s-browser-one-ups-chrome-with-its-new-support-for-email-al",
+      "title": "Brave's browser one-ups Chrome with its new support for email aliases",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+      "publishedAt": "2026-08-28T18:50:00.000Z",
+      "summaryShort": "Brave's browser one-ups Chrome with its new support for email aliases. The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-s",
-      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
-      "publishedAt": "2026-08-28T02:02:44.000Z",
-      "summaryShort": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10. A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, a",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disr",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-08-27T23:16:45.000Z",
-      "summaryShort": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026. At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "tags": [
-        "AI"
       ]
     }
   ]
