@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-27T22:03:09.745Z",
+  "generatedAt": "2026-08-28T10:44:27.864Z",
   "items": [
+    {
+      "id": "article-post-quantum-cryptography-in-spring-boot-four-patterns-y",
+      "title": "Article: Post-Quantum Cryptography in Spring Boot: Four Patterns You Can Ship This Sprint",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/pqc-in-spring-boot/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-28T09:00:00.000Z",
+      "summaryShort": "Article: Post-Quantum Cryptography in Spring Boot: Four Patterns You Can Ship This Sprint. There are four patterns that bring PQC into a Spring Boot fleet: encrypting payloads between services, locking down database fields, signing document",
+      "tags": [
+        "Databases"
+      ]
+    },
+    {
+      "id": "meta-expands-its-custom-silicon-strategy-from-compute-into-netwo",
+      "title": "Meta Expands Its Custom Silicon Strategy From Compute Into Networking",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/meta-hccl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-28T07:43:00.000Z",
+      "summaryShort": "Meta Expands Its Custom Silicon Strategy From Compute Into Networking. Meta has detailed MTIA 300, its first in-house accelerator optimized for training ranking and recommendation models.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "audio-fingerprinting-discovered-on-alibaba-websites-while-debugg",
+      "title": "Audio Fingerprinting Discovered on Alibaba Websites While Debugging BLE Multipoint Disconnects",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/alibaba-audio-fingerprinting/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-28T07:07:00.000Z",
+      "summaryShort": "Audio Fingerprinting Discovered on Alibaba Websites While Debugging BLE Multipoint Disconnects. A recent discovery revealed that AliExpress employs silent audio streams for device fingerprinting, leveraging the Web Audio API.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "spring-news-roundup-first-milestone-releases-for-boot-framework-",
       "title": "Spring News Roundup: First Milestone Releases for Boot, Framework, Data, Security, Modulith, Batch",
@@ -26,67 +59,34 @@
       ]
     },
     {
-      "id": "astro-introduces-s-tteri-a-rust-powered-markdown-and-mdx-process",
-      "title": "Astro Introduces Sätteri: A Rust-powered Markdown And Mdx Processor With Up To 60% Faster Builds",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/astro-satteri-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-27T12:31:00.000Z",
-      "summaryShort": "Astro Introduces Sätteri: A Rust-powered Markdown And Mdx Processor With Up To 60% Faster Builds. Sätteri is a high-performance Markdown and MDX processor developed by the Astro team.",
+      "id": "as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bet",
+      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
+      "publishedAt": "2026-08-28T09:33:00.000Z",
+      "summaryShort": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space. Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "how-to-make-testing-more-sustainable",
-      "title": "How to Make Testing More Sustainable",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/making-testing-sustainable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-27T11:53:00.000Z",
-      "summaryShort": "How to Make Testing More Sustainable. By using a sustainable testing strategy, you can skip unnecessary tests, ensure failing fast and early, and only run tests affected by code changes.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-python-numba-and-algorithm-design-building-efficien",
-      "title": "Presentation: Python, Numba, and Algorithm Design: Building Efficient Models in Financial Services",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/numba/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-27T09:23:00.000Z",
-      "summaryShort": "Presentation: Python, Numba, and Algorithm Design: Building Efficient Models in Financial Services. Chad Schuster discusses bridging Python's developer velocity with C-like performance using Numba JIT and GPUs.",
+      "id": "ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-s",
+      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+      "publishedAt": "2026-08-28T02:02:44.000Z",
+      "summaryShort": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10. A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, a",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "rivian-s-cfo-is-leaving-the-company",
-      "title": "Rivian's CFO is leaving the company",
+      "id": "anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disr",
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
-      "publishedAt": "2026-08-27T20:23:10.000Z",
-      "summaryShort": "Rivian's CFO is leaving the company. Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "bluesky-adds-an-8216-algorithmic-opt-out-feature-for-those-who-d",
-      "title": "Bluesky adds an &#8216;algorithmic opt-out' feature for those who don't want to go viral",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
-      "publishedAt": "2026-08-27T20:15:26.000Z",
-      "summaryShort": "Bluesky adds an &#8216;algorithmic opt-out' feature for those who don't want to go viral. Sometimes people just want to post to their followers, Bluesky says.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "buried-in-meta-s-18b-settlement-is-a-legal-pass-on-kids-data",
-      "title": "Buried in Meta's $18B settlement is a legal pass on kids' data",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
-      "publishedAt": "2026-08-27T20:04:26.000Z",
-      "summaryShort": "Buried in Meta's $18B settlement is a legal pass on kids' data. Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the",
+      "sourceUrl": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-08-27T23:16:45.000Z",
+      "summaryShort": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026. At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
       "tags": [
         "AI"
       ]
