@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-08-28T22:00:04.422Z",
+  "generatedAt": "2026-08-29T06:31:29.426Z",
   "items": [
+    {
+      "id": "freetoken-unlocks-frontier-moe-inference-on-consumer-hardware-vi",
+      "title": "FreeToken Unlocks Frontier MoE Inference on Consumer Hardware via Dynamic Co-Execution",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/freetoken-local-inference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-29T05:05:00.000Z",
+      "summaryShort": "FreeToken Unlocks Frontier MoE Inference on Consumer Hardware via Dynamic Co-Execution. Researchers from UC Berkeley and MIT have developed FreeToken, an open-source inference engine that enhances the utility of Mixture-of-Experts models on",
+      "tags": [
+        "AI",
+        "Architecture"
+      ]
+    },
     {
       "id": "uber-builds-gitfarm-to-run-git-operations-as-a-service-for-large",
       "title": "Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos",
@@ -46,14 +58,25 @@
       ]
     },
     {
-      "id": "meta-expands-its-custom-silicon-strategy-from-compute-into-netwo",
-      "title": "Meta Expands Its Custom Silicon Strategy From Compute Into Networking",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/meta-hccl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-28T07:43:00.000Z",
-      "summaryShort": "Meta Expands Its Custom Silicon Strategy From Compute Into Networking. Meta has detailed MTIA 300, its first in-house accelerator optimized for training ranking and recommendation models.",
+      "id": "chinese-automakers-are-following-tesla-s-bet-that-robots-are-the",
+      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+      "publishedAt": "2026-08-28T23:24:27.000Z",
+      "summaryShort": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine. Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots.",
       "tags": [
-        "AI"
+        "Engineering"
+      ]
+    },
+    {
+      "id": "is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses",
+      "title": "Is the best way to watch a movie on a pair of sunglasses?",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+      "publishedAt": "2026-08-28T22:42:48.000Z",
+      "summaryShort": "Is the best way to watch a movie on a pair of sunglasses?. Are XREAL's smart glasses the way of the future for home entertainment?",
+      "tags": [
+        "Engineering"
       ]
     },
     {
@@ -66,28 +89,6 @@
       "tags": [
         "AI",
         "Cloud"
-      ]
-    },
-    {
-      "id": "an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "publishedAt": "2026-08-28T19:30:38.000Z",
-      "summaryShort": "An Anthropic researcher just gave us a peek at self-improving AI. Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "brave-s-browser-one-ups-chrome-with-its-new-support-for-email-al",
-      "title": "Brave's browser one-ups Chrome with its new support for email aliases",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
-      "publishedAt": "2026-08-28T18:50:00.000Z",
-      "summaryShort": "Brave's browser one-ups Chrome with its new support for email aliases. The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
