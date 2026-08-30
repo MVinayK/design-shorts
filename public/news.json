@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-30T04:44:06.311Z",
+  "generatedAt": "2026-08-30T16:23:42.587Z",
   "items": [
+    {
+      "id": "aws-open-sources-kiro-crew-for-asynchronous-coding-agents",
+      "title": "AWS Open Sources Kiro Crew for Asynchronous Coding Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/kiro-crew-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-30T08:23:00.000Z",
+      "summaryShort": "AWS Open Sources Kiro Crew for Asynchronous Coding Agents. Amazon recently announced Kiro Crew, an open-source system for running multiple Kiro coding agents across sessions, tools, and tasks.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "presentation-architecting-the-data-layer-for-ai-agents-from-tran",
       "title": "Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models",
@@ -48,14 +59,25 @@
       ]
     },
     {
-      "id": "aks-looks-to-make-node-disruption-more-predictable-with-new-nap-",
-      "title": "AKS Looks to Make Node Disruption More Predictable with New NAP Guidance",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/aks-node-disruption/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-28T12:00:00.000Z",
-      "summaryShort": "AKS Looks to Make Node Disruption More Predictable with New NAP Guidance. Microsoft is placing greater emphasis on controlling disruption in Azure Kubernetes Service (AKS) Node Auto-Provisioning (NAP), publishing new guidance to help platfo",
+      "id": "techcrunch-mobility-the-hidden-human-cost-of-robotaxis",
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "publishedAt": "2026-08-30T16:03:00.000Z",
+      "summaryShort": "TechCrunch Mobility: The hidden human cost of robotaxis. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "tags": [
-        "Engineering"
+        "AI"
+      ]
+    },
+    {
+      "id": "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-au",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "publishedAt": "2026-08-30T15:00:00.000Z",
+      "summaryShort": "Caterpillar is bringing to AI deployment what it learned from automating mining. Caterpillar has spent decades putting autonomous machines to work at remote mining sites.",
+      "tags": [
+        "AI"
       ]
     },
     {
@@ -67,28 +89,6 @@
       "summaryShort": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft. This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "at-techbbq-europe-s-ai-conversations-kept-coming-back-to-who-s-a",
-      "title": "At TechBBQ, Europe's AI conversations kept coming back to: Who's actually in control?",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-      "publishedAt": "2026-08-29T17:51:10.000Z",
-      "summaryShort": "At TechBBQ, Europe's AI conversations kept coming back to: Who's actually in control?. Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "8220-we-re-not-doing-30-bets-a-year-8221-vijay-pande-on-betting-",
-      "title": "&#8220;We're not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "publishedAt": "2026-08-29T17:36:47.000Z",
-      "summaryShort": "&#8220;We're not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z. Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about",
-      "tags": [
-        "AI"
       ]
     }
   ]
