@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-08-30T16:23:42.587Z",
+  "generatedAt": "2026-08-31T04:47:21.665Z",
   "items": [
+    {
+      "id": "flexganttfx-is-open-source",
+      "title": "FlexGanttFX is Open Source",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/flexgantfx/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-31T03:48:00.000Z",
+      "summaryShort": "FlexGanttFX is Open Source. Dirk Lemmerman has released FlexGanttFX as an open-source resource-scheduling framework under the AGPL license.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "cloudflare-extends-ai-search-to-make-it-easier-for-agents-and-de",
+      "title": "Cloudflare Extends AI Search to Make it Easier for Agents and Developers to Search Custom Data",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-ai-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-30T19:00:00.000Z",
+      "summaryShort": "Cloudflare Extends AI Search to Make it Easier for Agents and Developers to Search Custom Data. Cloudflare AI Search is a built-in search and retrieval service designed to give AI agents and applications a ready-to-use search engine over cu",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "aws-open-sources-kiro-crew-for-asynchronous-coding-agents",
       "title": "AWS Open Sources Kiro Crew for Asynchronous Coding Agents",
@@ -14,11 +37,11 @@
     },
     {
       "id": "presentation-architecting-the-data-layer-for-ai-agents-from-tran",
-      "title": "Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models",
+      "title": "Presentation: Architecting the Data Layer for AI Agents: from Transactional Systems to MCP and Semantic Models",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-08-29T11:00:00.000Z",
-      "summaryShort": "Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models. Fabiane Nardon shares how TOTVS prepares enterprise data for token-hungry AI agents.",
+      "summaryShort": "Presentation: Architecting the Data Layer for AI Agents: from Transactional Systems to MCP and Semantic Models. Fabiane Nardon shares how TOTVS prepares enterprise data for token-hungry AI agents.",
       "tags": [
         "AI",
         "Databases"
@@ -36,57 +59,35 @@
       ]
     },
     {
-      "id": "freetoken-unlocks-frontier-moe-inference-on-consumer-hardware-vi",
-      "title": "FreeToken Unlocks Frontier MoE Inference on Consumer Hardware via Dynamic Co-Execution",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/freetoken-local-inference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-29T05:05:00.000Z",
-      "summaryShort": "FreeToken Unlocks Frontier MoE Inference on Consumer Hardware via Dynamic Co-Execution. Researchers from UC Berkeley and MIT have developed FreeToken, an open-source inference engine that enhances the utility of Mixture-of-Experts models on",
+      "id": "the-u-s-is-building-barriers-around-drones-and-robots-but-china-",
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "publishedAt": "2026-08-31T02:34:00.000Z",
+      "summaryShort": "The U.S. is building barriers around drones and robots, but China has scale to get around them.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-",
+      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+      "publishedAt": "2026-08-31T02:18:57.000Z",
+      "summaryShort": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off. George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through",
       "tags": [
         "AI",
         "Architecture"
       ]
     },
     {
-      "id": "uber-builds-gitfarm-to-run-git-operations-as-a-service-for-large",
-      "title": "Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/uber-gitfarm-git-as-a-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-28T14:30:00.000Z",
-      "summaryShort": "Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos. Uber’s GitFarm provides Git operations as a centralized service, eliminating local repository clones across large scale monorepo workloads.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "techcrunch-mobility-the-hidden-human-cost-of-robotaxis",
-      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "id": "liux-s-big-microcar-bets-on-sustainability-to-take-on-chinese-ri",
+      "title": "Liux's Big microcar bets on sustainability to take on Chinese rivals",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
-      "publishedAt": "2026-08-30T16:03:00.000Z",
-      "summaryShort": "TechCrunch Mobility: The hidden human cost of robotaxis. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-au",
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "publishedAt": "2026-08-30T15:00:00.000Z",
-      "summaryShort": "Caterpillar is bringing to AI deployment what it learned from automating mining. Caterpillar has spent decades putting autonomous machines to work at remote mining sites.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "sony-music-warner-sue-anthropic-alleging-a-8220-brazen-campaign-",
-      "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "publishedAt": "2026-08-29T18:41:59.000Z",
-      "summaryShort": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft. This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "sourceUrl": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "publishedAt": "2026-08-30T18:33:44.000Z",
+      "summaryShort": "Liux's Big microcar bets on sustainability to take on Chinese rivals. The Liux Big microcar is made in Spain.",
       "tags": [
         "Engineering"
       ]
