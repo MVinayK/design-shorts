@@ -1,93 +1,93 @@
 {
-  "generatedAt": "2026-08-31T04:47:21.665Z",
+  "generatedAt": "2026-08-31T18:58:53.247Z",
   "items": [
     {
-      "id": "flexganttfx-is-open-source",
-      "title": "FlexGanttFX is Open Source",
+      "id": "doordash-s-flux-runs-130-000-engineering-tasks-through-cloud-bas",
+      "title": "DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/flexgantfx/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-31T03:48:00.000Z",
-      "summaryShort": "FlexGanttFX is Open Source. Dirk Lemmerman has released FlexGanttFX as an open-source resource-scheduling framework under the AGPL license.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "cloudflare-extends-ai-search-to-make-it-easier-for-agents-and-de",
-      "title": "Cloudflare Extends AI Search to Make it Easier for Agents and Developers to Search Custom Data",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/cloudflare-ai-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-30T19:00:00.000Z",
-      "summaryShort": "Cloudflare Extends AI Search to Make it Easier for Agents and Developers to Search Custom Data. Cloudflare AI Search is a built-in search and retrieval service designed to give AI agents and applications a ready-to-use search engine over cu",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "aws-open-sources-kiro-crew-for-asynchronous-coding-agents",
-      "title": "AWS Open Sources Kiro Crew for Asynchronous Coding Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/kiro-crew-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-30T08:23:00.000Z",
-      "summaryShort": "AWS Open Sources Kiro Crew for Asynchronous Coding Agents. Amazon recently announced Kiro Crew, an open-source system for running multiple Kiro coding agents across sessions, tools, and tasks.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-architecting-the-data-layer-for-ai-agents-from-tran",
-      "title": "Presentation: Architecting the Data Layer for AI Agents: from Transactional Systems to MCP and Semantic Models",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-29T11:00:00.000Z",
-      "summaryShort": "Presentation: Architecting the Data Layer for AI Agents: from Transactional Systems to MCP and Semantic Models. Fabiane Nardon shares how TOTVS prepares enterprise data for token-hungry AI agents.",
-      "tags": [
-        "AI",
-        "Databases"
-      ]
-    },
-    {
-      "id": "cloudflare-workers-accept-inbound-tcp-with-grpc-the-first-protoc",
-      "title": "Cloudflare Workers Accept Inbound TCP, with gRPC the First Protocol on Top",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-29T09:55:00.000Z",
-      "summaryShort": "Cloudflare Workers Accept Inbound TCP, with gRPC the First Protocol on Top. Cloudflare Workers can now accept inbound TCP connections through a new connect(socket) handler routed via Spectrum, ending an eight-year restriction to HTTP.",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/doordash-flux-cloud-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-31T14:28:00.000Z",
+      "summaryShort": "DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents. DoorDash has moved engineering agent workloads from developer laptops to its Flux cloud platform.",
       "tags": [
         "Cloud"
       ]
     },
     {
-      "id": "the-u-s-is-building-barriers-around-drones-and-robots-but-china-",
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "publishedAt": "2026-08-31T02:34:00.000Z",
-      "summaryShort": "The U.S. is building barriers around drones and robots, but China has scale to get around them.",
+      "id": "java-news-roundup-graalvm-jakarta-data-jnosql-azul-payara-wildfl",
+      "title": "Java News Roundup: GraalVM, Jakarta Data, JNoSQL, Azul Payara, WildFly, Quarkus, Atmosphere",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/08/java-news-roundup-aug24-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-31T11:30:00.000Z",
+      "summaryShort": "Java News Roundup: GraalVM, Jakarta Data, JNoSQL, Azul Payara, WildFly, Quarkus, Atmosphere. This week's Java roundup for August 24th, 2026, features news highlighting: the GA release of Atmosphere 4.0; point releases of GraalVM, Azul Payar",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-",
-      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
-      "publishedAt": "2026-08-31T02:18:57.000Z",
-      "summaryShort": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off. George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through",
+      "id": "article-eliminating-long-lived-credentials-in-gcp-with-workload-",
+      "title": "Article: Eliminating Long-Lived Credentials in GCP with Workload Identity Federation",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/gcp-wif-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-31T11:00:00.000Z",
+      "summaryShort": "Article: Eliminating Long-Lived Credentials in GCP with Workload Identity Federation. Long-lived GCP service account keys are secrets that must be managed forever, are hard to rotate, and are easy to leak.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "podcast-scott-jenson-on-evolving-desktop-os-local-first-agentic-",
+      "title": "Podcast: Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/evolving-desktop-agentic-ux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-31T11:00:00.000Z",
+      "summaryShort": "Podcast: Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX. In this episode, Scott Jenson, a veteran UX designer known for his work on the Macintosh, Google Maps, and Chrome examines the long-term stagnation of desktop operatin",
       "tags": [
         "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "presentation-running-ai-at-the-edge-running-real-workloads-direc",
+      "title": "Presentation: Running AI at the Edge: Running Real Workloads Directly in the Browser",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/local-ai-browser-inference-privacy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-08-31T11:00:00.000Z",
+      "summaryShort": "Presentation: Running AI at the Edge: Running Real Workloads Directly in the Browser. James Hall discusses the strategic and technical imperative of moving AI workloads from cloud providers to local edge devices.",
+      "tags": [
+        "AI",
+        "Cloud",
         "Architecture"
       ]
     },
     {
-      "id": "liux-s-big-microcar-bets-on-sustainability-to-take-on-chinese-ri",
-      "title": "Liux's Big microcar bets on sustainability to take on Chinese rivals",
+      "id": "microsoft-tests-fix-for-latest-hours-long-outlook-outage",
+      "title": "Microsoft tests fix for latest hours-long Outlook outage",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
-      "publishedAt": "2026-08-30T18:33:44.000Z",
-      "summaryShort": "Liux's Big microcar bets on sustainability to take on Chinese rivals. The Liux Big microcar is made in Spain.",
+      "sourceUrl": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
+      "publishedAt": "2026-08-31T18:56:41.000Z",
+      "summaryShort": "Microsoft tests fix for latest hours-long Outlook outage. Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "kalshi-bans-george-santos-for-life-over-state-of-the-union-bets",
+      "title": "Kalshi bans George Santos for life over State of the Union bets",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/",
+      "publishedAt": "2026-08-31T18:53:41.000Z",
+      "summaryShort": "Kalshi bans George Santos for life over State of the Union bets. The disciplinary action comes two months after the Commodity Futures Trading Commission settled charges against Santos.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-8216-har",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a &#8216;Harvey for police officers'",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "publishedAt": "2026-08-31T18:35:11.000Z",
+      "summaryShort": "Harvard Law dropout raises $6M for Blue Voice to build a &#8216;Harvey for police officers'. The seed round for the app that provides real-time legal and policy guidance to officers was led by SignalFire and Las Olas VC.",
       "tags": [
         "Engineering"
       ]
