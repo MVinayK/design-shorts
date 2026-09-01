@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-09-01T04:27:09.273Z",
+  "generatedAt": "2026-09-01T16:20:26.814Z",
   "items": [
+    {
+      "id": "infoq-previews-the-september-cohorts-of-its-online-certification",
+      "title": "InfoQ previews the September cohorts of its online certification programs",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/infoq-online-cohorts-sept-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-01T13:00:00.000Z",
+      "summaryShort": "InfoQ previews the September cohorts of its online certification programs. A preview of the September cohorts of the InfoQ Online Certification Programs, and the facilitators leading them: Luca Mezzalira, Michelle Brush, Zichuan Xiong, and ",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-beyond-line-charts-why-some-diversity-in-telemetry-",
+      "title": "Presentation: Beyond Line Charts: Why Some Diversity in Telemetry Visualization Is Long Overdue",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/telemetry-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-01T12:35:00.000Z",
+      "summaryShort": "Presentation: Beyond Line Charts: Why Some Diversity in Telemetry Visualization Is Long Overdue. Yao Yue discusses the fundamental limitations of standard line charts for system observability.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "hcp-terraform-positions-itself-as-the-control-plane-for-ai-drive",
+      "title": "HCP Terraform Positions Itself as the Control Plane for AI-Driven Infrastructure",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/hcp-terraform-ai-driven-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-01T12:00:00.000Z",
+      "summaryShort": "HCP Terraform Positions Itself as the Control Plane for AI-Driven Infrastructure. HashiCorp is positioning HCP Terraform as the governance and control plane for a new generation of AI-driven infrastructure, arguing that the rapid adoption o",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "doordash-s-flux-runs-130-000-engineering-tasks-through-cloud-bas",
       "title": "DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents",
@@ -24,72 +58,37 @@
       ]
     },
     {
-      "id": "article-eliminating-long-lived-credentials-in-gcp-with-workload-",
-      "title": "Article: Eliminating Long-Lived Credentials in GCP with Workload Identity Federation",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/gcp-wif-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-31T11:00:00.000Z",
-      "summaryShort": "Article: Eliminating Long-Lived Credentials in GCP with Workload Identity Federation. Long-lived GCP service account keys are secrets that must be managed forever, are hard to rotate, and are easy to leak.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "podcast-scott-jenson-on-evolving-desktop-os-local-first-agentic-",
-      "title": "Podcast: Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/evolving-desktop-agentic-ux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-31T11:00:00.000Z",
-      "summaryShort": "Podcast: Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX. In this episode, Scott Jenson, a veteran UX designer known for his work on the Macintosh, Google Maps, and Chrome examines the long-term stagnation of desktop operatin",
+      "id": "gopro-to-be-acquired-for-285m-will-remain-a-public-company",
+      "title": "GoPro to be acquired for $285M, will remain a public company",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
+      "publishedAt": "2026-09-01T15:57:23.000Z",
+      "summaryShort": "GoPro to be acquired for $285M, will remain a public company. GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
       "tags": [
         "AI",
         "Cloud"
       ]
     },
     {
-      "id": "presentation-running-ai-at-the-edge-running-real-workloads-direc",
-      "title": "Presentation: Running AI at the Edge: Running Real Workloads Directly in the Browser",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/local-ai-browser-inference-privacy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-31T11:00:00.000Z",
-      "summaryShort": "Presentation: Running AI at the Edge: Running Real Workloads Directly in the Browser. James Hall discusses the strategic and technical imperative of moving AI workloads from cloud providers to local edge devices.",
-      "tags": [
-        "AI",
-        "Cloud",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-f",
-      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+      "id": "amazon-alexa-can-now-alert-you-when-something-new-might-tempt-yo",
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
-      "publishedAt": "2026-09-01T00:30:00.000Z",
-      "summaryShort": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year. Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
+      "sourceUrl": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "publishedAt": "2026-09-01T15:51:55.000Z",
+      "summaryShort": "Amazon Alexa can now alert you when something new might tempt you to shop. Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events ",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "apple-shares-8216-shocking-evidence-against-former-employee-accu",
-      "title": "Apple shares &#8216;shocking evidence' against former employee accused of stealing company data for OpenAI",
+      "id": "air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-a",
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "publishedAt": "2026-09-01T00:13:00.000Z",
-      "summaryShort": "Apple shares &#8216;shocking evidence' against former employee accused of stealing company data for OpenAI. Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "sourceUrl": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "publishedAt": "2026-09-01T15:45:51.000Z",
+      "summaryShort": "AIR raises $50M to help companies vet the skills and add-ons AI agents use. AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
       "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-",
-      "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.'s investment fund",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
-      "publishedAt": "2026-08-31T23:41:10.000Z",
-      "summaryShort": "Polymarket reportedly raises $300 million from Donald Trump Jr.'s investment fund. The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
-      "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
