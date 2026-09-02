@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-01T16:20:26.814Z",
+  "generatedAt": "2026-09-02T03:50:28.379Z",
   "items": [
+    {
+      "id": "openclaw-2-0-releases-with-simplified-setup-and-collaborative-ag",
+      "title": "OpenClaw 2.0 Releases with Simplified Setup and Collaborative Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/openclaw-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-01T18:47:00.000Z",
+      "summaryShort": "OpenClaw 2.0 Releases with Simplified Setup and Collaborative Agents. OpenClaw has released OpenClaw 2.0, a major update to the open-source personal AI agent that changes its installation process, browser interface, memory, skills, automati",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "infoq-previews-the-september-cohorts-of-its-online-certification",
       "title": "InfoQ previews the September cohorts of its online certification programs",
@@ -47,48 +58,36 @@
       ]
     },
     {
-      "id": "java-news-roundup-graalvm-jakarta-data-jnosql-azul-payara-wildfl",
-      "title": "Java News Roundup: GraalVM, Jakarta Data, JNoSQL, Azul Payara, WildFly, Quarkus, Atmosphere",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/java-news-roundup-aug24-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-31T11:30:00.000Z",
-      "summaryShort": "Java News Roundup: GraalVM, Jakarta Data, JNoSQL, Azul Payara, WildFly, Quarkus, Atmosphere. This week's Java roundup for August 24th, 2026, features news highlighting: the GA release of Atmosphere 4.0; point releases of GraalVM, Azul Payar",
+      "id": "larry-page-s-flying-car-company-pivotal-loses-its-ceo",
+      "title": "Larry Page's flying car company Pivotal loses its CEO",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+      "publishedAt": "2026-09-01T23:59:59.000Z",
+      "summaryShort": "Larry Page's flying car company Pivotal loses its CEO. The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in N",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "gopro-to-be-acquired-for-285m-will-remain-a-public-company",
-      "title": "GoPro to be acquired for $285M, will remain a public company",
+      "id": "reliance-s-jiohotstar-takes-its-streaming-empire-global-without-",
+      "title": "Reliance's JioHotstar takes its streaming empire global — without sports",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
-      "publishedAt": "2026-09-01T15:57:23.000Z",
-      "summaryShort": "GoPro to be acquired for $285M, will remain a public company. GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "amazon-alexa-can-now-alert-you-when-something-new-might-tempt-yo",
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-      "publishedAt": "2026-09-01T15:51:55.000Z",
-      "summaryShort": "Amazon Alexa can now alert you when something new might tempt you to shop. Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events ",
+      "sourceUrl": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+      "publishedAt": "2026-09-01T23:00:00.000Z",
+      "summaryShort": "Reliance's JioHotstar takes its streaming empire global — without sports. JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-a",
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "id": "apple-follows-google-in-adopting-trump-s-lake-america-name",
+      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "publishedAt": "2026-09-01T15:45:51.000Z",
-      "summaryShort": "AIR raises $50M to help companies vet the skills and add-ons AI agents use. AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
+      "sourceUrl": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+      "publishedAt": "2026-09-01T22:13:34.000Z",
+      "summaryShort": "Apple follows Google in adopting Trump’s ‘Lake America’ name. Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
