@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-09-02T03:50:28.379Z",
+  "generatedAt": "2026-09-02T16:18:20.361Z",
   "items": [
+    {
+      "id": "swiggy-uses-350-features-and-multi-task-mlp-to-predict-customer-",
+      "title": "Swiggy Uses 350+ Features and Multi-Task MLP to Predict Customer Lifetime Value",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/swiggy-pltv-multitask-mlp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-02T13:55:00.000Z",
+      "summaryShort": "Swiggy Uses 350+ Features and Multi-Task MLP to Predict Customer Lifetime Value. Swiggy developed an in house predicted lifetime value model using more than 350 pre order features and a multi task MLP for Food and Instamart.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "openai-details-gpt-live-s-architecture-for-continuous-stateful-v",
+      "title": "OpenAI Details GPT-Live’s Architecture for Continuous Stateful Voice Interaction",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/openai-gpt-live/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-02T12:20:00.000Z",
+      "summaryShort": "OpenAI Details GPT-Live’s Architecture for Continuous Stateful Voice Interaction. OpenAI recently published an engineering account of GPT-Live.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-beyond-prompting-context-engineering-for-production",
+      "title": "Presentation: Beyond Prompting: Context Engineering for Production-Grade AI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/context-engineering-redis-llm-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-02T11:00:00.000Z",
+      "summaryShort": "Presentation: Beyond Prompting: Context Engineering for Production-Grade AI. Ricardo Ferreira discusses moving beyond simple prompt engineering to build production-grade AI applications.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "cloudflare-adds-optional-oauth-scopes-letting-developers-mark-wh",
+      "title": "Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/cloudflare-optional-oauth-scopes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-02T09:07:00.000Z",
+      "summaryShort": "Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline. Cloudflare has added optional OAuth scopes, letting client owners mark which permissions users may deselect at consent.",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "openclaw-2-0-releases-with-simplified-setup-and-collaborative-ag",
       "title": "OpenClaw 2.0 Releases with Simplified Setup and Collaborative Agents",
@@ -13,81 +57,36 @@
       ]
     },
     {
-      "id": "infoq-previews-the-september-cohorts-of-its-online-certification",
-      "title": "InfoQ previews the September cohorts of its online certification programs",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/infoq-online-cohorts-sept-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-01T13:00:00.000Z",
-      "summaryShort": "InfoQ previews the September cohorts of its online certification programs. A preview of the September cohorts of the InfoQ Online Certification Programs, and the facilitators leading them: Luca Mezzalira, Michelle Brush, Zichuan Xiong, and ",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-beyond-line-charts-why-some-diversity-in-telemetry-",
-      "title": "Presentation: Beyond Line Charts: Why Some Diversity in Telemetry Visualization Is Long Overdue",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/telemetry-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-01T12:35:00.000Z",
-      "summaryShort": "Presentation: Beyond Line Charts: Why Some Diversity in Telemetry Visualization Is Long Overdue. Yao Yue discusses the fundamental limitations of standard line charts for system observability.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "hcp-terraform-positions-itself-as-the-control-plane-for-ai-drive",
-      "title": "HCP Terraform Positions Itself as the Control Plane for AI-Driven Infrastructure",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/hcp-terraform-ai-driven-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-01T12:00:00.000Z",
-      "summaryShort": "HCP Terraform Positions Itself as the Control Plane for AI-Driven Infrastructure. HashiCorp is positioning HCP Terraform as the governance and control plane for a new generation of AI-driven infrastructure, arguing that the rapid adoption o",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "doordash-s-flux-runs-130-000-engineering-tasks-through-cloud-bas",
-      "title": "DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/08/doordash-flux-cloud-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-08-31T14:28:00.000Z",
-      "summaryShort": "DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents. DoorDash has moved engineering agent workloads from developer laptops to its Flux cloud platform.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "larry-page-s-flying-car-company-pivotal-loses-its-ceo",
-      "title": "Larry Page's flying car company Pivotal loses its CEO",
+      "id": "wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-month",
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
-      "publishedAt": "2026-09-01T23:59:59.000Z",
-      "summaryShort": "Larry Page's flying car company Pivotal loses its CEO. The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in N",
+      "sourceUrl": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "publishedAt": "2026-09-02T16:04:10.000Z",
+      "summaryShort": "Wonderful more than doubles its valuation to $5B in under 6 months. Wonderful's $550M Series C was led by Insight Partners, with Salesforce, Index Ventures, IVP, Vine Ventures, 9Yards and Bessemer participating.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "reliance-s-jiohotstar-takes-its-streaming-empire-global-without-",
-      "title": "Reliance's JioHotstar takes its streaming empire global — without sports",
+      "id": "india-s-richest-man-now-wants-to-turn-aging-computers-into-ai-re",
+      "title": "India's richest man now wants to turn aging computers into AI-ready PCs",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
-      "publishedAt": "2026-09-01T23:00:00.000Z",
-      "summaryShort": "Reliance's JioHotstar takes its streaming empire global — without sports. JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+      "sourceUrl": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "publishedAt": "2026-09-02T16:01:48.000Z",
+      "summaryShort": "India's richest man now wants to turn aging computers into AI-ready PCs. Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "apple-follows-google-in-adopting-trump-s-lake-america-name",
-      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+      "id": "hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-dep",
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
-      "publishedAt": "2026-09-01T22:13:34.000Z",
-      "summaryShort": "Apple follows Google in adopting Trump’s ‘Lake America’ name. Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+      "sourceUrl": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "publishedAt": "2026-09-02T15:01:23.000Z",
+      "summaryShort": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments. HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
