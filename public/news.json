@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-09-03T03:49:41.143Z",
+  "generatedAt": "2026-09-03T16:08:48.676Z",
   "items": [
+    {
+      "id": "rigorous-yet-sustainable-human-reviews-in-the-ai-era",
+      "title": "Rigorous Yet Sustainable Human Reviews in the AI Era",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/human-reviews-AI-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-03T11:57:00.000Z",
+      "summaryShort": "Rigorous Yet Sustainable Human Reviews in the AI Era. Mandatory AI checks paired with manual spikes for complex changes keep developers sharp.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "pnpm-12-rewrites-package-manager-in-rust-accelerating-installs-w",
+      "title": "pnpm 12 Rewrites Package Manager in Rust, Accelerating Installs While Preserving pnpm 11 Workflows",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/pnpm-12-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-03T11:23:00.000Z",
+      "summaryShort": "pnpm 12 Rewrites Package Manager in Rust, Accelerating Installs While Preserving pnpm 11 Workflows. pnpm 12 has transitioned to a native Rust implementation, maintaining compatibility with pnpm 11 commands, flags, and formats.",
+      "tags": [
+        "Architecture"
+      ]
+    },
+    {
+      "id": "presentation-instrumentation-at-scale-having-your-performance-ca",
+      "title": "Presentation: Instrumentation at Scale: Having Your Performance Cake and Eating It Too",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/instrumenting-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-03T09:28:00.000Z",
+      "summaryShort": "Presentation: Instrumentation at Scale: Having Your Performance Cake and Eating It Too. Brian Martin discusses the real-world performance costs of metrics libraries and shares strategies for low-overhead, \"fearless\" instrumentation.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "cohere-s-parse-5-promises-efficient-multi-modal-information-extr",
+      "title": "Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction From Complex Documents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/cohere-multimodal-parse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-03T06:06:00.000Z",
+      "summaryShort": "Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction From Complex Documents. Cohere has launched Parse 5, a multimodal foundation model designed to extract structured data from complex enterprise documents.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "swiggy-uses-350-features-and-multi-task-mlp-to-predict-customer-",
       "title": "Swiggy Uses 350+ Features and Multi-Task MLP to Predict Customer Lifetime Value",
@@ -13,80 +57,36 @@
       ]
     },
     {
-      "id": "openai-details-gpt-live-s-architecture-for-continuous-stateful-v",
-      "title": "OpenAI Details GPT-Live’s Architecture for Continuous Stateful Voice Interaction",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/openai-gpt-live/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-02T12:20:00.000Z",
-      "summaryShort": "OpenAI Details GPT-Live’s Architecture for Continuous Stateful Voice Interaction. OpenAI recently published an engineering account of GPT-Live.",
+      "id": "google-launches-ai-voice-features-in-gmail-docs-and-keep",
+      "title": "Google launches AI voice features in Gmail, Docs and Keep",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+      "publishedAt": "2026-09-03T16:00:00.000Z",
+      "summaryShort": "Google launches AI voice features in Gmail, Docs and Keep. Users can search for emails or draft documents using the new conversational feature",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "google-s-latest-ai-weather-model-gives-you-no-excuse-to-forget-y",
+      "title": "Google's latest AI weather model gives you no excuse to forget your umbrella",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "publishedAt": "2026-09-03T15:00:00.000Z",
+      "summaryShort": "Google's latest AI weather model gives you no excuse to forget your umbrella. WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "volunteer-at-techcrunch-founder-summit-in-boston",
+      "title": "Volunteer at TechCrunch Founder Summit in Boston",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
+      "publishedAt": "2026-09-03T13:00:00.000Z",
+      "summaryShort": "Volunteer at TechCrunch Founder Summit in Boston. Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th!",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-beyond-prompting-context-engineering-for-production",
-      "title": "Presentation: Beyond Prompting: Context Engineering for Production-Grade AI",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/context-engineering-redis-llm-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-02T11:00:00.000Z",
-      "summaryShort": "Presentation: Beyond Prompting: Context Engineering for Production-Grade AI. Ricardo Ferreira discusses moving beyond simple prompt engineering to build production-grade AI applications.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "cloudflare-adds-optional-oauth-scopes-letting-developers-mark-wh",
-      "title": "Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/cloudflare-optional-oauth-scopes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-02T09:07:00.000Z",
-      "summaryShort": "Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline. Cloudflare has added optional OAuth scopes, letting client owners mark which permissions users may deselect at consent.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "openclaw-2-0-releases-with-simplified-setup-and-collaborative-ag",
-      "title": "OpenClaw 2.0 Releases with Simplified Setup and Collaborative Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/openclaw-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-01T18:47:00.000Z",
-      "summaryShort": "OpenClaw 2.0 Releases with Simplified Setup and Collaborative Agents. OpenClaw has released OpenClaw 2.0, a major update to the open-source personal AI agent that changes its installation process, browser interface, memory, skills, automati",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "the-builders-stage-brings-practical-strategies-for-scaling-start",
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-02T23:01:00.000Z",
-      "summaryShort": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026. The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations ",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "palo-alto-networks-paid-500m-for-thrive-backed-console-sources-s",
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "publishedAt": "2026-09-02T22:44:56.000Z",
-      "summaryShort": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say. The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "techcrunch-disrupt-2026-s-new-real-world-ai-stage-features-nvidi",
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "publishedAt": "2026-09-02T22:24:09.000Z",
-      "summaryShort": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals. On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a",
-      "tags": [
-        "AI"
       ]
     }
   ]
