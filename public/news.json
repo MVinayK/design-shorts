@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-03T16:08:48.676Z",
+  "generatedAt": "2026-09-04T03:51:07.306Z",
   "items": [
+    {
+      "id": "shopify-introduces-gisting-compressing-llm-system-prompts-into-l",
+      "title": "Shopify Introduces Gisting: Compressing LLM System Prompts into Learned Tokens",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/spotify-gisting-llm-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-03T20:00:00.000Z",
+      "summaryShort": "Shopify Introduces Gisting: Compressing LLM System Prompts into Learned Tokens. Shopify's engineering introduced gisting, a novel technique for compressing long LLM prompts into a smaller set of learned \"gist\" tokens, improving throughput a",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "rigorous-yet-sustainable-human-reviews-in-the-ai-era",
       "title": "Rigorous Yet Sustainable Human Reviews in the AI Era",
@@ -36,55 +47,44 @@
     },
     {
       "id": "cohere-s-parse-5-promises-efficient-multi-modal-information-extr",
-      "title": "Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction From Complex Documents",
+      "title": "Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction from Complex Documents",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/news/2026/09/cohere-multimodal-parse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-09-03T06:06:00.000Z",
-      "summaryShort": "Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction From Complex Documents. Cohere has launched Parse 5, a multimodal foundation model designed to extract structured data from complex enterprise documents.",
+      "summaryShort": "Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction from Complex Documents. Cohere has launched Parse 5, a multimodal foundation model designed to extract structured data from complex enterprise documents.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "swiggy-uses-350-features-and-multi-task-mlp-to-predict-customer-",
-      "title": "Swiggy Uses 350+ Features and Multi-Task MLP to Predict Customer Lifetime Value",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/swiggy-pltv-multitask-mlp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-02T13:55:00.000Z",
-      "summaryShort": "Swiggy Uses 350+ Features and Multi-Task MLP to Predict Customer Lifetime Value. Swiggy developed an in house predicted lifetime value model using more than 350 pre order features and a multi task MLP for Food and Instamart.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "google-launches-ai-voice-features-in-gmail-docs-and-keep",
-      "title": "Google launches AI voice features in Gmail, Docs and Keep",
+      "id": "crusoe-reportedly-raises-3b-at-a-30b-valuation",
+      "title": "Crusoe reportedly raises $3B at a $30B valuation",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
-      "publishedAt": "2026-09-03T16:00:00.000Z",
-      "summaryShort": "Google launches AI voice features in Gmail, Docs and Keep. Users can search for emails or draft documents using the new conversational feature",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "publishedAt": "2026-09-04T00:48:42.000Z",
+      "summaryShort": "Crusoe reportedly raises $3B at a $30B valuation. The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "google-s-latest-ai-weather-model-gives-you-no-excuse-to-forget-y",
-      "title": "Google's latest AI weather model gives you no excuse to forget your umbrella",
+      "id": "oura-files-to-go-public",
+      "title": "Oura files to go public",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "publishedAt": "2026-09-03T15:00:00.000Z",
-      "summaryShort": "Google's latest AI weather model gives you no excuse to forget your umbrella. WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques.",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+      "publishedAt": "2026-09-03T22:35:41.000Z",
+      "summaryShort": "Oura files to go public. The ring maker says that its business has shown significant revenue growth over the past year.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "volunteer-at-techcrunch-founder-summit-in-boston",
-      "title": "Volunteer at TechCrunch Founder Summit in Boston",
+      "id": "tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-flee",
+      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
-      "publishedAt": "2026-09-03T13:00:00.000Z",
-      "summaryShort": "Volunteer at TechCrunch Founder Summit in Boston. Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th!",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+      "publishedAt": "2026-09-03T22:18:30.000Z",
+      "summaryShort": "Tesla is asking people if they want to buy and run Cybercab fleets. The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
       "tags": [
         "Engineering"
       ]
