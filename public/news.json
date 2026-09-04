@@ -1,92 +1,92 @@
 {
-  "generatedAt": "2026-09-04T03:51:07.306Z",
+  "generatedAt": "2026-09-04T16:03:40.162Z",
   "items": [
     {
-      "id": "shopify-introduces-gisting-compressing-llm-system-prompts-into-l",
-      "title": "Shopify Introduces Gisting: Compressing LLM System Prompts into Learned Tokens",
+      "id": "airbnb-cuts-authentication-code-by-60-with-server-driven-archite",
+      "title": "Airbnb Cuts Authentication Code by 60% with Server Driven Architecture",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/spotify-gisting-llm-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-03T20:00:00.000Z",
-      "summaryShort": "Shopify Introduces Gisting: Compressing LLM System Prompts into Learned Tokens. Shopify's engineering introduced gisting, a novel technique for compressing long LLM prompts into a smaller set of learned \"gist\" tokens, improving throughput a",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/airbnb-server-driven-login/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-04T14:30:00.000Z",
+      "summaryShort": "Airbnb Cuts Authentication Code by 60% with Server Driven Architecture. Airbnb redesigned its authentication architecture around server driven flows and policy based challenge selection.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "rigorous-yet-sustainable-human-reviews-in-the-ai-era",
-      "title": "Rigorous Yet Sustainable Human Reviews in the AI Era",
+      "id": "kubernetes-promotes-kyaml-as-a-safer-more-consistent-way-to-work",
+      "title": "Kubernetes Promotes KYAML as a Safer, More Consistent Way to Work with Manifests",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/human-reviews-AI-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-03T11:57:00.000Z",
-      "summaryShort": "Rigorous Yet Sustainable Human Reviews in the AI Era. Mandatory AI checks paired with manual spikes for complex changes keep developers sharp.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/kubernetes-kyaml-manifests/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-04T12:00:00.000Z",
+      "summaryShort": "Kubernetes Promotes KYAML as a Safer, More Consistent Way to Work with Manifests. Kubernetes is encouraging developers to take a closer look at KYAML, a stricter dialect of YAML designed to make Kubernetes configuration more explicit, predi",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "mini-book-next-gen-architecture-playbook-insights-and-patterns-f",
+      "title": "Mini book: Next-Gen Architecture Playbook: Insights and Patterns for the AI Era",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/minibooks/next-gen-architecture-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-04T11:00:00.000Z",
+      "summaryShort": "Mini book: Next-Gen Architecture Playbook: Insights and Patterns for the AI Era. This eMag examines how architects can lead with clarity in a rapidly evolving engineering world, distilling industry insights into field-tested practices for t",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "pnpm-12-rewrites-package-manager-in-rust-accelerating-installs-w",
-      "title": "pnpm 12 Rewrites Package Manager in Rust, Accelerating Installs While Preserving pnpm 11 Workflows",
+      "id": "presentation-from-s3-to-gpu-in-one-copy-rethinking-data-loading-",
+      "title": "Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/pnpm-12-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-03T11:23:00.000Z",
-      "summaryShort": "pnpm 12 Rewrites Package Manager in Rust, Accelerating Installs While Preserving pnpm 11 Workflows. pnpm 12 has transitioned to a native Rust implementation, maintaining compatibility with pnpm 11 commands, flags, and formats.",
-      "tags": [
-        "Architecture"
-      ]
-    },
-    {
-      "id": "presentation-instrumentation-at-scale-having-your-performance-ca",
-      "title": "Presentation: Instrumentation at Scale: Having Your Performance Cake and Eating It Too",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/instrumenting-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-03T09:28:00.000Z",
-      "summaryShort": "Presentation: Instrumentation at Scale: Having Your Performance Cake and Eating It Too. Brian Martin discusses the real-world performance costs of metrics libraries and shares strategies for low-overhead, \"fearless\" instrumentation.",
+      "sourceUrl": "https://www.infoq.com/presentations/vortex-columnar-file-format-gpu-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-04T11:00:00.000Z",
+      "summaryShort": "Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training. Onur Satici explains how Vortex, an open-source columnar file format under the Linux Foundation, revolutionizes high-throughput data loading.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "cohere-s-parse-5-promises-efficient-multi-modal-information-extr",
-      "title": "Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction from Complex Documents",
+      "id": "copilot-code-review-reaches-azure-repos-billed-per-review-with-r",
+      "title": "Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days Behind",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/cohere-multimodal-parse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-03T06:06:00.000Z",
-      "summaryShort": "Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction from Complex Documents. Cohere has launched Parse 5, a multimodal foundation model designed to extract structured data from complex enterprise documents.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/copilot-code-review-azure-repos/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-04T10:01:00.000Z",
+      "summaryShort": "Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days Behind. Microsoft opened GitHub Copilot code review for Azure Repos to all Azure DevOps customers, after acknowledging that many are not ready to migrate to ",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boo",
+      "title": "CD sales are making an unexpected comeback amid a retro tech boom",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
+      "publishedAt": "2026-09-04T15:00:00.000Z",
+      "summaryShort": "CD sales are making an unexpected comeback amid a retro tech boom. U.S.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "krafton-doubles-down-on-india-with-another-250m-bet-beyond-gamin",
+      "title": "Krafton doubles down on India with another $250M bet beyond gaming",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
+      "publishedAt": "2026-09-04T14:47:20.000Z",
+      "summaryShort": "Krafton doubles down on India with another $250M bet beyond gaming. Krafton's planned investment in India is set to surpass $500 million with its latest commitment.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "google-s-gemini-spark-can-now-manage-your-google-photos-library",
+      "title": "Google's Gemini Spark can now manage your Google Photos library",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "publishedAt": "2026-09-04T14:47:11.000Z",
+      "summaryShort": "Google's Gemini Spark can now manage your Google Photos library. Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribe",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "crusoe-reportedly-raises-3b-at-a-30b-valuation",
-      "title": "Crusoe reportedly raises $3B at a $30B valuation",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "publishedAt": "2026-09-04T00:48:42.000Z",
-      "summaryShort": "Crusoe reportedly raises $3B at a $30B valuation. The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "oura-files-to-go-public",
-      "title": "Oura files to go public",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
-      "publishedAt": "2026-09-03T22:35:41.000Z",
-      "summaryShort": "Oura files to go public. The ring maker says that its business has shown significant revenue growth over the past year.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-flee",
-      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
-      "publishedAt": "2026-09-03T22:18:30.000Z",
-      "summaryShort": "Tesla is asking people if they want to buy and run Cybercab fleets. The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
