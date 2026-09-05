@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-09-05T03:49:16.222Z",
+  "generatedAt": "2026-09-05T14:53:55.646Z",
   "items": [
+    {
+      "id": "presentation-a-few-predicted-talks-from-qconai-2030",
+      "title": "Presentation: A Few Predicted Talks From QConAI 2030",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-predictions-2030/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-05T11:00:00.000Z",
+      "summaryShort": "Presentation: A Few Predicted Talks From QConAI 2030. Meryem Arik discusses her predictions for software engineering in 2030.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "beyond-zero-google-publishes-successor-to-beyondcorp",
+      "title": "Beyond Zero: Google Publishes Successor to BeyondCorp",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-05T10:40:00.000Z",
+      "summaryShort": "Beyond Zero: Google Publishes Successor to BeyondCorp. In a recent research paper, Google introduced Beyond Zero, a “security model for the AI era” that extends Zero Trust to autonomous AI agents.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "blume-zero-config-docs-framework-that-turns-a-markdown-folder-in",
+      "title": "Blume: Zero-Config Docs Framework That Turns a Markdown Folder into an AI-Ready Website",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/blume-docs-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-05T06:27:00.000Z",
+      "summaryShort": "Blume: Zero-Config Docs Framework That Turns a Markdown Folder into an AI-Ready Website. Blume is an open-source documentation framework that converts Markdown into a complete documentation site.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "redefining-gis-declarative-symbology-and-collaborative-workflows",
+      "title": "Redefining GIS: Declarative Symbology and Collaborative Workflows in JupyterGIS",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/jupyter-gis-extension/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-05T05:05:00.000Z",
+      "summaryShort": "Redefining GIS: Declarative Symbology and Collaborative Workflows in JupyterGIS. JupyterGIS is a GIS-focused extension for Jupyter notebooks.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "airbnb-cuts-authentication-code-by-60-with-server-driven-archite",
       "title": "Airbnb Cuts Authentication Code by 60% with Server Driven Architecture",
@@ -8,50 +53,6 @@
       "sourceUrl": "https://www.infoq.com/news/2026/09/airbnb-server-driven-login/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-09-04T14:30:00.000Z",
       "summaryShort": "Airbnb Cuts Authentication Code by 60% with Server Driven Architecture. Airbnb redesigned its authentication architecture around server driven flows and policy based challenge selection.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "kubernetes-promotes-kyaml-as-a-safer-more-consistent-way-to-work",
-      "title": "Kubernetes Promotes KYAML as a Safer, More Consistent Way to Work with Manifests",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/kubernetes-kyaml-manifests/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-04T12:00:00.000Z",
-      "summaryShort": "Kubernetes Promotes KYAML as a Safer, More Consistent Way to Work with Manifests. Kubernetes is encouraging developers to take a closer look at KYAML, a stricter dialect of YAML designed to make Kubernetes configuration more explicit, predi",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "mini-book-next-gen-architecture-playbook-insights-and-patterns-f",
-      "title": "Mini book: Next-Gen Architecture Playbook: Insights and Patterns for the AI Era",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/minibooks/next-gen-architecture-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-04T11:00:00.000Z",
-      "summaryShort": "Mini book: Next-Gen Architecture Playbook: Insights and Patterns for the AI Era. This eMag examines how architects can lead with clarity in a rapidly evolving engineering world, distilling industry insights into field-tested practices for t",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-from-s3-to-gpu-in-one-copy-rethinking-data-loading-",
-      "title": "Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/vortex-columnar-file-format-gpu-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-04T11:00:00.000Z",
-      "summaryShort": "Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training. Onur Satici explains how Vortex, an open-source columnar file format under the Linux Foundation, revolutionizes high-throughput data loading.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "copilot-code-review-reaches-azure-repos-billed-per-review-with-r",
-      "title": "Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days Behind",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/copilot-code-review-azure-repos/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-04T10:01:00.000Z",
-      "summaryShort": "Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days Behind. Microsoft opened GitHub Copilot code review for Azure Repos to all Azure DevOps customers, after acknowledging that many are not ready to migrate to ",
       "tags": [
         "Engineering"
       ]
