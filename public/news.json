@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-06T03:53:39.136Z",
+  "generatedAt": "2026-09-06T15:13:57.629Z",
   "items": [
+    {
+      "id": "google-mantis-an-agentic-vulnerability-scanning-harness-for-redu",
+      "title": "Google Mantis: An Agentic Vulnerability Scanning Harness for Reducing False Positives",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/google-mantis-vulnerability-scan/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-06T12:00:00.000Z",
+      "summaryShort": "Google Mantis: An Agentic Vulnerability Scanning Harness for Reducing False Positives. Google has open-sourced Mantis, an AI-agent framework designed to automate the software vulnerability lifecycle, from identifying and validating vulnerab",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "how-figma-uses-ai-agents-for-security",
+      "title": "How Figma Uses AI Agents for Security",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-06T06:59:00.000Z",
+      "summaryShort": "How Figma Uses AI Agents for Security. The engineering team at software company Figma recently documented how they built AI agents to help their security team investigate alerts, search past incidents, check company systems, and even prepar",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "freecore-truenas-fork-maintaining-deeply-integrated-virtualizati",
+      "title": "FreeCORE: TrueNAS Fork Maintaining Deeply Integrated Virtualization, Jails, and OpenZFS on FreeBSD",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/freecore-truenas-fork/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-06T06:06:00.000Z",
+      "summaryShort": "FreeCORE: TrueNAS Fork Maintaining Deeply Integrated Virtualization, Jails, and OpenZFS on FreeBSD. TrueNAS CORE has been the standard for open-source storage using FreeBSD and OpenZFS.",
+      "tags": [
+        "Databases"
+      ]
+    },
     {
       "id": "presentation-a-few-predicted-talks-from-qconai-2030",
       "title": "Presentation: A Few Predicted Talks From QConAI 2030",
@@ -22,39 +55,6 @@
       "summaryShort": "Beyond Zero: Google Publishes Successor to BeyondCorp. In a recent research paper, Google introduced Beyond Zero, a “security model for the AI era” that extends Zero Trust to autonomous AI agents.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "blume-zero-config-docs-framework-that-turns-a-markdown-folder-in",
-      "title": "Blume: Zero-Config Docs Framework That Turns a Markdown Folder into an AI-Ready Website",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/blume-docs-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-05T06:27:00.000Z",
-      "summaryShort": "Blume: Zero-Config Docs Framework That Turns a Markdown Folder into an AI-Ready Website. Blume is an open-source documentation framework that converts Markdown into a complete documentation site.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "redefining-gis-declarative-symbology-and-collaborative-workflows",
-      "title": "Redefining GIS: Declarative Symbology and Collaborative Workflows in JupyterGIS",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/jupyter-gis-extension/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-05T05:05:00.000Z",
-      "summaryShort": "Redefining GIS: Declarative Symbology and Collaborative Workflows in JupyterGIS. JupyterGIS is a GIS-focused extension for Jupyter notebooks.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "airbnb-cuts-authentication-code-by-60-with-server-driven-archite",
-      "title": "Airbnb Cuts Authentication Code by 60% with Server Driven Architecture",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/airbnb-server-driven-login/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-04T14:30:00.000Z",
-      "summaryShort": "Airbnb Cuts Authentication Code by 60% with Server Driven Architecture. Airbnb redesigned its authentication architecture around server driven flows and policy based challenge selection.",
-      "tags": [
-        "Engineering"
       ]
     },
     {
