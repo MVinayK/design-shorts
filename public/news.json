@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-06T15:13:57.629Z",
+  "generatedAt": "2026-09-07T03:52:28.144Z",
   "items": [
+    {
+      "id": "java-news-roundup-tornadovm-6-jreleaser-langchain4j-java-operato",
+      "title": "Java News Roundup: TornadoVM 6, JReleaser, LangChain4j, Java Operator SDK, JHipster, Yupiik Fusion",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/java-news-roundup-aug31-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-07T02:30:00.000Z",
+      "summaryShort": "Java News Roundup: TornadoVM 6, JReleaser, LangChain4j, Java Operator SDK, JHipster, Yupiik Fusion. This week's Java roundup for August 31st, 2026, features news highlighting: the GA release of TornadoVM 6.0; point releases of JReleaser, La",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "google-mantis-an-agentic-vulnerability-scanning-harness-for-redu",
       "title": "Google Mantis: An Agentic Vulnerability Scanning Harness for Reducing False Positives",
@@ -47,48 +58,36 @@
       ]
     },
     {
-      "id": "beyond-zero-google-publishes-successor-to-beyondcorp",
-      "title": "Beyond Zero: Google Publishes Successor to BeyondCorp",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-05T10:40:00.000Z",
-      "summaryShort": "Beyond Zero: Google Publishes Successor to BeyondCorp. In a recent research paper, Google introduced Beyond Zero, a “security model for the AI era” that extends Zero Trust to autonomous AI agents.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "seattle-times-and-newsday-are-the-latest-publications-to-sue-ope",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "id": "phil-schiller-s-app-store-exit-reportedly-driven-by-wariness-ove",
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "publishedAt": "2026-09-05T22:49:55.000Z",
-      "summaryShort": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft. Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "hikers-rescued-after-using-google-gemini-for-planning",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "publishedAt": "2026-09-05T19:35:24.000Z",
-      "summaryShort": "Hikers rescued after using Google Gemini for planning. The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "sourceUrl": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "publishedAt": "2026-09-06T21:41:06.000Z",
+      "summaryShort": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans. Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "openai-confirms-wiki-incident-says-it-s-working-on-a-framework-f",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "id": "authors-push-back-as-publishers-and-agents-make-claims-on-anthro",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "publishedAt": "2026-09-05T18:05:27.000Z",
-      "summaryShort": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure. OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "sourceUrl": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "publishedAt": "2026-09-06T20:47:37.000Z",
+      "summaryShort": "Authors push back as publishers and agents make claims on Anthropic settlement. Authors say publishers seem to be claiming more than their fair share of settlement payments.",
       "tags": [
-        "AI",
-        "Architecture"
+        "Engineering"
+      ]
+    },
+    {
+      "id": "travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-busin",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "publishedAt": "2026-09-06T16:45:00.000Z",
+      "summaryShort": "Travis Kalanick’s Atoms might be getting into the robotaxi business. The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
