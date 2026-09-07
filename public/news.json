@@ -1,60 +1,71 @@
 {
-  "generatedAt": "2026-09-07T03:52:28.144Z",
+  "generatedAt": "2026-09-07T17:35:14.795Z",
   "items": [
     {
-      "id": "java-news-roundup-tornadovm-6-jreleaser-langchain4j-java-operato",
-      "title": "Java News Roundup: TornadoVM 6, JReleaser, LangChain4j, Java Operator SDK, JHipster, Yupiik Fusion",
+      "id": "netflix-moves-toward-open-source-flink-autoscaler-for-30-000-str",
+      "title": "Netflix Moves Toward Open Source Flink Autoscaler for 30,000+ Streaming Jobs",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/java-news-roundup-aug31-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-07T02:30:00.000Z",
-      "summaryShort": "Java News Roundup: TornadoVM 6, JReleaser, LangChain4j, Java Operator SDK, JHipster, Yupiik Fusion. This week's Java roundup for August 31st, 2026, features news highlighting: the GA release of TornadoVM 6.0; point releases of JReleaser, La",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/netflix-flink-autoscaler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-07T14:06:00.000Z",
+      "summaryShort": "Netflix Moves Toward Open Source Flink Autoscaler for 30,000+ Streaming Jobs. Netflix is moving toward the open-source Apache Flink Autoscaler for more than 30,000 streaming jobs across multiple AWS regions.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "google-mantis-an-agentic-vulnerability-scanning-harness-for-redu",
-      "title": "Google Mantis: An Agentic Vulnerability Scanning Harness for Reducing False Positives",
+      "id": "presentation-from-ai-agent-demo-to-production-automated-testing-",
+      "title": "Presentation: From AI Agent Demo to Production: Automated Testing and Evaluation",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/google-mantis-vulnerability-scan/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-06T12:00:00.000Z",
-      "summaryShort": "Google Mantis: An Agentic Vulnerability Scanning Harness for Reducing False Positives. Google has open-sourced Mantis, an AI-agent framework designed to automate the software vulnerability lifecycle, from identifying and validating vulnerab",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "how-figma-uses-ai-agents-for-security",
-      "title": "How Figma Uses AI Agents for Security",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-06T06:59:00.000Z",
-      "summaryShort": "How Figma Uses AI Agents for Security. The engineering team at software company Figma recently documented how they built AI agents to help their security team investigate alerts, search past incidents, check company systems, and even prepar",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "freecore-truenas-fork-maintaining-deeply-integrated-virtualizati",
-      "title": "FreeCORE: TrueNAS Fork Maintaining Deeply Integrated Virtualization, Jails, and OpenZFS on FreeBSD",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/freecore-truenas-fork/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-06T06:06:00.000Z",
-      "summaryShort": "FreeCORE: TrueNAS Fork Maintaining Deeply Integrated Virtualization, Jails, and OpenZFS on FreeBSD. TrueNAS CORE has been the standard for open-source storage using FreeBSD and OpenZFS.",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "presentation-a-few-predicted-talks-from-qconai-2030",
-      "title": "Presentation: A Few Predicted Talks From QConAI 2030",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-predictions-2030/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-05T11:00:00.000Z",
-      "summaryShort": "Presentation: A Few Predicted Talks From QConAI 2030. Meryem Arik discusses her predictions for software engineering in 2030.",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-agent-testing-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-07T11:00:00.000Z",
+      "summaryShort": "Presentation: From AI Agent Demo to Production: Automated Testing and Evaluation. Zhou Yu discusses why AI agents stall in demo phase and shares how simulation-driven testing solves compliance and reliability bottlenecks.",
       "tags": [
         "AI",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "zone-redundancy-comes-to-api-management-standard-v2",
+      "title": "Zone Redundancy Comes to API Management Standard v2",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/apim-standard-v2-zone-redundancy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-07T10:09:00.000Z",
+      "summaryShort": "Zone Redundancy Comes to API Management Standard v2. Microsoft has enabled zone redundancy on the Standard v2 tier of Azure API Management, following its arrival on Premium v2 in December.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "cern-renounces-rhel-in-favor-of-debian-for-its-accelerator-contr",
+      "title": "CERN Renounces RHEL in Favor of Debian for Its Accelerator Controls Infrastructure",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/cern-debian-infra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-07T07:07:00.000Z",
+      "summaryShort": "CERN Renounces RHEL in Favor of Debian for Its Accelerator Controls Infrastructure. CERN engineers announced a shift from Red Hat-based distributions to Debian for its accelerator control systems.",
+      "tags": [
         "Cloud"
+      ]
+    },
+    {
+      "id": "vlt-1-0-ships-as-a-drop-in-npm-replacement-with-phased-installs-",
+      "title": "vlt 1.0 Ships as a Drop-in npm Replacement with Phased Installs, Graph Queries, and Malware-Blocking",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/vlt-npm-replacement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-07T06:31:00.000Z",
+      "summaryShort": "vlt 1.0 Ships as a Drop-in npm Replacement with Phased Installs, Graph Queries, and Malware-Blocking. vlt, created by the original npm team, has launched version 1.0 as a drop-in replacement for npm.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "what-we-expect-from-the-upcoming-apple-launch",
+      "title": "What we expect from the upcoming Apple launch",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "publishedAt": "2026-09-07T15:58:00.000Z",
+      "summaryShort": "What we expect from the upcoming Apple launch. While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+      "tags": [
+        "Engineering"
       ]
     },
     {
@@ -75,17 +86,6 @@
       "sourceUrl": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
       "publishedAt": "2026-09-06T20:47:37.000Z",
       "summaryShort": "Authors push back as publishers and agents make claims on Anthropic settlement. Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-busin",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "publishedAt": "2026-09-06T16:45:00.000Z",
-      "summaryShort": "Travis Kalanick’s Atoms might be getting into the robotaxi business. The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
       "tags": [
         "Engineering"
       ]
