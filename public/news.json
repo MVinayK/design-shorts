@@ -1,93 +1,93 @@
 {
-  "generatedAt": "2026-09-08T03:55:29.239Z",
+  "generatedAt": "2026-09-08T16:21:24.175Z",
   "items": [
     {
-      "id": "netflix-moves-toward-open-source-flink-autoscaler-for-30-000-str",
-      "title": "Netflix Moves Toward Open Source Flink Autoscaler for 30,000+ Streaming Jobs",
+      "id": "hashicorp-packer-1-16-adds-native-slsa-provenance-generation-and",
+      "title": "HashiCorp Packer 1.16 Adds Native SLSA Provenance Generation and Verification for Machine Images",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/netflix-flink-autoscaler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-07T14:06:00.000Z",
-      "summaryShort": "Netflix Moves Toward Open Source Flink Autoscaler for 30,000+ Streaming Jobs. Netflix is moving toward the open-source Apache Flink Autoscaler for more than 30,000 streaming jobs across multiple AWS regions.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/hashicorp-packer-verification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-08T14:00:00.000Z",
+      "summaryShort": "HashiCorp Packer 1.16 Adds Native SLSA Provenance Generation and Verification for Machine Images. HashiCorp has released Packer v1.16.0, adding native support for generating, signing, and verifying SLSA provenance attestations for every ima",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "presentation-from-ai-agent-demo-to-production-automated-testing-",
-      "title": "Presentation: From AI Agent Demo to Production: Automated Testing and Evaluation",
+      "id": "presentation-platform-engineering-in-the-age-of-ai",
+      "title": "Presentation: Platform Engineering in the Age of AI",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-agent-testing-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-07T11:00:00.000Z",
-      "summaryShort": "Presentation: From AI Agent Demo to Production: Automated Testing and Evaluation. Zhou Yu discusses why AI agents stall in demo phase and shares how simulation-driven testing solves compliance and reliability bottlenecks.",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-platform-engineering-roundtable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-08T14:00:00.000Z",
+      "summaryShort": "Presentation: Platform Engineering in the Age of AI. The panelists explain how platform teams adapt to support AI-assisted engineering, highlighting which capabilities belong in the platform.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "gitlab-warns-that-ai-agent-sandboxes-are-only-as-secure-as-their",
+      "title": "GitLab Warns That AI Agent Sandboxes Are Only as Secure as Their Network Access",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/gitlab-ai-sandbox-access/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-08T12:00:00.000Z",
+      "summaryShort": "GitLab Warns That AI Agent Sandboxes Are Only as Secure as Their Network Access. GitLab warns that isolating an AI coding agent in a sandbox does not necessarily make the agent safe.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-a-solopreneur-s-journey-from-engineer-to-puzzle-mas",
+      "title": "Presentation: A Solopreneur's Journey: From Engineer to Puzzle Master and Storyteller",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/solopreneur-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-08T09:10:00.000Z",
+      "summaryShort": "Presentation: A Solopreneur's Journey: From Engineer to Puzzle Master and Storyteller. Joe Cassavaugh shares his journey from software engineer to successful solopreneur with a $2M+ indie franchise.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "article-implementing-chaos-engineering-in-financial-payment-syst",
+      "title": "Article: Implementing Chaos Engineering in Financial Payment Systems: Lessons from Enterprise ECS Deployments",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/chaos-engineering-ecs-payments/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-08T09:00:00.000Z",
+      "summaryShort": "Article: Implementing Chaos Engineering in Financial Payment Systems: Lessons from Enterprise ECS Deployments. Standard chaos engineering assumes experiments stop cleanly, blast radius is knowable in advance, and production is fair game.",
+      "tags": [
+        "Databases"
+      ]
+    },
+    {
+      "id": "google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-ac",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "publishedAt": "2026-09-08T16:20:31.000Z",
+      "summaryShort": "Google Cloud races to catch up in the AI deployment wars with Accenture deal. Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
       "tags": [
         "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "zone-redundancy-comes-to-api-management-standard-v2",
-      "title": "Zone Redundancy Comes to API Management Standard v2",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/apim-standard-v2-zone-redundancy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-07T10:09:00.000Z",
-      "summaryShort": "Zone Redundancy Comes to API Management Standard v2. Microsoft has enabled zone redundancy on the Standard v2 tier of Azure API Management, following its arrival on Premium v2 in December.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "cern-renounces-rhel-in-favor-of-debian-for-its-accelerator-contr",
-      "title": "CERN Renounces RHEL in Favor of Debian for Its Accelerator Controls Infrastructure",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/cern-debian-infra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-07T07:07:00.000Z",
-      "summaryShort": "CERN Renounces RHEL in Favor of Debian for Its Accelerator Controls Infrastructure. CERN engineers announced a shift from Red Hat-based distributions to Debian for its accelerator control systems.",
-      "tags": [
         "Cloud"
       ]
     },
     {
-      "id": "vlt-1-0-ships-as-a-drop-in-npm-replacement-with-phased-installs-",
-      "title": "vlt 1.0 Ships as a Drop-in npm Replacement with Phased Installs, Graph Queries, and Malware-Blocking",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/vlt-npm-replacement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-07T06:31:00.000Z",
-      "summaryShort": "vlt 1.0 Ships as a Drop-in npm Replacement with Phased Installs, Graph Queries, and Malware-Blocking. vlt, created by the original npm team, has launched version 1.0 as a drop-in replacement for npm.",
+      "id": "google-s-revived-nuclear-power-plant-gets-1-9b-loan-from-us-gove",
+      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+      "publishedAt": "2026-09-08T15:25:35.000Z",
+      "summaryShort": "Google’s revived nuclear power plant gets $1.9B loan from US government. Google said it would bring an Iowa nuclear power plant back from the dead.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "eric-wu-s-newest-company-out-of-stealth-since-may-is-going-after",
-      "title": "Eric Wu's newest company, out of stealth since May, is going after construction's labor crunch",
+      "id": "chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-s",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
-      "publishedAt": "2026-09-08T02:16:39.000Z",
-      "summaryShort": "Eric Wu's newest company, out of stealth since May, is going after construction's labor crunch. Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI co",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "publishedAt": "2026-09-08T15:04:09.000Z",
+      "summaryShort": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape. Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "opaque-recurrence-and-other-ai-terms-that-you-should-probably-kn",
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "publishedAt": "2026-09-07T19:24:00.000Z",
-      "summaryShort": "Opaque recurrence, and other AI terms that you should probably know. The rise of AI has brought an avalanche of new terms and slang.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "a-secret-new-elizabeth-holmes-documentary-stuns-telluride",
-      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
-      "publishedAt": "2026-09-07T18:02:29.000Z",
-      "summaryShort": "A secret new Elizabeth Holmes documentary stuns Telluride. Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
