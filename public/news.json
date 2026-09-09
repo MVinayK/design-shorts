@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T16:21:24.175Z",
+  "generatedAt": "2026-09-09T04:00:37.283Z",
   "items": [
     {
       "id": "hashicorp-packer-1-16-adds-native-slsa-provenance-generation-and",
@@ -57,35 +57,34 @@
       ]
     },
     {
-      "id": "google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-ac",
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "id": "white-house-takes-down-8216-build-the-wall-game-after-the-tetris",
+      "title": "White House takes down &#8216;Build the Wall' game after the Tetris Company complains",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "publishedAt": "2026-09-08T16:20:31.000Z",
-      "summaryShort": "Google Cloud races to catch up in the AI deployment wars with Accenture deal. Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "google-s-revived-nuclear-power-plant-gets-1-9b-loan-from-us-gove",
-      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
-      "publishedAt": "2026-09-08T15:25:35.000Z",
-      "summaryShort": "Google’s revived nuclear power plant gets $1.9B loan from US government. Google said it would bring an Iowa nuclear power plant back from the dead.",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+      "publishedAt": "2026-09-08T23:23:23.000Z",
+      "summaryShort": "White House takes down &#8216;Build the Wall' game after the Tetris Company complains. The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright i",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-s",
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "id": "hackers-are-stealing-claude-tokens-from-subscribers",
+      "title": "Hackers are stealing Claude tokens from subscribers",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-      "publishedAt": "2026-09-08T15:04:09.000Z",
-      "summaryShort": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape. Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "publishedAt": "2026-09-08T21:10:27.000Z",
+      "summaryShort": "Hackers are stealing Claude tokens from subscribers. Last month, a Claude user noticed his account was consuming tokens even though he wasn't working.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "cognition-hits-48b-valuation-signaling-investors-believe-ai-codi",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "publishedAt": "2026-09-08T21:04:06.000Z",
+      "summaryShort": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market. Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
       "tags": [
         "AI"
       ]
