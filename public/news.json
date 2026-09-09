@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-09-09T04:00:37.283Z",
+  "generatedAt": "2026-09-09T16:17:08.095Z",
   "items": [
+    {
+      "id": "presentation-fixing-the-ai-infra-scale-problem-by-stuffing-1m-sa",
+      "title": "Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/unikraft-microvm-sandboxes-cloud-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-09T11:00:00.000Z",
+      "summaryShort": "Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server. Felipe Huici explains how Unikraft achieves millisecond cold boots, stateful scale-to-zero, and extreme density for sandboxing AI workloads.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "azure-virtual-desktop-hybrid-reaches-ga-with-licensing-details-u",
+      "title": "Azure Virtual Desktop Hybrid Reaches GA with Licensing Details Unpublished",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/avd-hybrid-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-09T08:54:00.000Z",
+      "summaryShort": "Azure Virtual Desktop Hybrid Reaches GA with Licensing Details Unpublished. Microsoft has made Azure Virtual Desktop Hybrid generally available.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "vim-async-s-addition-modernizes-neovim-s-async-architecture-for-",
+      "title": "vim.async's Addition Modernizes Neovim’s Async Architecture for Better Stability",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/async-lua-neovim/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-09T06:06:00.000Z",
+      "summaryShort": "vim.async's Addition Modernizes Neovim’s Async Architecture for Better Stability. Neovim has introduced a structured concurrency library in its Lua standard library via the vim.async namespace.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "hashicorp-packer-1-16-adds-native-slsa-provenance-generation-and",
       "title": "HashiCorp Packer 1.16 Adds Native SLSA Provenance Generation and Verification for Machine Images",
@@ -24,69 +58,36 @@
       ]
     },
     {
-      "id": "gitlab-warns-that-ai-agent-sandboxes-are-only-as-secure-as-their",
-      "title": "GitLab Warns That AI Agent Sandboxes Are Only as Secure as Their Network Access",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/gitlab-ai-sandbox-access/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-08T12:00:00.000Z",
-      "summaryShort": "GitLab Warns That AI Agent Sandboxes Are Only as Secure as Their Network Access. GitLab warns that isolating an AI coding agent in a sandbox does not necessarily make the agent safe.",
+      "id": "superintelligence-is-coming-should-we-let-it",
+      "title": "Superintelligence is coming. Should we let it?",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "publishedAt": "2026-09-09T16:05:35.000Z",
+      "summaryShort": "Superintelligence is coming. Should we let it?.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "presentation-a-solopreneur-s-journey-from-engineer-to-puzzle-mas",
-      "title": "Presentation: A Solopreneur's Journey: From Engineer to Puzzle Master and Storyteller",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/solopreneur-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-08T09:10:00.000Z",
-      "summaryShort": "Presentation: A Solopreneur's Journey: From Engineer to Puzzle Master and Storyteller. Joe Cassavaugh shares his journey from software engineer to successful solopreneur with a $2M+ indie franchise.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "article-implementing-chaos-engineering-in-financial-payment-syst",
-      "title": "Article: Implementing Chaos Engineering in Financial Payment Systems: Lessons from Enterprise ECS Deployments",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/chaos-engineering-ecs-payments/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-08T09:00:00.000Z",
-      "summaryShort": "Article: Implementing Chaos Engineering in Financial Payment Systems: Lessons from Enterprise ECS Deployments. Standard chaos engineering assumes experiments stop cleanly, blast radius is knowable in advance, and production is fair game.",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "white-house-takes-down-8216-build-the-wall-game-after-the-tetris",
-      "title": "White House takes down &#8216;Build the Wall' game after the Tetris Company complains",
+      "id": "viral-ai-assistant-instinct-now-has-its-own-email-address",
+      "title": "Viral AI assistant Instinct now has its own email address",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
-      "publishedAt": "2026-09-08T23:23:23.000Z",
-      "summaryShort": "White House takes down &#8216;Build the Wall' game after the Tetris Company complains. The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright i",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "hackers-are-stealing-claude-tokens-from-subscribers",
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "publishedAt": "2026-09-08T21:10:27.000Z",
-      "summaryShort": "Hackers are stealing Claude tokens from subscribers. Last month, a Claude user noticed his account was consuming tokens even though he wasn't working.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "cognition-hits-48b-valuation-signaling-investors-believe-ai-codi",
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "publishedAt": "2026-09-08T21:04:06.000Z",
-      "summaryShort": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market. Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "publishedAt": "2026-09-09T15:13:12.000Z",
+      "summaryShort": "Viral AI assistant Instinct now has its own email address. Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-co",
+      "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
+      "publishedAt": "2026-09-09T15:10:41.000Z",
+      "summaryShort": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending. inDrive's ad business, first piloted in July 2025, has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
