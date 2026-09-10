@@ -1,91 +1,90 @@
 {
-  "generatedAt": "2026-09-10T03:59:54.549Z",
+  "generatedAt": "2026-09-10T16:08:09.698Z",
   "items": [
     {
-      "id": "meta-s-recipe-for-building-agents-as-organizational-second-brain",
-      "title": "Meta's Recipe for Building Agents as \"Organizational Second Brains\"",
+      "id": "beyond-autonomous-teams-in-software-product-development",
+      "title": "Beyond Autonomous Teams in Software Product Development",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-09T18:00:00.000Z",
-      "summaryShort": "Meta's Recipe for Building Agents as \"Organizational Second Brains\". Meta describes how an AI agent can be designed to capture the logic and expertise of domain experts, rather than simply storing documents or retrieving relevant informatio",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/autonomous-software-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-10T10:29:00.000Z",
+      "summaryShort": "Beyond Autonomous Teams in Software Product Development. Autonomous teams are an article of faith in modern software development.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "presentation-fixing-the-ai-infra-scale-problem-by-stuffing-1m-sa",
-      "title": "Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server",
+      "id": "presentation-accelerating-performance-by-incrementally-integrati",
+      "title": "Presentation: Accelerating Performance by Incrementally Integrating Rust Into Existing Codebase",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/unikraft-microvm-sandboxes-cloud-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-09T11:00:00.000Z",
-      "summaryShort": "Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server. Felipe Huici explains how Unikraft achieves millisecond cold boots, stateful scale-to-zero, and extreme density for sandboxing AI workloads.",
+      "sourceUrl": "https://www.infoq.com/presentations/rust-refactoring/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-10T09:34:00.000Z",
+      "summaryShort": "Presentation: Accelerating Performance by Incrementally Integrating Rust Into Existing Codebase. Lily Mara explains how to avoid high-risk software rewrites through incremental FFI refactoring.",
       "tags": [
-        "AI",
         "Cloud"
       ]
     },
     {
-      "id": "azure-virtual-desktop-hybrid-reaches-ga-with-licensing-details-u",
-      "title": "Azure Virtual Desktop Hybrid Reaches GA with Licensing Details Unpublished",
+      "id": "article-when-spec-driven-development-pays-off",
+      "title": "Article: When Spec-Driven Development Pays Off",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/avd-hybrid-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-09T08:54:00.000Z",
-      "summaryShort": "Azure Virtual Desktop Hybrid Reaches GA with Licensing Details Unpublished. Microsoft has made Azure Virtual Desktop Hybrid generally available.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "vim-async-s-addition-modernizes-neovim-s-async-architecture-for-",
-      "title": "vim.async's Addition Modernizes Neovim’s Async Architecture for Better Stability",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/async-lua-neovim/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-09T06:06:00.000Z",
-      "summaryShort": "vim.async's Addition Modernizes Neovim’s Async Architecture for Better Stability. Neovim has introduced a structured concurrency library in its Lua standard library via the vim.async namespace.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "hashicorp-packer-1-16-adds-native-slsa-provenance-generation-and",
-      "title": "HashiCorp Packer 1.16 Adds Native SLSA Provenance Generation and Verification for Machine Images",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/hashicorp-packer-verification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-08T14:00:00.000Z",
-      "summaryShort": "HashiCorp Packer 1.16 Adds Native SLSA Provenance Generation and Verification for Machine Images. HashiCorp has released Packer v1.16.0, adding native support for generating, signing, and verifying SLSA provenance attestations for every ima",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-fo",
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "publishedAt": "2026-09-10T00:00:37.000Z",
-      "summaryShort": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks. Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "sourceUrl": "https://www.infoq.com/articles/when-spec-driven-development-pays-off/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-10T09:00:00.000Z",
+      "summaryShort": "Article: When Spec-Driven Development Pays Off. AI coding assistants have become a core part of software development.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "automattic-s-board-forces-ceo-matt-mullenweg-into-leave-of-absen",
-      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "publishedAt": "2026-09-09T23:14:29.000Z",
-      "summaryShort": "Automattic's board forces CEO Matt Mullenweg into leave of absence. Mullenweg said in a company Slack message that it was against his will.",
+      "id": "ietf-publishes-rfc-10008-adding-the-query-method-for-safe-reques",
+      "title": "IETF Publishes RFC 10008, Adding the QUERY Method for Safe Requests With a Body",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/http-query-method/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-10T06:27:00.000Z",
+      "summaryShort": "IETF Publishes RFC 10008, Adding the QUERY Method for Safe Requests With a Body. In June 2026, the IETF published RFC 10008, introducing the QUERY method to HTTP, the first new standard HTTP verb since 2010.",
+      "tags": [
+        "Architecture"
+      ]
+    },
+    {
+      "id": "cpython-officially-adds-risc-v-support-as-a-tier-3-platform",
+      "title": "CPython Officially Adds RISC-V Support As a Tier 3 Platform",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/riscv-cpython/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-10T05:05:00.000Z",
+      "summaryShort": "CPython Officially Adds RISC-V Support As a Tier 3 Platform. The Python core development team has officially recognized RISC-V as a Tier 3 platform in CPython, following extensive community collaboration on its implementation.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "id": "google-is-making-it-easier-to-switch-between-password-managers-o",
+      "title": "Google is making it easier to switch between password managers on Android",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "publishedAt": "2026-09-09T22:25:22.000Z",
-      "summaryShort": "OpenAI adds a prominent AI doomer to its board of directors. Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "sourceUrl": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "summaryShort": "Google is making it easier to switch between password managers on Android. Google's new feature will transfer your passkeys as well",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "the-boring-company-raises-3b-in-round-led-by-uae",
+      "title": "The Boring Company raises $3B in round led by UAE",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
+      "publishedAt": "2026-09-10T15:07:27.000Z",
+      "summaryShort": "The Boring Company raises $3B in round led by UAE. The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ai-agents-are-flooding-public-services-with-new-requests",
+      "title": "AI agents are flooding public services with new requests",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "publishedAt": "2026-09-10T14:53:50.000Z",
+      "summaryShort": "AI agents are flooding public services with new requests. “The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
       "tags": [
         "AI"
       ]
