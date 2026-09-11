@@ -1,90 +1,91 @@
 {
-  "generatedAt": "2026-09-11T03:56:25.161Z",
+  "generatedAt": "2026-09-11T16:11:47.643Z",
   "items": [
     {
-      "id": "openai-releases-gpt-6-astra-for-coding-and-computer-use",
-      "title": "OpenAI Releases GPT-6 Astra for Coding and Computer Use",
+      "id": "nvidia-personal-ai-router-distributes-ai-tasks-across-local-comp",
+      "title": "NVIDIA Personal AI Router Distributes AI Tasks Across Local Compute",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/openai-gpt6-astra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-10T17:49:00.000Z",
-      "summaryShort": "OpenAI Releases GPT-6 Astra for Coding and Computer Use. OpenAI has released GPT-6 Astra, a new model focused on coding, computer use, long-running agentic tasks, and cybersecurity, with availability across ChatGPT, Codex, and the OpenAI AP",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/nvidia-pair-ai-task-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-11T15:00:00.000Z",
+      "summaryShort": "NVIDIA Personal AI Router Distributes AI Tasks Across Local Compute. NVIDIA Personal AI Router (PAIR), now available in beta, lets you combine the inference capacity of multiple computers on your local network and automatically distribute A",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "beyond-autonomous-teams-in-software-product-development",
-      "title": "Beyond Autonomous Teams in Software Product Development",
+      "id": "netflix-reworks-conductor-for-420-million-monthly-workflow-execu",
+      "title": "Netflix Reworks Conductor for 420 Million Monthly Workflow Executions and 10X Larger Workflows",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/autonomous-software-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-10T10:29:00.000Z",
-      "summaryShort": "Beyond Autonomous Teams in Software Product Development. Autonomous teams are an article of faith in modern software development.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/netflix-conductor-4-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-11T14:17:00.000Z",
+      "summaryShort": "Netflix Reworks Conductor for 420 Million Monthly Workflow Executions and 10X Larger Workflows. Netflix has reworked its Conductor workflow orchestration engine to handle larger workloads, increasing supported workflow size from about 2,500",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "presentation-accelerating-performance-by-incrementally-integrati",
-      "title": "Presentation: Accelerating Performance by Incrementally Integrating Rust Into Existing Codebase",
+      "id": "tsgolint-reaches-stable-v7-bringing-go-powered-type-aware-lintin",
+      "title": "tsgolint Reaches Stable v7, Bringing Go-Powered Type-Aware Linting to Oxlint",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/rust-refactoring/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-10T09:34:00.000Z",
-      "summaryShort": "Presentation: Accelerating Performance by Incrementally Integrating Rust Into Existing Codebase. Lily Mara explains how to avoid high-risk software rewrites through incremental FFI refactoring.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/tsgolint-oxlint-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-11T12:02:00.000Z",
+      "summaryShort": "tsgolint Reaches Stable v7, Bringing Go-Powered Type-Aware Linting to Oxlint. tsgolint has released a stable v7, enhancing TypeScript linting with native Go speed.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "terraform-aws-provider-continues-rapid-expansion-as-aws-infrastr",
+      "title": "Terraform AWS Provider Continues Rapid Expansion as AWS Infrastructure Becomes More Complex",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/terraform-aws-provider-6-62/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-11T12:00:00.000Z",
+      "summaryShort": "Terraform AWS Provider Continues Rapid Expansion as AWS Infrastructure Becomes More Complex. The Terraform AWS Provider continues its rapid evolution, with v6.62.0 adding support for new AWS capabilities while improving how Terraform unders",
       "tags": [
         "Cloud"
       ]
     },
     {
-      "id": "article-when-spec-driven-development-pays-off",
-      "title": "Article: When Spec-Driven Development Pays Off",
+      "id": "presentation-how-to-run-on-three-clouds-at-once-and-when-not-to",
+      "title": "Presentation: How To Run on Three Clouds at Once, and When Not To",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/when-spec-driven-development-pays-off/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-10T09:00:00.000Z",
-      "summaryShort": "Article: When Spec-Driven Development Pays Off. AI coding assistants have become a core part of software development.",
+      "sourceUrl": "https://www.infoq.com/presentations/form3-multicloud-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-11T11:00:00.000Z",
+      "summaryShort": "Presentation: How To Run on Three Clouds at Once, and When Not To. Ross McFarlane and Kevin Holditch discuss Form3's evolution from a single-cloud setup to a triple active multi-cloud architecture.",
+      "tags": [
+        "Databases",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-",
+      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+      "publishedAt": "2026-09-11T16:00:00.000Z",
+      "summaryShort": "Roblox is making it easier to build games with AI — and play them outside Roblox. Roblox will allow creator to deploy their games across PC< consoles, and mobile as standalone apps",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "ietf-publishes-rfc-10008-adding-the-query-method-for-safe-reques",
-      "title": "IETF Publishes RFC 10008, Adding the QUERY Method for Safe Requests With a Body",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/http-query-method/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-10T06:27:00.000Z",
-      "summaryShort": "IETF Publishes RFC 10008, Adding the QUERY Method for Safe Requests With a Body. In June 2026, the IETF published RFC 10008, introducing the QUERY method to HTTP, the first new standard HTTP verb since 2010.",
-      "tags": [
-        "Architecture"
-      ]
-    },
-    {
-      "id": "thrive-capital-led-vcs-into-pro-sports-ownership-collaborative-f",
-      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+      "id": "matt-mullenweg-tells-automattic-staff-in-slack-he-s-back-in-cont",
+      "title": "Matt Mullenweg tells Automattic staff in Slack he's back in control after CEO ouster",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
-      "publishedAt": "2026-09-10T22:30:00.000Z",
-      "summaryShort": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play. Collaborative Fund just bought into D.C.",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+      "publishedAt": "2026-09-11T15:19:00.000Z",
+      "summaryShort": "Matt Mullenweg tells Automattic staff in Slack he's back in control after CEO ouster. In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next",
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "id": "scammers-target-hundreds-of-thousands-of-crypto-owners-after-tre",
+      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "publishedAt": "2026-09-10T21:51:59.000Z",
-      "summaryShort": "Jensen Huang explains why Nvidia will grow an astounding 70% next year. Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wants-",
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-10T21:35:00.000Z",
-      "summaryShort": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his. Mark Wahlberg joins Bruce K.",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+      "publishedAt": "2026-09-11T13:32:54.000Z",
+      "summaryShort": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider. This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
       "tags": [
         "Engineering"
       ]
