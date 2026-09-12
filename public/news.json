@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-09-12T03:58:30.205Z",
+  "generatedAt": "2026-09-12T15:18:43.350Z",
   "items": [
+    {
+      "id": "presentation-from-retrieval-to-reasoning-building-production-rea",
+      "title": "Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-12T11:00:00.000Z",
+      "summaryShort": "Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs. Cassie Shum discusses why knowledge graphs serve as a critical foundation for agentic systems.",
+      "tags": [
+        "AI",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "lambda-snapstart-comes-to-container-images-ending-a-packaging-tr",
+      "title": "Lambda SnapStart Comes to Container Images, Ending a Packaging Tradeoff",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/lambda-snapstart-container-image/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-12T10:09:00.000Z",
+      "summaryShort": "Lambda SnapStart Comes to Container Images, Ending a Packaging Tradeoff. AWS has extended Lambda SnapStart to container image functions, which hold up to 10 GB against 250 MB for zip archives.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "one-decade-of-rustls-evolution-benchmarks-and-future-roadmap",
+      "title": "One Decade of Rustls: Evolution, Benchmarks, and Future Roadmap",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/rustls-one-decade/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-12T07:07:00.000Z",
+      "summaryShort": "One Decade of Rustls: Evolution, Benchmarks, and Future Roadmap. Rustls, a Rust TLS library, marks its decade-long progression from a grassroots project to a funded open-source initiative.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "nvidia-personal-ai-router-distributes-ai-tasks-across-local-comp",
       "title": "NVIDIA Personal AI Router Distributes AI Tasks across Local Compute",
@@ -24,37 +58,14 @@
       ]
     },
     {
-      "id": "tsgolint-reaches-stable-v7-bringing-go-powered-type-aware-lintin",
-      "title": "tsgolint Reaches Stable v7, Bringing Go-Powered Type-Aware Linting to Oxlint",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/tsgolint-oxlint-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-11T12:02:00.000Z",
-      "summaryShort": "tsgolint Reaches Stable v7, Bringing Go-Powered Type-Aware Linting to Oxlint. tsgolint has released a stable v7, enhancing TypeScript linting with native Go speed.",
+      "id": "revolut-confirms-customer-data-breach-through-fake-government-re",
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "publishedAt": "2026-09-12T14:40:00.000Z",
+      "summaryShort": "Revolut confirms customer data breach through fake government requests. Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "terraform-aws-provider-continues-rapid-expansion-as-aws-infrastr",
-      "title": "Terraform AWS Provider Continues Rapid Expansion as AWS Infrastructure Becomes More Complex",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/terraform-aws-provider-6-62/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-11T12:00:00.000Z",
-      "summaryShort": "Terraform AWS Provider Continues Rapid Expansion as AWS Infrastructure Becomes More Complex. The Terraform AWS Provider continues its rapid evolution, with v6.62.0 adding support for new AWS capabilities while improving how Terraform unders",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-how-to-run-on-three-clouds-at-once-and-when-not-to",
-      "title": "Presentation: How To Run on Three Clouds at Once, and When Not To",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/form3-multicloud-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-11T11:00:00.000Z",
-      "summaryShort": "Presentation: How To Run on Three Clouds at Once, and When Not To. Ross McFarlane and Kevin Holditch discuss Form3's evolution from a single-cloud setup to a triple active multi-cloud architecture.",
-      "tags": [
-        "Databases",
-        "Cloud"
       ]
     },
     {
@@ -77,17 +88,6 @@
       "summaryShort": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road. \"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "y-combinator-s-garry-tan-wants-us-open-weight-ai-labs-to-8216-di",
-      "title": "Y Combinator's Garry Tan wants US open-weight AI labs to &#8216;distill' frontier models, too",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "publishedAt": "2026-09-11T20:59:47.000Z",
-      "summaryShort": "Y Combinator's Garry Tan wants US open-weight AI labs to &#8216;distill' frontier models, too. Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S.",
-      "tags": [
-        "AI"
       ]
     }
   ]
