@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-11T16:11:47.643Z",
+  "generatedAt": "2026-09-12T03:58:30.205Z",
   "items": [
     {
       "id": "nvidia-personal-ai-router-distributes-ai-tasks-across-local-comp",
-      "title": "NVIDIA Personal AI Router Distributes AI Tasks Across Local Compute",
+      "title": "NVIDIA Personal AI Router Distributes AI Tasks across Local Compute",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/news/2026/09/nvidia-pair-ai-task-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-09-11T15:00:00.000Z",
-      "summaryShort": "NVIDIA Personal AI Router Distributes AI Tasks Across Local Compute. NVIDIA Personal AI Router (PAIR), now available in beta, lets you combine the inference capacity of multiple computers on your local network and automatically distribute A",
+      "summaryShort": "NVIDIA Personal AI Router Distributes AI Tasks across Local Compute. NVIDIA Personal AI Router (PAIR), now available in beta, lets you combine the inference capacity of multiple computers on your local network and automatically distribute A",
       "tags": [
         "AI"
       ]
@@ -58,36 +58,36 @@
       ]
     },
     {
-      "id": "roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-",
-      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "id": "mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-      "publishedAt": "2026-09-11T16:00:00.000Z",
-      "summaryShort": "Roblox is making it easier to build games with AI — and play them outside Roblox. Roblox will allow creator to deploy their games across PC< consoles, and mobile as standalone apps",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "publishedAt": "2026-09-11T22:58:17.000Z",
+      "summaryShort": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data. The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "matt-mullenweg-tells-automattic-staff-in-slack-he-s-back-in-cont",
-      "title": "Matt Mullenweg tells Automattic staff in Slack he's back in control after CEO ouster",
+      "id": "khosla-ventures-is-opening-a-new-york-office-this-fall-its-first",
+      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-      "publishedAt": "2026-09-11T15:19:00.000Z",
-      "summaryShort": "Matt Mullenweg tells Automattic staff in Slack he's back in control after CEO ouster. In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+      "publishedAt": "2026-09-11T21:19:05.000Z",
+      "summaryShort": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road. \"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "scammers-target-hundreds-of-thousands-of-crypto-owners-after-tre",
-      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+      "id": "y-combinator-s-garry-tan-wants-us-open-weight-ai-labs-to-8216-di",
+      "title": "Y Combinator's Garry Tan wants US open-weight AI labs to &#8216;distill' frontier models, too",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-      "publishedAt": "2026-09-11T13:32:54.000Z",
-      "summaryShort": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider. This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "publishedAt": "2026-09-11T20:59:47.000Z",
+      "summaryShort": "Y Combinator's Garry Tan wants US open-weight AI labs to &#8216;distill' frontier models, too. Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
