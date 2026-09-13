@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-12T15:18:43.350Z",
+  "generatedAt": "2026-09-13T04:08:21.900Z",
   "items": [
+    {
+      "id": "open-source-project-brings-full-ios-27-virtualization-to-apple-s",
+      "title": "Open-Source Project Brings Full iOS 27 Virtualization to Apple Silicon",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/ios-27-virtualization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-12T16:00:00.000Z",
+      "summaryShort": "Open-Source Project Brings Full iOS 27 Virtualization to Apple Silicon. The open-Source project vphone-cli enables a full iOS 27 system to run as a virtual machine on Apple Silicon.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "presentation-from-retrieval-to-reasoning-building-production-rea",
       "title": "Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs",
@@ -47,47 +58,36 @@
       ]
     },
     {
-      "id": "netflix-reworks-conductor-for-420-million-monthly-workflow-execu",
-      "title": "Netflix Reworks Conductor for 420 Million Monthly Workflow Executions and 10X Larger Workflows",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/netflix-conductor-4-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-11T14:17:00.000Z",
-      "summaryShort": "Netflix Reworks Conductor for 420 Million Monthly Workflow Executions and 10X Larger Workflows. Netflix has reworked its Conductor workflow orchestration engine to handle larger workloads, increasing supported workflow size from about 2,500",
+      "id": "automattic-confirms-mullenweg-has-returned-as-ceo-after-attempte",
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "publishedAt": "2026-09-12T23:25:38.000Z",
+      "summaryShort": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board. Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "revolut-confirms-customer-data-breach-through-fake-government-re",
-      "title": "Revolut confirms customer data breach through fake government requests",
+      "id": "openai-s-sam-altman-says-it-would-be-8216-ill-advised-to-go-publ",
+      "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised' to go public in 2026",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "publishedAt": "2026-09-12T14:40:00.000Z",
-      "summaryShort": "Revolut confirms customer data breach through fake government requests. Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+      "sourceUrl": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "publishedAt": "2026-09-12T20:19:16.000Z",
+      "summaryShort": "OpenAI’s Sam Altman says it would be &#8216;ill-advised' to go public in 2026. While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "id": "anthropic-ceo-outlines-plan-to-slow-ai-development",
+      "title": "Anthropic CEO outlines plan to slow AI development",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "publishedAt": "2026-09-11T22:58:17.000Z",
-      "summaryShort": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data. The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "publishedAt": "2026-09-12T19:34:44.000Z",
+      "summaryShort": "Anthropic CEO outlines plan to slow AI development. Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "khosla-ventures-is-opening-a-new-york-office-this-fall-its-first",
-      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-      "publishedAt": "2026-09-11T21:19:05.000Z",
-      "summaryShort": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road. \"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
