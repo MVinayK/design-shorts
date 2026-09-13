@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-09-13T04:08:21.900Z",
+  "generatedAt": "2026-09-13T15:55:47.307Z",
   "items": [
+    {
+      "id": "cloudflare-tests-cache-transcoding-to-reduce-storage-requirement",
+      "title": "Cloudflare Tests Cache Transcoding to Reduce Storage Requirements",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/cloudflare-cache-transcoding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-13T10:35:00.000Z",
+      "summaryShort": "Cloudflare Tests Cache Transcoding to Reduce Storage Requirements. Cloudflare recently described a prototype called Cache Transcoding that compresses eligible cache content, mainly uncompressed text such as HTML, JSON, CSS, and JavaScript, ",
+      "tags": [
+        "Databases",
+        "Cloud",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "github-copilot-s-project-hydrafusion-promises-frontier-level-per",
+      "title": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance Through Multi-Model Routing",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-13T06:06:00.000Z",
+      "summaryShort": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance Through Multi-Model Routing. GitHub's Project HydraFusion is a research preview for GitHub Copilot that enhances coding intelligence through runtime model orchestratio",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "open-source-project-brings-full-ios-27-virtualization-to-apple-s",
       "title": "Open-Source Project Brings Full iOS 27 Virtualization to Apple Silicon",
@@ -36,25 +60,14 @@
       ]
     },
     {
-      "id": "one-decade-of-rustls-evolution-benchmarks-and-future-roadmap",
-      "title": "One Decade of Rustls: Evolution, Benchmarks, and Future Roadmap",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/rustls-one-decade/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-12T07:07:00.000Z",
-      "summaryShort": "One Decade of Rustls: Evolution, Benchmarks, and Future Roadmap. Rustls, a Rust TLS library, marks its decade-long progression from a grassroots project to a funded open-source initiative.",
+      "id": "fusion-power-startups-find-new-partners-in-the-defense-world",
+      "title": "Fusion power startups find new partners in the defense world",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+      "publishedAt": "2026-09-13T13:15:00.000Z",
+      "summaryShort": "Fusion power startups find new partners in the defense world. Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "nvidia-personal-ai-router-distributes-ai-tasks-across-local-comp",
-      "title": "NVIDIA Personal AI Router Distributes AI Tasks across Local Compute",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/nvidia-pair-ai-task-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-11T15:00:00.000Z",
-      "summaryShort": "NVIDIA Personal AI Router Distributes AI Tasks across Local Compute. NVIDIA Personal AI Router (PAIR), now available in beta, lets you combine the inference capacity of multiple computers on your local network and automatically distribute A",
-      "tags": [
-        "AI"
       ]
     },
     {
@@ -77,17 +90,6 @@
       "summaryShort": "OpenAI’s Sam Altman says it would be &#8216;ill-advised' to go public in 2026. While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "anthropic-ceo-outlines-plan-to-slow-ai-development",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "publishedAt": "2026-09-12T19:34:44.000Z",
-      "summaryShort": "Anthropic CEO outlines plan to slow AI development. Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "tags": [
-        "AI"
       ]
     }
   ]
