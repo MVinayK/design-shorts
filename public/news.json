@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-13T15:55:47.307Z",
+  "generatedAt": "2026-09-14T04:16:01.901Z",
   "items": [
+    {
+      "id": "meta-open-sources-astryx-its-agent-ready-react-design-system",
+      "title": "Meta Open-Sources Astryx, its Agent-Ready React Design System",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/meta-astryx-design-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-13T23:39:00.000Z",
+      "summaryShort": "Meta Open-Sources Astryx, its Agent-Ready React Design System. Meta recently announced the beta release of Astryx, an open-source React design system developed internally over eight years.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "cloudflare-tests-cache-transcoding-to-reduce-storage-requirement",
       "title": "Cloudflare Tests Cache Transcoding to Reduce Storage Requirements",
@@ -16,11 +27,11 @@
     },
     {
       "id": "github-copilot-s-project-hydrafusion-promises-frontier-level-per",
-      "title": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance Through Multi-Model Routing",
+      "title": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance through Multi-Model Routing",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-09-13T06:06:00.000Z",
-      "summaryShort": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance Through Multi-Model Routing. GitHub's Project HydraFusion is a research preview for GitHub Copilot that enhances coding intelligence through runtime model orchestratio",
+      "summaryShort": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance through Multi-Model Routing. GitHub's Project HydraFusion is a research preview for GitHub Copilot that enhances coding intelligence through runtime model orchestratio",
       "tags": [
         "AI"
       ]
@@ -49,45 +60,34 @@
       ]
     },
     {
-      "id": "lambda-snapstart-comes-to-container-images-ending-a-packaging-tr",
-      "title": "Lambda SnapStart Comes to Container Images, Ending a Packaging Tradeoff",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/lambda-snapstart-container-image/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-12T10:09:00.000Z",
-      "summaryShort": "Lambda SnapStart Comes to Container Images, Ending a Packaging Tradeoff. AWS has extended Lambda SnapStart to container image functions, which hold up to 10 GB against 250 MB for zip archives.",
+      "id": "insight-partners-deven-parekh-on-why-the-firm-is-diversifying-wh",
+      "title": "Insight Partners' Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "publishedAt": "2026-09-13T21:30:00.000Z",
+      "summaryShort": "Insight Partners' Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic. Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "larry-ellison-cancels-7-5-billion-sale-of-oracle-stock",
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "publishedAt": "2026-09-13T20:49:38.000Z",
+      "summaryShort": "Larry Ellison cancels $7.5 billion sale of Oracle stock. Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "fusion-power-startups-find-new-partners-in-the-defense-world",
-      "title": "Fusion power startups find new partners in the defense world",
+      "id": "the-9-buzziest-startups-from-y-combinator-s-latest-demo-day-acco",
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-      "publishedAt": "2026-09-13T13:15:00.000Z",
-      "summaryShort": "Fusion power startups find new partners in the defense world. Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "automattic-confirms-mullenweg-has-returned-as-ceo-after-attempte",
-      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "publishedAt": "2026-09-12T23:25:38.000Z",
-      "summaryShort": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board. Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "openai-s-sam-altman-says-it-would-be-8216-ill-advised-to-go-publ",
-      "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised' to go public in 2026",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "publishedAt": "2026-09-12T20:19:16.000Z",
-      "summaryShort": "OpenAI’s Sam Altman says it would be &#8216;ill-advised' to go public in 2026. While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "sourceUrl": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "publishedAt": "2026-09-13T20:28:00.000Z",
+      "summaryShort": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs. From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
       "tags": [
         "Engineering"
       ]
