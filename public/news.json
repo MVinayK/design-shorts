@@ -1,95 +1,92 @@
 {
-  "generatedAt": "2026-09-14T04:16:01.901Z",
+  "generatedAt": "2026-09-14T17:56:38.407Z",
   "items": [
     {
-      "id": "meta-open-sources-astryx-its-agent-ready-react-design-system",
-      "title": "Meta Open-Sources Astryx, its Agent-Ready React Design System",
+      "id": "agoda-replaces-72-shard-sql-server-price-cache-with-dragonflydb",
+      "title": "Agoda Replaces 72-Shard SQL Server Price Cache with DragonflyDB",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/meta-astryx-design-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-13T23:39:00.000Z",
-      "summaryShort": "Meta Open-Sources Astryx, its Agent-Ready React Design System. Meta recently announced the beta release of Astryx, an open-source React design system developed internally over eight years.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/agoda-price-cache-dragonflydb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-14T13:48:00.000Z",
+      "summaryShort": "Agoda Replaces 72-Shard SQL Server Price Cache with DragonflyDB. Agoda migrated its 1.5 TB hotel Price Cache from 72 SQL Server shards to DragonflyDB to handle growing read and write volumes.",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "cloudflare-tests-cache-transcoding-to-reduce-storage-requirement",
-      "title": "Cloudflare Tests Cache Transcoding to Reduce Storage Requirements",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/cloudflare-cache-transcoding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-13T10:35:00.000Z",
-      "summaryShort": "Cloudflare Tests Cache Transcoding to Reduce Storage Requirements. Cloudflare recently described a prototype called Cache Transcoding that compresses eligible cache content, mainly uncompressed text such as HTML, JSON, CSS, and JavaScript, ",
-      "tags": [
-        "Databases",
-        "Cloud",
         "Architecture"
       ]
     },
     {
-      "id": "github-copilot-s-project-hydrafusion-promises-frontier-level-per",
-      "title": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance through Multi-Model Routing",
+      "id": "article-implementing-durable-workflows-on-postgres-without-an-ex",
+      "title": "Article: Implementing Durable Workflows on Postgres Without an External Orchestrator",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-13T06:06:00.000Z",
-      "summaryShort": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance through Multi-Model Routing. GitHub's Project HydraFusion is a research preview for GitHub Copilot that enhances coding intelligence through runtime model orchestratio",
+      "sourceUrl": "https://www.infoq.com/articles/durable-workflows-postgres/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-14T11:00:00.000Z",
+      "summaryShort": "Article: Implementing Durable Workflows on Postgres Without an External Orchestrator. Postgres can serve as the durable state store and coordination layer for workflows, eliminating the need for an external orchestrator.",
+      "tags": [
+        "Databases"
+      ]
+    },
+    {
+      "id": "podcast-how-will-we-train-developers-if-ai-does-the-routine-work",
+      "title": "Podcast: How Will We Train Developers If AI Does the Routine Work: A Conversation with Scott Hanselman",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/train-developers-ai-routine-work/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-14T11:00:00.000Z",
+      "summaryShort": "Podcast: How Will We Train Developers If AI Does the Routine Work: A Conversation with Scott Hanselman. In this podcast, Michael Stiefel spoke to Scott Hanselman about developing new software engineers when artificial intelligence agents ar",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "open-source-project-brings-full-ios-27-virtualization-to-apple-s",
-      "title": "Open-Source Project Brings Full iOS 27 Virtualization to Apple Silicon",
+      "id": "presentation-decision-models-in-agentic-architectures-from-produ",
+      "title": "Presentation: Decision Models in Agentic Architectures: From Production to Agent Skills",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/ios-27-virtualization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-12T16:00:00.000Z",
-      "summaryShort": "Open-Source Project Brings Full iOS 27 Virtualization to Apple Silicon. The open-Source project vphone-cli enables a full iOS 27 system to run as a virtual machine on Apple Silicon.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-from-retrieval-to-reasoning-building-production-rea",
-      "title": "Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-12T11:00:00.000Z",
-      "summaryShort": "Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs. Cassie Shum discusses why knowledge graphs serve as a critical foundation for agentic systems.",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "insight-partners-deven-parekh-on-why-the-firm-is-diversifying-wh",
-      "title": "Insight Partners' Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-      "publishedAt": "2026-09-13T21:30:00.000Z",
-      "summaryShort": "Insight Partners' Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic. Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival",
+      "sourceUrl": "https://www.infoq.com/presentations/decision-models-agentic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-14T11:00:00.000Z",
+      "summaryShort": "Presentation: Decision Models in Agentic Architectures: From Production to Agent Skills. Alex Porcelli discusses the critical gap in enterprise AI: non-deterministic output and lack of accountability in high-stakes decisions.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "larry-ellison-cancels-7-5-billion-sale-of-oracle-stock",
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-      "publishedAt": "2026-09-13T20:49:38.000Z",
-      "summaryShort": "Larry Ellison cancels $7.5 billion sale of Oracle stock. Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+      "id": "independent-investigation-of-hugging-face-incident-reveals-how-a",
+      "title": "Independent Investigation of Hugging Face Incident Reveals How Agents Collaborated and Behaved",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/metr-hugging-face-hack-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-14T09:00:00.000Z",
+      "summaryShort": "Independent Investigation of Hugging Face Incident Reveals How Agents Collaborated and Behaved. After six days of on-site investigation at OpenAI, a small team of METR and Redwood Research researchers provided an account of how OpenAI agent",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "the-9-buzziest-startups-from-y-combinator-s-latest-demo-day-acco",
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "id": "volkswagen-s-crazy-efficient-ev-borrows-an-idea-from-slate",
+      "title": "Volkswagen's crazy-efficient EV borrows an idea from Slate",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "publishedAt": "2026-09-13T20:28:00.000Z",
-      "summaryShort": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs. From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+      "sourceUrl": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "publishedAt": "2026-09-14T17:41:20.000Z",
+      "summaryShort": "Volkswagen's crazy-efficient EV borrows an idea from Slate. Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "with-ios-27-i-m-actually-using-siri-again",
+      "title": "With iOS 27, I'm actually using Siri again",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "publishedAt": "2026-09-14T17:10:30.000Z",
+      "summaryShort": "With iOS 27, I'm actually using Siri again. Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "macos-27-new-siri-takes-on-ai-productivity-apps",
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+      "publishedAt": "2026-09-14T17:10:09.000Z",
+      "summaryShort": "macOS 27: new Siri takes on AI productivity apps. The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
+      "tags": [
+        "AI"
       ]
     }
   ]
