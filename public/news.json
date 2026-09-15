@@ -1,92 +1,93 @@
 {
-  "generatedAt": "2026-09-15T04:16:07.078Z",
+  "generatedAt": "2026-09-15T16:38:31.773Z",
   "items": [
     {
-      "id": "amazon-linux-2027-enters-public-preview-with-selinux-enforcing-b",
-      "title": "Amazon Linux 2027 Enters Public Preview with SELinux Enforcing by Default",
+      "id": "atlassian-automates-root-cause-analysis-by-correlating-metrics-l",
+      "title": "Atlassian Automates Root Cause Analysis by Correlating Metrics, Logs and Traces",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/amazon-linux-2027-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-15T03:40:00.000Z",
-      "summaryShort": "Amazon Linux 2027 Enters Public Preview with SELinux Enforcing by Default. AWS has released Amazon Linux 2027 in public preview, built on the AL2023 baseline with kernel 7.1 and SELinux in enforcing mode by default.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/atlassian-automated-rca/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-15T12:00:00.000Z",
+      "summaryShort": "Atlassian Automates Root Cause Analysis by Correlating Metrics, Logs and Traces. Atlassian has outlined a new approach to automating root cause analysis for large-scale cloud-native incidents, using correlation across metrics, logs, distrib",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "presentation-lead-without-a-ladder-how-i-climbed-into-engineerin",
+      "title": "Presentation: Lead Without a Ladder: How I Climbed Into Engineering Leadership",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/engineering-leadership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-15T09:10:00.000Z",
+      "summaryShort": "Presentation: Lead Without a Ladder: How I Climbed Into Engineering Leadership. Pauline Jepp explains how systems thinking, rock climbing, and flocking behaviors apply to engineering leadership.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "java-news-roundup-new-openjdk-jeps-cdi-5-0-spring-open-liberty-r",
-      "title": "Java News Roundup: New OpenJDK JEPs, CDI 5.0, Spring, Open Liberty, RefactorFirst, ADK for Kotlin",
+      "id": "grab-s-agent-framework-llm-kit-accelerates-ai-agent-production-d",
+      "title": "Grab's Agent Framework LLM-Kit Accelerates AI Agent Production Deployment",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/java-news-roundup-sep07-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-14T20:15:00.000Z",
-      "summaryShort": "Java News Roundup: New OpenJDK JEPs, CDI 5.0, Spring, Open Liberty, RefactorFirst, ADK for Kotlin. This week's Java roundup for September 7th, 2026, features news highlighting: new JEPs for ahead-of-time compilation and structured concurren",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/grab-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-15T09:00:00.000Z",
+      "summaryShort": "Grab's Agent Framework LLM-Kit Accelerates AI Agent Production Deployment. Grab has implemented LLM-Kit, a framework that standardizes over 500 internal agent services.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "microsoft-releases-net-11-rc1-with-go-live-support-c-15-and-f-11",
+      "title": "Microsoft Releases .NET 11 RC1 with Go-Live Support, C# 15 and F# 11 as Default Language Versions",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/dotnet-11-rc-1-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-15T07:11:00.000Z",
+      "summaryShort": "Microsoft Releases .NET 11 RC1 with Go-Live Support, C# 15 and F# 11 as Default Language Versions. Last week, Microsoft has released .NET 11 Release Candidate 1, the first release candidate of the cycle, shipping with a go-live support lice",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "agoda-replaces-72-shard-sql-server-price-cache-with-dragonflydb",
-      "title": "Agoda Replaces 72-Shard SQL Server Price Cache with DragonflyDB",
+      "id": "how-solaris-turnstile-influenced-the-modern-system-designs-of-we",
+      "title": "How Solaris' Turnstile Influenced the Modern System Designs of Web Browsers and Language Runtimes",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/agoda-price-cache-dragonflydb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-14T13:48:00.000Z",
-      "summaryShort": "Agoda Replaces 72-Shard SQL Server Price Cache with DragonflyDB. Agoda migrated its 1.5 TB hotel Price Cache from 72 SQL Server shards to DragonflyDB to handle growing read and write volumes.",
-      "tags": [
-        "Architecture"
-      ]
-    },
-    {
-      "id": "article-implementing-durable-workflows-on-postgres-without-an-ex",
-      "title": "Article: Implementing Durable Workflows on Postgres Without an External Orchestrator",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/durable-workflows-postgres/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-14T11:00:00.000Z",
-      "summaryShort": "Article: Implementing Durable Workflows on Postgres Without an External Orchestrator. Postgres can serve as the durable state store and coordination layer for workflows, eliminating the need for an external orchestrator.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/turnstile-system-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-15T06:06:00.000Z",
+      "summaryShort": "How Solaris' Turnstile Influenced the Modern System Designs of Web Browsers and Language Runtimes. Sun's Solaris influenced modern systems engineering, with key innovations like the Slab Allocator for efficient memory management, OpenZFS fo",
       "tags": [
         "Databases"
       ]
     },
     {
-      "id": "podcast-how-will-we-train-developers-if-ai-does-the-routine-work",
-      "title": "Podcast: How Will We Train Developers If AI Does the Routine Work: A Conversation with Scott Hanselman",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/train-developers-ai-routine-work/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-14T11:00:00.000Z",
-      "summaryShort": "Podcast: How Will We Train Developers If AI Does the Routine Work: A Conversation with Scott Hanselman. In this podcast, Michael Stiefel spoke to Scott Hanselman about developing new software engineers when artificial intelligence agents ar",
+      "id": "leaks-data-breaches-and-ransom-notes-the-worst-hacks-of-2026-so-",
+      "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "summaryShort": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far. From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security inciden",
       "tags": [
-        "AI"
+        "Cloud"
       ]
     },
     {
-      "id": "jensen-huang-took-a-call-from-trump-and-showed-off-something-els",
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "id": "nitter-and-xcancel-are-dead-again-after-x-s-latest-legal-actions",
+      "title": "Nitter and XCancel are dead (again) after X's latest legal actions",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-      "publishedAt": "2026-09-15T01:50:48.000Z",
-      "summaryShort": "Jensen Huang took a call from Trump, and showed off something else, too. When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
+      "publishedAt": "2026-09-15T15:49:18.000Z",
+      "summaryShort": "Nitter and XCancel are dead (again) after X's latest legal actions. The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "nvidia-ceo-jensen-huang-tells-trump-8216-we-re-not-going-to-let-",
-      "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we're not going to let [an AI slowdown] happen'",
+      "id": "openai-anthropic-google-have-been-in-talks-on-ai-safety-for-week",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "publishedAt": "2026-09-14T21:51:02.000Z",
-      "summaryShort": "Nvidia CEO Jensen Huang tells Trump &#8216;we're not going to let [an AI slowdown] happen'. Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "publishedAt": "2026-09-15T15:47:03.000Z",
+      "summaryShort": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks. OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "openai-buys-smartphone-camera-maker-glass-imaging-for-300-millio",
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "publishedAt": "2026-09-14T20:44:14.000Z",
-      "summaryShort": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says. Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
