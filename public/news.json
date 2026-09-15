@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-14T17:56:38.407Z",
+  "generatedAt": "2026-09-15T04:16:07.078Z",
   "items": [
+    {
+      "id": "amazon-linux-2027-enters-public-preview-with-selinux-enforcing-b",
+      "title": "Amazon Linux 2027 Enters Public Preview with SELinux Enforcing by Default",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/amazon-linux-2027-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-15T03:40:00.000Z",
+      "summaryShort": "Amazon Linux 2027 Enters Public Preview with SELinux Enforcing by Default. AWS has released Amazon Linux 2027 in public preview, built on the AL2023 baseline with kernel 7.1 and SELinux in enforcing mode by default.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "java-news-roundup-new-openjdk-jeps-cdi-5-0-spring-open-liberty-r",
+      "title": "Java News Roundup: New OpenJDK JEPs, CDI 5.0, Spring, Open Liberty, RefactorFirst, ADK for Kotlin",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/java-news-roundup-sep07-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-14T20:15:00.000Z",
+      "summaryShort": "Java News Roundup: New OpenJDK JEPs, CDI 5.0, Spring, Open Liberty, RefactorFirst, ADK for Kotlin. This week's Java roundup for September 7th, 2026, features news highlighting: new JEPs for ahead-of-time compilation and structured concurren",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "agoda-replaces-72-shard-sql-server-price-cache-with-dragonflydb",
       "title": "Agoda Replaces 72-Shard SQL Server Price Cache with DragonflyDB",
@@ -35,58 +57,36 @@
       ]
     },
     {
-      "id": "presentation-decision-models-in-agentic-architectures-from-produ",
-      "title": "Presentation: Decision Models in Agentic Architectures: From Production to Agent Skills",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/decision-models-agentic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-14T11:00:00.000Z",
-      "summaryShort": "Presentation: Decision Models in Agentic Architectures: From Production to Agent Skills. Alex Porcelli discusses the critical gap in enterprise AI: non-deterministic output and lack of accountability in high-stakes decisions.",
+      "id": "jensen-huang-took-a-call-from-trump-and-showed-off-something-els",
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "publishedAt": "2026-09-15T01:50:48.000Z",
+      "summaryShort": "Jensen Huang took a call from Trump, and showed off something else, too. When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "nvidia-ceo-jensen-huang-tells-trump-8216-we-re-not-going-to-let-",
+      "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we're not going to let [an AI slowdown] happen'",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "publishedAt": "2026-09-14T21:51:02.000Z",
+      "summaryShort": "Nvidia CEO Jensen Huang tells Trump &#8216;we're not going to let [an AI slowdown] happen'. Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "independent-investigation-of-hugging-face-incident-reveals-how-a",
-      "title": "Independent Investigation of Hugging Face Incident Reveals How Agents Collaborated and Behaved",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/metr-hugging-face-hack-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-14T09:00:00.000Z",
-      "summaryShort": "Independent Investigation of Hugging Face Incident Reveals How Agents Collaborated and Behaved. After six days of on-site investigation at OpenAI, a small team of METR and Redwood Research researchers provided an account of how OpenAI agent",
+      "id": "openai-buys-smartphone-camera-maker-glass-imaging-for-300-millio",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "publishedAt": "2026-09-14T20:44:14.000Z",
+      "summaryShort": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says. Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "volkswagen-s-crazy-efficient-ev-borrows-an-idea-from-slate",
-      "title": "Volkswagen's crazy-efficient EV borrows an idea from Slate",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
-      "publishedAt": "2026-09-14T17:41:20.000Z",
-      "summaryShort": "Volkswagen's crazy-efficient EV borrows an idea from Slate. Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "with-ios-27-i-m-actually-using-siri-again",
-      "title": "With iOS 27, I'm actually using Siri again",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "publishedAt": "2026-09-14T17:10:30.000Z",
-      "summaryShort": "With iOS 27, I'm actually using Siri again. Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "macos-27-new-siri-takes-on-ai-productivity-apps",
-      "title": "macOS 27: new Siri takes on AI productivity apps",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
-      "publishedAt": "2026-09-14T17:10:09.000Z",
-      "summaryShort": "macOS 27: new Siri takes on AI productivity apps. The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
-      "tags": [
-        "AI"
       ]
     }
   ]
