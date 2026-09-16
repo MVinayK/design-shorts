@@ -1,93 +1,93 @@
 {
-  "generatedAt": "2026-09-16T04:11:52.745Z",
+  "generatedAt": "2026-09-16T16:31:50.549Z",
   "items": [
     {
-      "id": "ai-assisted-discovery-helps-microsoft-patch-more-than-1-000-vuln",
-      "title": "AI-Assisted Discovery Helps Microsoft Patch More Than 1,000 Vulnerabilities in a Month",
+      "id": "dropbox-evolves-riviera-content-processing-platform-to-support-a",
+      "title": "Dropbox Evolves Riviera Content Processing Platform to Support AI Workloads",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/microsoft-ai-security-patch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-15T17:00:00.000Z",
-      "summaryShort": "AI-Assisted Discovery Helps Microsoft Patch More Than 1,000 Vulnerabilities in a Month. With its latest September 2026 Patch, which addresses more than 950 vulnerabilities, Microsoft has patched about 2,750 vulnerabilities so far this year.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/dropbox-riviera-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-16T14:42:00.000Z",
+      "summaryShort": "Dropbox Evolves Riviera Content Processing Platform to Support AI Workloads. Dropbox has evolved Riviera from a file preview service into a universal content processing platform supporting more than 300 file formats and over 100 transformat",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "atlassian-automates-root-cause-analysis-by-correlating-metrics-l",
-      "title": "Atlassian Automates Root Cause Analysis by Correlating Metrics, Logs and Traces",
+      "id": "shopify-drops-react-native-for-swift-and-kotlin-as-ai-changes-cr",
+      "title": "Shopify Drops React Native for Swift and Kotlin as AI Changes Cross-Platform Development Tradeoffs",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/atlassian-automated-rca/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-15T12:00:00.000Z",
-      "summaryShort": "Atlassian Automates Root Cause Analysis by Correlating Metrics, Logs and Traces. Atlassian has outlined a new approach to automating root cause analysis for large-scale cloud-native incidents, using correlation across metrics, logs, distrib",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/shopify-drops-react-native/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-16T12:45:00.000Z",
+      "summaryShort": "Shopify Drops React Native for Swift and Kotlin as AI Changes Cross-Platform Development Tradeoffs. Shopify recently announced it is abandoning React Native to rewrite its flagship apps in Swift and Kotlin.",
       "tags": [
-        "Cloud"
+        "AI"
       ]
     },
     {
-      "id": "presentation-lead-without-a-ladder-how-i-climbed-into-engineerin",
-      "title": "Presentation: Lead Without a Ladder: How I Climbed Into Engineering Leadership",
+      "id": "article-your-next-dsl-author-is-a-language-model",
+      "title": "Article: Your Next DSL Author Is a Language Model",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/engineering-leadership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-15T09:10:00.000Z",
-      "summaryShort": "Presentation: Lead Without a Ladder: How I Climbed Into Engineering Leadership. Pauline Jepp explains how systems thinking, rock climbing, and flocking behaviors apply to engineering leadership.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "grab-s-agent-framework-llm-kit-accelerates-ai-agent-production-d",
-      "title": "Grab's Agent Framework LLM-Kit Accelerates AI Agent Production Deployment",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/grab-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-15T09:00:00.000Z",
-      "summaryShort": "Grab's Agent Framework LLM-Kit Accelerates AI Agent Production Deployment. Grab has implemented LLM-Kit, a framework that standardizes over 500 internal agent services.",
+      "sourceUrl": "https://www.infoq.com/articles/next-dsl-author-language-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-16T11:00:00.000Z",
+      "summaryShort": "Article: Your Next DSL Author Is a Language Model. In this article, the author introduces Typed Domain Grounding, an approach to reducing LLM hallucinations in domain-specific languages by embedding them in mainstream typed languages.",
       "tags": [
         "AI",
         "Cloud"
       ]
     },
     {
-      "id": "microsoft-releases-net-11-rc1-with-go-live-support-c-15-and-f-11",
-      "title": "Microsoft Releases .NET 11 RC1 with Go-Live Support, C# 15 and F# 11 as Default Language Versions",
+      "id": "lyft-moves-streaming-fleet-to-apache-flink-kubernetes-operator",
+      "title": "Lyft Moves Streaming Fleet to Apache Flink Kubernetes Operator",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/dotnet-11-rc-1-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-15T07:11:00.000Z",
-      "summaryShort": "Microsoft Releases .NET 11 RC1 with Go-Live Support, C# 15 and F# 11 as Default Language Versions. Last week, Microsoft has released .NET 11 Release Candidate 1, the first release candidate of the cycle, shipping with a go-live support lice",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/lyft-flink-k8s-operator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-16T11:00:00.000Z",
+      "summaryShort": "Lyft Moves Streaming Fleet to Apache Flink Kubernetes Operator. Lyft has moved hundreds of production Flink jobs from a 2020 in-house Kubernetes operator to the Apache Flink Kubernetes Operator, unlocking last-state upgrades, in-place autos",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "we-don-t-need-ai-regulation-leave-safety-to-us-nvidia-s-jensen-h",
-      "title": "We don't need AI regulation — leave safety to us, Nvidia's Jensen Huang says",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "publishedAt": "2026-09-16T00:20:39.000Z",
-      "summaryShort": "We don't need AI regulation — leave safety to us, Nvidia's Jensen Huang says. AI isn't some new form of \"alien mind,\" according to Jensen Huang.",
+      "id": "presentation-teaching-engineers-trusting-ai-how-education-enable",
+      "title": "Presentation: Teaching Engineers, Trusting AI: How Education Enabled Autonomous Code Review",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/duolingo-ai-literacy-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-16T11:00:00.000Z",
+      "summaryShort": "Presentation: Teaching Engineers, Trusting AI: How Education Enabled Autonomous Code Review. Sarah Deitke discusses how Duolingo drives cultural AI adoption beyond tooling access.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-",
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "id": "anthropic-merges-claude-chat-and-cowork-in-one-interface",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "publishedAt": "2026-09-15T21:47:38.000Z",
-      "summaryShort": "The AI data center boom is colliding with cities scarred by big industry. National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a n",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "publishedAt": "2026-09-16T16:30:00.000Z",
+      "summaryShort": "Anthropic merges Claude chat and Cowork in one interface. Anthropic is releasing these features to Pro and Max plan subscribers initally",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-busi",
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "id": "hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-e",
+      "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "publishedAt": "2026-09-15T20:12:53.000Z",
-      "summaryShort": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup. A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and t",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "summaryShort": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026. At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help.",
       "tags": [
-        "AI"
+        "Engineering"
+      ]
+    },
+    {
+      "id": "may-mobility-is-going-public-in-a-1-4b-spac-deal",
+      "title": "May Mobility is going public in a $1.4B SPAC deal",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
+      "publishedAt": "2026-09-16T15:27:13.000Z",
+      "summaryShort": "May Mobility is going public in a $1.4B SPAC deal. The deal could net the asset-light robotaxi company more than $300 million in funding.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
