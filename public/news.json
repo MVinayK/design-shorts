@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-15T16:38:31.773Z",
+  "generatedAt": "2026-09-16T04:11:52.745Z",
   "items": [
+    {
+      "id": "ai-assisted-discovery-helps-microsoft-patch-more-than-1-000-vuln",
+      "title": "AI-Assisted Discovery Helps Microsoft Patch More Than 1,000 Vulnerabilities in a Month",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/microsoft-ai-security-patch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-15T17:00:00.000Z",
+      "summaryShort": "AI-Assisted Discovery Helps Microsoft Patch More Than 1,000 Vulnerabilities in a Month. With its latest September 2026 Patch, which addresses more than 950 vulnerabilities, Microsoft has patched about 2,750 vulnerabilities so far this year.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "atlassian-automates-root-cause-analysis-by-correlating-metrics-l",
       "title": "Atlassian Automates Root Cause Analysis by Correlating Metrics, Logs and Traces",
@@ -47,45 +58,34 @@
       ]
     },
     {
-      "id": "how-solaris-turnstile-influenced-the-modern-system-designs-of-we",
-      "title": "How Solaris' Turnstile Influenced the Modern System Designs of Web Browsers and Language Runtimes",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/turnstile-system-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-15T06:06:00.000Z",
-      "summaryShort": "How Solaris' Turnstile Influenced the Modern System Designs of Web Browsers and Language Runtimes. Sun's Solaris influenced modern systems engineering, with key innovations like the Slab Allocator for efficient memory management, OpenZFS fo",
+      "id": "we-don-t-need-ai-regulation-leave-safety-to-us-nvidia-s-jensen-h",
+      "title": "We don't need AI regulation — leave safety to us, Nvidia's Jensen Huang says",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "publishedAt": "2026-09-16T00:20:39.000Z",
+      "summaryShort": "We don't need AI regulation — leave safety to us, Nvidia's Jensen Huang says. AI isn't some new form of \"alien mind,\" according to Jensen Huang.",
       "tags": [
-        "Databases"
+        "AI"
       ]
     },
     {
-      "id": "leaks-data-breaches-and-ransom-notes-the-worst-hacks-of-2026-so-",
-      "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
+      "id": "the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "summaryShort": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far. From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security inciden",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "publishedAt": "2026-09-15T21:47:38.000Z",
+      "summaryShort": "The AI data center boom is colliding with cities scarred by big industry. National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a n",
       "tags": [
-        "Cloud"
+        "AI"
       ]
     },
     {
-      "id": "nitter-and-xcancel-are-dead-again-after-x-s-latest-legal-actions",
-      "title": "Nitter and XCancel are dead (again) after X's latest legal actions",
+      "id": "meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-busi",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
-      "publishedAt": "2026-09-15T15:49:18.000Z",
-      "summaryShort": "Nitter and XCancel are dead (again) after X's latest legal actions. The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "openai-anthropic-google-have-been-in-talks-on-ai-safety-for-week",
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "publishedAt": "2026-09-15T15:47:03.000Z",
-      "summaryShort": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks. OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "publishedAt": "2026-09-15T20:12:53.000Z",
+      "summaryShort": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup. A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and t",
       "tags": [
         "AI"
       ]
