@@ -1,92 +1,90 @@
 {
-  "generatedAt": "2026-09-17T04:18:48.887Z",
+  "generatedAt": "2026-09-17T16:37:03.039Z",
   "items": [
     {
-      "id": "microsoft-open-sources-taugrid-to-simplify-ai-workload-managemen",
-      "title": "Microsoft Open-Sources TauGrid to Simplify AI Workload Management on Kubernetes",
+      "id": "building-an-internal-developer-platform-with-artificial-intellig",
+      "title": "Building an Internal Developer Platform with Artificial Intelligence",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/microsoft-taugrid-open-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-16T18:00:00.000Z",
-      "summaryShort": "Microsoft Open-Sources TauGrid to Simplify AI Workload Management on Kubernetes. Microsoft has open-sourced TauGrid, a cloud-native platform designed to manage, schedule, and monitor AI workloads on GPU-enabled Kubernetes clusters.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "dropbox-evolves-riviera-content-processing-platform-to-support-a",
-      "title": "Dropbox Evolves Riviera Content Processing Platform to Support AI Workloads",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/dropbox-riviera-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-16T14:42:00.000Z",
-      "summaryShort": "Dropbox Evolves Riviera Content Processing Platform to Support AI Workloads. Dropbox has evolved Riviera from a file preview service into a universal content processing platform supporting more than 300 file formats and over 100 transformat",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "shopify-drops-react-native-for-swift-and-kotlin-as-ai-changes-cr",
-      "title": "Shopify Drops React Native for Swift and Kotlin as AI Changes Cross-Platform Development Tradeoffs",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/shopify-drops-react-native/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-16T12:45:00.000Z",
-      "summaryShort": "Shopify Drops React Native for Swift and Kotlin as AI Changes Cross-Platform Development Tradeoffs. Shopify recently announced it is abandoning React Native to rewrite its flagship apps in Swift and Kotlin.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "article-your-next-dsl-author-is-a-language-model",
-      "title": "Article: Your Next DSL Author Is a Language Model",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/next-dsl-author-language-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-16T11:00:00.000Z",
-      "summaryShort": "Article: Your Next DSL Author Is a Language Model. In this article, the author introduces Typed Domain Grounding, an approach to reducing LLM hallucinations in domain-specific languages by embedding them in mainstream typed languages.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "lyft-moves-streaming-fleet-to-apache-flink-kubernetes-operator",
-      "title": "Lyft Moves Streaming Fleet to Apache Flink Kubernetes Operator",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/lyft-flink-k8s-operator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-16T11:00:00.000Z",
-      "summaryShort": "Lyft Moves Streaming Fleet to Apache Flink Kubernetes Operator. Lyft has moved hundreds of production Flink jobs from a 2020 in-house Kubernetes operator to the Apache Flink Kubernetes Operator, unlocking last-state upgrades, in-place autos",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/platform-artificial-intelligence/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-17T11:11:00.000Z",
+      "summaryShort": "Building an Internal Developer Platform with Artificial Intelligence. Agents are becoming the new developer platform, using semantic search with data from tools like Git, Slack, and Jira for context.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "your-startup-s-next-teammate-might-be-an-ai-agent-gusto-insight-",
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-17T03:30:00.000Z",
-      "summaryShort": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026. This session will explore how early-stage companies are building teams where humans and AI agents w",
+      "id": "kubernetes-multi-cluster-project-karmada-reaches-cncf-graduation",
+      "title": "Kubernetes Multi-Cluster Project Karmada Reaches CNCF Graduation",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/karmada-kubernetes-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-17T10:00:00.000Z",
+      "summaryShort": "Kubernetes Multi-Cluster Project Karmada Reaches CNCF Graduation. The Cloud Native Computing Foundation (CNCF) announced on September 2026 that Karmada, a multi-cluster and multi-cloud Kubernetes orchestration project, has graduated.",
       "tags": [
-        "AI"
+        "Cloud"
       ]
     },
     {
-      "id": "snap-tries-to-make-the-case-again-for-its-2-200-smart-glasses",
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "publishedAt": "2026-09-17T00:58:49.000Z",
-      "summaryShort": "Snap tries to make the case again for its $2,200 smart glasses. Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "id": "presentation-when-incidents-refuse-to-end",
+      "title": "Presentation: When Incidents Refuse to End",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/stream-incidents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-17T09:30:00.000Z",
+      "summaryShort": "Presentation: When Incidents Refuse to End. Vanessa Huerta Granda explains how marathon incidents expose the gap between work as imagined and work as done.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "musk-s-long-time-backer-is-giving-spacex-stock-to-its-investors",
-      "title": "Musk's long-time backer is giving SpaceX stock to its investors",
+      "id": "repeated-vm-escapes-by-gpt-5-6-cyber-based-agents-prove-vms-and-",
+      "title": "Repeated VM Escapes By GPT-5.6-Cyber Based Agents Prove VMs and OS' Require Better Maintenance",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/agent-escape-vm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-17T07:07:00.000Z",
+      "summaryShort": "Repeated VM Escapes By GPT-5.6-Cyber Based Agents Prove VMs and OS' Require Better Maintenance. Traditional virtual machines are inadequate for isolating cyber-capable autonomous agents.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "tanstack-charts-introduced-with-a-framework-agnostic-grammar-of-",
+      "title": "TanStack Charts Introduced with a Framework Agnostic Grammar of Graphics for TypeScript",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/tanstack-charts-alpha-introduced/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-17T05:53:00.000Z",
+      "summaryShort": "TanStack Charts Introduced with a Framework Agnostic Grammar of Graphics for TypeScript. TanStack Charts is a new, framework-agnostic visualization library for TypeScript.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakx",
+      "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
-      "publishedAt": "2026-09-16T23:50:07.000Z",
-      "summaryShort": "Musk's long-time backer is giving SpaceX stock to its investors. Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
+      "publishedAt": "2026-09-17T16:34:36.000Z",
+      "summaryShort": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host. TechCrunch Disrupt is where the tech community comes together to build, debate, and connect.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "apple-will-let-eu-apps-use-less-alarming-tracking-consent-screen",
+      "title": "Apple will let EU apps use less alarming tracking consent screens",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
+      "publishedAt": "2026-09-17T16:09:58.000Z",
+      "summaryShort": "Apple will let EU apps use less alarming tracking consent screens. Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developer",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "roku-s-new-labs-hub-brings-experimental-apps-to-the-big-screen",
+      "title": "Roku's new Labs hub brings experimental apps to the big screen",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
+      "publishedAt": "2026-09-17T15:50:29.000Z",
+      "summaryShort": "Roku's new Labs hub brings experimental apps to the big screen. Roku’s latest OS update introduces Roku Labs, a new hub for experimental apps, alongside personalized home screens in more markets, streaming subscription bundles, and more.",
       "tags": [
         "Engineering"
       ]
