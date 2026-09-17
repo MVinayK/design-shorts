@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-09-16T16:31:50.549Z",
+  "generatedAt": "2026-09-17T04:18:48.887Z",
   "items": [
+    {
+      "id": "microsoft-open-sources-taugrid-to-simplify-ai-workload-managemen",
+      "title": "Microsoft Open-Sources TauGrid to Simplify AI Workload Management on Kubernetes",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/microsoft-taugrid-open-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-16T18:00:00.000Z",
+      "summaryShort": "Microsoft Open-Sources TauGrid to Simplify AI Workload Management on Kubernetes. Microsoft has open-sourced TauGrid, a cloud-native platform designed to manage, schedule, and monitor AI workloads on GPU-enabled Kubernetes clusters.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "dropbox-evolves-riviera-content-processing-platform-to-support-a",
       "title": "Dropbox Evolves Riviera Content Processing Platform to Support AI Workloads",
@@ -47,45 +59,34 @@
       ]
     },
     {
-      "id": "presentation-teaching-engineers-trusting-ai-how-education-enable",
-      "title": "Presentation: Teaching Engineers, Trusting AI: How Education Enabled Autonomous Code Review",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/duolingo-ai-literacy-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-16T11:00:00.000Z",
-      "summaryShort": "Presentation: Teaching Engineers, Trusting AI: How Education Enabled Autonomous Code Review. Sarah Deitke discusses how Duolingo drives cultural AI adoption beyond tooling access.",
+      "id": "your-startup-s-next-teammate-might-be-an-ai-agent-gusto-insight-",
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-17T03:30:00.000Z",
+      "summaryShort": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026. This session will explore how early-stage companies are building teams where humans and AI agents w",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "anthropic-merges-claude-chat-and-cowork-in-one-interface",
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "id": "snap-tries-to-make-the-case-again-for-its-2-200-smart-glasses",
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "publishedAt": "2026-09-16T16:30:00.000Z",
-      "summaryShort": "Anthropic merges Claude chat and Cowork in one interface. Anthropic is releasing these features to Pro and Max plan subscribers initally",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "publishedAt": "2026-09-17T00:58:49.000Z",
+      "summaryShort": "Snap tries to make the case again for its $2,200 smart glasses. Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-e",
-      "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+      "id": "musk-s-long-time-backer-is-giving-spacex-stock-to-its-investors",
+      "title": "Musk's long-time backer is giving SpaceX stock to its investors",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "summaryShort": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026. At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "may-mobility-is-going-public-in-a-1-4b-spac-deal",
-      "title": "May Mobility is going public in a $1.4B SPAC deal",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
-      "publishedAt": "2026-09-16T15:27:13.000Z",
-      "summaryShort": "May Mobility is going public in a $1.4B SPAC deal. The deal could net the asset-light robotaxi company more than $300 million in funding.",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+      "publishedAt": "2026-09-16T23:50:07.000Z",
+      "summaryShort": "Musk's long-time backer is giving SpaceX stock to its investors. Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
       "tags": [
         "Engineering"
       ]
