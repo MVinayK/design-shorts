@@ -1,92 +1,92 @@
 {
-  "generatedAt": "2026-09-18T04:02:29.215Z",
+  "generatedAt": "2026-09-18T16:08:38.130Z",
   "items": [
     {
-      "id": "building-an-internal-developer-platform-with-artificial-intellig",
-      "title": "Building an Internal Developer Platform with Artificial Intelligence",
+      "id": "doordash-uses-multi-agent-llms-to-clean-up-60-000-feature-flags",
+      "title": "DoorDash Uses Multi Agent LLMs to Clean up 60,000 Feature Flags",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/platform-artificial-intelligence/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-17T11:11:00.000Z",
-      "summaryShort": "Building an Internal Developer Platform with Artificial Intelligence. Agents are becoming the new developer platform, using semantic search with data from tools like Git, Slack, and Jira for context.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/doordash-feature-flag-cleanup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-18T13:50:00.000Z",
+      "summaryShort": "DoorDash Uses Multi Agent LLMs to Clean up 60,000 Feature Flags. DoorDash built a multi-agent LLM system to automate stale feature flag cleanup across more than 60,000 flags and 623 repositories.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "kubernetes-multi-cluster-project-karmada-reaches-cncf-graduation",
-      "title": "Kubernetes Multi-Cluster Project Karmada Reaches CNCF Graduation",
+      "id": "wso2-releases-agent-manager-as-enterprises-look-to-control-growi",
+      "title": "WSO2 Releases Agent Manager as Enterprises Look to Control Growing AI Agent Sprawl",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/karmada-kubernetes-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-17T10:00:00.000Z",
-      "summaryShort": "Kubernetes Multi-Cluster Project Karmada Reaches CNCF Graduation. The Cloud Native Computing Foundation (CNCF) announced on September 2026 that Karmada, a multi-cluster and multi-cloud Kubernetes orchestration project, has graduated.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-when-incidents-refuse-to-end",
-      "title": "Presentation: When Incidents Refuse to End",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/stream-incidents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-17T09:30:00.000Z",
-      "summaryShort": "Presentation: When Incidents Refuse to End. Vanessa Huerta Granda explains how marathon incidents expose the gap between work as imagined and work as done.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "repeated-vm-escapes-by-gpt-5-6-cyber-based-agents-prove-vms-and-",
-      "title": "Repeated VM Escapes By GPT-5.6-Cyber Based Agents Prove VMs and OS' Require Better Maintenance",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/agent-escape-vm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-17T07:07:00.000Z",
-      "summaryShort": "Repeated VM Escapes By GPT-5.6-Cyber Based Agents Prove VMs and OS' Require Better Maintenance. Traditional virtual machines are inadequate for isolating cyber-capable autonomous agents.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "tanstack-charts-introduced-with-a-framework-agnostic-grammar-of-",
-      "title": "TanStack Charts Introduced with a Framework Agnostic Grammar of Graphics for TypeScript",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/tanstack-charts-alpha-introduced/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-17T05:53:00.000Z",
-      "summaryShort": "TanStack Charts Introduced with a Framework Agnostic Grammar of Graphics for TypeScript. TanStack Charts is a new, framework-agnostic visualization library for TypeScript.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-int",
-      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
-      "publishedAt": "2026-09-18T00:02:36.000Z",
-      "summaryShort": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal. Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modul",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories'",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "publishedAt": "2026-09-17T23:25:52.000Z",
-      "summaryShort": "Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories'. The round values the data center giant at $30.9 billion.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/ws02-agent-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "summaryShort": "WSO2 Releases Agent Manager as Enterprises Look to Control Growing AI Agent Sprawl. WSO2 has announced the general availability of WSO2 Agent Manager, an open-source platform designed to provide centralized governance, identity management, ",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "google-deepmind-launches-institute-to-widen-the-agi-debate",
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "publishedAt": "2026-09-17T23:21:17.000Z",
-      "summaryShort": "Google DeepMind launches institute to widen the AGI debate. The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI.",
+      "id": "presentation-complexity-and-creativity-in-software-engineering",
+      "title": "Presentation: Complexity and Creativity in Software Engineering",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-software-engineering-complexity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-18T11:00:00.000Z",
+      "summaryShort": "Presentation: Complexity and Creativity in Software Engineering. Phillip Mortimer discusses the shift toward write-only software driven by AI code generation.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "htmx-4-0-a-fetch-based-rewrite-built-in-morphing-swaps-and-expli",
+      "title": "htmx 4.0: a Fetch-Based Rewrite, Built-In Morphing Swaps, and Explicit Attribute Inheritance",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/htmx-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-18T09:32:00.000Z",
+      "summaryShort": "htmx 4.0: a Fetch-Based Rewrite, Built-In Morphing Swaps, and Explicit Attribute Inheritance. htmx 4 has been released, featuring a transition from XMLHttpRequest to the fetch() API, enhancing streaming capabilities.",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "podcast-signals-and-levers-building-thriving-engineering-organiz",
+      "title": "Podcast: Signals and Levers: Building Thriving Engineering Organizations",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/building-thriving-engineering-organizations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-18T09:05:00.000Z",
+      "summaryShort": "Podcast: Signals and Levers: Building Thriving Engineering Organizations. In this podcast Shane Hastie, Lead Editor for Culture & Methods spoke to Elisabeth Hendrickson and Joel Tosi about systems thinking as a lens for software delivery, t",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "family-offices-are-clamoring-for-ai-investments",
+      "title": "Family offices are clamoring for AI investments",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
+      "publishedAt": "2026-09-18T16:00:00.000Z",
+      "summaryShort": "Family offices are clamoring for AI investments. Whether it's a permanent shift or part of a familiar cycle is worth asking, though.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-co",
+      "title": "FBI, Coast Guard boarded hacked oil tankers heading towards US coast",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
+      "publishedAt": "2026-09-18T15:44:09.000Z",
+      "summaryShort": "FBI, Coast Guard boarded hacked oil tankers heading towards US coast. The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "open-or-closed-ai-nvidia-s-nader-khalil-and-sydney-sykes-take-on",
+      "title": "Open or closed AI? Nvidia's Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-18T15:30:00.000Z",
+      "summaryShort": "Open or closed AI? Nvidia's Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026.",
+      "tags": [
+        "AI"
       ]
     }
   ]
