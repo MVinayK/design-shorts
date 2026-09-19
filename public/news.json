@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-18T16:08:38.130Z",
+  "generatedAt": "2026-09-19T03:59:45.935Z",
   "items": [
+    {
+      "id": "mariadb-13-expands-oracle-compatibility-and-improves-developer-e",
+      "title": "MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/mariadb-13-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-18T19:00:00.000Z",
+      "summaryShort": "MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability. MariaDB Community Server 13.0 has reached General Availability (GA) and is now officially stable.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "doordash-uses-multi-agent-llms-to-clean-up-60-000-feature-flags",
       "title": "DoorDash Uses Multi Agent LLMs to Clean up 60,000 Feature Flags",
@@ -46,45 +57,34 @@
       ]
     },
     {
-      "id": "podcast-signals-and-levers-building-thriving-engineering-organiz",
-      "title": "Podcast: Signals and Levers: Building Thriving Engineering Organizations",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/building-thriving-engineering-organizations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-18T09:05:00.000Z",
-      "summaryShort": "Podcast: Signals and Levers: Building Thriving Engineering Organizations. In this podcast Shane Hastie, Lead Editor for Culture & Methods spoke to Elisabeth Hendrickson and Joel Tosi about systems thinking as a lens for software delivery, t",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "family-offices-are-clamoring-for-ai-investments",
-      "title": "Family offices are clamoring for AI investments",
+      "id": "india-forces-caller-id-apps-to-feed-spam-reports-to-telcos",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
-      "publishedAt": "2026-09-18T16:00:00.000Z",
-      "summaryShort": "Family offices are clamoring for AI investments. Whether it's a permanent shift or part of a familiar cycle is worth asking, though.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-co",
-      "title": "FBI, Coast Guard boarded hacked oil tankers heading towards US coast",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
-      "publishedAt": "2026-09-18T15:44:09.000Z",
-      "summaryShort": "FBI, Coast Guard boarded hacked oil tankers heading towards US coast. The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "publishedAt": "2026-09-19T01:00:00.000Z",
+      "summaryShort": "India forces caller-ID apps to feed spam reports to telcos. Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "open-or-closed-ai-nvidia-s-nader-khalil-and-sydney-sykes-take-on",
-      "title": "Open or closed AI? Nvidia's Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "id": "tilly-norwood-s-press-tour-is-going-about-as-well-as-you-d-expec",
+      "title": "Tilly Norwood's press tour is going about as well as you'd expect for an AI",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-18T15:30:00.000Z",
-      "summaryShort": "Open or closed AI? Nvidia's Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026.",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "publishedAt": "2026-09-19T00:12:07.000Z",
+      "summaryShort": "Tilly Norwood's press tour is going about as well as you'd expect for an AI. In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "a-startup-that-builds-other-startups-raised-100m-and-is-all-in-o",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "publishedAt": "2026-09-18T23:25:01.000Z",
+      "summaryShort": "A startup that builds other startups raised $100M and is all-in on physical AI. UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
       "tags": [
         "AI"
       ]
