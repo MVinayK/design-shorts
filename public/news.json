@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-19T03:59:45.935Z",
+  "generatedAt": "2026-09-19T15:40:55.829Z",
   "items": [
+    {
+      "id": "presentation-context-engineering-at-linkedin-how-we-built-an-org",
+      "title": "Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/linkedin-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-19T11:00:00.000Z",
+      "summaryShort": "Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP. Ajay Prakash discusses how LinkedIn overcomes AI agent limitations in large codebases.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "aws-lambda-pushes-serverless-toward-long-running-workloads",
+      "title": "AWS Lambda Pushes Serverless Toward Long-Running Workloads",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/lambda-90-minute-timeout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-19T09:11:00.000Z",
+      "summaryShort": "AWS Lambda Pushes Serverless Toward Long-Running Workloads. AWS Lambda now allows functions running on Lambda Managed Instances to run for up to 90 minutes, six times longer than the previous 15-minute limit, further blurring the line betwe",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "solidstart-2-replaces-vinxi-with-a-vite-8-and-enters-maintenance",
+      "title": "SolidStart 2: Replaces Vinxi with a Vite 8 and Enters Maintenance as Its Role Winds Down",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/solid-start-v2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-19T07:23:00.000Z",
+      "summaryShort": "SolidStart 2: Replaces Vinxi with a Vite 8 and Enters Maintenance as Its Role Winds Down. SolidStart, a full-stack meta-framework based on SolidJS, has transitioned to version 2.0, improving compatibility with Vite's Environment API.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "mariadb-13-expands-oracle-compatibility-and-improves-developer-e",
       "title": "MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability",
@@ -24,67 +57,34 @@
       ]
     },
     {
-      "id": "wso2-releases-agent-manager-as-enterprises-look-to-control-growi",
-      "title": "WSO2 Releases Agent Manager as Enterprises Look to Control Growing AI Agent Sprawl",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/ws02-agent-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-18T12:00:00.000Z",
-      "summaryShort": "WSO2 Releases Agent Manager as Enterprises Look to Control Growing AI Agent Sprawl. WSO2 has announced the general availability of WSO2 Agent Manager, an open-source platform designed to provide centralized governance, identity management, ",
+      "id": "petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-cat",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "publishedAt": "2026-09-19T15:00:00.000Z",
+      "summaryShort": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes. Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanc",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "presentation-complexity-and-creativity-in-software-engineering",
-      "title": "Presentation: Complexity and Creativity in Software Engineering",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-software-engineering-complexity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-18T11:00:00.000Z",
-      "summaryShort": "Presentation: Complexity and Creativity in Software Engineering. Phillip Mortimer discusses the shift toward write-only software driven by AI code generation.",
+      "id": "ai-safety-conversations-have-gotten-unbelievable",
+      "title": "AI safety conversations have gotten unbelievable",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "publishedAt": "2026-09-19T15:00:00.000Z",
+      "summaryShort": "AI safety conversations have gotten unbelievable. This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "htmx-4-0-a-fetch-based-rewrite-built-in-morphing-swaps-and-expli",
-      "title": "htmx 4.0: a Fetch-Based Rewrite, Built-In Morphing Swaps, and Explicit Attribute Inheritance",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/htmx-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-18T09:32:00.000Z",
-      "summaryShort": "htmx 4.0: a Fetch-Based Rewrite, Built-In Morphing Swaps, and Explicit Attribute Inheritance. htmx 4 has been released, featuring a transition from XMLHttpRequest to the fetch() API, enhancing streaming capabilities.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "india-forces-caller-id-apps-to-feed-spam-reports-to-telcos",
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "id": "vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "publishedAt": "2026-09-19T01:00:00.000Z",
-      "summaryShort": "India forces caller-ID apps to feed spam reports to telcos. Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "tilly-norwood-s-press-tour-is-going-about-as-well-as-you-d-expec",
-      "title": "Tilly Norwood's press tour is going about as well as you'd expect for an AI",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "publishedAt": "2026-09-19T00:12:07.000Z",
-      "summaryShort": "Tilly Norwood's press tour is going about as well as you'd expect for an AI. In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "a-startup-that-builds-other-startups-raised-100m-and-is-all-in-o",
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "publishedAt": "2026-09-18T23:25:01.000Z",
-      "summaryShort": "A startup that builds other startups raised $100M and is all-in on physical AI. UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "sourceUrl": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "publishedAt": "2026-09-19T13:00:00.000Z",
+      "summaryShort": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking. Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
       "tags": [
         "AI"
       ]
