@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T15:40:55.829Z",
+  "generatedAt": "2026-09-20T04:18:33.147Z",
   "items": [
     {
       "id": "presentation-context-engineering-at-linkedin-how-we-built-an-org",
@@ -57,34 +57,34 @@
       ]
     },
     {
-      "id": "petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-cat",
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "id": "flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "publishedAt": "2026-09-19T15:00:00.000Z",
-      "summaryShort": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes. Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanc",
+      "sourceUrl": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "publishedAt": "2026-09-19T20:39:13.000Z",
+      "summaryShort": "Flock reportedly tries to shrink workforce with employee buyouts. Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "trump-says-it-s-time-to-rebrand-ai-with-a-new-name-and-he-s-also",
+      "title": "Trump says it's time to rebrand AI with a new name — and he's also creating an AI Force",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "publishedAt": "2026-09-19T19:57:47.000Z",
+      "summaryShort": "Trump says it's time to rebrand AI with a new name — and he's also creating an AI Force. Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "ai-safety-conversations-have-gotten-unbelievable",
-      "title": "AI safety conversations have gotten unbelievable",
+      "id": "google-s-gemini-is-the-latest-ai-model-to-hack-other-companies",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "publishedAt": "2026-09-19T15:00:00.000Z",
-      "summaryShort": "AI safety conversations have gotten unbelievable. This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold",
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "publishedAt": "2026-09-19T13:00:00.000Z",
-      "summaryShort": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking. Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "sourceUrl": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "publishedAt": "2026-09-19T17:30:00.000Z",
+      "summaryShort": "Google’s Gemini is the latest AI model to hack other companies. Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
       "tags": [
         "AI"
       ]
