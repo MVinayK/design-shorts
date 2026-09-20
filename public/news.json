@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-20T04:18:33.147Z",
+  "generatedAt": "2026-09-20T15:46:09.647Z",
   "items": [
+    {
+      "id": "alibaba-open-sources-opencodereview-for-ai-assisted-code-review",
+      "title": "Alibaba Open Sources OpenCodeReview for AI-Assisted Code Review",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/alibaba-opencodereview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-20T11:57:00.000Z",
+      "summaryShort": "Alibaba Open Sources OpenCodeReview for AI-Assisted Code Review. Alibaba recently open-sourced OpenCodeReview, an AI-powered code review CLI that combines deterministic pipelines for file selection, bundling, and rule matching with an LLM a",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "google-agent-development-kit-for-kotlin-reaches-feature-parity-w",
+      "title": "Google Agent Development Kit for Kotlin Reaches Feature Parity with Python, Supports On-Device AI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/google-adk-1-0-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-20T10:00:00.000Z",
+      "summaryShort": "Google Agent Development Kit for Kotlin Reaches Feature Parity with Python, Supports On-Device AI. Google has released the Agent Development Kit (ADK) for Kotlin 1.0, a production-ready framework for building AI agents across Kotlin, Androi",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "cloudflare-measures-origin-tls-preferences-cutting-handshake-ret",
+      "title": "Cloudflare Measures Origin TLS Preferences, Cutting Handshake Retries from 52% to 3.7%",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/cloudflare-automatic-key-exchang/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-20T08:15:00.000Z",
+      "summaryShort": "Cloudflare Measures Origin TLS Preferences, Cutting Handshake Retries from 52% to 3.7%. Cloudflare has replaced its static X25519 guess for origin TLS handshakes with per-origin measurement.",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "presentation-context-engineering-at-linkedin-how-we-built-an-org",
       "title": "Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP",
@@ -24,34 +57,23 @@
       ]
     },
     {
-      "id": "solidstart-2-replaces-vinxi-with-a-vite-8-and-enters-maintenance",
-      "title": "SolidStart 2: Replaces Vinxi with a Vite 8 and Enters Maintenance as Its Role Winds Down",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/solid-start-v2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-19T07:23:00.000Z",
-      "summaryShort": "SolidStart 2: Replaces Vinxi with a Vite 8 and Enters Maintenance as Its Role Winds Down. SolidStart, a full-stack meta-framework based on SolidJS, has transitioned to version 2.0, improving compatibility with Vite's Environment API.",
+      "id": "a-small-but-growing-number-of-founders-are-betting-on-bringing-p",
+      "title": "A small but growing number of founders are betting on bringing people together offline",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+      "publishedAt": "2026-09-20T15:00:00.000Z",
+      "summaryShort": "A small but growing number of founders are betting on bringing people together offline. Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bou",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "mariadb-13-expands-oracle-compatibility-and-improves-developer-e",
-      "title": "MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/mariadb-13-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-18T19:00:00.000Z",
-      "summaryShort": "MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability. MariaDB Community Server 13.0 has reached General Availability (GA) and is now officially stable.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "doordash-uses-multi-agent-llms-to-clean-up-60-000-feature-flags",
-      "title": "DoorDash Uses Multi Agent LLMs to Clean up 60,000 Feature Flags",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/doordash-feature-flag-cleanup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-18T13:50:00.000Z",
-      "summaryShort": "DoorDash Uses Multi Agent LLMs to Clean up 60,000 Feature Flags. DoorDash built a multi-agent LLM system to automate stale feature flag cleanup across more than 60,000 flags and 623 repositories.",
+      "id": "6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-20T14:00:00.000Z",
+      "summaryShort": "6 days left to get ahead at TechCrunch Disrupt 2026. Current ticket pricing ends in 6 days on Sept.",
       "tags": [
         "Engineering"
       ]
@@ -65,28 +87,6 @@
       "summaryShort": "Flock reportedly tries to shrink workforce with employee buyouts. Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "trump-says-it-s-time-to-rebrand-ai-with-a-new-name-and-he-s-also",
-      "title": "Trump says it's time to rebrand AI with a new name — and he's also creating an AI Force",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "publishedAt": "2026-09-19T19:57:47.000Z",
-      "summaryShort": "Trump says it's time to rebrand AI with a new name — and he's also creating an AI Force. Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "google-s-gemini-is-the-latest-ai-model-to-hack-other-companies",
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "publishedAt": "2026-09-19T17:30:00.000Z",
-      "summaryShort": "Google’s Gemini is the latest AI model to hack other companies. Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "tags": [
-        "AI"
       ]
     }
   ]
