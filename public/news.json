@@ -1,91 +1,91 @@
 {
-  "generatedAt": "2026-09-21T04:16:04.439Z",
+  "generatedAt": "2026-09-21T18:04:19.061Z",
   "items": [
     {
-      "id": "kubernetes-1-37-released-stable-metrics-api-and-rootless-kubelet",
-      "title": "Kubernetes 1.37 Released: Stable Metrics API and Rootless Kubelet in Beta",
+      "id": "java-news-roundup-jdk-27-open-j-proxy-a2a-jakarta-azul-payara-bo",
+      "title": "Java News Roundup: JDK 27, Open J Proxy, A2A Jakarta, Azul Payara, BoxLang, Netflix ja",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/kubernetes-1-37/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-21T01:00:00.000Z",
-      "summaryShort": "Kubernetes 1.37 Released: Stable Metrics API and Rootless Kubelet in Beta. The Cloud Native Computing Foundation (CNCF) announced the release of Kubernetes 1.37, named \"Garhwal\", emphasizing its focus on stability, security, and AI/ML workl",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/java-news-roundup-sep14-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-21T17:00:00.000Z",
+      "summaryShort": "Java News Roundup: JDK 27, Open J Proxy, A2A Jakarta, Azul Payara, BoxLang, Netflix ja. This week's Java roundup for September 14th, 2026, features news highlighting: the GA release of JDK 27, LibericaJDK 27, Open J Proxy 1.0 and A2A Jakart",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "uber-redesigns-m3db-sharding-with-subclusters-to-limit-failure-i",
+      "title": "Uber Redesigns M3DB Sharding with Subclusters to Limit Failure Impact",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/uber-m3db-subcluster-sharding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-21T14:37:00.000Z",
+      "summaryShort": "Uber Redesigns M3DB Sharding with Subclusters to Limit Failure Impact. Uber has redesigned shard placement in M3DB with fixed size subclusters to limit the impact of node failures, maintenance, and cluster scaling.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "cloudflare-introduces-the-agent-development-lifecycle-to-replace",
+      "title": "Cloudflare Introduces the Agent Development Lifecycle to Replace Traditional SDLC",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/cloudflare-adlc-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-21T14:14:00.000Z",
+      "summaryShort": "Cloudflare Introduces the Agent Development Lifecycle to Replace Traditional SDLC. Cloudflare has introduced the Agent Development Lifecycle to enhance AI-driven engineering.",
       "tags": [
         "AI",
         "Cloud"
       ]
     },
     {
-      "id": "bun-rewrites-535k-lines-of-zig-into-rust-in-four-months-eliminat",
-      "title": "Bun Rewrites 535K Lines of Zig into Rust in Four Months, Eliminates Numerous Memory Leaks",
+      "id": "article-beyond-relevance-a-governance-first-architecture-for-ent",
+      "title": "Article: Beyond Relevance: A Governance-First Architecture for Enterprise Personalization",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/bun-AI-rewrite-zig-rust-4-months/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-20T19:51:00.000Z",
-      "summaryShort": "Bun Rewrites 535K Lines of Zig into Rust in Four Months, Eliminates Numerous Memory Leaks. Bun creator Jarred Sumner recently announced that Bun, the JavaScript/TypeScript runtime, bundler and package manager has been rewritten from Zig to ",
+      "sourceUrl": "https://www.infoq.com/articles/architecture-enterprise-personalization-relevance-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-21T11:00:00.000Z",
+      "summaryShort": "Article: Beyond Relevance: A Governance-First Architecture for Enterprise Personalization. This article examines the limitations of conventional personalization systems and highlights the need for a governance-first architecture.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "alibaba-open-sources-opencodereview-for-ai-assisted-code-review",
-      "title": "Alibaba Open Sources OpenCodeReview for AI-Assisted Code Review",
+      "id": "podcast-securing-ai-agents-identity-authorization-and-the-dpact-",
+      "title": "Podcast: Securing AI Agents: Identity, Authorization, and the DPACT Framework",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/alibaba-opencodereview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-20T11:57:00.000Z",
-      "summaryShort": "Alibaba Open Sources OpenCodeReview for AI-Assisted Code Review. Alibaba recently open-sourced OpenCodeReview, an AI-powered code review CLI that combines deterministic pipelines for file selection, bundling, and rule matching with an LLM a",
+      "sourceUrl": "https://www.infoq.com/podcasts/securing-ai-agents-identity-authorization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-21T11:00:00.000Z",
+      "summaryShort": "Podcast: Securing AI Agents: Identity, Authorization, and the DPACT Framework. In this episode, Sahil Agarwal talks about the critical challenges of identity, authorisation, and security in the age of AI agents.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "google-agent-development-kit-for-kotlin-reaches-feature-parity-w",
-      "title": "Google Agent Development Kit for Kotlin Reaches Feature Parity with Python, Supports On-Device AI",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/google-adk-1-0-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-20T10:00:00.000Z",
-      "summaryShort": "Google Agent Development Kit for Kotlin Reaches Feature Parity with Python, Supports On-Device AI. Google has released the Agent Development Kit (ADK) for Kotlin 1.0, a production-ready framework for building AI agents across Kotlin, Androi",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "cloudflare-measures-origin-tls-preferences-cutting-handshake-ret",
-      "title": "Cloudflare Measures Origin TLS Preferences, Cutting Handshake Retries from 52% to 3.7%",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/cloudflare-automatic-key-exchang/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-20T08:15:00.000Z",
-      "summaryShort": "Cloudflare Measures Origin TLS Preferences, Cutting Handshake Retries from 52% to 3.7%. Cloudflare has replaced its static X25519 guess for origin TLS handshakes with per-origin measurement.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "6-days-left-to-save-up-to-200-to-techcrunch-disrupt-2026",
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "id": "meta-s-ai-agent-has-been-blocked-from-using-amazon-com",
+      "title": "Meta's AI agent has been blocked from using Amazon.com",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-20T21:41:08.000Z",
-      "summaryShort": "6 days left to save up to $200 to TechCrunch Disrupt 2026. Current ticket pricing ends in 6 days on Sept.",
+      "sourceUrl": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "publishedAt": "2026-09-21T17:55:18.000Z",
+      "summaryShort": "Meta's AI agent has been blocked from using Amazon.com. Muse isn't welcome as a shopper anymore.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "x-will-now-tell-users-when-governments-have-forced-it-to-limit-t",
+      "title": "X will now tell users when governments have forced it to limit their posts",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+      "publishedAt": "2026-09-21T17:45:35.000Z",
+      "summaryShort": "X will now tell users when governments have forced it to limit their posts. X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, includin",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "world-model-companies-are-keeping-a-lot-of-secrets",
-      "title": "World model companies are keeping a lot of secrets",
+      "id": "oura-s-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders",
+      "title": "Oura's $2.2B IPO is mostly a payday for existing shareholders",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "publishedAt": "2026-09-20T20:29:07.000Z",
-      "summaryShort": "World model companies are keeping a lot of secrets. Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're a",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "elon-musk-s-latest-boring-company-pitch-involves-a-hyperloop-bet",
-      "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
-      "publishedAt": "2026-09-20T19:38:48.000Z",
-      "summaryShort": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio. Many of The Boring Company's announced project have not materialized.",
+      "sourceUrl": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+      "publishedAt": "2026-09-21T16:45:47.000Z",
+      "summaryShort": "Oura's $2.2B IPO is mostly a payday for existing shareholders. Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
       "tags": [
         "Engineering"
       ]
