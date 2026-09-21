@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-09-20T15:46:09.647Z",
+  "generatedAt": "2026-09-21T04:16:04.439Z",
   "items": [
+    {
+      "id": "kubernetes-1-37-released-stable-metrics-api-and-rootless-kubelet",
+      "title": "Kubernetes 1.37 Released: Stable Metrics API and Rootless Kubelet in Beta",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/kubernetes-1-37/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-21T01:00:00.000Z",
+      "summaryShort": "Kubernetes 1.37 Released: Stable Metrics API and Rootless Kubelet in Beta. The Cloud Native Computing Foundation (CNCF) announced the release of Kubernetes 1.37, named \"Garhwal\", emphasizing its focus on stability, security, and AI/ML workl",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "bun-rewrites-535k-lines-of-zig-into-rust-in-four-months-eliminat",
+      "title": "Bun Rewrites 535K Lines of Zig into Rust in Four Months, Eliminates Numerous Memory Leaks",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/bun-AI-rewrite-zig-rust-4-months/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-20T19:51:00.000Z",
+      "summaryShort": "Bun Rewrites 535K Lines of Zig into Rust in Four Months, Eliminates Numerous Memory Leaks. Bun creator Jarred Sumner recently announced that Bun, the JavaScript/TypeScript runtime, bundler and package manager has been rewritten from Zig to ",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "alibaba-open-sources-opencodereview-for-ai-assisted-code-review",
       "title": "Alibaba Open Sources OpenCodeReview for AI-Assisted Code Review",
@@ -35,56 +58,34 @@
       ]
     },
     {
-      "id": "presentation-context-engineering-at-linkedin-how-we-built-an-org",
-      "title": "Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/linkedin-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-19T11:00:00.000Z",
-      "summaryShort": "Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP. Ajay Prakash discusses how LinkedIn overcomes AI agent limitations in large codebases.",
+      "id": "6-days-left-to-save-up-to-200-to-techcrunch-disrupt-2026",
+      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-20T21:41:08.000Z",
+      "summaryShort": "6 days left to save up to $200 to TechCrunch Disrupt 2026. Current ticket pricing ends in 6 days on Sept.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "world-model-companies-are-keeping-a-lot-of-secrets",
+      "title": "World model companies are keeping a lot of secrets",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "publishedAt": "2026-09-20T20:29:07.000Z",
+      "summaryShort": "World model companies are keeping a lot of secrets. Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're a",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "aws-lambda-pushes-serverless-toward-long-running-workloads",
-      "title": "AWS Lambda Pushes Serverless Toward Long-Running Workloads",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/lambda-90-minute-timeout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-19T09:11:00.000Z",
-      "summaryShort": "AWS Lambda Pushes Serverless Toward Long-Running Workloads. AWS Lambda now allows functions running on Lambda Managed Instances to run for up to 90 minutes, six times longer than the previous 15-minute limit, further blurring the line betwe",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "a-small-but-growing-number-of-founders-are-betting-on-bringing-p",
-      "title": "A small but growing number of founders are betting on bringing people together offline",
+      "id": "elon-musk-s-latest-boring-company-pitch-involves-a-hyperloop-bet",
+      "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
-      "publishedAt": "2026-09-20T15:00:00.000Z",
-      "summaryShort": "A small but growing number of founders are betting on bringing people together offline. Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bou",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
-      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-20T14:00:00.000Z",
-      "summaryShort": "6 days left to get ahead at TechCrunch Disrupt 2026. Current ticket pricing ends in 6 days on Sept.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts",
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "publishedAt": "2026-09-19T20:39:13.000Z",
-      "summaryShort": "Flock reportedly tries to shrink workforce with employee buyouts. Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "sourceUrl": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
+      "publishedAt": "2026-09-20T19:38:48.000Z",
+      "summaryShort": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio. Many of The Boring Company's announced project have not materialized.",
       "tags": [
         "Engineering"
       ]
