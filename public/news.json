@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-09-22T04:12:02.300Z",
+  "generatedAt": "2026-09-22T16:38:31.993Z",
   "items": [
+    {
+      "id": "google-open-sources-ax-a-kubernetes-style-orchestrator-for-auton",
+      "title": "Google Open-Sources AX a Kubernetes Style Orchestrator for Autonomous AI Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/google-ax-orchestrator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-22T14:14:00.000Z",
+      "summaryShort": "Google Open-Sources AX a Kubernetes Style Orchestrator for Autonomous AI Agents. Google has open-sourced AX, an orchestrator designed for managing autonomous AI agent workloads.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "gitlab-duo-expands-self-hosted-ai-options-through-microsoft-foun",
+      "title": "GitLab Duo Expands Self-Hosted AI Options Through Microsoft Foundry",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/gitlab-microsoft-foundry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "summaryShort": "GitLab Duo Expands Self-Hosted AI Options Through Microsoft Foundry. GitLab has expanded GitLab Duo Self-Hosted to support models deployed through Microsoft Foundry, letting organizations run GitLab's AI development capabilities against mod",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-maximizing-success-with-limited-time-resources-and-",
+      "title": "Presentation: Maximizing Success with Limited Time, Resources, and Energy: Lessons from Startup Engineering",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/lessons-startup-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-22T09:04:00.000Z",
+      "summaryShort": "Presentation: Maximizing Success with Limited Time, Resources, and Energy: Lessons from Startup Engineering. David Gudeman discusses battle-tested architectural patterns for resource-constrained engineering teams.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "changesets-v3-bumps-peer-dependents-by-patch-and-ships-esm-only-",
+      "title": "Changesets v3: Bumps Peer Dependents by Patch and Ships ESM Only with an 88% Smaller Install",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/changesets-v3-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-22T06:00:00.000Z",
+      "summaryShort": "Changesets v3: Bumps Peer Dependents by Patch and Ships ESM Only with an 88% Smaller Install. Changesets v3.0, released on August 11, 2026, introduces significant updates for JavaScript monorepos.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "out-of-order-html-streaming-moves-from-js-frameworks-into-the-br",
       "title": "Out-of-Order HTML Streaming Moves from JS Frameworks into the Browser",
@@ -13,79 +57,34 @@
       ]
     },
     {
-      "id": "java-news-roundup-jdk-27-open-j-proxy-a2a-jakarta-azul-payara-bo",
-      "title": "Java News Roundup: JDK 27, Open J Proxy, A2A Jakarta, Azul Payara, BoxLang, Netflix ja",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/java-news-roundup-sep14-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-21T17:00:00.000Z",
-      "summaryShort": "Java News Roundup: JDK 27, Open J Proxy, A2A Jakarta, Azul Payara, BoxLang, Netflix ja. This week's Java roundup for September 14th, 2026, features news highlighting: the GA release of JDK 27, LibericaJDK 27, Open J Proxy 1.0 and A2A Jakart",
+      "id": "anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-pe",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "publishedAt": "2026-09-22T16:30:07.000Z",
+      "summaryShort": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance. Anthropic called it \"the strongest-performing model we've tested to date.\"",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "uber-redesigns-m3db-sharding-with-subclusters-to-limit-failure-i",
-      "title": "Uber Redesigns M3DB Sharding with Subclusters to Limit Failure Impact",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/uber-m3db-subcluster-sharding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-21T14:37:00.000Z",
-      "summaryShort": "Uber Redesigns M3DB Sharding with Subclusters to Limit Failure Impact. Uber has redesigned shard placement in M3DB with fixed size subclusters to limit the impact of node failures, maintenance, and cluster scaling.",
+      "id": "stolen-passwords-are-exposing-america-s-water-providers-to-hacke",
+      "title": "Stolen passwords are exposing America's water providers to hackers",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+      "publishedAt": "2026-09-22T15:50:58.000Z",
+      "summaryShort": "Stolen passwords are exposing America's water providers to hackers. Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
       "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "cloudflare-introduces-the-agent-development-stack-lifecycle-to-r",
-      "title": "Cloudflare Introduces the Agent Development Stack Lifecycle to Replace Traditional SDLC",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/cloudflare-adlc-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-21T14:14:00.000Z",
-      "summaryShort": "Cloudflare Introduces the Agent Development Stack Lifecycle to Replace Traditional SDLC. Cloudflare has introduced the Agent Development Lifecycle to enhance AI-driven engineering.",
-      "tags": [
-        "AI",
         "Cloud"
       ]
     },
     {
-      "id": "article-beyond-relevance-a-governance-first-architecture-for-ent",
-      "title": "Article: Beyond Relevance: A Governance-First Architecture for Enterprise Personalization",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/architecture-enterprise-personalization-relevance-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-21T11:00:00.000Z",
-      "summaryShort": "Article: Beyond Relevance: A Governance-First Architecture for Enterprise Personalization. This article examines the limitations of conventional personalization systems and highlights the need for a governance-first architecture.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "the-man-who-built-apple-s-stores-doesn-t-buy-silicon-valley-s-be",
-      "title": "The man who built Apple's stores doesn't buy Silicon Valley's bet on AI shopping",
+      "id": "noble-carbon-will-show-how-it-s-making-ev-charger-installs-painl",
+      "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "publishedAt": "2026-09-21T23:44:28.000Z",
-      "summaryShort": "The man who built Apple's stores doesn't buy Silicon Valley's bet on AI shopping. Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "openai-forms-math-advisory-group-as-its-ai-resolves-more-than-10",
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "publishedAt": "2026-09-21T20:15:58.000Z",
-      "summaryShort": "OpenAI forms math advisory group as its AI resolves more than 100 open problems. The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "discover-what-s-next-5-days-left-to-save-up-to-200-on-your-techc",
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-21T19:25:00.000Z",
-      "summaryShort": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket. Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one.",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+      "publishedAt": "2026-09-22T15:00:00.000Z",
+      "summaryShort": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt. Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
       "tags": [
         "Engineering"
       ]
