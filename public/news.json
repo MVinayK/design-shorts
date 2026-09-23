@@ -1,90 +1,92 @@
 {
-  "generatedAt": "2026-09-23T04:08:48.178Z",
+  "generatedAt": "2026-09-23T16:31:02.128Z",
   "items": [
     {
-      "id": "google-open-sources-ax-a-kubernetes-style-orchestrator-for-auton",
-      "title": "Google Open-Sources AX a Kubernetes Style Orchestrator for Autonomous AI Agents",
+      "id": "graphify-unifying-codebase-context-to-streamline-agentic-softwar",
+      "title": "Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/google-ax-orchestrator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-22T14:14:00.000Z",
-      "summaryShort": "Google Open-Sources AX a Kubernetes Style Orchestrator for Autonomous AI Agents. Google has open-sourced AX, an orchestrator designed for managing autonomous AI agent workloads.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/graphify-codebase-exploration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-23T14:14:00.000Z",
+      "summaryShort": "Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering. Graphify is an open-source tool designed to convert codebases and unstructured data into queryable knowledge graphs.",
       "tags": [
-        "AI"
+        "AI",
+        "Architecture"
       ]
     },
     {
-      "id": "gitlab-duo-expands-self-hosted-ai-options-through-microsoft-foun",
-      "title": "GitLab Duo Expands Self-Hosted AI Options Through Microsoft Foundry",
+      "id": "beyond-kubernetes-at-modal-how-to-scale-1-million-concurrent-san",
+      "title": "Beyond Kubernetes at Modal: How to Scale 1 Million Concurrent Sandboxes in Seconds",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/gitlab-microsoft-foundry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-22T12:00:00.000Z",
-      "summaryShort": "GitLab Duo Expands Self-Hosted AI Options Through Microsoft Foundry. GitLab has expanded GitLab Duo Self-Hosted to support models deployed through Microsoft Foundry, letting organizations run GitLab's AI development capabilities against mod",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-maximizing-success-with-limited-time-resources-and-",
-      "title": "Presentation: Maximizing Success with Limited Time, Resources, and Energy: Lessons from Startup Engineering",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/lessons-startup-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-22T09:04:00.000Z",
-      "summaryShort": "Presentation: Maximizing Success with Limited Time, Resources, and Energy: Lessons from Startup Engineering. David Gudeman discusses battle-tested architectural patterns for resource-constrained engineering teams.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/modal-scaling-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-23T14:00:00.000Z",
+      "summaryShort": "Beyond Kubernetes at Modal: How to Scale 1 Million Concurrent Sandboxes in Seconds. In a recent article, Colin Weld and Connor Adams, staff engineers at Modal, describe how they rebuilt their sandbox infrastructure from the ground up to sup",
       "tags": [
         "Cloud"
       ]
     },
     {
-      "id": "changesets-v3-bumps-peer-dependents-by-patch-and-ships-esm-only-",
-      "title": "Changesets v3: Bumps Peer Dependents by Patch and Ships ESM Only with an 88% Smaller Install",
+      "id": "cloudflare-cuts-100-tb-of-memory-from-1-1-1-1-dns-cache",
+      "title": "Cloudflare Cuts 100 TB of Memory from 1.1.1.1 DNS Cache",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/changesets-v3-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-22T06:00:00.000Z",
-      "summaryShort": "Changesets v3: Bumps Peer Dependents by Patch and Ships ESM Only with an 88% Smaller Install. Changesets v3.0, released on August 11, 2026, introduces significant updates for JavaScript monorepos.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/cloudflare-dns-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-23T13:22:00.000Z",
+      "summaryShort": "Cloudflare Cuts 100 TB of Memory from 1.1.1.1 DNS Cache. Cloudflare redesigned the in-memory representation of its Big Pineapple DNS cache, reducing the per-entry footprint by 56% and freeing roughly 100 TB of working-set memory across its ",
       "tags": [
-        "Engineering"
+        "Cloud",
+        "Architecture"
       ]
     },
     {
-      "id": "out-of-order-html-streaming-moves-from-js-frameworks-into-the-br",
-      "title": "Out-of-Order HTML Streaming Moves from JS Frameworks into the Browser",
+      "id": "presentation-apis-for-agents-rethinking-api-programs-in-the-mcp-",
+      "title": "Presentation: APIs for Agents: Rethinking API Programs in the MCP Era",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/native-deferred-html-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-21T23:57:00.000Z",
-      "summaryShort": "Out-of-Order HTML Streaming Moves from JS Frameworks into the Browser. Out-of-order HTML streaming, a user experience pattern popularized by front-end frameworks and that allows users to view and interact faster with a page before it is ent",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "discord-s-age-verification-era-is-upon-us-despite-community-back",
-      "title": "Discord's age verification era is upon us, despite community backlash",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
-      "publishedAt": "2026-09-23T03:31:12.000Z",
-      "summaryShort": "Discord's age verification era is upon us, despite community backlash. According to Discord, 90% of users will not have to verify their age.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "techcrunch-founder-summit-s-agenda-revealed-unlock-fundraising-h",
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "publishedAt": "2026-09-22T23:21:49.000Z",
-      "summaryShort": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4. Founders shouldn't have to learn the hardest lessons the hardest way.",
+      "sourceUrl": "https://www.infoq.com/presentations/mcp-calm-api-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-23T11:00:00.000Z",
+      "summaryShort": "Presentation: APIs for Agents: Rethinking API Programs in the MCP Era. Jim Gough and Andreea Niculcea explain how Morgan Stanley uses Architecture as Code with CALM to modernize its API program.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-d",
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "id": "andrew-kelley-interview-why-he-built-zig-banned-ai-contributions",
+      "title": "Andrew Kelley Interview: Why He Built Zig, Banned AI Contributions, and Moved Zig off GitHub",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/andrew-kelley-zig-no-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-23T10:36:00.000Z",
+      "summaryShort": "Andrew Kelley Interview: Why He Built Zig, Banned AI Contributions, and Moved Zig off GitHub. In a JetBrains interview, Zig creator Andrew Kelley expanded on the project’s formal ban on AI contributions and the motivation behind its migrati",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "youtube-is-making-comments-more-fun-and-fandom-more-lucrative-fo",
+      "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "publishedAt": "2026-09-22T21:56:43.000Z",
-      "summaryShort": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms. The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
+      "publishedAt": "2026-09-23T16:03:44.000Z",
+      "summaryShort": "YouTube is making comments more fun — and fandom more lucrative for creators. YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favo",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "youtube-s-conversational-video-editing-tool-lets-creators-make-e",
+      "title": "YouTube's conversational video editing tool lets creators make edits in natural language",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
+      "publishedAt": "2026-09-23T15:46:57.000Z",
+      "summaryShort": "YouTube's conversational video editing tool lets creators make edits in natural language. Creators will be able to use AI in a conversational chat interface to help them edit videos.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "youtube-music-gets-more-conversational-with-new-ai-features",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "publishedAt": "2026-09-23T15:19:30.000Z",
+      "summaryShort": "YouTube Music gets more conversational with new AI features. Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
       "tags": [
         "AI"
       ]
