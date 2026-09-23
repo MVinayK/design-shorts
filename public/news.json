@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T16:38:31.993Z",
+  "generatedAt": "2026-09-23T04:08:48.178Z",
   "items": [
     {
       "id": "google-open-sources-ax-a-kubernetes-style-orchestrator-for-auton",
@@ -57,36 +57,36 @@
       ]
     },
     {
-      "id": "anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-pe",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "id": "discord-s-age-verification-era-is-upon-us-despite-community-back",
+      "title": "Discord's age verification era is upon us, despite community backlash",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "publishedAt": "2026-09-22T16:30:07.000Z",
-      "summaryShort": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance. Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+      "publishedAt": "2026-09-23T03:31:12.000Z",
+      "summaryShort": "Discord's age verification era is upon us, despite community backlash. According to Discord, 90% of users will not have to verify their age.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "techcrunch-founder-summit-s-agenda-revealed-unlock-fundraising-h",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "publishedAt": "2026-09-22T23:21:49.000Z",
+      "summaryShort": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4. Founders shouldn't have to learn the hardest lessons the hardest way.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "stolen-passwords-are-exposing-america-s-water-providers-to-hacke",
-      "title": "Stolen passwords are exposing America's water providers to hackers",
+      "id": "snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-d",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
-      "publishedAt": "2026-09-22T15:50:58.000Z",
-      "summaryShort": "Stolen passwords are exposing America's water providers to hackers. Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "publishedAt": "2026-09-22T21:56:43.000Z",
+      "summaryShort": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms. The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
       "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "noble-carbon-will-show-how-it-s-making-ev-charger-installs-painl",
-      "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
-      "publishedAt": "2026-09-22T15:00:00.000Z",
-      "summaryShort": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt. Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
-      "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
