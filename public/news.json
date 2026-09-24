@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T16:31:02.128Z",
+  "generatedAt": "2026-09-24T04:04:16.431Z",
   "items": [
     {
       "id": "graphify-unifying-codebase-context-to-streamline-agentic-softwar",
@@ -59,36 +59,36 @@
       ]
     },
     {
-      "id": "youtube-is-making-comments-more-fun-and-fandom-more-lucrative-fo",
-      "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
+      "id": "everything-new-coming-to-meta-s-ai-agent-muse",
+      "title": "Everything new coming to Meta's AI agent Muse",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
-      "publishedAt": "2026-09-23T16:03:44.000Z",
-      "summaryShort": "YouTube is making comments more fun — and fandom more lucrative for creators. YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favo",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "publishedAt": "2026-09-24T01:13:32.000Z",
+      "summaryShort": "Everything new coming to Meta's AI agent Muse. CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "publishedAt": "2026-09-24T00:46:17.000Z",
+      "summaryShort": "Meta made a Tamagotchi-like wearable for its Muse AI agent. The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "meta-is-trying-vr-glasses-again-this-time-with-more-imax",
+      "title": "Meta is trying VR glasses (again), this time with more IMAX",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+      "publishedAt": "2026-09-23T23:47:35.000Z",
+      "summaryShort": "Meta is trying VR glasses (again), this time with more IMAX. Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "youtube-s-conversational-video-editing-tool-lets-creators-make-e",
-      "title": "YouTube's conversational video editing tool lets creators make edits in natural language",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
-      "publishedAt": "2026-09-23T15:46:57.000Z",
-      "summaryShort": "YouTube's conversational video editing tool lets creators make edits in natural language. Creators will be able to use AI in a conversational chat interface to help them edit videos.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "youtube-music-gets-more-conversational-with-new-ai-features",
-      "title": "YouTube Music gets more conversational with new AI features",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-      "publishedAt": "2026-09-23T15:19:30.000Z",
-      "summaryShort": "YouTube Music gets more conversational with new AI features. Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
-      "tags": [
-        "AI"
       ]
     }
   ]
