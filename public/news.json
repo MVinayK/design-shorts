@@ -1,92 +1,90 @@
 {
-  "generatedAt": "2026-09-24T04:04:16.431Z",
+  "generatedAt": "2026-09-24T16:51:03.910Z",
   "items": [
     {
-      "id": "graphify-unifying-codebase-context-to-streamline-agentic-softwar",
-      "title": "Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering",
+      "id": "infoq-launches-high-performing-teams-certification-program",
+      "title": "InfoQ Launches High-Performing Teams Certification Program",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/graphify-codebase-exploration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-23T14:14:00.000Z",
-      "summaryShort": "Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering. Graphify is an open-source tool designed to convert codebases and unstructured data into queryable knowledge graphs.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/high-performing-teams-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-24T15:00:00.000Z",
+      "summaryShort": "InfoQ Launches High-Performing Teams Certification Program. InfoQ has opened enrollment for a new five-week certification program covering engineering team design, delivery flow, AI-enabled work, and metrics, facilitated by InfoQ editor and",
       "tags": [
-        "AI",
-        "Architecture"
+        "AI"
       ]
     },
     {
-      "id": "beyond-kubernetes-at-modal-how-to-scale-1-million-concurrent-san",
-      "title": "Beyond Kubernetes at Modal: How to Scale 1 Million Concurrent Sandboxes in Seconds",
+      "id": "un-mused-how-a-single-debug-setting-bypassed-macos-security-in-m",
+      "title": "Un-Mused: How a Single Debug Setting Bypassed macOS Security in Meta’s AI Client",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/modal-scaling-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-23T14:00:00.000Z",
-      "summaryShort": "Beyond Kubernetes at Modal: How to Scale 1 Million Concurrent Sandboxes in Seconds. In a recent article, Colin Weld and Connor Adams, staff engineers at Modal, describe how they rebuilt their sandbox infrastructure from the ground up to sup",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/meta-muse-zeroday/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-24T14:14:00.000Z",
+      "summaryShort": "Un-Mused: How a Single Debug Setting Bypassed macOS Security in Meta’s AI Client. Security researcher Patrick Wardle revealed an unpatched zero-day vulnerability in Meta's Muse desktop client for macOS.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "building-a-collaborative-platform-culture-in-a-bank",
+      "title": "Building a Collaborative Platform Culture in a Bank",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/collaborative-platform-culture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-24T11:09:00.000Z",
+      "summaryShort": "Building a Collaborative Platform Culture in a Bank. A platform is a collaboration system, not infrastructure.",
       "tags": [
         "Cloud"
       ]
     },
     {
-      "id": "cloudflare-cuts-100-tb-of-memory-from-1-1-1-1-dns-cache",
-      "title": "Cloudflare Cuts 100 TB of Memory from 1.1.1.1 DNS Cache",
+      "id": "presentation-designing-fast-delightful-ux-with-llms-for-mobile-f",
+      "title": "Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/cloudflare-dns-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-23T13:22:00.000Z",
-      "summaryShort": "Cloudflare Cuts 100 TB of Memory from 1.1.1.1 DNS Cache. Cloudflare redesigned the in-memory representation of its Big Pineapple DNS cache, reducing the per-entry footprint by 56% and freeing roughly 100 TB of working-set memory across its ",
+      "sourceUrl": "https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-24T09:24:00.000Z",
+      "summaryShort": "Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends. Balakrishnan Ramdoss discusses how to architect production-grade, AI-powered conversational apps at scale.",
       "tags": [
-        "Cloud",
-        "Architecture"
+        "AI"
       ]
     },
     {
-      "id": "presentation-apis-for-agents-rethinking-api-programs-in-the-mcp-",
-      "title": "Presentation: APIs for Agents: Rethinking API Programs in the MCP Era",
+      "id": "canvas-ui-ships-35-html-in-canvas-components-that-run-webgl-and-",
+      "title": "Canvas UI Ships 35 HTML-in-Canvas Components That Run WebGL and WebGPU Effects Over Live DOM",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/mcp-calm-api-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-23T11:00:00.000Z",
-      "summaryShort": "Presentation: APIs for Agents: Rethinking API Programs in the MCP Era. Jim Gough and Andreea Niculcea explain how Morgan Stanley uses Architecture as Code with CALM to modernize its API program.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/canvas-ui-webgl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-24T06:02:00.000Z",
+      "summaryShort": "Canvas UI Ships 35 HTML-in-Canvas Components That Run WebGL and WebGPU Effects Over Live DOM. Canvas UI is an open-source component library created by David Haz, utilizing the experimental HTML-in-Canvas API.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "andrew-kelley-interview-why-he-built-zig-banned-ai-contributions",
-      "title": "Andrew Kelley Interview: Why He Built Zig, Banned AI Contributions, and Moved Zig off GitHub",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/andrew-kelley-zig-no-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-23T10:36:00.000Z",
-      "summaryShort": "Andrew Kelley Interview: Why He Built Zig, Banned AI Contributions, and Moved Zig off GitHub. In a JetBrains interview, Zig creator Andrew Kelley expanded on the project’s formal ban on AI contributions and the motivation behind its migrati",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "everything-new-coming-to-meta-s-ai-agent-muse",
-      "title": "Everything new coming to Meta's AI agent Muse",
+      "id": "techcrunch-founder-summit-2026-everything-you-need-to-know",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "publishedAt": "2026-09-24T01:13:32.000Z",
-      "summaryShort": "Everything new coming to Meta's AI agent Muse. CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse.",
+      "sourceUrl": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "publishedAt": "2026-09-24T16:46:47.000Z",
+      "summaryShort": "TechCrunch Founder Summit 2026: Everything you need to know. TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insi",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-",
+      "title": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "publishedAt": "2026-09-24T16:35:13.000Z",
+      "summaryShort": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion. ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "id": "meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-tec",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "publishedAt": "2026-09-24T00:46:17.000Z",
-      "summaryShort": "Meta made a Tamagotchi-like wearable for its Muse AI agent. The tiny hardware device creates another mobile home for its AI agent Muse.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "meta-is-trying-vr-glasses-again-this-time-with-more-imax",
-      "title": "Meta is trying VR glasses (again), this time with more IMAX",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-      "publishedAt": "2026-09-23T23:47:35.000Z",
-      "summaryShort": "Meta is trying VR glasses (again), this time with more IMAX. Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+      "sourceUrl": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-24T16:03:36.000Z",
+      "summaryShort": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026. Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026.",
       "tags": [
         "Engineering"
       ]
