@@ -1,92 +1,95 @@
 {
-  "generatedAt": "2026-09-25T04:18:17.988Z",
+  "generatedAt": "2026-09-25T16:55:21.322Z",
   "items": [
     {
-      "id": "what-ios-developers-need-to-change-in-their-apps-to-prepare-for-",
-      "title": "What iOS Developers Need to Change in their Apps to prepare for the iPhone Duo",
+      "id": "home-made-cobbledb-replaces-dynamodb-at-perplexity-to-cut-query-",
+      "title": "Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud Storage",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/apple-iphone-duo-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-24T19:00:00.000Z",
-      "summaryShort": "What iOS Developers Need to Change in their Apps to prepare for the iPhone Duo. With the upcoming introduction of the foldable iPhone Duo, iOS developers will need to adapt their apps to ensure they work correctly across the new device's ou",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/cobbledb-perplexity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-25T14:14:00.000Z",
+      "summaryShort": "Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud Storage. Perplexity has migrated its search infrastructure from Amazon DynamoDB to CobbleDB, an internally developed key-value store in Rust.",
       "tags": [
-        "AI"
+        "Databases",
+        "Cloud"
       ]
     },
     {
-      "id": "infoq-launches-high-performing-teams-certification-program",
-      "title": "InfoQ Launches High-Performing Teams Certification Program",
+      "id": "stateless-mcp-removes-session-affinity-requirements-for-aws-serv",
+      "title": "Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/high-performing-teams-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-24T15:00:00.000Z",
-      "summaryShort": "InfoQ Launches High-Performing Teams Certification Program. InfoQ has opened enrollment for a new five-week certification program covering engineering team design, delivery flow, AI-enabled work, and metrics, facilitated by InfoQ editor and",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/aws-stateless-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-25T12:58:00.000Z",
+      "summaryShort": "Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments. AWS details how the latest Model Context Protocol specification removes protocol-level sessions, sticky-session requirements, and session storage for remote MCP",
       "tags": [
-        "AI"
+        "AI",
+        "Databases"
       ]
     },
     {
-      "id": "un-mused-how-a-single-debug-setting-bypassed-macos-security-in-m",
-      "title": "Un-Mused: How a Single Debug Setting Bypassed macOS Security in Meta’s AI Client",
+      "id": "grafana-turns-cypress-test-results-into-persistent-observability",
+      "title": "Grafana Turns Cypress Test Results Into Persistent Observability Data",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/meta-muse-zeroday/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-24T14:14:00.000Z",
-      "summaryShort": "Un-Mused: How a Single Debug Setting Bypassed macOS Security in Meta’s AI Client. Security researcher Patrick Wardle revealed an unpatched zero-day vulnerability in Meta's Muse desktop client for macOS.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "building-a-collaborative-platform-culture-in-a-bank",
-      "title": "Building a Collaborative Platform Culture in a Bank",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/collaborative-platform-culture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-24T11:09:00.000Z",
-      "summaryShort": "Building a Collaborative Platform Culture in a Bank. A platform is a collaboration system, not infrastructure.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/grafana-cypress-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-25T12:00:00.000Z",
+      "summaryShort": "Grafana Turns Cypress Test Results Into Persistent Observability Data. Grafana Labs has published a practical approach for monitoring Cypress test suites by converting test results into Prometheus metrics and sending them to Grafana Cloud.",
       "tags": [
         "Cloud"
       ]
     },
     {
-      "id": "presentation-designing-fast-delightful-ux-with-llms-for-mobile-f",
-      "title": "Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends",
+      "id": "from-agent-authorization-to-ai-production-evaluation-qcon-ai-new",
+      "title": "From Agent Authorization to AI Production Evaluation: QCon AI New York 2026",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-24T09:24:00.000Z",
-      "summaryShort": "Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends. Balakrishnan Ramdoss discusses how to architect production-grade, AI-powered conversational apps at scale.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/qcon-ai-newyork-2026-sessions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-25T11:00:00.000Z",
+      "summaryShort": "From Agent Authorization to AI Production Evaluation: QCon AI New York 2026. QCon AI New York has confirmed 23 sessions covering agent authorization, production guardrails, shared inference infrastructure, and the evaluation of AI systems a",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "podcast-the-future-of-ai-from-enterprise-adoption-to-open-source",
+      "title": "Podcast: The Future of AI: From Enterprise Adoption to Open Source Sovereignty",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/enterprise-adoption-open-source-sovereignty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-25T11:00:00.000Z",
+      "summaryShort": "Podcast: The Future of AI: From Enterprise Adoption to Open Source Sovereignty. In this episode, Meryem Arik, Clara Higuera Cabañes, and Jeff Smith, demystify the current state of AI in the enterprise.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "waymo-is-scaling-fast-here-s-what-the-fleet-data-shows",
-      "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+      "id": "meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
-      "publishedAt": "2026-09-24T23:24:33.000Z",
-      "summaryShort": "Waymo is scaling fast: Here’s what the fleet data shows. In the past month, Waymo has expanded its fleet in Texas by 49%.",
+      "sourceUrl": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "publishedAt": "2026-09-25T16:16:52.000Z",
+      "summaryShort": "Meta is putting its muscle behind Muse as the AI app takes off. Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "kiteworks-urges-customers-to-shut-down-their-servers-amid-8216-i",
+      "title": "Kiteworks urges customers to shut down their servers amid &#8216;imminent' threat of cyberattack",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
+      "publishedAt": "2026-09-25T15:52:13.000Z",
+      "summaryShort": "Kiteworks urges customers to shut down their servers amid &#8216;imminent' threat of cyberattack. The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement abo",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitti",
-      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+      "id": "for-months-openai-s-agent-swarms-have-been-attacking-online-data",
+      "title": "For months, OpenAI's agent swarms have been attacking online databases to find obscure facts",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-      "publishedAt": "2026-09-24T20:45:00.000Z",
-      "summaryShort": "Nexterity wants to automate the hard, dangerous part of pipefitting. The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
+      "sourceUrl": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "publishedAt": "2026-09-25T15:48:14.000Z",
+      "summaryShort": "For months, OpenAI's agent swarms have been attacking online databases to find obscure facts. The latest unauthorized agent swarms were discovered by researchers.",
       "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "bring-your-co-founder-partner-or-colleague-and-get-50-off-a-seco",
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "publishedAt": "2026-09-24T19:15:00.000Z",
-      "summaryShort": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass. Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type.",
-      "tags": [
-        "Engineering"
+        "Databases"
       ]
     }
   ]
