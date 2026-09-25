@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-24T16:51:03.910Z",
+  "generatedAt": "2026-09-25T04:18:17.988Z",
   "items": [
+    {
+      "id": "what-ios-developers-need-to-change-in-their-apps-to-prepare-for-",
+      "title": "What iOS Developers Need to Change in their Apps to prepare for the iPhone Duo",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/apple-iphone-duo-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-24T19:00:00.000Z",
+      "summaryShort": "What iOS Developers Need to Change in their Apps to prepare for the iPhone Duo. With the upcoming introduction of the foldable iPhone Duo, iOS developers will need to adapt their apps to ensure they work correctly across the new device's ou",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "infoq-launches-high-performing-teams-certification-program",
       "title": "InfoQ Launches High-Performing Teams Certification Program",
@@ -46,45 +57,34 @@
       ]
     },
     {
-      "id": "canvas-ui-ships-35-html-in-canvas-components-that-run-webgl-and-",
-      "title": "Canvas UI Ships 35 HTML-in-Canvas Components That Run WebGL and WebGPU Effects Over Live DOM",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/canvas-ui-webgl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-24T06:02:00.000Z",
-      "summaryShort": "Canvas UI Ships 35 HTML-in-Canvas Components That Run WebGL and WebGPU Effects Over Live DOM. Canvas UI is an open-source component library created by David Haz, utilizing the experimental HTML-in-Canvas API.",
+      "id": "waymo-is-scaling-fast-here-s-what-the-fleet-data-shows",
+      "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+      "publishedAt": "2026-09-24T23:24:33.000Z",
+      "summaryShort": "Waymo is scaling fast: Here’s what the fleet data shows. In the past month, Waymo has expanded its fleet in Texas by 49%.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "techcrunch-founder-summit-2026-everything-you-need-to-know",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "id": "nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitti",
+      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "publishedAt": "2026-09-24T16:46:47.000Z",
-      "summaryShort": "TechCrunch Founder Summit 2026: Everything you need to know. TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insi",
+      "sourceUrl": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+      "publishedAt": "2026-09-24T20:45:00.000Z",
+      "summaryShort": "Nexterity wants to automate the hard, dangerous part of pipefitting. The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-",
-      "title": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion",
+      "id": "bring-your-co-founder-partner-or-colleague-and-get-50-off-a-seco",
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "publishedAt": "2026-09-24T16:35:13.000Z",
-      "summaryShort": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion. ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-tec",
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-24T16:03:36.000Z",
-      "summaryShort": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026. Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026.",
+      "sourceUrl": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "publishedAt": "2026-09-24T19:15:00.000Z",
+      "summaryShort": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass. Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type.",
       "tags": [
         "Engineering"
       ]
