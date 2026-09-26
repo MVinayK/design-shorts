@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T16:55:21.322Z",
+  "generatedAt": "2026-09-26T04:22:34.914Z",
   "items": [
     {
       "id": "home-made-cobbledb-replaces-dynamodb-at-perplexity-to-cut-query-",
@@ -60,36 +60,36 @@
       ]
     },
     {
-      "id": "meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off",
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "id": "at-meta-connect-the-company-s-smart-glasses-were-everywhere",
+      "title": "At Meta Connect, the company's smart glasses were everywhere",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "publishedAt": "2026-09-25T16:16:52.000Z",
-      "summaryShort": "Meta is putting its muscle behind Muse as the AI app takes off. Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "kiteworks-urges-customers-to-shut-down-their-servers-amid-8216-i",
-      "title": "Kiteworks urges customers to shut down their servers amid &#8216;imminent' threat of cyberattack",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
-      "publishedAt": "2026-09-25T15:52:13.000Z",
-      "summaryShort": "Kiteworks urges customers to shut down their servers amid &#8216;imminent' threat of cyberattack. The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement abo",
+      "sourceUrl": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "publishedAt": "2026-09-26T01:08:57.000Z",
+      "summaryShort": "At Meta Connect, the company's smart glasses were everywhere. The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "for-months-openai-s-agent-swarms-have-been-attacking-online-data",
-      "title": "For months, OpenAI's agent swarms have been attacking online databases to find obscure facts",
+      "id": "crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-cente",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "publishedAt": "2026-09-25T15:48:14.000Z",
-      "summaryShort": "For months, OpenAI's agent swarms have been attacking online databases to find obscure facts. The latest unauthorized agent swarms were discovered by researchers.",
+      "sourceUrl": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "publishedAt": "2026-09-25T23:11:10.000Z",
+      "summaryShort": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers. Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
       "tags": [
-        "Databases"
+        "AI"
+      ]
+    },
+    {
+      "id": "automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-le",
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "publishedAt": "2026-09-25T23:04:34.000Z",
+      "summaryShort": "Automattic has a new board after failed attempt to put CEO on leave. After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
