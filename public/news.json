@@ -1,6 +1,41 @@
 {
-  "generatedAt": "2026-09-27T04:39:29.933Z",
+  "generatedAt": "2026-09-27T16:42:59.391Z",
   "items": [
+    {
+      "id": "google-rewrites-critical-c-dependencies-to-rust-using-ai-and-dif",
+      "title": "Google Rewrites Critical C Dependencies to Rust Using AI and Differential Fuzzing",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/c-rust-rewrite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-27T14:14:00.000Z",
+      "summaryShort": "Google Rewrites Critical C Dependencies to Rust Using AI and Differential Fuzzing. Google's security team developed a method to replace legacy C code in the giflib image-processing library with Rust, targeting inherent memory vulnerabilitie",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "swift-6-4-brings-subprocess-1-0-improved-interoperability-faster",
+      "title": "Swift 6.4 Brings Subprocess 1.0, Improved Interoperability, Faster Wasm, and More",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/swift-6-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-27T14:00:00.000Z",
+      "summaryShort": "Swift 6.4 Brings Subprocess 1.0, Improved Interoperability, Faster Wasm, and More. The latest release of Swift, Swift 6.4, introduces a range of language and tooling improvements, including better performance through expanded support for no",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "gke-pod-snapshots-cut-model-load-times-and-move-the-work-to-snap",
+      "title": "GKE Pod Snapshots Cut Model Load Times, and Move the Work to Snapshot Lifecycle Management",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/gke-pod-snapshots-benchmarks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-27T06:46:00.000Z",
+      "summaryShort": "GKE Pod Snapshots Cut Model Load Times, and Move the Work to Snapshot Lifecycle Management. Google has published benchmarks for GKE Pod snapshots, reporting up to 89% lower startup latency and a 70B model loading in 37 seconds.",
+      "tags": [
+        "AI",
+        "Databases",
+        "Cloud"
+      ]
+    },
     {
       "id": "docker-cloud-sandboxes-provide-a-consistent-sandbox-abstraction-",
       "title": "Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction Across Laptop and Cloud",
@@ -25,71 +60,36 @@
       ]
     },
     {
-      "id": "cloudflare-details-its-migration-from-wordpress-to-emdash",
-      "title": "Cloudflare Details Its Migration from WordPress to EmDash",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/cloudflare-emdash-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-26T09:38:00.000Z",
-      "summaryShort": "Cloudflare Details Its Migration from WordPress to EmDash. Cloudflare recently documented the migration of its main blog from WordPress to EmDash, the open source content management system developed internally.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "home-made-cobbledb-replaces-dynamodb-at-perplexity-to-cut-query-",
-      "title": "Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud Storage",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/cobbledb-perplexity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-25T14:14:00.000Z",
-      "summaryShort": "Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud Storage. Perplexity has migrated its search infrastructure from Amazon DynamoDB to CobbleDB, an internally developed key-value store in Rust.",
-      "tags": [
-        "Databases",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "stateless-mcp-removes-session-affinity-requirements-for-aws-serv",
-      "title": "Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/aws-stateless-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-25T12:58:00.000Z",
-      "summaryShort": "Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments. AWS details how the latest Model Context Protocol specification removes protocol-level sessions, sticky-session requirements, and session storage for remote MCP",
-      "tags": [
-        "AI",
-        "Databases"
-      ]
-    },
-    {
-      "id": "pnoe-s-new-face-mask-wants-to-make-lab-grade-breath-testing-a-se",
-      "title": "PNOE's new face mask wants to make lab-grade breath testing a self-serve affair",
+      "id": "anthropic-s-dario-amodei-gets-the-snl-treatment",
+      "title": "Anthropic's Dario Amodei gets the SNL treatment",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-      "publishedAt": "2026-09-27T01:40:30.000Z",
-      "summaryShort": "PNOE's new face mask wants to make lab-grade breath testing a self-serve affair. PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version ",
+      "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "publishedAt": "2026-09-27T16:30:00.000Z",
+      "summaryShort": "Anthropic's Dario Amodei gets the SNL treatment. \"AI is the devil and I its maker.\"",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "techcrunch-mobility-av-companies-pick-their-lanes",
+      "title": "TechCrunch Mobility: AV companies pick their lanes",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "publishedAt": "2026-09-27T16:02:00.000Z",
+      "summaryShort": "TechCrunch Mobility: AV companies pick their lanes. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "sennheiser-momentum-5-review-great-sound-incredible-battery-life",
+      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "publishedAt": "2026-09-27T15:00:00.000Z",
+      "summaryShort": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises. I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and nois",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "google-tests-buying-from-walmart-owned-flipkart-through-gemini-a",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "publishedAt": "2026-09-27T01:30:00.000Z",
-      "summaryShort": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India. The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "insurers-claim-ai-is-already-increasing-healthcare-costs",
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "publishedAt": "2026-09-26T21:02:06.000Z",
-      "summaryShort": "Insurers claim AI is already increasing healthcare costs. Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "tags": [
-        "AI"
       ]
     }
   ]
