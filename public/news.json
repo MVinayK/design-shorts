@@ -1,93 +1,91 @@
 {
-  "generatedAt": "2026-09-28T04:41:22.231Z",
+  "generatedAt": "2026-09-28T19:28:03.926Z",
   "items": [
     {
-      "id": "java-news-roundup-tornadovm-7-0-groovy-6-0-graalvm-hibernate-qua",
-      "title": "Java News Roundup: TornadoVM 7.0, Groovy 6.0, GraalVM, Hibernate, Quarkus, Gradle, Maven",
+      "id": "artifactory-vulnerabilities-under-active-exploitation-enable-aut",
+      "title": "Artifactory Vulnerabilities Under Active Exploitation Enable Authentication Bypass and Admin Access",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/java-news-roundup-sep21-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-28T02:30:00.000Z",
-      "summaryShort": "Java News Roundup: TornadoVM 7.0, Groovy 6.0, GraalVM, Hibernate, Quarkus, Gradle, Maven. This week's Java roundup for September 21st, 2026, features news highlighting: GA releases of TornadoVM 7.0 and Groovy 6.0; point releases of GraalVM ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/artifactory-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-28T19:00:00.000Z",
+      "summaryShort": "Artifactory Vulnerabilities Under Active Exploitation Enable Authentication Bypass and Admin Access. Three Artifactory vulnerabilities under active exploitation enable authentication bypassing on Internet-accessible, self-hosted deployments",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "google-rewrites-critical-c-dependencies-to-rust-using-ai-and-dif",
-      "title": "Google Rewrites Critical C Dependencies to Rust Using AI and Differential Fuzzing",
+      "id": "radicle-discloses-critical-flaws-exposing-private-repositories-i",
+      "title": "Radicle Discloses Critical Flaws Exposing Private Repositories in Plain Text",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/c-rust-rewrite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-27T14:14:00.000Z",
-      "summaryShort": "Google Rewrites Critical C Dependencies to Rust Using AI and Differential Fuzzing. Google's security team developed a method to replace legacy C code in the giflib image-processing library with Rust, targeting inherent memory vulnerabilitie",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/radicle-network-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-28T14:14:00.000Z",
+      "summaryShort": "Radicle Discloses Critical Flaws Exposing Private Repositories in Plain Text. Radicle has identified two critical security vulnerabilities in its wire protocol, compromising confidentiality across all node releases.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "meta-s-zgateway-cuts-zippydb-connections-19x-while-handling-1b-o",
+      "title": "Meta’s ZGateway Cuts ZippyDB Connections 19x While Handling 1B+ Operations per Second",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/meta-zgateway-zippydb-proxy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-28T13:55:00.000Z",
+      "summaryShort": "Meta’s ZGateway Cuts ZippyDB Connections 19x While Handling 1B+ Operations per Second. Meta has introduced ZGateway, a stateless proxy for ZippyDB that centralizes connection management, traffic routing, caching, load balancing, and admissi",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "swift-6-4-brings-subprocess-1-0-improved-interoperability-faster",
-      "title": "Swift 6.4 Brings Subprocess 1.0, Improved Interoperability, Faster Wasm, and More",
+      "id": "article-five-ways-to-use-ai-coding-agents-to-improve-your-softwa",
+      "title": "Article: Five Ways To Use AI Coding Agents to Improve Your Software Architecture",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/swift-6-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-27T14:00:00.000Z",
-      "summaryShort": "Swift 6.4 Brings Subprocess 1.0, Improved Interoperability, Faster Wasm, and More. The latest release of Swift, Swift 6.4, introduces a range of language and tooling improvements, including better performance through expanded support for no",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "gke-pod-snapshots-cut-model-load-times-and-move-the-work-to-snap",
-      "title": "GKE Pod Snapshots Cut Model Load Times, and Move the Work to Snapshot Lifecycle Management",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/gke-pod-snapshots-benchmarks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-27T06:46:00.000Z",
-      "summaryShort": "GKE Pod Snapshots Cut Model Load Times, and Move the Work to Snapshot Lifecycle Management. Google has published benchmarks for GKE Pod snapshots, reporting up to 89% lower startup latency and a 70B model loading in 37 seconds.",
+      "sourceUrl": "https://www.infoq.com/articles/ai-agents-improve-software-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-28T11:00:00.000Z",
+      "summaryShort": "Article: Five Ways To Use AI Coding Agents to Improve Your Software Architecture. Modern architectures often use legacy services for specific tasks, but these services may lack accurate documentation and using them can be risky if you don't",
       "tags": [
         "AI",
-        "Databases",
-        "Cloud"
+        "Architecture"
       ]
     },
     {
-      "id": "docker-cloud-sandboxes-provide-a-consistent-sandbox-abstraction-",
-      "title": "Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction across Laptop and Cloud",
+      "id": "podcast-the-ai-revolution-fails-without-psychological-safety-for",
+      "title": "Podcast: The AI Revolution Fails Without Psychological Safety For Developers: A Conversation with Erin Doyle",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/docker-cloud-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-26T17:00:00.000Z",
-      "summaryShort": "Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction across Laptop and Cloud. Docker Cloud Sandboxes provide secure, hosted execution environments for running AI coding agents on Docker-managed infrastructure.",
+      "sourceUrl": "https://www.infoq.com/podcasts/ai-revolution-psychological-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-28T11:00:00.000Z",
+      "summaryShort": "Podcast: The AI Revolution Fails Without Psychological Safety For Developers: A Conversation with Erin Doyle. In this podcast, Michael Stiefel spoke to Erin Doyle about how artificial intelligence tools are transforming the software develop",
       "tags": [
-        "AI",
-        "Cloud"
+        "AI"
       ]
     },
     {
-      "id": "truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-loo",
-      "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+      "id": "tesla-delays-roadster-2-event-again-due-to-bad-weather",
+      "title": "Tesla delays Roadster 2 event again due to bad weather",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
-      "publishedAt": "2026-09-28T04:30:00.000Z",
-      "summaryShort": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID. Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "anthropic-s-ceo-is-about-to-have-dinner-with-president-trump",
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "publishedAt": "2026-09-27T20:34:28.000Z",
-      "summaryShort": "Anthropic’s CEO is about to have dinner with President Trump. This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "sourceUrl": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+      "publishedAt": "2026-09-28T19:27:27.000Z",
+      "summaryShort": "Tesla delays Roadster 2 event again due to bad weather. Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "can-muse-overcome-meta-s-trust-issues",
-      "title": "Can Muse overcome Meta’s trust issues?",
+      "id": "the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-abo",
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "publishedAt": "2026-09-27T19:57:30.000Z",
-      "summaryShort": "Can Muse overcome Meta’s trust issues?. On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "sourceUrl": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "publishedAt": "2026-09-28T19:21:59.000Z",
+      "summaryShort": "The AI boom took over Climate Week and not everyone is happy about it. Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "publishedAt": "2026-09-28T18:31:23.000Z",
+      "summaryShort": "Nvidia launches new platform for reining in rogue AI agents. As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem.",
       "tags": [
         "AI"
       ]
