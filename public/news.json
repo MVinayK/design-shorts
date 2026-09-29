@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T19:28:03.926Z",
+  "generatedAt": "2026-09-29T05:08:03.276Z",
   "items": [
     {
       "id": "artifactory-vulnerabilities-under-active-exploitation-enable-aut",
@@ -58,36 +58,36 @@
       ]
     },
     {
-      "id": "tesla-delays-roadster-2-event-again-due-to-bad-weather",
-      "title": "Tesla delays Roadster 2 event again due to bad weather",
+      "id": "peak-xv-ups-surge-seed-investment-ceiling-to-5m-unveils-18-start",
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
-      "publishedAt": "2026-09-28T19:27:27.000Z",
-      "summaryShort": "Tesla delays Roadster 2 event again due to bad weather. Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
+      "sourceUrl": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "publishedAt": "2026-09-29T00:30:00.000Z",
+      "summaryShort": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort. Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-abo",
-      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "id": "openai-reportedly-ditches-model-over-safety-concerns",
+      "title": "OpenAI reportedly ditches model over safety concerns",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-      "publishedAt": "2026-09-28T19:21:59.000Z",
-      "summaryShort": "The AI boom took over Climate Week and not everyone is happy about it. Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
+      "sourceUrl": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "publishedAt": "2026-09-28T23:39:20.000Z",
+      "summaryShort": "OpenAI reportedly ditches model over safety concerns. A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "id": "aurora-cfo-says-30-000-driverless-trucks-by-2030-isn-t-as-far-fe",
+      "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn't as far-fetched as it sounds",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "publishedAt": "2026-09-28T18:31:23.000Z",
-      "summaryShort": "Nvidia launches new platform for reining in rogue AI agents. As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem.",
+      "sourceUrl": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+      "publishedAt": "2026-09-28T22:58:35.000Z",
+      "summaryShort": "Aurora CFO says 30,000 driverless trucks by 2030 isn't as far-fetched as it sounds. Self-driving truck company Aurora laid out an audacious plan for 2030.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
