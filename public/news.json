@@ -1,93 +1,94 @@
 {
-  "generatedAt": "2026-09-29T05:08:03.276Z",
+  "generatedAt": "2026-09-29T17:54:46.027Z",
   "items": [
     {
-      "id": "artifactory-vulnerabilities-under-active-exploitation-enable-aut",
-      "title": "Artifactory Vulnerabilities Under Active Exploitation Enable Authentication Bypass and Admin Access",
+      "id": "cloudflare-adds-configurable-http-vary-header-support-to-prevent",
+      "title": "Cloudflare Adds Configurable HTTP Vary Header Support to Prevent Cache Thrashing",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/artifactory-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-28T19:00:00.000Z",
-      "summaryShort": "Artifactory Vulnerabilities Under Active Exploitation Enable Authentication Bypass and Admin Access. Three Artifactory vulnerabilities under active exploitation enable authentication bypassing on Internet-accessible, self-hosted deployments",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/cloudflare-http-vary/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-29T14:14:00.000Z",
+      "summaryShort": "Cloudflare Adds Configurable HTTP Vary Header Support to Prevent Cache Thrashing. Cloudflare has implemented native support for the HTTP Vary header across its edge network, enhancing cache management for all customer plans.",
       "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "radicle-discloses-critical-flaws-exposing-private-repositories-i",
-      "title": "Radicle Discloses Critical Flaws Exposing Private Repositories in Plain Text",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/radicle-network-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-28T14:14:00.000Z",
-      "summaryShort": "Radicle Discloses Critical Flaws Exposing Private Repositories in Plain Text. Radicle has identified two critical security vulnerabilities in its wire protocol, compromising confidentiality across all node releases.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "meta-s-zgateway-cuts-zippydb-connections-19x-while-handling-1b-o",
-      "title": "Meta’s ZGateway Cuts ZippyDB Connections 19x While Handling 1B+ Operations per Second",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/meta-zgateway-zippydb-proxy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-28T13:55:00.000Z",
-      "summaryShort": "Meta’s ZGateway Cuts ZippyDB Connections 19x While Handling 1B+ Operations per Second. Meta has introduced ZGateway, a stateless proxy for ZippyDB that centralizes connection management, traffic routing, caching, load balancing, and admissi",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "article-five-ways-to-use-ai-coding-agents-to-improve-your-softwa",
-      "title": "Article: Five Ways To Use AI Coding Agents to Improve Your Software Architecture",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/ai-agents-improve-software-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-28T11:00:00.000Z",
-      "summaryShort": "Article: Five Ways To Use AI Coding Agents to Improve Your Software Architecture. Modern architectures often use legacy services for specific tasks, but these services may lack accurate documentation and using them can be risky if you don't",
-      "tags": [
-        "AI",
+        "Cloud",
         "Architecture"
       ]
     },
     {
-      "id": "podcast-the-ai-revolution-fails-without-psychological-safety-for",
-      "title": "Podcast: The AI Revolution Fails Without Psychological Safety For Developers: A Conversation with Erin Doyle",
+      "id": "kubernetes-teams-get-a-safer-way-to-see-their-own-gpu-metrics",
+      "title": "Kubernetes Teams Get a Safer Way to See Their Own GPU Metrics",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/ai-revolution-psychological-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-28T11:00:00.000Z",
-      "summaryShort": "Podcast: The AI Revolution Fails Without Psychological Safety For Developers: A Conversation with Erin Doyle. In this podcast, Michael Stiefel spoke to Erin Doyle about how artificial intelligence tools are transforming the software develop",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "peak-xv-ups-surge-seed-investment-ceiling-to-5m-unveils-18-start",
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "publishedAt": "2026-09-29T00:30:00.000Z",
-      "summaryShort": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort. Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/kubernetes-gpu-metrics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-29T12:00:00.000Z",
+      "summaryShort": "Kubernetes Teams Get a Safer Way to See Their Own GPU Metrics. Adobe engineers have described an open-source approach for giving teams self-service access to their own Prometheus metrics in multi-tenant Kubernetes environments, without expo",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "openai-reportedly-ditches-model-over-safety-concerns",
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "publishedAt": "2026-09-28T23:39:20.000Z",
-      "summaryShort": "OpenAI reportedly ditches model over safety concerns. A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "id": "spring-news-roundup-second-milestone-releases-of-boot-framework-",
+      "title": "Spring News Roundup: Second Milestone Releases of Boot, Framework, Data, Security, Integration",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/spring-news-roundup-sep21-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-29T12:00:00.000Z",
+      "summaryShort": "Spring News Roundup: Second Milestone Releases of Boot, Framework, Data, Security, Integration. There was a flurry of activity during the week of September 21st, 2026, highlighting: second milestone releases of: Spring Boot, Spring Batch, S",
       "tags": [
-        "AI"
+        "AI",
+        "Cloud"
       ]
     },
     {
-      "id": "aurora-cfo-says-30-000-driverless-trucks-by-2030-isn-t-as-far-fe",
-      "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn't as far-fetched as it sounds",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
-      "publishedAt": "2026-09-28T22:58:35.000Z",
-      "summaryShort": "Aurora CFO says 30,000 driverless trucks by 2030 isn't as far-fetched as it sounds. Self-driving truck company Aurora laid out an audacious plan for 2030.",
+      "id": "presentation-from-staff-platform-engineer-to-a-16z-founder-what-",
+      "title": "Presentation: From Staff Platform Engineer to a 16z Founder: What I Wish I'd Known",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/staff-founder-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-29T09:14:00.000Z",
+      "summaryShort": "Presentation: From Staff Platform Engineer to a 16z Founder: What I Wish I'd Known. Gonzalo Maldonado explains how technical leaders can translate engineering skills into startup success using his \"VC Abstraction Layer Knowledge\" (VALK).",
+      "tags": [
+        "Architecture"
+      ]
+    },
+    {
+      "id": "atlassian-rebuilds-metrics-pipeline-around-opentelemetry-at-mass",
+      "title": "Atlassian Rebuilds Metrics Pipeline Around OpenTelemetry at Massive Scale",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/atlassian-opentelemetry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-29T09:00:00.000Z",
+      "summaryShort": "Atlassian Rebuilds Metrics Pipeline Around OpenTelemetry at Massive Scale. Software company Atlassian has published an account of its migration from gostatsd to OpenTelemetry, replacing the internal workings of a metrics platform that recei",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "publishedAt": "2026-09-29T17:45:51.000Z",
+      "summaryShort": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite. OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-",
+      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
+      "publishedAt": "2026-09-29T17:27:09.000Z",
+      "summaryShort": "Dutch police arrest ShinyHunters hacker accused of planning two murders. Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ai-powered-app-maker-wabi-pivots-to-a-messaging-experience",
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "publishedAt": "2026-09-29T17:20:00.000Z",
+      "summaryShort": "AI-powered app maker Wabi pivots to a messaging experience. Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "tags": [
+        "AI"
       ]
     }
   ]
