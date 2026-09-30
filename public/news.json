@@ -1,93 +1,92 @@
 {
-  "generatedAt": "2026-09-30T04:55:26.305Z",
+  "generatedAt": "2026-09-30T17:50:08.937Z",
   "items": [
     {
-      "id": "amazon-cloudwatch-omni-extends-cloudwatch-into-the-agent-era",
-      "title": "Amazon CloudWatch Omni Extends CloudWatch into the Agent Era",
+      "id": "infoq-online-cohorts-address-ai-security-and-coding-agent-verifi",
+      "title": "InfoQ Online Cohorts Address AI Security and Coding Agent Verification",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/aws-cloudwatchomni-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-29T19:00:00.000Z",
-      "summaryShort": "Amazon CloudWatch Omni Extends CloudWatch into the Agent Era. Recently launched, Amazon CloudWatch Omni is an AI-first observability platform designed to monitor, evaluate, and troubleshoot applications and autonomous AI agents in a unified",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/onlinecohorts-ai-certifications/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-30T17:00:00.000Z",
+      "summaryShort": "InfoQ Online Cohorts Address AI Security and Coding Agent Verification. A look at two InfoQ online certification cohorts covering security and privacy decisions in production AI systems and the verification needed when coding agents work in",
       "tags": [
-        "AI",
-        "Cloud"
+        "AI"
       ]
     },
     {
-      "id": "cloudflare-adds-configurable-http-vary-header-support-to-prevent",
-      "title": "Cloudflare Adds Configurable HTTP Vary Header Support to Prevent Cache Thrashing",
+      "id": "cursor-uses-s3-wal-to-scale-git-storage-to-more-than-300-pushes-",
+      "title": "Cursor Uses S3 WAL to Scale Git Storage to More than 300 Pushes per Second",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/cloudflare-http-vary/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-29T14:14:00.000Z",
-      "summaryShort": "Cloudflare Adds Configurable HTTP Vary Header Support to Prevent Cache Thrashing. Cloudflare has implemented native support for the HTTP Vary header across its edge network, enhancing cache management for all customer plans.",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/cursor-continuity-git-storage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-30T13:47:00.000Z",
+      "summaryShort": "Cursor Uses S3 WAL to Scale Git Storage to More than 300 Pushes per Second. Cursor has introduced Continuity, a Git storage architecture that uses an S3 backed write ahead log as the source of truth.",
       "tags": [
-        "Cloud",
+        "Databases",
         "Architecture"
       ]
     },
     {
-      "id": "kubernetes-teams-get-a-safer-way-to-see-their-own-gpu-metrics",
-      "title": "Kubernetes Teams Get a Safer Way to See Their Own GPU Metrics",
+      "id": "presentation-context-is-the-new-code",
+      "title": "Presentation: Context Is the New Code",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/kubernetes-gpu-metrics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-29T12:00:00.000Z",
-      "summaryShort": "Kubernetes Teams Get a Safer Way to See Their Own GPU Metrics. Adobe engineers have described an open-source approach for giving teams self-service access to their own Prometheus metrics in multi-tenant Kubernetes environments, without expo",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "spring-news-roundup-second-milestone-releases-of-boot-framework-",
-      "title": "Spring News Roundup: Second Milestone Releases of Boot, Framework, Data, Security, Integration",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/spring-news-roundup-sep21-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-29T12:00:00.000Z",
-      "summaryShort": "Spring News Roundup: Second Milestone Releases of Boot, Framework, Data, Security, Integration. There was a flurry of activity during the week of September 21st, 2026, highlighting: second milestone releases of: Spring Boot, Spring Batch, S",
+      "sourceUrl": "https://www.infoq.com/presentations/context-as-code-devops-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-30T11:00:00.000Z",
+      "summaryShort": "Presentation: Context Is the New Code. Patrick Debois discusses how to manage, evaluate, distribute, and observe context using proven software engineering practices.",
       "tags": [
         "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-from-staff-platform-engineer-to-a-16z-founder-what-",
-      "title": "Presentation: From Staff Platform Engineer to a 16z Founder: What I Wish I'd Known",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/staff-founder-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-29T09:14:00.000Z",
-      "summaryShort": "Presentation: From Staff Platform Engineer to a 16z Founder: What I Wish I'd Known. Gonzalo Maldonado explains how technical leaders can translate engineering skills into startup success using his \"VC Abstraction Layer Knowledge\" (VALK).",
-      "tags": [
         "Architecture"
       ]
     },
     {
-      "id": "apple-pay-finally-launches-in-india-after-years-on-the-sidelines",
-      "title": "Apple Pay finally launches in India after years on the sidelines",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-      "publishedAt": "2026-09-30T04:08:00.000Z",
-      "summaryShort": "Apple Pay finally launches in India after years on the sidelines. Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "id": "agents-refactor-300k-lines-in-three-weeks-and-practitioners-ask-",
+      "title": "Agents Refactor 300K Lines in Three Weeks, and Practitioners Ask What It Proves",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/agentic-refactoring-case-study/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-30T06:16:00.000Z",
+      "summaryShort": "Agents Refactor 300K Lines in Three Weeks, and Practitioners Ask What It Proves. CodeScene has published a case study in which coding agents refactored 300,000 lines of C over three weeks for roughly $4,000 in tokens, verified by a frame-by",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "america-gov-gets-really-weird-when-you-ask-it-about-minecraft-bu",
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it's not a glitch",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-      "publishedAt": "2026-09-29T23:30:55.000Z",
-      "summaryShort": "America.gov gets really weird when you ask it about Minecraft, but it's not a glitch. For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "id": "sveltekit-3-reaches-release-candidate-moving-config-to-vite-and-",
+      "title": "SvelteKit 3 Reaches Release Candidate, Moving Config to Vite and Retiring the $lib Alias",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/sveltekit-3-vite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-30T05:58:00.000Z",
+      "summaryShort": "SvelteKit 3 Reaches Release Candidate, Moving Config to Vite and Retiring the $lib Alias. The Svelte team has entered the release candidate phase for SvelteKit 3, which focuses on code refinement and prepares for future updates.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "the-internet-is-convinced-elon-musk-s-xai-trolled-openai-s-8216-",
-      "title": "The internet is convinced Elon Musk's xAI trolled OpenAI's &#8216;Dots' launch",
+      "id": "reddit-is-killing-rss-feeds-and-ending-public-api-access-because",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "publishedAt": "2026-09-29T22:20:59.000Z",
-      "summaryShort": "The internet is convinced Elon Musk's xAI trolled OpenAI's &#8216;Dots' launch. Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatb",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "publishedAt": "2026-09-30T17:45:00.000Z",
+      "summaryShort": "Reddit is killing RSS feeds and ending public API access because of AI bots. Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "the-ugly-economics-of-consumer-ai",
+      "title": "The ugly economics of consumer AI",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "publishedAt": "2026-09-30T17:24:45.000Z",
+      "summaryShort": "The ugly economics of consumer AI. There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "meta-disputes-claim-that-muse-read-a-user-s-private-messages-wit",
+      "title": "Meta disputes claim that Muse read a user's private messages without permission",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "publishedAt": "2026-09-30T16:24:23.000Z",
+      "summaryShort": "Meta disputes claim that Muse read a user's private messages without permission. Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messa",
       "tags": [
         "AI"
       ]
