@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-09-29T17:54:46.027Z",
+  "generatedAt": "2026-09-30T04:55:26.305Z",
   "items": [
+    {
+      "id": "amazon-cloudwatch-omni-extends-cloudwatch-into-the-agent-era",
+      "title": "Amazon CloudWatch Omni Extends CloudWatch into the Agent Era",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/09/aws-cloudwatchomni-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-09-29T19:00:00.000Z",
+      "summaryShort": "Amazon CloudWatch Omni Extends CloudWatch into the Agent Era. Recently launched, Amazon CloudWatch Omni is an AI-first observability platform designed to monitor, evaluate, and troubleshoot applications and autonomous AI agents in a unified",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "cloudflare-adds-configurable-http-vary-header-support-to-prevent",
       "title": "Cloudflare Adds Configurable HTTP Vary Header Support to Prevent Cache Thrashing",
@@ -48,45 +60,34 @@
       ]
     },
     {
-      "id": "atlassian-rebuilds-metrics-pipeline-around-opentelemetry-at-mass",
-      "title": "Atlassian Rebuilds Metrics Pipeline Around OpenTelemetry at Massive Scale",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/atlassian-opentelemetry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-29T09:00:00.000Z",
-      "summaryShort": "Atlassian Rebuilds Metrics Pipeline Around OpenTelemetry at Massive Scale. Software company Atlassian has published an account of its migration from gostatsd to OpenTelemetry, replacing the internal workings of a metrics platform that recei",
+      "id": "apple-pay-finally-launches-in-india-after-years-on-the-sidelines",
+      "title": "Apple Pay finally launches in India after years on the sidelines",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "publishedAt": "2026-09-30T04:08:00.000Z",
+      "summaryShort": "Apple Pay finally launches in India after years on the sidelines. Some of India's largest banks are holding off on supporting Apple Pay initially.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-",
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite",
+      "id": "america-gov-gets-really-weird-when-you-ask-it-about-minecraft-bu",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it's not a glitch",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "publishedAt": "2026-09-29T17:45:51.000Z",
-      "summaryShort": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite. OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "publishedAt": "2026-09-29T23:30:55.000Z",
+      "summaryShort": "America.gov gets really weird when you ask it about Minecraft, but it's not a glitch. For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-",
-      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+      "id": "the-internet-is-convinced-elon-musk-s-xai-trolled-openai-s-8216-",
+      "title": "The internet is convinced Elon Musk's xAI trolled OpenAI's &#8216;Dots' launch",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
-      "publishedAt": "2026-09-29T17:27:09.000Z",
-      "summaryShort": "Dutch police arrest ShinyHunters hacker accused of planning two murders. Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "ai-powered-app-maker-wabi-pivots-to-a-messaging-experience",
-      "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-      "publishedAt": "2026-09-29T17:20:00.000Z",
-      "summaryShort": "AI-powered app maker Wabi pivots to a messaging experience. Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "publishedAt": "2026-09-29T22:20:59.000Z",
+      "summaryShort": "The internet is convinced Elon Musk's xAI trolled OpenAI's &#8216;Dots' launch. Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatb",
       "tags": [
         "AI"
       ]
