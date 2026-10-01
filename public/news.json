@@ -1,94 +1,92 @@
 {
-  "generatedAt": "2026-10-01T05:08:37.760Z",
+  "generatedAt": "2026-10-01T18:15:49.701Z",
   "items": [
     {
-      "id": "infoq-online-cohorts-address-ai-security-and-coding-agent-verifi",
-      "title": "InfoQ Online Cohorts Address AI Security and Coding Agent Verification",
+      "id": "qualcomm-unveils-linux-preview-on-snapdragon-x2-to-accelerate-up",
+      "title": "Qualcomm Unveils Linux Preview on Snapdragon X2 to Accelerate Upstream ARM Laptops",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/onlinecohorts-ai-certifications/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-30T17:00:00.000Z",
-      "summaryShort": "InfoQ Online Cohorts Address AI Security and Coding Agent Verification. A look at two InfoQ online certification cohorts covering security and privacy decisions in production AI systems and the verification needed when coding agents work in",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "cursor-uses-s3-wal-to-scale-git-storage-to-more-than-300-pushes-",
-      "title": "Cursor Uses S3 WAL to Scale Git Storage to More than 300 Pushes per Second",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/cursor-continuity-git-storage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-30T13:47:00.000Z",
-      "summaryShort": "Cursor Uses S3 WAL to Scale Git Storage to More than 300 Pushes per Second. Cursor has introduced Continuity, a Git storage architecture that uses an S3 backed write ahead log as the source of truth.",
-      "tags": [
-        "Databases",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "presentation-context-is-the-new-code",
-      "title": "Presentation: Context Is the New Code",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/context-as-code-devops-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-30T11:00:00.000Z",
-      "summaryShort": "Presentation: Context Is the New Code. Patrick Debois discusses how to manage, evaluate, distribute, and observe context using proven software engineering practices.",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "agents-refactor-300k-lines-in-three-weeks-and-practitioners-ask-",
-      "title": "Agents Refactor 300K Lines in Three Weeks, and Practitioners Ask What It Proves",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/agentic-refactoring-case-study/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-30T06:16:00.000Z",
-      "summaryShort": "Agents Refactor 300K Lines in Three Weeks, and Practitioners Ask What It Proves. CodeScene has published a case study in which coding agents refactored 300,000 lines of C over three weeks for roughly $4,000 in tokens, verified by a frame-by",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/snapdragon-x2-linux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-01T14:14:00.000Z",
+      "summaryShort": "Qualcomm Unveils Linux Preview on Snapdragon X2 to Accelerate Upstream ARM Laptops. Qualcomm has released an early dev preview of Linux for its upcoming Snapdragon X2 Series laptop processors.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "sveltekit-3-reaches-release-candidate-moving-config-to-vite-and-",
-      "title": "SvelteKit 3 Reaches Release Candidate, Moving Config to Vite and Retiring the $lib Alias",
+      "id": "presentation-beyond-observability-evolving-production-operations",
+      "title": "Presentation: Beyond Observability: Evolving Production Operations in the Age of AI",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/09/sveltekit-3-vite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-09-30T05:58:00.000Z",
-      "summaryShort": "SvelteKit 3 Reaches Release Candidate, Moving Config to Vite and Retiring the $lib Alias. The Svelte team has entered the release candidate phase for SvelteKit 3, which focuses on code refinement and prepares for future updates.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "google-releases-gemini-4-argon-called-its-most-powerful-model-ye",
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "publishedAt": "2026-09-30T23:43:07.000Z",
-      "summaryShort": "Google releases Gemini 4 Argon, called its most powerful model yet. Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-production-operations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-01T12:30:00.000Z",
+      "summaryShort": "Presentation: Beyond Observability: Evolving Production Operations in the Age of AI. The panelists discuss how production operations are evolving with AI, turning operational data into actionable insights for incident response.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-wha",
-      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+      "id": "how-to-develop-software-engineering-skills-in-the-age-of-ai",
+      "title": "How to Develop Software Engineering Skills in the Age of AI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/software-engineering-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-01T11:47:00.000Z",
+      "summaryShort": "How to Develop Software Engineering Skills in the Age of AI. Software engineering skill development requires slowing down.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-keeping-the-mainline-green-across-diverse-language-",
+      "title": "Presentation: Keeping the Mainline Green Across Diverse Language Monorepos",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/mergequeue/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-01T09:33:00.000Z",
+      "summaryShort": "Presentation: Keeping the Mainline Green Across Diverse Language Monorepos. Dhruva Juloori discusses how Uber maintains green mainlines across massive monorepos handling 65,000+ monthly changes.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "article-high-availability-is-not-resilience-why-cloud-systems-fa",
+      "title": "Article: High Availability Is Not Resilience: Why Cloud Systems Fail When It Matters Most",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/high-availability-not-resilience-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-01T09:00:00.000Z",
+      "summaryShort": "Article: High Availability Is Not Resilience: Why Cloud Systems Fail When It Matters Most. A routine TLS 1.3 upgrade silently broke Route 53 health checks, causing a CDN to stop routing traffic to a healthy region while internal dashboards ",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "openai-cuts-ties-with-three-safety-researchers-wsj-reports",
+      "title": "OpenAI cuts ties with three safety researchers, WSJ reports",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
-      "publishedAt": "2026-09-30T23:08:00.000Z",
-      "summaryShort": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next. Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and wh",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "publishedAt": "2026-10-01T18:14:42.000Z",
+      "summaryShort": "OpenAI cuts ties with three safety researchers, WSJ reports. OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-7",
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "id": "opus-5-5-loves-to-tell-you-8216-this-matters-and-other-ai-writin",
+      "title": "Opus 5.5 loves to tell you &#8216;this matters' (and other AI writing tells)",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "publishedAt": "2026-09-30T21:07:40.000Z",
-      "summaryShort": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation. Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "publishedAt": "2026-10-01T17:50:19.000Z",
+      "summaryShort": "Opus 5.5 loves to tell you &#8216;this matters' (and other AI writing tells). Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "this-startup-wants-to-turn-idle-user-car-inventory-into-rental-r",
+      "title": "This startup wants to turn idle user car inventory into rental revenue",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/",
+      "publishedAt": "2026-10-01T17:09:00.000Z",
+      "summaryShort": "This startup wants to turn idle user car inventory into rental revenue. When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating, while people who only n",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
