@@ -1,90 +1,90 @@
 {
-  "generatedAt": "2026-10-02T04:57:41.251Z",
+  "generatedAt": "2026-10-02T17:41:17.603Z",
   "items": [
     {
-      "id": "qualcomm-unveils-linux-preview-on-snapdragon-x2-to-accelerate-up",
-      "title": "Qualcomm Unveils Linux Preview on Snapdragon X2 to Accelerate Upstream ARM Laptops",
+      "id": "uber-eats-rebuilds-search-pipeline-to-cut-end-to-end-latency-by-",
+      "title": "Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/snapdragon-x2-linux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-01T14:14:00.000Z",
-      "summaryShort": "Qualcomm Unveils Linux Preview on Snapdragon X2 to Accelerate Upstream ARM Laptops. Qualcomm has released an early dev preview of Linux for its upcoming Snapdragon X2 Series laptop processors.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-beyond-observability-evolving-production-operations",
-      "title": "Presentation: Beyond Observability: Evolving Production Operations in the Age of AI",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-production-operations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-01T12:30:00.000Z",
-      "summaryShort": "Presentation: Beyond Observability: Evolving Production Operations in the Age of AI. The panelists discuss how production operations are evolving with AI, turning operational data into actionable insights for incident response.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "how-to-develop-software-engineering-skills-in-the-age-of-ai",
-      "title": "How to Develop Software Engineering Skills in the Age of AI",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/software-engineering-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-01T11:47:00.000Z",
-      "summaryShort": "How to Develop Software Engineering Skills in the Age of AI. Software engineering skill development requires slowing down.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-keeping-the-mainline-green-across-diverse-language-",
-      "title": "Presentation: Keeping the Mainline Green Across Diverse Language Monorepos",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/mergequeue/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-01T09:33:00.000Z",
-      "summaryShort": "Presentation: Keeping the Mainline Green Across Diverse Language Monorepos. Dhruva Juloori discusses how Uber maintains green mainlines across massive monorepos handling 65,000+ monthly changes.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "article-high-availability-is-not-resilience-why-cloud-systems-fa",
-      "title": "Article: High Availability Is Not Resilience: Why Cloud Systems Fail When It Matters Most",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/high-availability-not-resilience-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-01T09:00:00.000Z",
-      "summaryShort": "Article: High Availability Is Not Resilience: Why Cloud Systems Fail When It Matters Most. A routine TLS 1.3 upgrade silently broke Route 53 health checks, causing a CDN to stop routing traffic to a healthy region while internal dashboards ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/uber-eats-search-latency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-02T14:22:00.000Z",
+      "summaryShort": "Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%. Uber has rebuilt major parts of the Uber Eats search pipeline, reporting a 50% reduction in end-to-end latency.",
       "tags": [
         "Cloud"
       ]
     },
     {
-      "id": "robotaxi-operators-will-face-fines-for-blocking-first-responders",
-      "title": "Robotaxi operators will face fines for blocking first responders",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-      "publishedAt": "2026-10-02T00:57:57.000Z",
-      "summaryShort": "Robotaxi operators will face fines for blocking first responders. A new California law places new rules on autonomous vehicles operators",
+      "id": "envoy-gateway-1-9-1-tightens-security-and-addresses-a-difficult-",
+      "title": "Envoy Gateway 1.9.1 Tightens Security and Addresses a Difficult Upgrade Path",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/envoy-gateway-1-9-1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-02T12:00:00.000Z",
+      "summaryShort": "Envoy Gateway 1.9.1 Tightens Security and Addresses a Difficult Upgrade Path. Envoy Gateway has released v1.9.1, a maintenance release that focuses heavily on security, upgrade reliability, and operational correctness following the broader ",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "the-founder-s-guide-to-techcrunch-disrupt-2026-everything-you-ne",
-      "title": "The founder's guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "publishedAt": "2026-10-02T00:03:23.000Z",
-      "summaryShort": "The founder's guide to TechCrunch Disrupt 2026: Everything you need to know. TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era?",
+      "id": "presentation-managing-asynchronous-apis-at-scale",
+      "title": "Presentation: Managing Asynchronous APIs at Scale",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/managing-async-apis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-02T11:00:00.000Z",
+      "summaryShort": "Presentation: Managing Asynchronous APIs at Scale. Ian Cooper discusses managing asynchronous APIs in event-driven architectures at scale.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "openai-devday-2026-recap-for-developers",
+      "title": "OpenAI DevDay 2026 Recap for Developers",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/openai-devday-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-02T10:39:00.000Z",
+      "summaryShort": "OpenAI DevDay 2026 Recap for Developers. OpenAI announced a series of product and developer updates at DevDay 2026, including GPT-6.1 Sol, computer use for the Agents API, cloud-based Codex environments, a Decisions API, and new plugin capa",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "engineering-production-systems-for-an-agentic-era-qcon-san-franc",
+      "title": "Engineering Production Systems for an Agentic Era: QCon San Francisco 2026",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/qconsf-2026-sessions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-02T10:00:00.000Z",
+      "summaryShort": "Engineering Production Systems for an Agentic Era: QCon San Francisco 2026. QCon San Francisco 2026 will bring together practitioners from Airbnb, OpenAI, Netflix, Honeycomb, and other engineering organizations to share how they are buildin",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-d",
-      "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+      "id": "techcrunch-disrupt-2026-blackstone-s-jas-khaira-on-building-the-",
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
-      "publishedAt": "2026-10-01T21:57:08.000Z",
-      "summaryShort": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers. Today, gig economy drivers are classified as contractors.",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "publishedAt": "2026-10-02T17:32:05.000Z",
+      "summaryShort": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants. Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-yo",
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "publishedAt": "2026-10-02T17:00:00.000Z",
+      "summaryShort": "Circuit Breaker Labs hopes to make AI safer for your kids (and you). With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "paramount-and-warner-bros-discovery-to-become-skydance",
+      "title": "Paramount and Warner Bros. Discovery to become Skydance",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
+      "publishedAt": "2026-10-02T15:53:50.000Z",
+      "summaryShort": "Paramount and Warner Bros. Discovery to become Skydance.",
       "tags": [
         "Engineering"
       ]
