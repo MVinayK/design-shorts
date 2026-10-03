@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T17:41:17.603Z",
+  "generatedAt": "2026-10-03T04:41:06.230Z",
   "items": [
     {
       "id": "uber-eats-rebuilds-search-pipeline-to-cut-end-to-end-latency-by-",
@@ -57,36 +57,36 @@
       ]
     },
     {
-      "id": "techcrunch-disrupt-2026-blackstone-s-jas-khaira-on-building-the-",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "id": "meta-wants-your-next-gadget-to-be-muse-infused",
+      "title": "Meta wants your next gadget to be Muse-infused",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "publishedAt": "2026-10-02T17:32:05.000Z",
-      "summaryShort": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants. Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-yo",
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "publishedAt": "2026-10-02T17:00:00.000Z",
-      "summaryShort": "Circuit Breaker Labs hopes to make AI safer for your kids (and you). With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "paramount-and-warner-bros-discovery-to-become-skydance",
-      "title": "Paramount and Warner Bros. Discovery to become Skydance",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
-      "publishedAt": "2026-10-02T15:53:50.000Z",
-      "summaryShort": "Paramount and Warner Bros. Discovery to become Skydance.",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "publishedAt": "2026-10-03T00:45:39.000Z",
+      "summaryShort": "Meta wants your next gadget to be Muse-infused. Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "sanders-introduces-bill-to-ban-the-federal-government-from-using",
+      "title": "Sanders introduces bill to ban the federal government from using Flock",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+      "publishedAt": "2026-10-03T00:21:57.000Z",
+      "summaryShort": "Sanders introduces bill to ban the federal government from using Flock. The proposed legislation would extend to all automotica license plate readers.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "sean-parker-is-rebuilding-stability-ai-around-music",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "publishedAt": "2026-10-02T21:09:14.000Z",
+      "summaryShort": "Sean Parker is rebuilding Stability AI around music. Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "tags": [
+        "AI"
       ]
     }
   ]
