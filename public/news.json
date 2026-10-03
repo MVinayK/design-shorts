@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-03T04:41:06.230Z",
+  "generatedAt": "2026-10-03T15:59:59.574Z",
   "items": [
+    {
+      "id": "presentation-building-genai-platform-at-doordash",
+      "title": "Presentation: Building GenAI Platform at DoorDash",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/doordash-genai-platform-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-03T11:00:00.000Z",
+      "summaryShort": "Presentation: Building GenAI Platform at DoorDash. Swaroop Chitlur and Sidd Kodwani share DoorDash’s journey building an internal GenAI platform.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "istio-1-31-adds-agentgateway-waypoints-and-moves-release-artifac",
+      "title": "Istio 1.31 Adds Agentgateway Waypoints and Moves Release Artifacts off Google Cloud",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/istio-1-31-agentgateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-03T08:30:00.000Z",
+      "summaryShort": "Istio 1.31 Adds Agentgateway Waypoints and Moves Release Artifacts off Google Cloud. Istio 1.31 adds agentgateway waypoints in ambient mode, with a canary configuration fix included in 1.31.1.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "ai-agents-are-disrupting-open-source-security-disclosure",
+      "title": "AI Agents Are Disrupting Open Source Security Disclosure",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/open-source-ai-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-03T06:46:00.000Z",
+      "summaryShort": "AI Agents Are Disrupting Open Source Security Disclosure. A recent article by Anil Madhavapeddy argues that AI agents can turn publicly available clues about software vulnerabilities into working exploits, reducing the effectiveness of trad",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "uber-eats-rebuilds-search-pipeline-to-cut-end-to-end-latency-by-",
       "title": "Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%",
@@ -24,67 +57,34 @@
       ]
     },
     {
-      "id": "presentation-managing-asynchronous-apis-at-scale",
-      "title": "Presentation: Managing Asynchronous APIs at Scale",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/managing-async-apis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-02T11:00:00.000Z",
-      "summaryShort": "Presentation: Managing Asynchronous APIs at Scale. Ian Cooper discusses managing asynchronous APIs in event-driven architectures at scale.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "openai-devday-2026-recap-for-developers",
-      "title": "OpenAI DevDay 2026 Recap for Developers",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/openai-devday-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-02T10:39:00.000Z",
-      "summaryShort": "OpenAI DevDay 2026 Recap for Developers. OpenAI announced a series of product and developer updates at DevDay 2026, including GPT-6.1 Sol, computer use for the Agents API, cloud-based Codex environments, a Decisions API, and new plugin capa",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "engineering-production-systems-for-an-agentic-era-qcon-san-franc",
-      "title": "Engineering Production Systems for an Agentic Era: QCon San Francisco 2026",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/qconsf-2026-sessions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-02T10:00:00.000Z",
-      "summaryShort": "Engineering Production Systems for an Agentic Era: QCon San Francisco 2026. QCon San Francisco 2026 will bring together practitioners from Airbnb, OpenAI, Netflix, Honeycomb, and other engineering organizations to share how they are buildin",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "meta-wants-your-next-gadget-to-be-muse-infused",
-      "title": "Meta wants your next gadget to be Muse-infused",
+      "id": "jack-dorsey-s-bitchat-disappears-from-app-stores-in-india-after-",
+      "title": "Jack Dorsey's Bitchat disappears from app stores in India after government order",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "publishedAt": "2026-10-03T00:45:39.000Z",
-      "summaryShort": "Meta wants your next gadget to be Muse-infused. Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "sourceUrl": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+      "publishedAt": "2026-10-03T15:02:01.000Z",
+      "summaryShort": "Jack Dorsey's Bitchat disappears from app stores in India after government order. Bitchat has become largely unavailable in India as a result of the restrictions.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "sanders-introduces-bill-to-ban-the-federal-government-from-using",
-      "title": "Sanders introduces bill to ban the federal government from using Flock",
+      "id": "vessev-built-an-electric-ferry-that-almost-flies",
+      "title": "Vessev built an electric ferry that almost flies",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
-      "publishedAt": "2026-10-03T00:21:57.000Z",
-      "summaryShort": "Sanders introduces bill to ban the federal government from using Flock. The proposed legislation would extend to all automotica license plate readers.",
+      "sourceUrl": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+      "publishedAt": "2026-10-03T14:42:00.000Z",
+      "summaryShort": "Vessev built an electric ferry that almost flies. Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "sean-parker-is-rebuilding-stability-ai-around-music",
-      "title": "Sean Parker is rebuilding Stability AI around music",
+      "id": "all-the-ai-agents-that-can-live-in-your-text-messages",
+      "title": "All the AI agents that can live in your text messages",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "publishedAt": "2026-10-02T21:09:14.000Z",
-      "summaryShort": "Sean Parker is rebuilding Stability AI around music. Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "sourceUrl": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "2026-10-03T14:00:00.000Z",
+      "summaryShort": "All the AI agents that can live in your text messages. We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
       "tags": [
         "AI"
       ]
