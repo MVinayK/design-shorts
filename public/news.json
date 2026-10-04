@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-04T05:12:23.007Z",
+  "generatedAt": "2026-10-04T16:41:08.346Z",
   "items": [
+    {
+      "id": "pizza-bot-open-source-inbox-for-background-ai-agents",
+      "title": "Pizza Bot: Open-Source Inbox for Background AI Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-04T06:34:00.000Z",
+      "summaryShort": "Pizza Bot: Open-Source Inbox for Background AI Agents. A team of developers working at AWS recently open-sourced Pizza Bot, a self-hosted application designed to let AI agents run tasks in the background and return results through an inbox-",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "new-archestra-s-openappa-saturates-two-major-security-benchmarks",
       "title": "New Archestra's OpenAPPA Saturates Two Major Security Benchmarks with a 0% Attack Success Rate",
@@ -46,12 +57,23 @@
       ]
     },
     {
-      "id": "ai-agents-are-disrupting-open-source-security-disclosure",
-      "title": "AI Agents Are Disrupting Open Source Security Disclosure",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/open-source-ai-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-03T06:46:00.000Z",
-      "summaryShort": "AI Agents Are Disrupting Open Source Security Disclosure. A recent article by Anil Madhavapeddy argues that AI agents can turn publicly available clues about software vulnerabilities into working exploits, reducing the effectiveness of trad",
+      "id": "techcrunch-mobility-reining-in-robotaxis",
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "publishedAt": "2026-10-04T16:05:00.000Z",
+      "summaryShort": "TechCrunch Mobility: Reining in robotaxis. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "trump-unveils-his-new-super-intelligence-force",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "publishedAt": "2026-10-04T15:15:10.000Z",
+      "summaryShort": "Trump unveils his new Super Intelligence Force. This new task force is Trump's latest response to the debate over AI safety.",
       "tags": [
         "AI"
       ]
@@ -65,28 +87,6 @@
       "summaryShort": "Federal judge calls Flock ‘indiscriminate mass surveillance’. A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "amazon-responds-to-data-center-backlash-says-it-no-longer-uses-n",
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "publishedAt": "2026-10-03T18:43:57.000Z",
-      "summaryShort": "Amazon responds to data center backlash, says it no longer uses NDAs. The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "openai-safety-employee-resigns-claiming-the-company-s-culture-is",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "publishedAt": "2026-10-03T16:30:01.000Z",
-      "summaryShort": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’. By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "tags": [
-        "AI"
       ]
     }
   ]
