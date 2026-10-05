@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-04T16:41:08.346Z",
+  "generatedAt": "2026-10-05T04:56:46.395Z",
   "items": [
+    {
+      "id": "google-s-android-security-state-libraries-enable-component-level",
+      "title": "Google's Android Security State Libraries Enable Component-Level Security Verification",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/android-security-state-libs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-04T17:00:00.000Z",
+      "summaryShort": "Google's Android Security State Libraries Enable Component-Level Security Verification. Google's AndroidX Security State libraries enables apps to verify security patch status at the individual component level, rather than relying on a sing",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "pizza-bot-open-source-inbox-for-background-ai-agents",
       "title": "Pizza Bot: Open-Source Inbox for Background AI Agents",
@@ -25,11 +36,11 @@
     },
     {
       "id": "gitlab-vulnerability-under-active-exploitation-enables-unauthent",
-      "title": "GitLab Vulnerability Under Active Exploitation Enables Unauthenticated Data Exfiltration",
+      "title": "GitLab Vulnerability under Active Exploitation Enables Unauthenticated Data Exfiltration",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/news/2026/10/gitlab-critical-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-10-03T16:00:00.000Z",
-      "summaryShort": "GitLab Vulnerability Under Active Exploitation Enables Unauthenticated Data Exfiltration. CVE-2026-85706 is a critical GitLab path-traversal vulnerability that has moved beyond theoretical risk into confirmed exploitation.",
+      "summaryShort": "GitLab Vulnerability under Active Exploitation Enables Unauthenticated Data Exfiltration. CVE-2026-85706 is a critical GitLab path-traversal vulnerability that has moved beyond theoretical risk into confirmed exploitation.",
       "tags": [
         "Cloud"
       ]
@@ -46,14 +57,25 @@
       ]
     },
     {
-      "id": "istio-1-31-adds-agentgateway-waypoints-and-moves-release-artifac",
-      "title": "Istio 1.31 Adds Agentgateway Waypoints and Moves Release Artifacts off Google Cloud",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/istio-1-31-agentgateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-03T08:30:00.000Z",
-      "summaryShort": "Istio 1.31 Adds Agentgateway Waypoints and Moves Release Artifacts off Google Cloud. Istio 1.31 adds agentgateway waypoints in ambient mode, with a canary configuration fix included in 1.31.1.",
+      "id": "google-froze-its-open-source-bug-bounty-program-due-to-a-8216-si",
+      "title": "Google froze its open source bug bounty program due to a &#8216;significant rise' in AI submissions",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "publishedAt": "2026-10-04T20:31:07.000Z",
+      "summaryShort": "Google froze its open source bug bounty program due to a &#8216;significant rise' in AI submissions. AI slop seems to be overwhelming bug bounty programs.",
       "tags": [
-        "Cloud"
+        "AI"
+      ]
+    },
+    {
+      "id": "can-super-intelligence-and-a-non-binding-safety-pact-solve-ai-s-",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "publishedAt": "2026-10-04T20:08:34.000Z",
+      "summaryShort": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?. On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "tags": [
+        "AI"
       ]
     },
     {
@@ -65,28 +87,6 @@
       "summaryShort": "TechCrunch Mobility: Reining in robotaxis. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "trump-unveils-his-new-super-intelligence-force",
-      "title": "Trump unveils his new Super Intelligence Force",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "publishedAt": "2026-10-04T15:15:10.000Z",
-      "summaryShort": "Trump unveils his new Super Intelligence Force. This new task force is Trump's latest response to the debate over AI safety.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "federal-judge-calls-flock-indiscriminate-mass-surveillance",
-      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-      "publishedAt": "2026-10-03T19:33:15.000Z",
-      "summaryShort": "Federal judge calls Flock ‘indiscriminate mass surveillance’. A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
