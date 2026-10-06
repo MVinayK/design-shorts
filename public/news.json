@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-06T05:44:20.518Z",
+  "generatedAt": "2026-10-06T18:08:52.355Z",
   "items": [
+    {
+      "id": "opentelemetry-makes-kubernetes-attributes-processor-stable-as-ob",
+      "title": "OpenTelemetry Makes Kubernetes Attributes Processor Stable as Observability Schema Matures",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/opentelemetry-kubernetes-observ/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "summaryShort": "OpenTelemetry Makes Kubernetes Attributes Processor Stable as Observability Schema Matures. OpenTelemetry has promoted its Kubernetes Attributes Processor to v1.0.0, marking a significant step in making Kubernetes telemetry more predictable",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "qcon-london-2027-announces-15-tracks-on-production-ai-architectu",
+      "title": "QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/qconlondon-2027-track/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-06T10:00:00.000Z",
+      "summaryShort": "QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale. A preview of the 15-track QCon London 2027 program, covering agent evaluation and guardrails, AI-era architecture, distributed-system debugging, ",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-building-resilient-platforms-insights-from-20-years",
+      "title": "Presentation: Building Resilient Platforms: Insights from 20+ Years in Mission-Critical Infrastructure",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/infrastructure-financial-services-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-06T09:59:00.000Z",
+      "summaryShort": "Presentation: Building Resilient Platforms: Insights from 20+ Years in Mission-Critical Infrastructure. Matthew Liste explains the 12 core principles of building scalable, reliable platforms for enterprise tech teams.",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "flagged-by-the-machine-how-google-ads-suspended-an-open-source-m",
       "title": "Flagged by the Machine: How Google Ads Suspended an Open-Source macOS Term as Malicious",
@@ -25,69 +58,36 @@
       ]
     },
     {
-      "id": "java-news-roundup-jobrunr-9-openxava-8-quarkus-langchain4j-jnosq",
-      "title": "Java News Roundup: JobRunr 9, OpenXava 8, Quarkus, LangChain4j, JNoSQL, Introducing Lathe",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/java-news-roundup-sep28-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-05T17:00:00.000Z",
-      "summaryShort": "Java News Roundup: JobRunr 9, OpenXava 8, Quarkus, LangChain4j, JNoSQL, Introducing Lathe. This week's Java roundup for September 28th, 2026, features news highlighting: the GA releases of JobRunr 9.0 and OpenXava 8.0; point releases for Qu",
+      "id": "india-s-jiohotstar-takes-partnership-route-for-middle-east-expan",
+      "title": "India's JioHotstar takes partnership route for Middle East expansion",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
+      "publishedAt": "2026-10-06T17:14:07.000Z",
+      "summaryShort": "India's JioHotstar takes partnership route for Middle East expansion. JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "akka-tests-spec-driven-ai-delivery-across-65-open-source-project",
-      "title": "Akka Tests Spec-Driven AI Delivery Across 65 Open Source Projects",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/ai-spec-driven-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-05T13:58:00.000Z",
-      "summaryShort": "Akka Tests Spec-Driven AI Delivery Across 65 Open Source Projects. Akka used 65 open-source projects to examine how specification structure, context, model selection, automated validation, and delivery guardrails affect AI assisted software",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-building-reusable-evaluation-frameworks-for-agentic",
-      "title": "Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/elastic-ai-agent-evaluations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-05T11:19:00.000Z",
-      "summaryShort": "Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products. Susan Chang explains how Elastic transitioned from siloed, ad-hoc AI agent evaluations to a unified, production-grade framework.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "lucid-motors-ev-output-falls-to-lowest-level-in-almost-2-years",
-      "title": "Lucid Motors' EV output falls to lowest level in almost 2 years",
+      "id": "mirror-particle-is-building-a-world-model-of-human-behavior",
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
-      "publishedAt": "2026-10-05T21:54:01.000Z",
-      "summaryShort": "Lucid Motors' EV output falls to lowest level in almost 2 years. The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "publishedAt": "2026-10-06T16:35:00.000Z",
+      "summaryShort": "Mirror Particle is building a ‘world model’ of human behavior. Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls sho",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-miss",
+      "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
+      "publishedAt": "2026-10-06T16:29:12.000Z",
+      "summaryShort": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors. The storied Silicon Valley firm makes its first pure defense investment.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "openai-will-start-watermarking-chatgpt-s-text-in-the-eu",
-      "title": "OpenAI will start watermarking ChatGPT's text in the EU",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "publishedAt": "2026-10-05T20:36:48.000Z",
-      "summaryShort": "OpenAI will start watermarking ChatGPT's text in the EU. OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "etched-fields-funding-offers-at-40b-valuation-sources-say",
-      "title": "Etched fields funding offers at $40B+ valuation, sources say",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-      "publishedAt": "2026-10-05T20:24:09.000Z",
-      "summaryShort": "Etched fields funding offers at $40B+ valuation, sources say. Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
-      "tags": [
-        "AI"
       ]
     }
   ]
