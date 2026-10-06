@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-10-05T20:25:36.122Z",
+  "generatedAt": "2026-10-06T05:44:20.518Z",
   "items": [
+    {
+      "id": "flagged-by-the-machine-how-google-ads-suspended-an-open-source-m",
+      "title": "Flagged by the Machine: How Google Ads Suspended an Open-Source macOS Term as Malicious",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/google-wrong-flagging/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-06T05:05:00.000Z",
+      "summaryShort": "Flagged by the Machine: How Google Ads Suspended an Open-Source macOS Term as Malicious. Przemyslaw Alexander Kaminski created RACE, a Rust terminal multiplexer on an infinite canvas that detaches child shells into background processes.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "cloudflare-introduces-cli-for-ai-agents-sunsetting-wrangler",
+      "title": "Cloudflare Introduces CLI for AI Agents, Sunsetting Wrangler",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/cloudflare-cf-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-06T04:59:00.000Z",
+      "summaryShort": "Cloudflare Introduces CLI for AI Agents, Sunsetting Wrangler. Cloudflare recently launched the open beta of cf, a new open-source, agent-focused command-line interface for interacting with Cloudflare services through a unified CLI.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "java-news-roundup-jobrunr-9-openxava-8-quarkus-langchain4j-jnosq",
       "title": "Java News Roundup: JobRunr 9, OpenXava 8, Quarkus, LangChain4j, JNoSQL, Introducing Lathe",
@@ -35,26 +58,25 @@
       ]
     },
     {
-      "id": "article-the-platform-engineering-playbook-for-production-llms",
-      "title": "Article: The Platform Engineering Playbook for Production LLMs",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/platform-engineering-playbook-production-llms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-05T11:00:00.000Z",
-      "summaryShort": "Article: The Platform Engineering Playbook for Production LLMs. In this article, author discusses his experience with AI agent hallucinations in an inventory recommendation system and how this problem was solved by treating the LLM stack as",
+      "id": "lucid-motors-ev-output-falls-to-lowest-level-in-almost-2-years",
+      "title": "Lucid Motors' EV output falls to lowest level in almost 2 years",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+      "publishedAt": "2026-10-05T21:54:01.000Z",
+      "summaryShort": "Lucid Motors' EV output falls to lowest level in almost 2 years. The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
       "tags": [
-        "AI",
-        "Cloud"
+        "Engineering"
       ]
     },
     {
-      "id": "podcast-future-cybersecurity-hardware-memory-safety-automated-go",
-      "title": "Podcast: Future Cybersecurity: Hardware Memory Safety, Automated Governance and Post-Quantum Cryptography",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/future-cybersecurity-hardware-memory-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-05T11:00:00.000Z",
-      "summaryShort": "Podcast: Future Cybersecurity: Hardware Memory Safety, Automated Governance and Post-Quantum Cryptography. In this episode, Chris Swan, engineer at Atsign and security track host at QCon London, reflects on the ideas shared during QCon Lond",
+      "id": "openai-will-start-watermarking-chatgpt-s-text-in-the-eu",
+      "title": "OpenAI will start watermarking ChatGPT's text in the EU",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "publishedAt": "2026-10-05T20:36:48.000Z",
+      "summaryShort": "OpenAI will start watermarking ChatGPT's text in the EU. OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
@@ -64,28 +86,6 @@
       "sourceUrl": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
       "publishedAt": "2026-10-05T20:24:09.000Z",
       "summaryShort": "Etched fields funding offers at $40B+ valuation, sources say. Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "after-factory-s-public-spat-with-khosla-menlo-proudly-invests",
-      "title": "After Factory's public spat with Khosla, Menlo proudly invests",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
-      "publishedAt": "2026-10-05T19:38:07.000Z",
-      "summaryShort": "After Factory's public spat with Khosla, Menlo proudly invests. Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "reflection-debuts-beam-an-open-weight-ai-model-to-rival-chinese-",
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "publishedAt": "2026-10-05T19:33:53.000Z",
-      "summaryShort": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost. Reflection is aiming Beam and future models at enterprises and sovereign nations.",
       "tags": [
         "AI"
       ]
