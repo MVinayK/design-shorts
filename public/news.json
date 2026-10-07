@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-06T18:08:52.355Z",
+  "generatedAt": "2026-10-07T05:15:42.129Z",
   "items": [
+    {
+      "id": "spanner-omni-reaches-ga-replacing-google-s-atomic-clocks-and-fil",
+      "title": "Spanner Omni Reaches GA, Replacing Google's Atomic Clocks and File System with Software",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/spanner-omni-deploy-anywhere-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-07T04:43:00.000Z",
+      "summaryShort": "Spanner Omni Reaches GA, Replacing Google's Atomic Clocks and File System with Software. Google has made Spanner Omni generally available, running its distributed SQL database on-premises, across clouds or on a laptop.",
+      "tags": [
+        "Databases",
+        "Cloud"
+      ]
+    },
     {
       "id": "opentelemetry-makes-kubernetes-attributes-processor-stable-as-ob",
       "title": "OpenTelemetry Makes Kubernetes Attributes Processor Stable as Observability Schema Matures",
@@ -46,46 +58,34 @@
       ]
     },
     {
-      "id": "cloudflare-introduces-cli-for-ai-agents-sunsetting-wrangler",
-      "title": "Cloudflare Introduces CLI for AI Agents, Sunsetting Wrangler",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/cloudflare-cf-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-06T04:59:00.000Z",
-      "summaryShort": "Cloudflare Introduces CLI for AI Agents, Sunsetting Wrangler. Cloudflare recently launched the open beta of cf, a new open-source, agent-focused command-line interface for interacting with Cloudflare services through a unified CLI.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "india-s-jiohotstar-takes-partnership-route-for-middle-east-expan",
-      "title": "India's JioHotstar takes partnership route for Middle East expansion",
+      "id": "how-to-find-out-if-amazon-thinks-you-have-8216-flat-buttocks",
+      "title": "How to find out if Amazon thinks you have &#8216;flat buttocks'",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
-      "publishedAt": "2026-10-06T17:14:07.000Z",
-      "summaryShort": "India's JioHotstar takes partnership route for Middle East expansion. JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+      "publishedAt": "2026-10-06T22:55:39.000Z",
+      "summaryShort": "How to find out if Amazon thinks you have &#8216;flat buttocks'. \"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "mirror-particle-is-building-a-world-model-of-human-behavior",
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "id": "apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-th",
+      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "publishedAt": "2026-10-06T16:35:00.000Z",
-      "summaryShort": "Mirror Particle is building a ‘world model’ of human behavior. Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls sho",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+      "publishedAt": "2026-10-06T22:53:09.000Z",
+      "summaryShort": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell. Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-miss",
-      "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
+      "id": "ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
-      "publishedAt": "2026-10-06T16:29:12.000Z",
-      "summaryShort": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors. The storied Silicon Valley firm makes its first pure defense investment.",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "publishedAt": "2026-10-06T22:34:03.000Z",
+      "summaryShort": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product. Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
       "tags": [
         "Engineering"
       ]
