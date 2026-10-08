@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-10-08T05:25:25.348Z",
+  "generatedAt": "2026-10-08T18:40:27.737Z",
   "items": [
+    {
+      "id": "presentation-multi-agent-patterns-from-spotify-s-ai-powered-adve",
+      "title": "Presentation: Multi-Agent Patterns from Spotify’s AI Powered Advertising Platform",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/spotify-multi-agent-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-08T11:00:00.000Z",
+      "summaryShort": "Presentation: Multi-Agent Patterns from Spotify’s AI Powered Advertising Platform. Pratik Rasam discusses how Spotify Ads Manager runs production-grade multi-agent systems at scale using Google ADK Java.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "technological-sovereignty-requires-choice-skills-and-support-pan",
+      "title": "Technological Sovereignty Requires Choice, Skills, and Support, Panelists Say During OSS EU",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/technological-sovereignity-panel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-08T08:08:00.000Z",
+      "summaryShort": "Technological Sovereignty Requires Choice, Skills, and Support, Panelists Say During OSS EU. European organisations can enhance their technological sovereignty by developing credible alternatives and acquiring necessary skills, rather than ",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "cloudflare-open-sources-decision-models-for-ai-agents",
+      "title": "Cloudflare Open Sources Decision Models for AI Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/clef-decision-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-08T06:54:00.000Z",
+      "summaryShort": "Cloudflare Open Sources Decision Models for AI Agents. During its recent “Birthday Week”, Cloudflare announced Clef, a set of open-weight AI models designed to choose between predefined options rather than generate text.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "survey-finds-ai-generated-code-increases-debugging-and-failure-r",
       "title": "Survey Finds AI-Generated Code Increases Debugging and Failure Rates and Creates a Comprehension Gap",
@@ -24,68 +58,35 @@
       ]
     },
     {
-      "id": "grab-redesigns-counter-service-storage-for-50-lower-p99-latency",
-      "title": "Grab Redesigns Counter Service Storage for 50% Lower P99 Latency",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/grab-counter-aerospike-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-07T14:30:00.000Z",
-      "summaryShort": "Grab Redesigns Counter Service Storage for 50% Lower P99 Latency. Grab migrated its high-volume Counter Service from a wide column database to Aerospike using storage abstraction, shadow traffic, data parity validation, and gradual traffic ",
-      "tags": [
-        "AI",
-        "Databases"
-      ]
-    },
-    {
-      "id": "ai-in-production-what-breaks-what-works-and-who-approves-it-info",
-      "title": "AI in Production: What Breaks, What Works, and Who Approves It? | InfoQ Webinar",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/infoq-ai-webinar/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-07T14:00:00.000Z",
-      "summaryShort": "AI in Production: What Breaks, What Works, and Who Approves It? | InfoQ Webinar.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-the-reinvention-of-the-dev-team",
-      "title": "Presentation: The Reinvention of the Dev Team",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/agentic-dev-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-07T11:00:00.000Z",
-      "summaryShort": "Presentation: The Reinvention of the Dev Team. Hannah Foxwell shares how the surge of agentic coding forces engineering leaders to rethink team dynamics.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "robot-data-startup-mecka-ai-nabs-60m-from-sequoia",
-      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "id": "watch-the-trailer-for-8216-the-altruists-netflix-s-show-about-th",
+      "title": "Watch the trailer for &#8216;The Altruists,' Netflix's show about the FTX scandal",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-      "publishedAt": "2026-10-07T23:36:57.000Z",
-      "summaryShort": "Robot data startup Mecka AI nabs $60M from Sequoia. Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m",
-      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders &#8216;elsewhere'",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
-      "publishedAt": "2026-10-07T22:59:16.000Z",
-      "summaryShort": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders &#8216;elsewhere'. Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley.",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+      "publishedAt": "2026-10-08T18:30:00.000Z",
+      "summaryShort": "Watch the trailer for &#8216;The Altruists,' Netflix's show about the FTX scandal. A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-",
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "id": "ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "publishedAt": "2026-10-07T20:48:45.000Z",
-      "summaryShort": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users. The developer of Hermes Agent raised a $90 million Series B.",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "publishedAt": "2026-10-08T18:20:32.000Z",
+      "summaryShort": "Ben Affleck is an AI nerd, and the internet is impressed. Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights.",
+      "tags": [
+        "AI",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-va",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "publishedAt": "2026-10-08T18:19:45.000Z",
+      "summaryShort": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months. The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issu",
       "tags": [
         "AI"
       ]
