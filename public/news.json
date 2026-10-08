@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T18:42:01.255Z",
+  "generatedAt": "2026-10-08T05:25:25.348Z",
   "items": [
     {
       "id": "survey-finds-ai-generated-code-increases-debugging-and-failure-r",
@@ -58,36 +58,36 @@
       ]
     },
     {
-      "id": "meta-s-muse-launches-on-ipad-just-a-month-after-its-mobile-debut",
-      "title": "Meta's Muse launches on iPad just a month after its mobile debut",
+      "id": "robot-data-startup-mecka-ai-nabs-60m-from-sequoia",
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "publishedAt": "2026-10-07T18:30:57.000Z",
-      "summaryShort": "Meta's Muse launches on iPad just a month after its mobile debut. Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "publishedAt": "2026-10-07T23:36:57.000Z",
+      "summaryShort": "Robot data startup Mecka AI nabs $60M from Sequoia. Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "id": "while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m",
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders &#8216;elsewhere'",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "publishedAt": "2026-10-07T18:15:28.000Z",
-      "summaryShort": "ChatGPT for Teens keeps teens talking, even during mental health crises. ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encou",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "x-expands-its-8216-gametime-sports-hub-beyond-the-nfl-starting-w",
-      "title": "X expands its &#8216;Gametime' sports hub beyond the NFL, starting with MLB",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
-      "publishedAt": "2026-10-07T18:10:00.000Z",
-      "summaryShort": "X expands its &#8216;Gametime' sports hub beyond the NFL, starting with MLB. X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+      "publishedAt": "2026-10-07T22:59:16.000Z",
+      "summaryShort": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders &#8216;elsewhere'. Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley.",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "publishedAt": "2026-10-07T20:48:45.000Z",
+      "summaryShort": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users. The developer of Hermes Agent raised a $90 million Series B.",
+      "tags": [
+        "AI"
       ]
     }
   ]
