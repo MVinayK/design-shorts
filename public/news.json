@@ -1,94 +1,96 @@
 {
-  "generatedAt": "2026-10-09T05:29:02.078Z",
+  "generatedAt": "2026-10-09T18:11:11.864Z",
   "items": [
     {
-      "id": "cloudflare-k2-builds-event-streams-on-r2-object-storage-at-a-sec",
-      "title": "Cloudflare K2 Builds Event Streams on R2 Object Storage, at a Second of Produce Latency",
+      "id": "android-bench-2-adds-support-for-long-horizon-tasks-agentic-eval",
+      "title": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/cloudflare-k2-serverless-streams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-09T05:06:00.000Z",
-      "summaryShort": "Cloudflare K2 Builds Event Streams on R2 Object Storage, at a Second of Produce Latency. Cloudflare has launched K2 in public beta, a serverless event streaming service implementing a durable log on R2 object storage.",
-      "tags": [
-        "Databases",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-multi-agent-patterns-from-spotify-s-ai-powered-adve",
-      "title": "Presentation: Multi-Agent Patterns from Spotify’s AI Powered Advertising Platform",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/spotify-multi-agent-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-08T11:00:00.000Z",
-      "summaryShort": "Presentation: Multi-Agent Patterns from Spotify’s AI Powered Advertising Platform. Pratik Rasam discusses how Spotify Ads Manager runs production-grade multi-agent systems at scale using Google ADK Java.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "technological-sovereignty-requires-choice-skills-and-support-pan",
-      "title": "Technological Sovereignty Requires Choice, Skills, and Support, Panelists Say During OSS EU",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/technological-sovereignity-panel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-08T08:08:00.000Z",
-      "summaryShort": "Technological Sovereignty Requires Choice, Skills, and Support, Panelists Say During OSS EU. European organisations can enhance their technological sovereignty by developing credible alternatives and acquiring necessary skills, rather than ",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "cloudflare-open-sources-decision-models-for-ai-agents",
-      "title": "Cloudflare Open Sources Decision Models for AI Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/clef-decision-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-08T06:54:00.000Z",
-      "summaryShort": "Cloudflare Open Sources Decision Models for AI Agents. During its recent “Birthday Week”, Cloudflare announced Clef, a set of open-weight AI models designed to choose between predefined options rather than generate text.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-09T17:00:00.000Z",
+      "summaryShort": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring. Google has released Android Bench 2.0, a major update to its benchmark framework for evaluating AI models and agents on Android development tas",
       "tags": [
         "AI",
         "Cloud"
       ]
     },
     {
-      "id": "survey-finds-ai-generated-code-increases-debugging-and-failure-r",
-      "title": "Survey Finds AI-Generated Code Increases Debugging and Failure Rates and Creates a Comprehension Gap",
+      "id": "shopify-upgrades-checkout-blocks-to-polaris-web-components-cutti",
+      "title": "Shopify Upgrades Checkout Blocks to Polaris Web Components, Cutting Bundle Sizes up to 85%",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/survey-complex-codebases-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-07T18:00:00.000Z",
-      "summaryShort": "Survey Finds AI-Generated Code Increases Debugging and Failure Rates and Creates a Comprehension Gap. A survey conducted by independent research firm Coleman Parkes on behalf of Undo, a company focused on scaling AI-powered root-cause analy",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "president-trump-awards-big-tech-donors-with-nation-s-highest-sci",
-      "title": "President Trump awards Big Tech donors with nation's highest science prizes",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-      "publishedAt": "2026-10-08T22:33:59.000Z",
-      "summaryShort": "President Trump awards Big Tech donors with nation's highest science prizes. Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/shopify-web-components/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-09T15:01:00.000Z",
+      "summaryShort": "Shopify Upgrades Checkout Blocks to Polaris Web Components, Cutting Bundle Sizes up to 85%. Shopify has updated its Checkout Blocks app, transitioning five high-traffic checkout UI extensions to remote-dom using Preact and Polaris web compo",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "pretend-you-re-sitting-at-elizabeth-holmes-desk-on-this-weirdly-",
-      "title": "Pretend you're sitting at Elizabeth Holmes' desk on this weirdly detailed website",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "publishedAt": "2026-10-08T21:00:00.000Z",
-      "summaryShort": "Pretend you're sitting at Elizabeth Holmes' desk on this weirdly detailed website. With over a thousand emails, slides, texts, and documents from the United States v.",
+      "id": "github-migrates-copilot-runtime-to-rust-with-ai-assisted-rewrite",
+      "title": "Github Migrates Copilot Runtime to Rust with AI-Assisted Rewrite",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/github-copilot-rust-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-09T14:29:00.000Z",
+      "summaryShort": "Github Migrates Copilot Runtime to Rust with AI-Assisted Rewrite. GitHub migrated more than 800,000 lines of Copilot runtime code from TypeScript and Node.js to Rust in about 14.5 weeks using AI-assisted development.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "circleci-makes-machine-runner-orchestrator-generally-available",
+      "title": "CircleCI Makes Machine Runner Orchestrator Generally Available",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/circleci-machine-runner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "summaryShort": "CircleCI Makes Machine Runner Orchestrator Generally Available. CircleCI has made its Machine Runner Orchestrator 1.0.0 generally available, providing automated scaling of self-hosted machine runner virtual machines according to CI workload",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "fired-openai-safety-researchers-dispute-misconduct-claims-warn-o",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "publishedAt": "2026-10-08T20:04:26.000Z",
-      "summaryShort": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect. Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating",
+      "id": "presentation-ontology-driven-observability-building-the-e2e-know",
+      "title": "Presentation: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/netflix-observability-aiops-ontology-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-09T11:00:00.000Z",
+      "summaryShort": "Presentation: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale. Prasanna Vijayanathan and Renzo Sanchez-Silva share how Netflix tackles observability across 38M events/sec.",
       "tags": [
-        "AI"
+        "AI",
+        "Databases",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "lumenus-helps-automate-tedious-paperwork-in-times-of-grief",
+      "title": "LumenUs helps automate tedious paperwork in times of grief",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
+      "publishedAt": "2026-10-09T17:00:00.000Z",
+      "summaryShort": "LumenUs helps automate tedious paperwork in times of grief. \"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "amazon-and-others-are-done-keeping-data-center-deals-secret-is-i",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "publishedAt": "2026-10-09T16:56:42.000Z",
+      "summaryShort": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "danu-robotics-fight-to-build-a-better-recycling-robot",
+      "title": "Danu Robotics' fight to build a better recycling robot",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "publishedAt": "2026-10-09T16:45:00.000Z",
+      "summaryShort": "Danu Robotics' fight to build a better recycling robot. For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
