@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-08T18:40:27.737Z",
+  "generatedAt": "2026-10-09T05:29:02.078Z",
   "items": [
+    {
+      "id": "cloudflare-k2-builds-event-streams-on-r2-object-storage-at-a-sec",
+      "title": "Cloudflare K2 Builds Event Streams on R2 Object Storage, at a Second of Produce Latency",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/cloudflare-k2-serverless-streams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-09T05:06:00.000Z",
+      "summaryShort": "Cloudflare K2 Builds Event Streams on R2 Object Storage, at a Second of Produce Latency. Cloudflare has launched K2 in public beta, a serverless event streaming service implementing a durable log on R2 object storage.",
+      "tags": [
+        "Databases",
+        "Cloud"
+      ]
+    },
     {
       "id": "presentation-multi-agent-patterns-from-spotify-s-ai-powered-adve",
       "title": "Presentation: Multi-Agent Patterns from Spotify’s AI Powered Advertising Platform",
@@ -47,46 +59,34 @@
       ]
     },
     {
-      "id": "the-async-multiprocessing-has-sound-foundations-in-linux-but-fur",
-      "title": "The Async Multiprocessing Has Sound Foundations in Linux, But Further Testing Is Needed",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/linux-amp-analysis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-07T16:16:00.000Z",
-      "summaryShort": "The Async Multiprocessing Has Sound Foundations in Linux, But Further Testing Is Needed. At Embedded Linux Conference Europe 2026, Wolfram Sang discussed the Linux building blocks for asymmetric multiprocessing (AMP).",
+      "id": "president-trump-awards-big-tech-donors-with-nation-s-highest-sci",
+      "title": "President Trump awards Big Tech donors with nation's highest science prizes",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+      "publishedAt": "2026-10-08T22:33:59.000Z",
+      "summaryShort": "President Trump awards Big Tech donors with nation's highest science prizes. Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "watch-the-trailer-for-8216-the-altruists-netflix-s-show-about-th",
-      "title": "Watch the trailer for &#8216;The Altruists,' Netflix's show about the FTX scandal",
+      "id": "pretend-you-re-sitting-at-elizabeth-holmes-desk-on-this-weirdly-",
+      "title": "Pretend you're sitting at Elizabeth Holmes' desk on this weirdly detailed website",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
-      "publishedAt": "2026-10-08T18:30:00.000Z",
-      "summaryShort": "Watch the trailer for &#8216;The Altruists,' Netflix's show about the FTX scandal. A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "publishedAt": "2026-10-08T21:00:00.000Z",
+      "summaryShort": "Pretend you're sitting at Elizabeth Holmes' desk on this weirdly detailed website. With over a thousand emails, slides, texts, and documents from the United States v.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "id": "fired-openai-safety-researchers-dispute-misconduct-claims-warn-o",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "publishedAt": "2026-10-08T18:20:32.000Z",
-      "summaryShort": "Ben Affleck is an AI nerd, and the internet is impressed. Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights.",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-va",
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "publishedAt": "2026-10-08T18:19:45.000Z",
-      "summaryShort": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months. The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issu",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "publishedAt": "2026-10-08T20:04:26.000Z",
+      "summaryShort": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect. Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating",
       "tags": [
         "AI"
       ]
