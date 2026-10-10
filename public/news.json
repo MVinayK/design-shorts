@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T18:11:11.864Z",
+  "generatedAt": "2026-10-10T05:12:49.478Z",
   "items": [
     {
       "id": "android-bench-2-adds-support-for-long-horizon-tasks-agentic-eval",
@@ -60,37 +60,36 @@
       ]
     },
     {
-      "id": "lumenus-helps-automate-tedious-paperwork-in-times-of-grief",
-      "title": "LumenUs helps automate tedious paperwork in times of grief",
+      "id": "elon-musk-intensifies-attack-on-ambani-over-starlink-india-launc",
+      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
-      "publishedAt": "2026-10-09T17:00:00.000Z",
-      "summaryShort": "LumenUs helps automate tedious paperwork in times of grief. \"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "publishedAt": "2026-10-10T03:10:06.000Z",
+      "summaryShort": "Elon Musk intensifies attack on Ambani over Starlink India launch delay. Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "amazon-and-others-are-done-keeping-data-center-deals-secret-is-i",
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "id": "anthropic-can-t-reliably-control-its-ai-agents-it-s-cutting-off-",
+      "title": "Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "publishedAt": "2026-10-09T16:56:42.000Z",
-      "summaryShort": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?.",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "publishedAt": "2026-10-10T00:18:32.000Z",
+      "summaryShort": "Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead.",
       "tags": [
-        "AI",
-        "Cloud"
+        "AI"
       ]
     },
     {
-      "id": "danu-robotics-fight-to-build-a-better-recycling-robot",
-      "title": "Danu Robotics' fight to build a better recycling robot",
+      "id": "long-live-the-mechanical-keyboard",
+      "title": "Long live the mechanical keyboard",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "publishedAt": "2026-10-09T16:45:00.000Z",
-      "summaryShort": "Danu Robotics' fight to build a better recycling robot. For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+      "publishedAt": "2026-10-09T22:08:24.000Z",
+      "summaryShort": "Long live the mechanical keyboard. Keychron made a name for itself after launching on Kickstarter in 2017.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
