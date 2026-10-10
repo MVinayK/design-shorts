@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-10T05:12:49.478Z",
+  "generatedAt": "2026-10-10T17:10:23.326Z",
   "items": [
+    {
+      "id": "cloudflare-traces-turns-the-proxy-layer-into-opentelemetry-spans",
+      "title": "Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-10T07:12:00.000Z",
+      "summaryShort": "Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing. Cloudflare has put Traces into open beta, extending automatic tracing from Workers to security rules, transformations, cache, routing and origi",
+      "tags": [
+        "Cloud",
+        "Architecture"
+      ]
+    },
     {
       "id": "android-bench-2-adds-support-for-long-horizon-tasks-agentic-eval",
       "title": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring",
@@ -47,49 +59,37 @@
       ]
     },
     {
-      "id": "presentation-ontology-driven-observability-building-the-e2e-know",
-      "title": "Presentation: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/netflix-observability-aiops-ontology-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-09T11:00:00.000Z",
-      "summaryShort": "Presentation: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale. Prasanna Vijayanathan and Renzo Sanchez-Silva share how Netflix tackles observability across 38M events/sec.",
-      "tags": [
-        "AI",
-        "Databases",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "elon-musk-intensifies-attack-on-ambani-over-starlink-india-launc",
-      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "id": "petra-power-looks-to-modernize-energy-for-data-centers-and-defen",
+      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-      "publishedAt": "2026-10-10T03:10:06.000Z",
-      "summaryShort": "Elon Musk intensifies attack on Ambani over Starlink India launch delay. Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+      "sourceUrl": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+      "publishedAt": "2026-10-10T17:00:00.000Z",
+      "summaryShort": "Petra Power looks to modernize energy for data centers and defense vehicles. The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "anthropic-can-t-reliably-control-its-ai-agents-it-s-cutting-off-",
-      "title": "Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead",
+      "id": "cloudflare-acquires-deno-to-improve-its-workers-programming-mode",
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "publishedAt": "2026-10-10T00:18:32.000Z",
-      "summaryShort": "Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead.",
+      "sourceUrl": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "publishedAt": "2026-10-10T16:25:42.000Z",
+      "summaryShort": "Cloudflare acquires Deno to improve its Workers programming model. Cloudflare will use this acquisition to improve its Workers programming model and platform.",
       "tags": [
-        "AI"
+        "AI",
+        "Cloud"
       ]
     },
     {
-      "id": "long-live-the-mechanical-keyboard",
-      "title": "Long live the mechanical keyboard",
+      "id": "3-days-to-techcrunch-disrupt-2026-meet-the-startups-before-they-",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-      "publishedAt": "2026-10-09T22:08:24.000Z",
-      "summaryShort": "Long live the mechanical keyboard. Keychron made a name for itself after launching on Kickstarter in 2017.",
+      "sourceUrl": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "publishedAt": "2026-10-10T15:00:00.000Z",
+      "summaryShort": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream. TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
