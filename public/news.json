@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T17:10:23.326Z",
+  "generatedAt": "2026-10-11T05:03:26.077Z",
   "items": [
     {
       "id": "cloudflare-traces-turns-the-proxy-layer-into-opentelemetry-spans",
@@ -59,35 +59,34 @@
       ]
     },
     {
+      "id": "microsoft-s-satya-nadella-says-ai-models-need-an-emergency-brake",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "publishedAt": "2026-10-10T21:47:51.000Z",
+      "summaryShort": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’. In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "apple-discloses-deal-to-hire-team-and-license-tech-from-personal",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "publishedAt": "2026-10-10T19:50:00.000Z",
+      "summaryShort": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe. Is Apple hoping to get into the AI-generated podcast business?",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
       "id": "petra-power-looks-to-modernize-energy-for-data-centers-and-defen",
       "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
       "sourceName": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
       "publishedAt": "2026-10-10T17:00:00.000Z",
       "summaryShort": "Petra Power looks to modernize energy for data centers and defense vehicles. The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "cloudflare-acquires-deno-to-improve-its-workers-programming-mode",
-      "title": "Cloudflare acquires Deno to improve its Workers programming model",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-      "publishedAt": "2026-10-10T16:25:42.000Z",
-      "summaryShort": "Cloudflare acquires Deno to improve its Workers programming model. Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "3-days-to-techcrunch-disrupt-2026-meet-the-startups-before-they-",
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "publishedAt": "2026-10-10T15:00:00.000Z",
-      "summaryShort": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream. TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco.",
       "tags": [
         "Engineering"
       ]
