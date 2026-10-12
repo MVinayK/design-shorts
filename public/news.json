@@ -1,94 +1,93 @@
 {
-  "generatedAt": "2026-10-12T05:17:27.864Z",
+  "generatedAt": "2026-10-12T21:06:39.046Z",
   "items": [
     {
-      "id": "context-language-models-self-managing-context-to-improve-perform",
-      "title": "Context Language Models: Self-Managing Context to Improve Performance and Reduce Compute Costs",
+      "id": "spotify-more-than-doubled-monthly-code-changes-as-ai-accelerated",
+      "title": "Spotify More Than Doubled Monthly Code Changes as AI Accelerated Development",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/context-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-11T14:00:00.000Z",
-      "summaryShort": "Context Language Models: Self-Managing Context to Improve Performance and Reduce Compute Costs. Researchers from Meta, MIT, and the University of Washington introduce Context Language Models (CLMs), a new approach that enables language mode",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/spotify-ai-quality-controls/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-12T13:57:00.000Z",
+      "summaryShort": "Spotify More Than Doubled Monthly Code Changes as AI Accelerated Development. Spotify reports that AI-assisted development more than doubled monthly merged changes, prompting a review of quality and reliability controls across its engineeri",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "foresight-ai-brings-gremlin-agents-to-reliability-engineering",
-      "title": "Foresight AI Brings Gremlin Agents to Reliability Engineering",
+      "id": "article-when-should-you-use-liquid-clustering-benchmarking-lakeh",
+      "title": "Article: When Should You Use Liquid Clustering? Benchmarking Lakehouse Layout Strategies",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/gremlin-foresight-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-11T09:00:00.000Z",
-      "summaryShort": "Foresight AI Brings Gremlin Agents to Reliability Engineering. Reliability management company Gremlin has announced the general availability of Foresight AI, an agentic product that analyses services for potential failures, recommends chang",
+      "sourceUrl": "https://www.infoq.com/articles/liquid-clustering-lakehouse-layout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-12T11:00:00.000Z",
+      "summaryShort": "Article: When Should You Use Liquid Clustering? Benchmarking Lakehouse Layout Strategies.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "podcast-what-does-it-really-mean-to-program-with-ai-a-conversati",
+      "title": "Podcast: What Does It Really Mean To Program With AI: A Conversation with Joy Ebertz",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/what-really-mean-program-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-12T11:00:00.000Z",
+      "summaryShort": "Podcast: What Does It Really Mean To Program With AI: A Conversation with Joy Ebertz. In this podcast, Michael Stiefel spoke to Joy Ebertz about how the use of artificial intelligence is changing the way architects and developers do their j",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "aws-introduces-enhanced-custom-event-buses-for-eventbridge",
-      "title": "AWS Introduces Enhanced Custom Event Buses for EventBridge",
+      "id": "presentation-you-can-t-trust-your-ai-bill-and-neither-can-i",
+      "title": "Presentation: You Can't Trust Your AI Bill. And Neither Can I",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/aws-enhanced-eventbridge-buses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-11T06:35:00.000Z",
-      "summaryShort": "AWS Introduces Enhanced Custom Event Buses for EventBridge. AWS recently announced enhanced custom event buses for Amazon EventBridge, allowing organizations to share a centralized bus across accounts with ordered delivery, simplified subsc",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "cloudflare-traces-turns-the-proxy-layer-into-opentelemetry-spans",
-      "title": "Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-10T07:12:00.000Z",
-      "summaryShort": "Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing. Cloudflare has put Traces into open beta, extending automatic tracing from Workers to security rules, transformations, cache, routing and origi",
-      "tags": [
-        "Cloud",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "android-bench-2-adds-support-for-long-horizon-tasks-agentic-eval",
-      "title": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-09T17:00:00.000Z",
-      "summaryShort": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring. Google has released Android Bench 2.0, a major update to its benchmark framework for evaluating AI models and agents on Android development tas",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-cloud-cost-economics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-12T11:00:00.000Z",
+      "summaryShort": "Presentation: You Can't Trust Your AI Bill. And Neither Can I.",
       "tags": [
         "AI",
         "Cloud"
       ]
     },
     {
-      "id": "the-founder-s-guide-to-techcrunch-disrupt-2026-everything-you-ne",
-      "title": "The founder's guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "id": "react-19-3-adds-a-browser-api-giving-client-only-rendering-a-fir",
+      "title": "React 19.3: Adds a browser() API, Giving Client-Only Rendering a First-Class Name",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/react-19-3-browser-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-12T10:52:00.000Z",
+      "summaryShort": "React 19.3: Adds a browser() API, Giving Client-Only Rendering a First-Class Name. React 19.3 was released on September 9, introducing several features including the react-dom browser() API.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "meta-releases-its-first-frontier-model-muse-wonder",
+      "title": "Meta releases its first frontier model, Muse Wonder",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "publishedAt": "2026-10-12T00:59:01.000Z",
-      "summaryShort": "The founder's guide to TechCrunch Disrupt 2026: Everything you need to know. TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era?",
+      "sourceUrl": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "publishedAt": "2026-10-12T17:56:56.000Z",
+      "summaryShort": "Meta releases its first frontier model, Muse Wonder. Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better resul",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "will-the-homeview-be-apple-s-first-smart-home-success",
-      "title": "Will the HomeView be Apple’s first smart home success?",
+      "id": "windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-dat",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "publishedAt": "2026-10-11T21:14:40.000Z",
-      "summaryShort": "Will the HomeView be Apple’s first smart home success?. Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "sourceUrl": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "publishedAt": "2026-10-12T17:19:14.000Z",
+      "summaryShort": "WindBorne wins a hefty US Air Force contract for its balloon data. A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "aaron-sorkin-s-social-reckoning-is-off-to-a-weak-start",
-      "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+      "id": "honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-compan",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
-      "publishedAt": "2026-10-11T20:51:47.000Z",
-      "summaryShort": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start. What does this mean for a fall full of movies starring villainous tech CEOs?",
+      "sourceUrl": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "publishedAt": "2026-10-12T15:45:00.000Z",
+      "summaryShort": "Honeyjar offers AI tools to improve PR and comms at every company. Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
