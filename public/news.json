@@ -1,93 +1,94 @@
 {
-  "generatedAt": "2026-10-13T06:15:59.140Z",
+  "generatedAt": "2026-10-13T19:05:20.169Z",
   "items": [
     {
-      "id": "spotify-more-than-doubled-monthly-code-changes-as-ai-accelerated",
-      "title": "Spotify More Than Doubled Monthly Code Changes as AI Accelerated Development",
+      "id": "backstage-1-55-adds-scaffolder-task-recovery-and-removes-depreca",
+      "title": "Backstage 1.55 Adds Scaffolder Task Recovery and Removes Deprecated Catalog APIs",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/spotify-ai-quality-controls/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-12T13:57:00.000Z",
-      "summaryShort": "Spotify More Than Doubled Monthly Code Changes as AI Accelerated Development. Spotify reports that AI-assisted development more than doubled monthly merged changes, prompting a review of quality and reliability controls across its engineeri",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "article-when-should-you-use-liquid-clustering-benchmarking-lakeh",
-      "title": "Article: When Should You Use Liquid Clustering? Benchmarking Lakehouse Layout Strategies",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/liquid-clustering-lakehouse-layout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-12T11:00:00.000Z",
-      "summaryShort": "Article: When Should You Use Liquid Clustering? Benchmarking Lakehouse Layout Strategies.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/backstage-1-55-task-recovery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-13T17:00:00.000Z",
+      "summaryShort": "Backstage 1.55 Adds Scaffolder Task Recovery and Removes Deprecated Catalog APIs. Backstage 1.55 adds opt-in recovery for Software Template tasks, resuming crashed or timed-out runs from the last completed step.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "podcast-what-does-it-really-mean-to-program-with-ai-a-conversati",
-      "title": "Podcast: What Does It Really Mean To Program With AI: A Conversation with Joy Ebertz",
+      "id": "zcs-command-injection-via-snmp-handlers-enables-unauthenticated-",
+      "title": "ZCS Command Injection via SNMP Handlers Enables Unauthenticated Remote Code Execution",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/what-really-mean-program-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-12T11:00:00.000Z",
-      "summaryShort": "Podcast: What Does It Really Mean To Program With AI: A Conversation with Joy Ebertz. In this podcast, Michael Stiefel spoke to Joy Ebertz about how the use of artificial intelligence is changing the way architects and developers do their j",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/zimbra-command-injection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-13T13:13:00.000Z",
+      "summaryShort": "ZCS Command Injection via SNMP Handlers Enables Unauthenticated Remote Code Execution. A critical remote command execution vulnerability in the Zimbra Collaboration Suite, identified as CVE-2026-73570, poses risks by allowing unauthorized a",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "production-patterns-for-agents-evals-and-llm-costs-qcon-ai-new-y",
+      "title": "Production Patterns for Agents, Evals, and LLM Costs: QCon AI New York 2026",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-sessionsv2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "summaryShort": "Production Patterns for Agents, Evals, and LLM Costs: QCon AI New York 2026. Once AI is in production, code arrives faster than it can be reviewed, token costs rise, evals have to be good enough to act on, and agents need permissions and gu",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "presentation-you-can-t-trust-your-ai-bill-and-neither-can-i",
-      "title": "Presentation: You Can't Trust Your AI Bill. And Neither Can I",
+      "id": "aws-reworks-eventbridge-custom-buses-for-enterprise-scale-event-",
+      "title": "AWS Reworks EventBridge Custom Buses for Enterprise-Scale Event-Driven Architectures",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-cloud-cost-economics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-12T11:00:00.000Z",
-      "summaryShort": "Presentation: You Can't Trust Your AI Bill. And Neither Can I.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/aws-eventbridge-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "summaryShort": "AWS Reworks EventBridge Custom Buses for Enterprise-Scale Event-Driven Architectures. AWS has introduced an enhanced Custom Event Bus for Amazon EventBridge, targeting a problem that often emerges when event-driven architectures move beyond",
       "tags": [
-        "AI",
         "Cloud"
       ]
     },
     {
-      "id": "react-19-3-adds-a-browser-api-giving-client-only-rendering-a-fir",
-      "title": "React 19.3: Adds a browser() API, Giving Client-Only Rendering a First-Class Name",
+      "id": "presentation-how-eve-online-leverages-head-based-sampling-to-obs",
+      "title": "Presentation: How Eve Online Leverages Head Based Sampling to Observe \"Fun\"",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/react-19-3-browser-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-12T10:52:00.000Z",
-      "summaryShort": "React 19.3: Adds a browser() API, Giving Client-Only Rendering a First-Class Name. React 19.3 was released on September 9, introducing several features including the react-dom browser() API.",
+      "sourceUrl": "https://www.infoq.com/presentations/eve-observability-head-sampling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-13T11:00:00.000Z",
+      "summaryShort": "Presentation: How Eve Online Leverages Head Based Sampling to Observe \"Fun\". Nicholas Herring shares how EVE Online tackles distributed tracing and observability across a 20-year-old MMO architecture.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "meta-releases-its-first-frontier-model-muse-wonder",
-      "title": "Meta releases its first frontier model, Muse Wonder",
+      "id": "niobia-takes-the-guesswork-out-of-some-of-tech-s-most-expensive-",
+      "title": "Niobia takes the guesswork out of some of tech's most expensive mistakes",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "publishedAt": "2026-10-12T17:56:56.000Z",
-      "summaryShort": "Meta releases its first frontier model, Muse Wonder. Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better resul",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
+      "publishedAt": "2026-10-13T19:00:00.000Z",
+      "summaryShort": "Niobia takes the guesswork out of some of tech's most expensive mistakes. The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-fie",
+      "title": "Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+      "publishedAt": "2026-10-13T18:30:03.000Z",
+      "summaryShort": "Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field. Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-dat",
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "id": "flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trai",
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "publishedAt": "2026-10-12T17:19:14.000Z",
-      "summaryShort": "WindBorne wins a hefty US Air Force contract for its balloon data. A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S.",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "publishedAt": "2026-10-13T18:30:00.000Z",
+      "summaryShort": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads. Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-compan",
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "publishedAt": "2026-10-12T15:45:00.000Z",
-      "summaryShort": "Honeyjar offers AI tools to improve PR and comms at every company. Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken.",
-      "tags": [
-        "AI"
+        "AI",
+        "Cloud",
+        "Architecture"
       ]
     }
   ]
