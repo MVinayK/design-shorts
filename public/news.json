@@ -1,93 +1,96 @@
 {
-  "generatedAt": "2026-10-14T04:17:51.106Z",
+  "generatedAt": "2026-10-14T16:52:46.114Z",
   "items": [
     {
-      "id": "backstage-1-55-adds-scaffolder-task-recovery-and-removes-depreca",
-      "title": "Backstage 1.55 Adds Scaffolder Task Recovery and Removes Deprecated Catalog APIs",
+      "id": "meta-extends-confidential-computing-to-ai-glasses-with-private-p",
+      "title": "Meta Extends Confidential Computing to AI Glasses with Private Processing",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/backstage-1-55-task-recovery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-13T17:00:00.000Z",
-      "summaryShort": "Backstage 1.55 Adds Scaffolder Task Recovery and Removes Deprecated Catalog APIs. Backstage 1.55 adds opt-in recovery for Software Template tasks, resuming crashed or timed-out runs from the last completed step.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/meta-private-process-ai-glasses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-14T13:57:00.000Z",
+      "summaryShort": "Meta Extends Confidential Computing to AI Glasses with Private Processing. Meta has extended Private Processing to AI glasses, using confidential VMs, trusted execution environments, remote attestation, anonymous credentials, OHTTP routing,",
       "tags": [
-        "Engineering"
+        "AI",
+        "Databases",
+        "Cloud"
       ]
     },
     {
-      "id": "zcs-command-injection-via-snmp-handlers-enables-unauthenticated-",
-      "title": "ZCS Command Injection via SNMP Handlers Enables Unauthenticated Remote Code Execution",
+      "id": "presentation-how-to-find-resilience-bugs-in-systems-that-don-t-e",
+      "title": "Presentation: How to Find Resilience Bugs in Systems that Don't Exist",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/zimbra-command-injection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-13T13:13:00.000Z",
-      "summaryShort": "ZCS Command Injection via SNMP Handlers Enables Unauthenticated Remote Code Execution. A critical remote command execution vulnerability in the Zimbra Collaboration Suite, identified as CVE-2026-73570, poses risks by allowing unauthorized a",
+      "sourceUrl": "https://www.infoq.com/presentations/formal-methods-principles/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-14T11:00:00.000Z",
+      "summaryShort": "Presentation: How to Find Resilience Bugs in Systems that Don't Exist. Hillel Wayne discusses how formal methods principles - such as property strength, state-space verification, and environment assumptions - help software engineers uncover",
       "tags": [
-        "Engineering"
+        "AI",
+        "Architecture"
       ]
     },
     {
-      "id": "production-patterns-for-agents-evals-and-llm-costs-qcon-ai-new-y",
-      "title": "Production Patterns for Agents, Evals, and LLM Costs: QCon AI New York 2026",
+      "id": "article-composable-commerce-inside-shipt-s-kit-platform",
+      "title": "Article: Composable Commerce: Inside Shipt’s Kit Platform",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-sessionsv2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-13T12:00:00.000Z",
-      "summaryShort": "Production Patterns for Agents, Evals, and LLM Costs: QCon AI New York 2026. Once AI is in production, code arrives faster than it can be reviewed, token costs rise, evals have to be good enough to act on, and agents need permissions and gu",
+      "sourceUrl": "https://www.infoq.com/articles/shipt-composable-commerce-design-ddd/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "summaryShort": "Article: Composable Commerce: Inside Shipt’s Kit Platform. Shipt launched its Kits feature, enabling quick assembly of themed grocery bundles for events.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "aws-reworks-eventbridge-custom-buses-for-enterprise-scale-event-",
-      "title": "AWS Reworks EventBridge Custom Buses for Enterprise-Scale Event-Driven Architectures",
+      "id": "google-antigravity-sdk-adds-local-model-support-for-greater-toke",
+      "title": "Google Antigravity SDK Adds Local Model Support for Greater Token Efficiency and Code Privacy",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/aws-eventbridge-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-13T12:00:00.000Z",
-      "summaryShort": "AWS Reworks EventBridge Custom Buses for Enterprise-Scale Event-Driven Architectures. AWS has introduced an enhanced Custom Event Bus for Amazon EventBridge, targeting a problem that often emerges when event-driven architectures move beyond",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-how-eve-online-leverages-head-based-sampling-to-obs",
-      "title": "Presentation: How Eve Online Leverages Head Based Sampling to Observe \"Fun\"",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/eve-observability-head-sampling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-13T11:00:00.000Z",
-      "summaryShort": "Presentation: How Eve Online Leverages Head Based Sampling to Observe \"Fun\". Nicholas Herring shares how EVE Online tackles distributed tracing and observability across a 20-year-old MMO architecture.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "justice-department-says-north-koreans-have-infiltrated-dozens-of",
-      "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-      "publishedAt": "2026-10-14T01:30:42.000Z",
-      "summaryShort": "Justice Department says North Koreans have infiltrated dozens of U.S. companies.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "science-corporation-implants-its-vision-restoring-chip-in-its-fi",
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "publishedAt": "2026-10-13T23:13:31.000Z",
-      "summaryShort": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient. Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "cerebras-ceo-says-we-re-nearing-a-future-where-everyone-has-a-pe",
-      "title": "Cerebras CEO says we're nearing a future where everyone has a personal AI assistant at home",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "publishedAt": "2026-10-13T23:05:34.000Z",
-      "summaryShort": "Cerebras CEO says we're nearing a future where everyone has a personal AI assistant at home. Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local d",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/antigravity-sdk-local-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "summaryShort": "Google Antigravity SDK Adds Local Model Support for Greater Token Efficiency and Code Privacy. Google has introduced support for local models in the Antigravity SDK, enabling developers to build and execute agentic workflows directly on the",
       "tags": [
         "AI",
         "Cloud"
+      ]
+    },
+    {
+      "id": "cloudflares-newly-acquired-vite-reaches-1-0-with-gitlab-ci-suppo",
+      "title": "Cloudflares Newly Acquired Vite+ Reaches 1.0 with GitLab CI Support, Hooks, and tsup Migration",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/cloudflare-viteplus-stable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-14T06:15:00.000Z",
+      "summaryShort": "Cloudflares Newly Acquired Vite+ Reaches 1.0 with GitLab CI Support, Hooks, and tsup Migration. VoidZero has launched Vite+ 1.0, the first stable version of its JavaScript toolchain.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "prismm-helps-banks-keep-inherited-money-in-house",
+      "title": "Prismm helps banks keep inherited money in-house",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
+      "publishedAt": "2026-10-14T16:00:00.000Z",
+      "summaryShort": "Prismm helps banks keep inherited money in-house. With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "deezer-will-soon-let-you-filter-out-ai-generated-music",
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "publishedAt": "2026-10-14T15:16:04.000Z",
+      "summaryShort": "Deezer will soon let you filter out AI-generated music. Deezer said that the new toggle will be rolled out by the end of the year.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last",
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco's Moscone West",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "publishedAt": "2026-10-14T15:13:24.000Z",
+      "summaryShort": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco's Moscone West. Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco.",
+      "tags": [
+        "AI"
       ]
     }
   ]
