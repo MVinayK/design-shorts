@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T16:52:46.114Z",
+  "generatedAt": "2026-10-15T04:00:09.772Z",
   "items": [
     {
       "id": "meta-extends-confidential-computing-to-ai-glasses-with-private-p",
@@ -61,36 +61,36 @@
       ]
     },
     {
-      "id": "prismm-helps-banks-keep-inherited-money-in-house",
-      "title": "Prismm helps banks keep inherited money in-house",
+      "id": "ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-s",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
-      "publishedAt": "2026-10-14T16:00:00.000Z",
-      "summaryShort": "Prismm helps banks keep inherited money in-house. With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "publishedAt": "2026-10-15T01:01:32.000Z",
+      "summaryShort": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis. The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "flock-ceo-defends-surveillance-technology-amid-national-backlash",
+      "title": "Flock CEO defends surveillance technology amid national backlash: &#8216;We shouldn't pause progress'",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+      "publishedAt": "2026-10-15T00:49:31.000Z",
+      "summaryShort": "Flock CEO defends surveillance technology amid national backlash: &#8216;We shouldn't pause progress'. At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "deezer-will-soon-let-you-filter-out-ai-generated-music",
-      "title": "Deezer will soon let you filter out AI-generated music",
+      "id": "meet-the-five-companies-competing-in-the-startup-battlefield-fin",
+      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "publishedAt": "2026-10-14T15:16:04.000Z",
-      "summaryShort": "Deezer will soon let you filter out AI-generated music. Deezer said that the new toggle will be rolled out by the end of the year.",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+      "publishedAt": "2026-10-15T00:30:00.000Z",
+      "summaryShort": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026. It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last",
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco's Moscone West",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "publishedAt": "2026-10-14T15:13:24.000Z",
-      "summaryShort": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco's Moscone West. Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco.",
-      "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
