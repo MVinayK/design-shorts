@@ -1,90 +1,90 @@
 {
-  "generatedAt": "2026-10-16T03:57:11.775Z",
+  "generatedAt": "2026-10-16T16:22:33.525Z",
   "items": [
     {
-      "id": "instagram-modernized-its-ui-with-an-ai-native-architecture-cutti",
-      "title": "Instagram Modernized its UI with an AI-Native Architecture, Cutting Token Costs by 33%",
+      "id": "zod-brings-in-process-schema-compilation-and-a-9x-cut-in-memory-",
+      "title": "Zod Brings In-Process Schema Compilation and a 9x Cut in Memory Footprint",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/instagram-compose-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-15T16:00:00.000Z",
-      "summaryShort": "Instagram Modernized its UI with an AI-Native Architecture, Cutting Token Costs by 33%. Instagram Direct migrated its Android UI from the legacy Android View system to Jetpack Compose, creating an AI-native UI codebase that is easier for AI",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "optimizing-software-workflow-exploring-fundamental-impacts-in-te",
-      "title": "Optimizing Software Workflow: Exploring Fundamental Impacts in Technology",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/optimize-software-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-15T11:33:00.000Z",
-      "summaryShort": "Optimizing Software Workflow: Exploring Fundamental Impacts in Technology. Software only has value when shipped; faster release cadence matters.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-what-25-trillion-tokens-reveal-about-how-developers",
-      "title": "Presentation: What 25 Trillion Tokens Reveal About How Developers Actually Adopt AI Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/agentic-ai-developer-trust-adoption/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-15T11:00:00.000Z",
-      "summaryShort": "Presentation: What 25 Trillion Tokens Reveal About How Developers Actually Adopt AI Agents. Brendan O'Leary discusses how real-world AI adoption depends on building trust rather than chasing model benchmarks.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "grafana-tempo-3-1-adds-query-based-trace-redaction-and-sampling-",
-      "title": "Grafana Tempo 3.1 Adds Query-Based Trace Redaction and Sampling-Aware TraceQL Metrics",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/grafana-tempo-31/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-15T10:00:00.000Z",
-      "summaryShort": "Grafana Tempo 3.1 Adds Query-Based Trace Redaction and Sampling-Aware TraceQL Metrics. Grafana Labs has released Tempo 3.1, the first minor update to the 3.0 architecture.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/zod-schema-compliation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-16T15:22:00.000Z",
+      "summaryShort": "Zod Brings In-Process Schema Compilation and a 9x Cut in Memory Footprint. Zod is a TypeScript-focused schema validation library that recently released versions 4.5 and 4.6.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "article-server-side-dpop-and-token-exchange-in-spring-security-7",
-      "title": "Article: Server-Side DPoP and Token Exchange in Spring Security 7",
+      "id": "uber-automates-dependency-analysis-across-its-service-mesh",
+      "title": "Uber Automates Dependency Analysis Across Its Service Mesh",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/spring-security-7-server-side-dpop-token-exchange/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-15T09:00:00.000Z",
-      "summaryShort": "Article: Server-Side DPoP and Token Exchange in Spring Security 7. Spring Authorization Server now lives inside Spring Security 7 under the same Maven coordinates, so the upgrade is a version bump.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/uber-automated-dependency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-16T14:39:00.000Z",
+      "summaryShort": "Uber Automates Dependency Analysis Across Its Service Mesh. Uber has developed an automated dependency analysis system that uses RPC middleware and production metrics to correlate caller and downstream failures.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-",
-      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-      "publishedAt": "2026-10-16T01:17:43.000Z",
-      "summaryShort": "Tesla reveals SpaceX-powered Roadster that flies and falls with style. The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
+      "id": "ai-in-production-panellists-highlight-silent-failures-harness-en",
+      "title": "AI in Production: Panellists Highlight Silent Failures, Harness Engineering, and Agent Governance",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/ai-systems-production/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-16T14:14:00.000Z",
+      "summaryShort": "AI in Production: Panellists Highlight Silent Failures, Harness Engineering, and Agent Governance. A recent InfoQ webinar examined operational challenges in deploying agentic systems.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "when-it-came-to-cal-ai-s-viral-success-a-small-army-of-influence",
-      "title": "When it came to Cal AI's viral success, a small army of influencers paid off",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "publishedAt": "2026-10-15T23:44:56.000Z",
-      "summaryShort": "When it came to Cal AI's viral success, a small army of influencers paid off. The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "id": "grafana-applies-slos-and-error-budgets-to-ai-agent-behaviour",
+      "title": "Grafana Applies SLOs and Error Budgets to AI Agent Behaviour",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/grafana-slo-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-16T12:00:00.000Z",
+      "summaryShort": "Grafana Applies SLOs and Error Budgets to AI Agent Behaviour. Grafana Labs is proposing a familiar reliability engineering approach for one of the less familiar problems in modern software: how to measure whether an AI agent is actually beh",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-",
-      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+      "id": "mini-book-evolutionary-architecture-in-practice",
+      "title": "Mini book: Evolutionary Architecture in Practice",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/minibooks/evolutionary-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-16T11:30:00.000Z",
+      "summaryShort": "Mini book: Evolutionary Architecture in Practice. Discover how to keep software evolvable as systems, technology, and teams shift.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "waymo-s-robotaxis-are-headed-to-canada",
+      "title": "Waymo's robotaxis are headed to Canada",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-      "publishedAt": "2026-10-15T23:33:45.000Z",
-      "summaryShort": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems. Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
+      "sourceUrl": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+      "publishedAt": "2026-10-16T16:06:38.000Z",
+      "summaryShort": "Waymo's robotaxis are headed to Canada. The company will start off by testing its self-driving vehicles on Toronto's streets.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "elorian-s-first-ai-model-wants-to-reason-with-images-not-just-ab",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "publishedAt": "2026-10-16T16:01:37.000Z",
+      "summaryShort": "Elorian’s first AI model wants to reason with images, not just about them. according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on o",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-h",
+      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+      "publishedAt": "2026-10-16T16:00:00.000Z",
+      "summaryShort": "Tressfecta wants to make hair braiding a less arduous task for hairstylists. Tressfecta will be at this year's TechCrunch Disrupt!",
       "tags": [
         "Engineering"
       ]
