@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-16T16:22:33.525Z",
+  "generatedAt": "2026-10-17T03:47:02.821Z",
   "items": [
+    {
+      "id": "google-envharness-enables-self-evolving-agents-to-learn-in-dynam",
+      "title": "Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/envharness-self-evolving-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-16T19:00:00.000Z",
+      "summaryShort": "Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments. Google researchers open sourced EnvHarness, a framework that dynamically adapts agent-training environments to an agent's weaknesses without modifying the age",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "zod-brings-in-process-schema-compilation-and-a-9x-cut-in-memory-",
       "title": "Zod Brings In-Process Schema Compilation and a 9x Cut in Memory Footprint",
@@ -46,45 +57,34 @@
       ]
     },
     {
-      "id": "mini-book-evolutionary-architecture-in-practice",
-      "title": "Mini book: Evolutionary Architecture in Practice",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/minibooks/evolutionary-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-16T11:30:00.000Z",
-      "summaryShort": "Mini book: Evolutionary Architecture in Practice. Discover how to keep software evolvable as systems, technology, and teams shift.",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "waymo-s-robotaxis-are-headed-to-canada",
-      "title": "Waymo's robotaxis are headed to Canada",
+      "id": "mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-",
+      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-      "publishedAt": "2026-10-16T16:06:38.000Z",
-      "summaryShort": "Waymo's robotaxis are headed to Canada. The company will start off by testing its self-driving vehicles on Toronto's streets.",
+      "sourceUrl": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "publishedAt": "2026-10-17T02:36:18.000Z",
+      "summaryShort": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept. Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, ",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "elorian-s-first-ai-model-wants-to-reason-with-images-not-just-ab",
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "id": "replit-is-no-longer-working-with-anthropic-ceo-says",
+      "title": "Replit is no longer working with Anthropic, CEO says",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "publishedAt": "2026-10-16T16:01:37.000Z",
-      "summaryShort": "Elorian’s first AI model wants to reason with images, not just about them. according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on o",
+      "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "publishedAt": "2026-10-16T21:22:28.000Z",
+      "summaryShort": "Replit is no longer working with Anthropic, CEO says. Masad said the decision was made for a number of different reasons, including cost.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-h",
-      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+      "id": "porsche-s-electric-macan-turbo-is-an-automotive-existential-cris",
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-      "publishedAt": "2026-10-16T16:00:00.000Z",
-      "summaryShort": "Tressfecta wants to make hair braiding a less arduous task for hairstylists. Tressfecta will be at this year's TechCrunch Disrupt!",
+      "sourceUrl": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "publishedAt": "2026-10-16T19:40:00.000Z",
+      "summaryShort": "Porsche’s electric Macan Turbo is an automotive existential crisis. The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
       "tags": [
         "Engineering"
       ]
