@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-17T03:47:02.821Z",
+  "generatedAt": "2026-10-17T15:17:04.160Z",
   "items": [
+    {
+      "id": "reverse-engineer-anything-project-brings-ai-agents-to-binary-ana",
+      "title": "Reverse Engineer Anything Project Brings AI Agents to Binary Analysis",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-17T06:28:00.000Z",
+      "summaryShort": "Reverse Engineer Anything Project Brings AI Agents to Binary Analysis. Reverse Engineer Anything (REA) is an open-source project with over 200K GitHub stars that connects coding agents such as Claude Code and Codex to reverse-engineering to",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "amazon-acquires-ducklabs-and-integrates-duckdb-in-amazon-aurora-",
+      "title": "Amazon Acquires DuckLabs and Integrates DuckDB in Amazon Aurora PostgreSQL",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/amazon-acquires-ducklabs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-17T06:00:00.000Z",
+      "summaryShort": "Amazon Acquires DuckLabs and Integrates DuckDB in Amazon Aurora PostgreSQL. Amazon has acquired DuckLabs, the company behind the analytical database DuckDB.",
+      "tags": [
+        "Databases"
+      ]
+    },
     {
       "id": "google-envharness-enables-self-evolving-agents-to-learn-in-dynam",
       "title": "Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments",
@@ -32,28 +54,6 @@
       "summaryShort": "Uber Automates Dependency Analysis Across Its Service Mesh. Uber has developed an automated dependency analysis system that uses RPC middleware and production metrics to correlate caller and downstream failures.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "ai-in-production-panellists-highlight-silent-failures-harness-en",
-      "title": "AI in Production: Panellists Highlight Silent Failures, Harness Engineering, and Agent Governance",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/ai-systems-production/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-16T14:14:00.000Z",
-      "summaryShort": "AI in Production: Panellists Highlight Silent Failures, Harness Engineering, and Agent Governance. A recent InfoQ webinar examined operational challenges in deploying agentic systems.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "grafana-applies-slos-and-error-budgets-to-ai-agent-behaviour",
-      "title": "Grafana Applies SLOs and Error Budgets to AI Agent Behaviour",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/grafana-slo-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-16T12:00:00.000Z",
-      "summaryShort": "Grafana Applies SLOs and Error Budgets to AI Agent Behaviour. Grafana Labs is proposing a familiar reliability engineering approach for one of the less familiar problems in modern software: how to measure whether an AI agent is actually beh",
-      "tags": [
-        "AI"
       ]
     },
     {
