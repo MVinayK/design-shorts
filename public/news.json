@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-10-18T03:53:33.668Z",
+  "generatedAt": "2026-10-18T15:38:40.082Z",
   "items": [
+    {
+      "id": "google-adopts-pyrefly-for-faster-more-accurate-python-type-check",
+      "title": "Google Adopts Pyrefly for Faster, More Accurate Python Type Checking",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/google-pyrefly-python/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-18T15:00:00.000Z",
+      "summaryShort": "Google Adopts Pyrefly for Faster, More Accurate Python Type Checking. Google has replaced its long-standing Python type checker, Pytype, with Pyrefly, an open-source tool originally developed by Meta.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "aws-introduces-preview-of-well-architected-agent",
+      "title": "AWS Introduces Preview of Well-Architected Agent",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/aws-well-architected-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-18T14:29:00.000Z",
+      "summaryShort": "AWS Introduces Preview of Well-Architected Agent. AWS recently announced the preview of the Well-Architected Agent, a service that analyzes environments against Well-Architected best practices and provides prioritized recommendations across",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "aws-will-run-its-european-sovereign-cloud-without-the-global-bac",
+      "title": "AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-18T05:30:00.000Z",
+      "summaryShort": "AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours. On October 24, AWS will operate its European Sovereign Cloud without a connection to the AWS Global Network backbone, with a team of EU residents and t",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "reverse-engineer-anything-project-brings-ai-agents-to-binary-ana",
       "title": "Reverse Engineer Anything Project Brings AI Agents to Binary Analysis",
@@ -21,39 +55,6 @@
       "summaryShort": "Amazon Acquires DuckLabs and Integrates DuckDB in Amazon Aurora PostgreSQL. Amazon has acquired DuckLabs, the company behind the analytical database DuckDB.",
       "tags": [
         "Databases"
-      ]
-    },
-    {
-      "id": "google-envharness-enables-self-evolving-agents-to-learn-in-dynam",
-      "title": "Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/envharness-self-evolving-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-16T19:00:00.000Z",
-      "summaryShort": "Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments. Google researchers open sourced EnvHarness, a framework that dynamically adapts agent-training environments to an agent's weaknesses without modifying the age",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "zod-brings-in-process-schema-compilation-and-a-9x-cut-in-memory-",
-      "title": "Zod Brings In-Process Schema Compilation and a 9x Cut in Memory Footprint",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/zod-schema-compliation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-16T15:22:00.000Z",
-      "summaryShort": "Zod Brings In-Process Schema Compilation and a 9x Cut in Memory Footprint. Zod is a TypeScript-focused schema validation library that recently released versions 4.5 and 4.6.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "uber-automates-dependency-analysis-across-its-service-mesh",
-      "title": "Uber Automates Dependency Analysis Across Its Service Mesh",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/uber-automated-dependency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-16T14:39:00.000Z",
-      "summaryShort": "Uber Automates Dependency Analysis Across Its Service Mesh. Uber has developed an automated dependency analysis system that uses RPC middleware and production metrics to correlate caller and downstream failures.",
-      "tags": [
-        "Engineering"
       ]
     },
     {
