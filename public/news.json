@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:17:04.160Z",
+  "generatedAt": "2026-10-18T03:53:33.668Z",
   "items": [
     {
       "id": "reverse-engineer-anything-project-brings-ai-agents-to-binary-ana",
@@ -57,34 +57,34 @@
       ]
     },
     {
-      "id": "mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-",
-      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "id": "meta-removes-language-that-raised-scraping-and-ai-training-conce",
+      "title": "Meta removes language that raised scraping and AI training concerns",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-      "publishedAt": "2026-10-17T02:36:18.000Z",
-      "summaryShort": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept. Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, ",
+      "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "publishedAt": "2026-10-17T21:31:32.000Z",
+      "summaryShort": "Meta removes language that raised scraping and AI training concerns. A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "tiktok-permanently-bans-musk-documentary-advertising-account",
+      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "publishedAt": "2026-10-17T20:55:52.000Z",
+      "summaryShort": "TikTok permanently bans ‘Musk’ documentary advertising account. A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "replit-is-no-longer-working-with-anthropic-ceo-says",
-      "title": "Replit is no longer working with Anthropic, CEO says",
+      "id": "anthropic-says-its-workforce-has-become-less-junior-and-is-spend",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "publishedAt": "2026-10-16T21:22:28.000Z",
-      "summaryShort": "Replit is no longer working with Anthropic, CEO says. Masad said the decision was made for a number of different reasons, including cost.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "porsche-s-electric-macan-turbo-is-an-automotive-existential-cris",
-      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-      "publishedAt": "2026-10-16T19:40:00.000Z",
-      "summaryShort": "Porsche’s electric Macan Turbo is an automotive existential crisis. The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+      "sourceUrl": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "publishedAt": "2026-10-17T20:21:19.000Z",
+      "summaryShort": "Anthropic says its workforce has become less junior and is spending more time in meetings. The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
       "tags": [
         "Engineering"
       ]
