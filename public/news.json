@@ -1,91 +1,91 @@
 {
-  "generatedAt": "2026-10-19T04:02:24.481Z",
+  "generatedAt": "2026-10-19T18:33:43.870Z",
   "items": [
     {
-      "id": "google-adopts-pyrefly-for-faster-more-accurate-python-type-check",
-      "title": "Google Adopts Pyrefly for Faster, More Accurate Python Type Checking",
+      "id": "pinterest-uses-event-time-watermarks-to-finalize-petabyte-scale-",
+      "title": "Pinterest Uses Event Time Watermarks to Finalize Petabyte Scale Data Partitions",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/google-pyrefly-python/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-18T15:00:00.000Z",
-      "summaryShort": "Google Adopts Pyrefly for Faster, More Accurate Python Type Checking. Google has replaced its long-standing Python type checker, Pytype, with Pyrefly, an open-source tool originally developed by Meta.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/pinterest-event-time-partition/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-19T14:37:00.000Z",
+      "summaryShort": "Pinterest Uses Event Time Watermarks to Finalize Petabyte Scale Data Partitions. Pinterest has introduced event time-based partition finalization for its database ingestion framework.",
       "tags": [
-        "Cloud"
+        "Databases"
       ]
     },
     {
-      "id": "aws-introduces-preview-of-well-architected-agent",
-      "title": "AWS Introduces Preview of Well-Architected Agent",
+      "id": "jep-543-finalizes-structured-concurrency-in-jdk-28-ending-seven-",
+      "title": "JEP 543 Finalizes Structured Concurrency in JDK 28, Ending Seven Preview Rounds",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/aws-well-architected-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-18T14:29:00.000Z",
-      "summaryShort": "AWS Introduces Preview of Well-Architected Agent. AWS recently announced the preview of the Well-Architected Agent, a service that analyzes environments against Well-Architected best practices and provides prioritized recommendations across",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/jep-543-jdk-28/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-19T14:30:00.000Z",
+      "summaryShort": "JEP 543 Finalizes Structured Concurrency in JDK 28, Ending Seven Preview Rounds. JDK 28 finalizes structured concurrency through JEP 543, with no API changes from JDK 27.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "article-from-microservices-to-agents-the-next-evolution-of-distr",
+      "title": "Article: From Microservices to Agents: The Next Evolution of Distributed Systems",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/distributed-systems-microservices-agentic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-19T11:00:00.000Z",
+      "summaryShort": "Article: From Microservices to Agents: The Next Evolution of Distributed Systems. The article examines the transition from microservices to agentic AI architecture in distributed systems.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "podcast-the-future-of-web-apps-will-ai-agents-generate-uis-on-th",
+      "title": "Podcast: The Future of Web Apps: Will AI Agents Generate UIs on the Fly?",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/future-web-apps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-19T11:00:00.000Z",
+      "summaryShort": "Podcast: The Future of Web Apps: Will AI Agents Generate UIs on the Fly?. Rachel Lee Nabors, former React core team member, dives into the architecture and philosophy behind local-first applications, exploring how small language models (SLM",
       "tags": [
         "AI",
         "Cloud"
       ]
     },
     {
-      "id": "aws-will-run-its-european-sovereign-cloud-without-the-global-bac",
-      "title": "AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours",
+      "id": "embeddinggemma-2-expands-beyond-text-to-support-code-images-vide",
+      "title": "EmbeddingGemma 2 Expands Beyond Text to Support Code, Images, Video, and Audio",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-18T05:30:00.000Z",
-      "summaryShort": "AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours. On October 24, AWS will operate its European Sovereign Cloud without a connection to the AWS Global Network backbone, with a team of EU residents and t",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "reverse-engineer-anything-project-brings-ai-agents-to-binary-ana",
-      "title": "Reverse Engineer Anything Project Brings AI Agents to Binary Analysis",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-17T06:28:00.000Z",
-      "summaryShort": "Reverse Engineer Anything Project Brings AI Agents to Binary Analysis. Reverse Engineer Anything (REA) is an open-source project with over 200K GitHub stars that connects coding agents such as Claude Code and Codex to reverse-engineering to",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/embeddinggemma-2-multimodal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-19T10:00:00.000Z",
+      "summaryShort": "EmbeddingGemma 2 Expands Beyond Text to Support Code, Images, Video, and Audio. Based on Gemma 4 and released under the Apache 2.0 license, Google's EmbeddingGemma 2 is a compact, open-weight, multimodal embedding model designed to make sem",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "amazon-acquires-ducklabs-and-integrates-duckdb-in-amazon-aurora-",
-      "title": "Amazon Acquires DuckLabs and Integrates DuckDB in Amazon Aurora PostgreSQL",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/amazon-acquires-ducklabs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-17T06:00:00.000Z",
-      "summaryShort": "Amazon Acquires DuckLabs and Integrates DuckDB in Amazon Aurora PostgreSQL. Amazon has acquired DuckLabs, the company behind the analytical database DuckDB.",
+      "id": "ai-assistant-startup-town-nabs-unicorn-valuation-four-months-aft",
+      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "publishedAt": "2026-10-19T18:00:39.000Z",
+      "summaryShort": "AI assistant startup Town nabs unicorn valuation four months after launch. AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
       "tags": [
-        "Databases"
+        "AI"
       ]
     },
     {
-      "id": "no-agenda-no-rush-no-leaving-san-francisco-benchmark-s-partners-",
-      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "id": "rivian-s-ceo-says-autonomy-will-enable-8216-dramatically-differe",
+      "title": "Rivian's CEO says autonomy will enable &#8216;dramatically different' vehicle designs",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-      "publishedAt": "2026-10-18T21:00:00.000Z",
-      "summaryShort": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market. Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen t",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "anthropic-says-it-s-committing-5-of-its-shares-to-a-public-benef",
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "publishedAt": "2026-10-18T20:37:40.000Z",
-      "summaryShort": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’. Anthropic said that it will commit 5% of its shares to the fund.",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+      "publishedAt": "2026-10-19T17:39:51.000Z",
+      "summaryShort": "Rivian's CEO says autonomy will enable &#8216;dramatically different' vehicle designs. His vision will culminate with the R4 vehicle.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "everyone-s-watching-the-elizabeth-holmes-documentary-you-can-see",
-      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "id": "amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-",
+      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
-      "publishedAt": "2026-10-18T19:03:38.000Z",
-      "summaryShort": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’. \"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+      "publishedAt": "2026-10-19T16:55:56.000Z",
+      "summaryShort": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant. Amazon and X-energy have inked another deal to deploy nuclear power to the grid.",
       "tags": [
         "Engineering"
       ]
