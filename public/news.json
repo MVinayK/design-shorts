@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-10-20T04:15:39.693Z",
+  "generatedAt": "2026-10-20T16:36:58.851Z",
   "items": [
+    {
+      "id": "github-actions-runner-controller-0-15-0-targets-reliability-at-s",
+      "title": "GitHub Actions Runner Controller 0.15.0 Targets Reliability at Scale",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/github-runner-controller-0-15/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "summaryShort": "GitHub Actions Runner Controller 0.15.0 Targets Reliability at Scale. GitHub has released Actions Runner Controller (ARC) 0.15.0, introducing reliability, scalability, and observability improvements for organisations running self-hosted Git",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-beyond-the-prototype-scaling-framework-agnostic-ai-",
+      "title": "Presentation: Beyond the Prototype: Scaling Framework Agnostic AI Agent Infrastructure with Ray",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/scale-llm-agents-production-ray/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-20T11:00:00.000Z",
+      "summaryShort": "Presentation: Beyond the Prototype: Scaling Framework Agnostic AI Agent Infrastructure with Ray. The speakers discuss transitioning AI agents from local FastAPI prototypes to resilient production systems on Kubernetes using Ray.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "java-news-roundup-jeps-for-jdk-28-azul-payara-gatherers4j-google",
       "title": "Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs",
@@ -35,59 +58,36 @@
       ]
     },
     {
-      "id": "article-from-microservices-to-agents-the-next-evolution-of-distr",
-      "title": "Article: From Microservices to Agents: the Next Evolution of Distributed Systems",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/distributed-systems-microservices-agentic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-19T11:00:00.000Z",
-      "summaryShort": "Article: From Microservices to Agents: the Next Evolution of Distributed Systems. The article examines the transition from microservices to agentic AI architecture in distributed systems.",
+      "id": "ex-nvidia-turned-vc-amulya-vishwanath-8216-physical-ai-is-in-it-",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: &#8216;Physical AI is in it's LEGO era'",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "publishedAt": "2026-10-20T16:20:06.000Z",
+      "summaryShort": "Ex-Nvidia-turned-VC Amulya Vishwanath: &#8216;Physical AI is in it's LEGO era'. It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "podcast-the-future-of-web-apps-will-ai-agents-generate-uis-on-th",
-      "title": "Podcast: The Future of Web Apps: Will AI Agents Generate UIs on the Fly?",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/future-web-apps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-19T11:00:00.000Z",
-      "summaryShort": "Podcast: The Future of Web Apps: Will AI Agents Generate UIs on the Fly?. Rachel Lee Nabors, former React core team member, dives into the architecture and philosophy behind local-first applications, exploring how small language models (SLM",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "walmart-s-flipkart-is-quietly-building-a-food-delivery-challenge",
-      "title": "Walmart's Flipkart is quietly building a food delivery challenger in India",
+      "id": "streaming-guide-justwatch-becomes-a-streamer-itself",
+      "title": "Streaming guide JustWatch becomes a streamer itself",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
-      "publishedAt": "2026-10-20T02:00:00.000Z",
-      "summaryShort": "Walmart's Flipkart is quietly building a food delivery challenger in India. Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
+      "publishedAt": "2026-10-20T16:01:24.000Z",
+      "summaryShort": "Streaming guide JustWatch becomes a streamer itself. JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month a",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "id": "plants-can-speak-using-electricity-so-this-startup-built-an-ai-m",
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "publishedAt": "2026-10-20T01:27:03.000Z",
-      "summaryShort": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back. Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and p",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "publishedAt": "2026-10-20T16:00:00.000Z",
+      "summaryShort": "Plants can speak using electricity, so this startup built an AI model to decipher their language. Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45b",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "publishedAt": "2026-10-19T23:39:38.000Z",
-      "summaryShort": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal. If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
