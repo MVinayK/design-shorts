@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-19T18:33:43.870Z",
+  "generatedAt": "2026-10-20T04:15:39.693Z",
   "items": [
+    {
+      "id": "java-news-roundup-jeps-for-jdk-28-azul-payara-gatherers4j-google",
+      "title": "Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/java-news-roundup-oct12-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-19T20:00:00.000Z",
+      "summaryShort": "Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs. This week's Java roundup for October 12th, 2026, features news highlighting: three OpenJDK JEPs targeted for JDK 28; the October 2026 editi",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "pinterest-uses-event-time-watermarks-to-finalize-petabyte-scale-",
       "title": "Pinterest Uses Event Time Watermarks to Finalize Petabyte Scale Data Partitions",
@@ -25,11 +36,11 @@
     },
     {
       "id": "article-from-microservices-to-agents-the-next-evolution-of-distr",
-      "title": "Article: From Microservices to Agents: The Next Evolution of Distributed Systems",
+      "title": "Article: From Microservices to Agents: the Next Evolution of Distributed Systems",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/articles/distributed-systems-microservices-agentic-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-10-19T11:00:00.000Z",
-      "summaryShort": "Article: From Microservices to Agents: The Next Evolution of Distributed Systems. The article examines the transition from microservices to agentic AI architecture in distributed systems.",
+      "summaryShort": "Article: From Microservices to Agents: the Next Evolution of Distributed Systems. The article examines the transition from microservices to agentic AI architecture in distributed systems.",
       "tags": [
         "AI"
       ]
@@ -47,45 +58,34 @@
       ]
     },
     {
-      "id": "embeddinggemma-2-expands-beyond-text-to-support-code-images-vide",
-      "title": "EmbeddingGemma 2 Expands Beyond Text to Support Code, Images, Video, and Audio",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/embeddinggemma-2-multimodal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-19T10:00:00.000Z",
-      "summaryShort": "EmbeddingGemma 2 Expands Beyond Text to Support Code, Images, Video, and Audio. Based on Gemma 4 and released under the Apache 2.0 license, Google's EmbeddingGemma 2 is a compact, open-weight, multimodal embedding model designed to make sem",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "ai-assistant-startup-town-nabs-unicorn-valuation-four-months-aft",
-      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+      "id": "walmart-s-flipkart-is-quietly-building-a-food-delivery-challenge",
+      "title": "Walmart's Flipkart is quietly building a food delivery challenger in India",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-      "publishedAt": "2026-10-19T18:00:39.000Z",
-      "summaryShort": "AI assistant startup Town nabs unicorn valuation four months after launch. AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "rivian-s-ceo-says-autonomy-will-enable-8216-dramatically-differe",
-      "title": "Rivian's CEO says autonomy will enable &#8216;dramatically different' vehicle designs",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
-      "publishedAt": "2026-10-19T17:39:51.000Z",
-      "summaryShort": "Rivian's CEO says autonomy will enable &#8216;dramatically different' vehicle designs. His vision will culminate with the R4 vehicle.",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "publishedAt": "2026-10-20T02:00:00.000Z",
+      "summaryShort": "Walmart's Flipkart is quietly building a food delivery challenger in India. Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-",
-      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+      "id": "mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
-      "publishedAt": "2026-10-19T16:55:56.000Z",
-      "summaryShort": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant. Amazon and X-energy have inked another deal to deploy nuclear power to the grid.",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "publishedAt": "2026-10-20T01:27:03.000Z",
+      "summaryShort": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back. Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and p",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45b",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "publishedAt": "2026-10-19T23:39:38.000Z",
+      "summaryShort": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal. If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
       "tags": [
         "Engineering"
       ]
