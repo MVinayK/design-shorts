@@ -1,93 +1,92 @@
 {
-  "generatedAt": "2026-10-21T04:03:50.832Z",
+  "generatedAt": "2026-10-21T16:55:23.416Z",
   "items": [
     {
-      "id": "tornadovm-7-enables-gpu-native-workloads-from-java-applications",
-      "title": "TornadoVM 7 Enables GPU-Native Workloads From Java Applications",
+      "id": "netflix-bridges-aws-iam-and-internal-identity-with-workload-atte",
+      "title": "Netflix Bridges AWS IAM and Internal Identity with Workload Attestation",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-21T03:00:00.000Z",
-      "summaryShort": "TornadoVM 7 Enables GPU-Native Workloads From Java Applications. TornadoVM, an open-source heterogeneous programming framework for Java has reached version 7.0.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/netflix-workload-attestation-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-21T13:45:00.000Z",
+      "summaryShort": "Netflix Bridges AWS IAM and Internal Identity with Workload Attestation. Netflix has developed a workload attestation mechanism for Apache Spark jobs running on Amazon EMR.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "github-actions-runner-controller-0-15-0-targets-reliability-at-s",
-      "title": "GitHub Actions Runner Controller 0.15.0 Targets Reliability at Scale",
+      "id": "article-series-agentic-ai-architecture",
+      "title": "Article Series: Agentic AI Architecture",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/github-runner-controller-0-15/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-20T12:00:00.000Z",
-      "summaryShort": "GitHub Actions Runner Controller 0.15.0 Targets Reliability at Scale. GitHub has released Actions Runner Controller (ARC) 0.15.0, introducing reliability, scalability, and observability improvements for organisations running self-hosted Git",
+      "sourceUrl": "https://www.infoq.com/articles/agentic-ai-architecture-article-series/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-21T11:30:00.000Z",
+      "summaryShort": "Article Series: Agentic AI Architecture. In this article series, we try to establish agentic AI architecture as a new type of software architecture that will likely dominate the industry for years to come.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "presentation-beyond-the-prototype-scaling-framework-agnostic-ai-",
-      "title": "Presentation: Beyond the Prototype: Scaling Framework Agnostic AI Agent Infrastructure with Ray",
+      "id": "presentation-ai-is-an-amplifier-scale-high-performance-not-dysfu",
+      "title": "Presentation: AI is an Amplifier: Scale High Performance, Not Dysfunction",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/scale-llm-agents-production-ray/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-20T11:00:00.000Z",
-      "summaryShort": "Presentation: Beyond the Prototype: Scaling Framework Agnostic AI Agent Infrastructure with Ray. The speakers discuss transitioning AI agents from local FastAPI prototypes to resilient production systems on Kubernetes using Ray.",
+      "sourceUrl": "https://www.infoq.com/presentations/dora-ai-adoption-engineering-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-21T11:00:00.000Z",
+      "summaryShort": "Presentation: AI is an Amplifier: Scale High Performance, Not Dysfunction. Nathen Harvey shares insights from DORA research on AI adoption in software delivery.",
       "tags": [
-        "AI",
-        "Cloud"
+        "AI"
       ]
     },
     {
-      "id": "java-news-roundup-jeps-for-jdk-28-azul-payara-gatherers4j-google",
-      "title": "Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs",
+      "id": "google-synthid-detector-simplifies-watermark-detection-and-expan",
+      "title": "Google SynthID Detector Simplifies Watermark Detection and Expands Support to Other AI Providers",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/java-news-roundup-oct12-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-19T20:00:00.000Z",
-      "summaryShort": "Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs. This week's Java roundup for October 12th, 2026, features news highlighting: three OpenJDK JEPs targeted for JDK 28; the October 2026 editi",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/synthid-watermarking-detector/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-21T10:00:00.000Z",
+      "summaryShort": "Google SynthID Detector Simplifies Watermark Detection and Expands Support to Other AI Providers. Google DeepMind announced the global availability of SynthID Detector, a tool designed to help identify AI-generated content, including media ",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "pinterest-uses-event-time-watermarks-to-finalize-petabyte-scale-",
-      "title": "Pinterest Uses Event Time Watermarks to Finalize Petabyte Scale Data Partitions",
+      "id": "article-distributed-spring-batch-without-a-message-broker",
+      "title": "Article: Distributed Spring Batch Without a Message Broker",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/pinterest-event-time-partition/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-19T14:37:00.000Z",
-      "summaryShort": "Pinterest Uses Event Time Watermarks to Finalize Petabyte Scale Data Partitions. Pinterest has introduced event time-based partition finalization for its database ingestion framework.",
+      "sourceUrl": "https://www.infoq.com/articles/spring-batch-without-broker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-21T09:00:00.000Z",
+      "summaryShort": "Article: Distributed Spring Batch Without a Message Broker. Distributed Spring Batch partitioning already needs a shared, persistent job repository.",
       "tags": [
         "Databases"
       ]
     },
     {
-      "id": "anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-pe",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "id": "foursquare-co-founder-says-equity-holders-saw-no-returns-from-th",
+      "title": "Foursquare co-founder says equity holders saw no returns from the company's acquisition",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "publishedAt": "2026-10-20T23:01:23.000Z",
-      "summaryShort": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed. The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the perm",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "spacex-and-tesla-boards-form-special-committees-to-review-merger",
-      "title": "SpaceX and Tesla boards form special committees to review merger",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-      "publishedAt": "2026-10-20T22:57:57.000Z",
-      "summaryShort": "SpaceX and Tesla boards form special committees to review merger. Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+      "publishedAt": "2026-10-21T14:03:11.000Z",
+      "summaryShort": "Foursquare co-founder says equity holders saw no returns from the company's acquisition. Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "hugging-face-ceo-warns-that-netflix-s-openai-hack-documentary-is",
-      "title": "Hugging Face CEO warns that Netflix's OpenAI hack documentary isn't accurate",
+      "id": "ai-promises-productivity-but-for-managers-it-s-mostly-a-headache",
+      "title": "AI promises productivity, but for managers, it's mostly a headache for now",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "publishedAt": "2026-10-20T22:24:02.000Z",
-      "summaryShort": "Hugging Face CEO warns that Netflix's OpenAI hack documentary isn't accurate. Before you share the Netflix documentary \"AI Gone Rogue\" take note.",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "publishedAt": "2026-10-21T14:00:00.000Z",
+      "summaryShort": "AI promises productivity, but for managers, it's mostly a headache for now. More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "heat-pump-tech-is-170-years-old-pascal-thinks-it-s-time-for-an-u",
+      "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+      "publishedAt": "2026-10-21T13:30:00.000Z",
+      "summaryShort": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update. Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
