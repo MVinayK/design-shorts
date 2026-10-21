@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-20T16:36:58.851Z",
+  "generatedAt": "2026-10-21T04:03:50.832Z",
   "items": [
+    {
+      "id": "tornadovm-7-enables-gpu-native-workloads-from-java-applications",
+      "title": "TornadoVM 7 Enables GPU-Native Workloads From Java Applications",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-21T03:00:00.000Z",
+      "summaryShort": "TornadoVM 7 Enables GPU-Native Workloads From Java Applications. TornadoVM, an open-source heterogeneous programming framework for Java has reached version 7.0.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "github-actions-runner-controller-0-15-0-targets-reliability-at-s",
       "title": "GitHub Actions Runner Controller 0.15.0 Targets Reliability at Scale",
@@ -47,45 +58,34 @@
       ]
     },
     {
-      "id": "jep-543-finalizes-structured-concurrency-in-jdk-28-ending-seven-",
-      "title": "JEP 543 Finalizes Structured Concurrency in JDK 28, Ending Seven Preview Rounds",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/jep-543-jdk-28/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-19T14:30:00.000Z",
-      "summaryShort": "JEP 543 Finalizes Structured Concurrency in JDK 28, Ending Seven Preview Rounds. JDK 28 finalizes structured concurrency through JEP 543, with no API changes from JDK 27.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "ex-nvidia-turned-vc-amulya-vishwanath-8216-physical-ai-is-in-it-",
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: &#8216;Physical AI is in it's LEGO era'",
+      "id": "anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-pe",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "publishedAt": "2026-10-20T16:20:06.000Z",
-      "summaryShort": "Ex-Nvidia-turned-VC Amulya Vishwanath: &#8216;Physical AI is in it's LEGO era'. It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "publishedAt": "2026-10-20T23:01:23.000Z",
+      "summaryShort": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed. The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the perm",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "streaming-guide-justwatch-becomes-a-streamer-itself",
-      "title": "Streaming guide JustWatch becomes a streamer itself",
+      "id": "spacex-and-tesla-boards-form-special-committees-to-review-merger",
+      "title": "SpaceX and Tesla boards form special committees to review merger",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
-      "publishedAt": "2026-10-20T16:01:24.000Z",
-      "summaryShort": "Streaming guide JustWatch becomes a streamer itself. JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month a",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "publishedAt": "2026-10-20T22:57:57.000Z",
+      "summaryShort": "SpaceX and Tesla boards form special committees to review merger. Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "plants-can-speak-using-electricity-so-this-startup-built-an-ai-m",
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "id": "hugging-face-ceo-warns-that-netflix-s-openai-hack-documentary-is",
+      "title": "Hugging Face CEO warns that Netflix's OpenAI hack documentary isn't accurate",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "publishedAt": "2026-10-20T16:00:00.000Z",
-      "summaryShort": "Plants can speak using electricity, so this startup built an AI model to decipher their language. Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "publishedAt": "2026-10-20T22:24:02.000Z",
+      "summaryShort": "Hugging Face CEO warns that Netflix's OpenAI hack documentary isn't accurate. Before you share the Netflix documentary \"AI Gone Rogue\" take note.",
       "tags": [
         "AI"
       ]
