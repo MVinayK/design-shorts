@@ -1,92 +1,92 @@
 {
-  "generatedAt": "2026-10-22T04:04:26.571Z",
+  "generatedAt": "2026-10-22T16:54:52.038Z",
   "items": [
     {
-      "id": "emudhra-intermediate-ca-compromise",
-      "title": "eMudhra Intermediate CA Compromise",
+      "id": "study-finds-ai-generated-code-fails-to-boost-productivity-due-to",
+      "title": "Study Finds AI-generated Code Fails to Boost Productivity Due to Downstream Bottlenecks",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/emudhra-ca-compromise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-21T17:30:00.000Z",
-      "summaryShort": "eMudhra Intermediate CA Compromise. Private keys for eight eMudhra intermediate CA certificates have been compromised, allowing attackers to forge certificates for any site.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/jellyfish-ai-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-22T14:00:00.000Z",
+      "summaryShort": "Study Finds AI-generated Code Fails to Boost Productivity Due to Downstream Bottlenecks. A recent Harvard study of 718 firms, using the Jellyfish analytics platform, finds that although AI coding assistants and agents increase code volume, ",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-actors-for-agents-patterns-for-production-ai",
+      "title": "Presentation: Actors for Agents: Patterns for Production AI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/actors-for-production-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-22T11:00:00.000Z",
+      "summaryShort": "Presentation: Actors for Agents: Patterns for Production AI. Manju Rajashekhar explains how the actor model solves the complex runtime challenges of production AI agents.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "vercel-labs-open-sources-fx-a-zig-coding-agent-designed-to-be-em",
+      "title": "Vercel Labs Open-Sources fx: A Zig Coding Agent Designed to Be Embedded",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/vercel-zig-fx-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-22T09:33:00.000Z",
+      "summaryShort": "Vercel Labs Open-Sources fx: A Zig Coding Agent Designed to Be Embedded. Vercel Labs has released fx, an experimental open-source coding agent written in Zig.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "article-ai-changes-the-data-interface-not-the-query-engine",
+      "title": "Article: AI Changes the Data Interface, Not the Query Engine",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/ai-changes-data-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-22T09:00:00.000Z",
+      "summaryShort": "Article: AI Changes the Data Interface, Not the Query Engine. This article presents a disaster-recovery analytics workflow in which an AI agent generates constrained SQL or Python, DuckDB computes reproducible facts from Parquet, and the ag",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "harbor-adds-docker-sandboxes-to-run-reproducible-ai-agent-evals-",
+      "title": "Harbor Adds Docker Sandboxes to Run Reproducible AI Agent Evals in Isolated MicroVMs",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/ai-agents-harbor-docker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-22T09:00:00.000Z",
+      "summaryShort": "Harbor Adds Docker Sandboxes to Run Reproducible AI Agent Evals in Isolated MicroVMs. Docker announced that Harbor, the open-source agent evaluation framework, now works with Docker Sandboxes.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "chinese-hackers-spied-on-thousands-of-companies-after-breaching-",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "publishedAt": "2026-10-22T16:47:17.000Z",
+      "summaryShort": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise. Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outs",
+      "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
+      "publishedAt": "2026-10-22T16:00:00.000Z",
+      "summaryShort": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements. Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "netflix-bridges-aws-iam-and-internal-identity-with-workload-atte",
-      "title": "Netflix Bridges AWS IAM and Internal Identity with Workload Attestation",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/netflix-workload-attestation-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-21T13:45:00.000Z",
-      "summaryShort": "Netflix Bridges AWS IAM and Internal Identity with Workload Attestation. Netflix has developed a workload attestation mechanism for Apache Spark jobs running on Amazon EMR.",
+      "id": "uber-puts-all-30-000-employees-on-chatgpt-work",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "publishedAt": "2026-10-22T16:00:00.000Z",
+      "summaryShort": "Uber puts all 30,000 employees on ChatGPT Work. The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "article-series-agentic-ai-architecture",
-      "title": "Article Series: Agentic AI Architecture",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/agentic-ai-architecture-article-series/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-21T11:30:00.000Z",
-      "summaryShort": "Article Series: Agentic AI Architecture. In this article series, we try to establish agentic AI architecture as a new type of software architecture that will likely dominate the industry for years to come.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-ai-is-an-amplifier-scale-high-performance-not-dysfu",
-      "title": "Presentation: AI is an Amplifier: Scale High Performance, Not Dysfunction",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/dora-ai-adoption-engineering-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-21T11:00:00.000Z",
-      "summaryShort": "Presentation: AI is an Amplifier: Scale High Performance, Not Dysfunction. Nathen Harvey shares insights from DORA research on AI adoption in software delivery.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "google-synthid-detector-simplifies-watermark-detection-and-expan",
-      "title": "Google SynthID Detector Simplifies Watermark Detection and Expands Support to Other AI Providers",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/synthid-watermarking-detector/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-21T10:00:00.000Z",
-      "summaryShort": "Google SynthID Detector Simplifies Watermark Detection and Expands Support to Other AI Providers. Google DeepMind announced the global availability of SynthID Detector, a tool designed to help identify AI-generated content, including media ",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "tesla-says-it-will-start-selling-cybercabs-by-end-of-year",
-      "title": "Tesla says it will start selling Cybercabs by end of year",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
-      "publishedAt": "2026-10-22T00:17:54.000Z",
-      "summaryShort": "Tesla says it will start selling Cybercabs by end of year. Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standard",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "blackstone-s-jas-khaira-says-fears-over-ai-buildout-debt-are-ove",
-      "title": "Blackstone's Jas Khaira says fears over AI-buildout debt are overblown",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "publishedAt": "2026-10-21T22:51:22.000Z",
-      "summaryShort": "Blackstone's Jas Khaira says fears over AI-buildout debt are overblown. Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created",
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "publishedAt": "2026-10-21T22:45:34.000Z",
-      "summaryShort": "Meta wants to pay for its broad AI buildout with a newly created class of stock. The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-      "tags": [
-        "AI"
       ]
     }
   ]
