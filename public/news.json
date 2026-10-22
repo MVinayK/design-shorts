@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-21T16:55:23.416Z",
+  "generatedAt": "2026-10-22T04:04:26.571Z",
   "items": [
+    {
+      "id": "emudhra-intermediate-ca-compromise",
+      "title": "eMudhra Intermediate CA Compromise",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/emudhra-ca-compromise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-21T17:30:00.000Z",
+      "summaryShort": "eMudhra Intermediate CA Compromise. Private keys for eight eMudhra intermediate CA certificates have been compromised, allowing attackers to forge certificates for any site.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "netflix-bridges-aws-iam-and-internal-identity-with-workload-atte",
       "title": "Netflix Bridges AWS IAM and Internal Identity with Workload Attestation",
@@ -46,47 +57,36 @@
       ]
     },
     {
-      "id": "article-distributed-spring-batch-without-a-message-broker",
-      "title": "Article: Distributed Spring Batch Without a Message Broker",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/spring-batch-without-broker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-21T09:00:00.000Z",
-      "summaryShort": "Article: Distributed Spring Batch Without a Message Broker. Distributed Spring Batch partitioning already needs a shared, persistent job repository.",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "foursquare-co-founder-says-equity-holders-saw-no-returns-from-th",
-      "title": "Foursquare co-founder says equity holders saw no returns from the company's acquisition",
+      "id": "tesla-says-it-will-start-selling-cybercabs-by-end-of-year",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
-      "publishedAt": "2026-10-21T14:03:11.000Z",
-      "summaryShort": "Foursquare co-founder says equity holders saw no returns from the company's acquisition. Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "publishedAt": "2026-10-22T00:17:54.000Z",
+      "summaryShort": "Tesla says it will start selling Cybercabs by end of year. Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standard",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "ai-promises-productivity-but-for-managers-it-s-mostly-a-headache",
-      "title": "AI promises productivity, but for managers, it's mostly a headache for now",
+      "id": "blackstone-s-jas-khaira-says-fears-over-ai-buildout-debt-are-ove",
+      "title": "Blackstone's Jas Khaira says fears over AI-buildout debt are overblown",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "publishedAt": "2026-10-21T14:00:00.000Z",
-      "summaryShort": "AI promises productivity, but for managers, it's mostly a headache for now. More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "publishedAt": "2026-10-21T22:51:22.000Z",
+      "summaryShort": "Blackstone's Jas Khaira says fears over AI-buildout debt are overblown. Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "heat-pump-tech-is-170-years-old-pascal-thinks-it-s-time-for-an-u",
-      "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
+      "id": "meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
-      "publishedAt": "2026-10-21T13:30:00.000Z",
-      "summaryShort": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update. Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "publishedAt": "2026-10-21T22:45:34.000Z",
+      "summaryShort": "Meta wants to pay for its broad AI buildout with a newly created class of stock. The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
