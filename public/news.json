@@ -1,92 +1,93 @@
 {
-  "generatedAt": "2026-10-23T04:07:52.680Z",
+  "generatedAt": "2026-10-23T16:46:50.850Z",
   "items": [
     {
-      "id": "study-finds-ai-generated-code-fails-to-boost-productivity-due-to",
-      "title": "Study Finds AI-generated Code Fails to Boost Productivity Due to Downstream Bottlenecks",
+      "id": "csiro-uses-serverless-architecture-to-query-100x-more-genomic-va",
+      "title": "CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/jellyfish-ai-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-22T14:00:00.000Z",
-      "summaryShort": "Study Finds AI-generated Code Fails to Boost Productivity Due to Downstream Bottlenecks. A recent Harvard study of 718 firms, using the Jellyfish analytics platform, finds that although AI coding assistants and agents increase code volume, ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/csiro-serverless-genomic-variant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-23T14:30:00.000Z",
+      "summaryShort": "CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS. CSIRO has developed Serverless Beacon, a serverless architecture for querying genomic variants without copying VCF files into a central database.",
       "tags": [
-        "AI"
+        "Databases"
       ]
     },
     {
-      "id": "presentation-actors-for-agents-patterns-for-production-ai",
-      "title": "Presentation: Actors for Agents: Patterns for Production AI",
+      "id": "aws-introduces-lambda-web-functions-for-node-js-applications",
+      "title": "AWS Introduces Lambda Web Functions for Node.js Applications",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/actors-for-production-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-22T11:00:00.000Z",
-      "summaryShort": "Presentation: Actors for Agents: Patterns for Production AI. Manju Rajashekhar explains how the actor model solves the complex runtime challenges of production AI agents.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "vercel-labs-open-sources-fx-a-zig-coding-agent-designed-to-be-em",
-      "title": "Vercel Labs Open-Sources fx: A Zig Coding Agent Designed to Be Embedded",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/vercel-zig-fx-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-22T09:33:00.000Z",
-      "summaryShort": "Vercel Labs Open-Sources fx: A Zig Coding Agent Designed to Be Embedded. Vercel Labs has released fx, an experimental open-source coding agent written in Zig.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "article-ai-changes-the-data-interface-not-the-query-engine",
-      "title": "Article: AI Changes the Data Interface, Not the Query Engine",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/ai-changes-data-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-22T09:00:00.000Z",
-      "summaryShort": "Article: AI Changes the Data Interface, Not the Query Engine. This article presents a disaster-recovery analytics workflow in which an AI agent generates constrained SQL or Python, DuckDB computes reproducible facts from Parquet, and the ag",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "harbor-adds-docker-sandboxes-to-run-reproducible-ai-agent-evals-",
-      "title": "Harbor Adds Docker Sandboxes to Run Reproducible AI Agent Evals in Isolated MicroVMs",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/ai-agents-harbor-docker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-22T09:00:00.000Z",
-      "summaryShort": "Harbor Adds Docker Sandboxes to Run Reproducible AI Agent Evals in Isolated MicroVMs. Docker announced that Harbor, the open-source agent evaluation framework, now works with Docker Sandboxes.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "publishedAt": "2026-10-23T04:00:00.000Z",
-      "summaryShort": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia. inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "left-alone-with-nothing-to-do-ai-agents-started-playing",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "publishedAt": "2026-10-23T00:45:37.000Z",
-      "summaryShort": "Left alone with nothing to do, AI agents started playing. MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "mark-zuckerberg-s-creative-plan-to-pay-california-s-proposed-bil",
-      "title": "Mark Zuckerberg's creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-      "publishedAt": "2026-10-22T23:50:41.000Z",
-      "summaryShort": "Mark Zuckerberg's creative plan to pay California’s proposed billionaire tax without losing control of Meta. A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionai",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/aws-lambda-web-functions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-23T12:49:00.000Z",
+      "summaryShort": "AWS Introduces Lambda Web Functions for Node.js Applications. AWS recently introduced Lambda Web Functions, allowing developers to run Node.js web applications using frameworks such as Express and Hono directly on Lambda, with support for c",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "cloudflare-brings-on-demand-cpu-and-memory-profiling-to-producti",
+      "title": "Cloudflare Brings On-Demand CPU and Memory Profiling to Production Workers",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/cloudflare-cpu-memory-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "summaryShort": "Cloudflare Brings On-Demand CPU and Memory Profiling to Production Workers. Cloudflare has introduced on-demand CPU and memory profiling for Workers and Durable Objects, allowing developers to investigate performance bottlenecks in producti",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "article-multi-cloud-finops-an-engineering-framework-for-cross-cl",
+      "title": "Article: Multi-Cloud FinOps: An Engineering Framework for Cross-Cloud Cost Optimization",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/multi-cloud-finops-cost-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-23T11:00:00.000Z",
+      "summaryShort": "Article: Multi-Cloud FinOps: An Engineering Framework for Cross-Cloud Cost Optimization. Multi-cloud flexibility comes with hidden egress costs driven by service placement and communication patterns.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "presentation-move-fast-don-t-break-trust-shipping-constantly-wit",
+      "title": "Presentation: Move Fast, Don’t Break Trust: Shipping Constantly with Humans and Beyond",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/monzo-microservices-devex/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-23T11:00:00.000Z",
+      "summaryShort": "Presentation: Move Fast, Don’t Break Trust: Shipping Constantly with Humans and Beyond. Suhail Patel discusses how Monzo structures its software engineering organization and technical stack to ship safely hundreds of times a day.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmar",
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "publishedAt": "2026-10-23T16:26:29.000Z",
+      "summaryShort": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels. Daytona is building a cloud for agents that's like giving every agent its own computer.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "commonwealth-fusion-systems-gets-85m-to-build-better-fusion-read",
+      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+      "publishedAt": "2026-10-23T16:20:28.000Z",
+      "summaryShort": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors. Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "what-some-of-anthropic-s-backers-are-reportedly-worth-before-its",
+      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "publishedAt": "2026-10-23T16:02:43.000Z",
+      "summaryShort": "What some of Anthropic’s backers are reportedly worth before its IPO. Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
+      "tags": [
+        "AI"
       ]
     }
   ]
