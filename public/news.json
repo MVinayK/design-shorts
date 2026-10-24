@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-24T04:00:48.788Z",
+  "generatedAt": "2026-10-24T15:40:05.256Z",
   "items": [
+    {
+      "id": "google-s-data-agent-kit-hits-ga-splitting-agent-guardrails-betwe",
+      "title": "Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-24T08:34:00.000Z",
+      "summaryShort": "Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM. Google has made Data Agent Kit generally available, a free set of MCP tools and 37 open-source skills that connect coding agents to more than fifteen Google",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "cloudflare-reclaims-100-tb-of-ram-by-optimizing-consistent-hashi",
+      "title": "Cloudflare Reclaims 100 TB of RAM by Optimizing Consistent Hashing",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/cloudflare-hashing-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-24T08:10:00.000Z",
+      "summaryShort": "Cloudflare Reclaims 100 TB of RAM by Optimizing Consistent Hashing. Cloudflare recently documented how it reduced the memory footprint of its internal load-balancing service by more than 100 TB by optimizing the Rust implementation of consi",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "csiro-uses-serverless-architecture-to-query-100x-more-genomic-va",
       "title": "CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS",
@@ -35,59 +57,36 @@
       ]
     },
     {
-      "id": "article-multi-cloud-finops-an-engineering-framework-for-cross-cl",
-      "title": "Article: Multi-Cloud FinOps: An Engineering Framework for Cross-Cloud Cost Optimization",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/multi-cloud-finops-cost-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-23T11:00:00.000Z",
-      "summaryShort": "Article: Multi-Cloud FinOps: An Engineering Framework for Cross-Cloud Cost Optimization. Multi-cloud flexibility comes with hidden egress costs driven by service placement and communication patterns.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-move-fast-don-t-break-trust-shipping-constantly-wit",
-      "title": "Presentation: Move Fast, Don’t Break Trust: Shipping Constantly with Humans and Beyond",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/monzo-microservices-devex/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-23T11:00:00.000Z",
-      "summaryShort": "Presentation: Move Fast, Don’t Break Trust: Shipping Constantly with Humans and Beyond. Suhail Patel discusses how Monzo structures its software engineering organization and technical stack to ship safely hundreds of times a day.",
+      "id": "php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet",
+      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "publishedAt": "2026-10-24T15:30:00.000Z",
+      "summaryShort": "PHP-ocalypse: How two critical web bugs almost broke the internet. Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major softwa",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "startups-don-t-need-to-go-viral-to-win-customers",
-      "title": "Startups don't need to go viral to win customers",
+      "id": "these-clever-apps-show-off-the-iphone-duo-s-potential",
+      "title": "These clever apps show off the iPhone Duo's potential",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-      "publishedAt": "2026-10-23T23:07:45.000Z",
-      "summaryShort": "Startups don't need to go viral to win customers. At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "sourceUrl": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+      "publishedAt": "2026-10-24T15:00:00.000Z",
+      "summaryShort": "These clever apps show off the iPhone Duo's potential. From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "openai-says-it-will-no-longer-train-its-ai-models-on-the-live-in",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "id": "forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s-pick",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "publishedAt": "2026-10-23T23:05:49.000Z",
-      "summaryShort": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”. OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "sourceUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "publishedAt": "2026-10-24T15:00:00.000Z",
+      "summaryShort": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats..",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microdu",
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "publishedAt": "2026-10-23T21:59:19.000Z",
-      "summaryShort": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
