@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-24T15:40:05.256Z",
+  "generatedAt": "2026-10-25T04:01:29.012Z",
   "items": [
+    {
+      "id": "google-optimizes-agent-development-kit-s-200k-line-python-codeba",
+      "title": "Google Optimizes Agent Development Kit's 200K-line Python Codebase Overnight with Gemini 4 Argon",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/google-argon-optimizes-adk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-24T16:00:00.000Z",
+      "summaryShort": "Google Optimizes Agent Development Kit's 200K-line Python Codebase Overnight with Gemini 4 Argon. Google explained how an 11-hour unattended run of Gemini 4 Argon produced two accepted optimizations for Google Agent Development Kit's codeba",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "google-s-data-agent-kit-hits-ga-splitting-agent-guardrails-betwe",
       "title": "Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM",
@@ -46,45 +57,35 @@
       ]
     },
     {
-      "id": "cloudflare-brings-on-demand-cpu-and-memory-profiling-to-producti",
-      "title": "Cloudflare Brings On-Demand CPU and Memory Profiling to Production Workers",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/cloudflare-cpu-memory-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-23T12:00:00.000Z",
-      "summaryShort": "Cloudflare Brings On-Demand CPU and Memory Profiling to Production Workers. Cloudflare has introduced on-demand CPU and memory profiling for Workers and Durable Objects, allowing developers to investigate performance bottlenecks in producti",
+      "id": "starlink-seems-to-be-working-normally-again-in-ukraine",
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "publishedAt": "2026-10-24T20:46:34.000Z",
+      "summaryShort": "Starlink seems to be working normally again in Ukraine. Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
       "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "will-ai-expose-the-rickety-infrastructure-of-the-internet",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "publishedAt": "2026-10-24T20:15:33.000Z",
+      "summaryShort": "Will AI expose the rickety infrastructure of the internet?. The moment you realize the internet is \"held together by glue and dreams.\"",
+      "tags": [
+        "AI",
         "Cloud"
       ]
     },
     {
-      "id": "php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet",
-      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "id": "the-ai-graveyard-a-running-list-of-projects-and-startups-that-di",
+      "title": "The AI graveyard: a running list of projects and startups that didn't make it",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-      "publishedAt": "2026-10-24T15:30:00.000Z",
-      "summaryShort": "PHP-ocalypse: How two critical web bugs almost broke the internet. Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major softwa",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "these-clever-apps-show-off-the-iphone-duo-s-potential",
-      "title": "These clever apps show off the iPhone Duo's potential",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-      "publishedAt": "2026-10-24T15:00:00.000Z",
-      "summaryShort": "These clever apps show off the iPhone Duo's potential. From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s-pick",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "publishedAt": "2026-10-24T15:00:00.000Z",
-      "summaryShort": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats..",
+      "sourceUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-10-24T19:00:00.000Z",
+      "summaryShort": "The AI graveyard: a running list of projects and startups that didn't make it. From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "tags": [
         "AI"
       ]
