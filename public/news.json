@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-25T04:01:29.012Z",
+  "generatedAt": "2026-10-25T15:50:32.249Z",
   "items": [
+    {
+      "id": "pingcap-breach-exposes-customer-records-and-source-code",
+      "title": "PingCAP Breach Exposes Customer Records and Source Code",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/pingcap-cloud-data-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-25T06:27:00.000Z",
+      "summaryShort": "PingCAP Breach Exposes Customer Records and Source Code. PingCAP recently confirmed unauthorized access to its internal systems and the theft of source code and customer-related data.",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "google-optimizes-agent-development-kit-s-200k-line-python-codeba",
       "title": "Google Optimizes Agent Development Kit's 200K-line Python Codebase Overnight with Gemini 4 Argon",
@@ -46,14 +57,14 @@
       ]
     },
     {
-      "id": "aws-introduces-lambda-web-functions-for-node-js-applications",
-      "title": "AWS Introduces Lambda Web Functions for Node.js Applications",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/aws-lambda-web-functions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-23T12:49:00.000Z",
-      "summaryShort": "AWS Introduces Lambda Web Functions for Node.js Applications. AWS recently introduced Lambda Web Functions, allowing developers to run Node.js web applications using frameworks such as Express and Hono directly on Lambda, with support for c",
+      "id": "the-hottest-ai-wearables-and-gadgets-you-should-know-about",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "publishedAt": "2026-10-25T14:10:00.000Z",
+      "summaryShort": "The hottest AI wearables and gadgets you should know about. We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
@@ -77,17 +88,6 @@
       "tags": [
         "AI",
         "Cloud"
-      ]
-    },
-    {
-      "id": "the-ai-graveyard-a-running-list-of-projects-and-startups-that-di",
-      "title": "The AI graveyard: a running list of projects and startups that didn't make it",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "publishedAt": "2026-10-24T19:00:00.000Z",
-      "summaryShort": "The AI graveyard: a running list of projects and startups that didn't make it. From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "tags": [
-        "AI"
       ]
     }
   ]
