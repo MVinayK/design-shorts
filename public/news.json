@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-25T15:50:32.249Z",
+  "generatedAt": "2026-10-26T04:05:58.584Z",
   "items": [
+    {
+      "id": "php-patches-two-critical-rce-flaws-that-were-already-under-attac",
+      "title": "PHP Patches Two Critical RCE Flaws That Were Already Under Attack",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/php-critical-rce-patches/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-25T18:07:00.000Z",
+      "summaryShort": "PHP Patches Two Critical RCE Flaws That Were Already Under Attack. PHP released 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to fix two critical vulnerabilities allowing unauthenticated remote code execution.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "pytorch-conference-2026-google-and-meta-open-source-torchtpu-for",
+      "title": "PyTorch Conference 2026: Google and Meta Open-Source TorchTPU for Native PyTorch on TPUs",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/google-meta-torchtpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-25T18:00:00.000Z",
+      "summaryShort": "PyTorch Conference 2026: Google and Meta Open-Source TorchTPU for Native PyTorch on TPUs. Google and Meta open-sourced TorchTPU, a native PyTorch backend for Google's TPUs, at PyTorch Conference North America 2026, and Meta said it plans to",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "google-ml-drift-accelerates-on-device-ai-inference-across-divers",
+      "title": "Google ML Drift Accelerates On-Device AI Inference Across Diverse GPUs",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/google-ml-drift/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-25T17:00:00.000Z",
+      "summaryShort": "Google ML Drift Accelerates On-Device AI Inference Across Diverse GPUs. Google has released ML Drift, an open-source, cross-platform GPU compute engine designed for on-device AI and machine learning inference.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "pingcap-breach-exposes-customer-records-and-source-code",
       "title": "PingCAP Breach Exposes Customer Records and Source Code",
@@ -24,70 +57,36 @@
       ]
     },
     {
-      "id": "google-s-data-agent-kit-hits-ga-splitting-agent-guardrails-betwe",
-      "title": "Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-24T08:34:00.000Z",
-      "summaryShort": "Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM. Google has made Data Agent Kit generally available, a free set of MCP tools and 37 open-source skills that connect coding agents to more than fifteen Google",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "cloudflare-reclaims-100-tb-of-ram-by-optimizing-consistent-hashi",
-      "title": "Cloudflare Reclaims 100 TB of RAM by Optimizing Consistent Hashing",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/cloudflare-hashing-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-24T08:10:00.000Z",
-      "summaryShort": "Cloudflare Reclaims 100 TB of RAM by Optimizing Consistent Hashing. Cloudflare recently documented how it reduced the memory footprint of its internal load-balancing service by more than 100 TB by optimizing the Rust implementation of consi",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "csiro-uses-serverless-architecture-to-query-100x-more-genomic-va",
-      "title": "CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/csiro-serverless-genomic-variant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-23T14:30:00.000Z",
-      "summaryShort": "CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS. CSIRO has developed Serverless Beacon, a serverless architecture for querying genomic variants without copying VCF files into a central database.",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "the-hottest-ai-wearables-and-gadgets-you-should-know-about",
-      "title": "The hottest AI wearables and gadgets you should know about",
+      "id": "the-best-apps-for-tracking-your-reading-and-discovering-new-book",
+      "title": "The best apps for tracking your reading and discovering new books",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "publishedAt": "2026-10-25T14:10:00.000Z",
-      "summaryShort": "The hottest AI wearables and gadgets you should know about. We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "starlink-seems-to-be-working-normally-again-in-ukraine",
-      "title": "Starlink seems to be working normally again in Ukraine",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-      "publishedAt": "2026-10-24T20:46:34.000Z",
-      "summaryShort": "Starlink seems to be working normally again in Ukraine. Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "sourceUrl": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "publishedAt": "2026-10-26T01:10:00.000Z",
+      "summaryShort": "The best apps for tracking your reading and discovering new books. There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "will-ai-expose-the-rickety-infrastructure-of-the-internet",
-      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "id": "grok-releases-the-first-seven-minutes-of-its-ai-generated-odysse",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "publishedAt": "2026-10-24T20:15:33.000Z",
-      "summaryShort": "Will AI expose the rickety infrastructure of the internet?. The moment you realize the internet is \"held together by glue and dreams.\"",
+      "sourceUrl": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "publishedAt": "2026-10-25T21:31:16.000Z",
+      "summaryShort": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’. The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
       "tags": [
-        "AI",
-        "Cloud"
+        "AI"
+      ]
+    },
+    {
+      "id": "cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-bo",
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "publishedAt": "2026-10-25T20:20:08.000Z",
+      "summaryShort": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead. \"That's a 12-year-old view of the world.\"",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
