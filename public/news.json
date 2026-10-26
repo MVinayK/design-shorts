@@ -1,92 +1,94 @@
 {
-  "generatedAt": "2026-10-26T04:05:58.584Z",
+  "generatedAt": "2026-10-26T18:31:06.938Z",
   "items": [
     {
-      "id": "php-patches-two-critical-rce-flaws-that-were-already-under-attac",
-      "title": "PHP Patches Two Critical RCE Flaws That Were Already Under Attack",
+      "id": "digitalocean-launches-learning-and-data-services-to-enable-self-",
+      "title": "DigitalOcean Launches Learning and Data Services to Enable Self-Improving AI Agents",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/php-critical-rce-patches/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-25T18:07:00.000Z",
-      "summaryShort": "PHP Patches Two Critical RCE Flaws That Were Already Under Attack. PHP released 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to fix two critical vulnerabilities allowing unauthenticated remote code execution.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/digitalocean-self-improving-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-26T18:00:00.000Z",
+      "summaryShort": "DigitalOcean Launches Learning and Data Services to Enable Self-Improving AI Agents. DigitalOcean has announced the public preview of Learning Services and Agent Data Services, enabling developers to build, evaluate, and continuously improv",
       "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "pytorch-conference-2026-google-and-meta-open-source-torchtpu-for",
-      "title": "PyTorch Conference 2026: Google and Meta Open-Source TorchTPU for Native PyTorch on TPUs",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/google-meta-torchtpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-25T18:00:00.000Z",
-      "summaryShort": "PyTorch Conference 2026: Google and Meta Open-Source TorchTPU for Native PyTorch on TPUs. Google and Meta open-sourced TorchTPU, a native PyTorch backend for Google's TPUs, at PyTorch Conference North America 2026, and Meta said it plans to",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "google-ml-drift-accelerates-on-device-ai-inference-across-divers",
-      "title": "Google ML Drift Accelerates On-Device AI Inference Across Diverse GPUs",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/google-ml-drift/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-25T17:00:00.000Z",
-      "summaryShort": "Google ML Drift Accelerates On-Device AI Inference Across Diverse GPUs. Google has released ML Drift, an open-source, cross-platform GPU compute engine designed for on-device AI and machine learning inference.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "pingcap-breach-exposes-customer-records-and-source-code",
-      "title": "PingCAP Breach Exposes Customer Records and Source Code",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/pingcap-cloud-data-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-25T06:27:00.000Z",
-      "summaryShort": "PingCAP Breach Exposes Customer Records and Source Code. PingCAP recently confirmed unauthorized access to its internal systems and the theft of source code and customer-related data.",
-      "tags": [
+        "AI",
         "Cloud"
       ]
     },
     {
-      "id": "google-optimizes-agent-development-kit-s-200k-line-python-codeba",
-      "title": "Google Optimizes Agent Development Kit's 200K-line Python Codebase Overnight with Gemini 4 Argon",
+      "id": "production-ai-and-engineering-team-design-infoq-s-november-certi",
+      "title": "Production AI and Engineering Team Design: InfoQ’s November Certification Cohorts",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/google-argon-optimizes-adk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-24T16:00:00.000Z",
-      "summaryShort": "Google Optimizes Agent Development Kit's 200K-line Python Codebase Overnight with Gemini 4 Argon. Google explained how an 11-hour unattended run of Gemini 4 Argon produced two accepted optimizations for Google Agent Development Kit's codeba",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "the-best-apps-for-tracking-your-reading-and-discovering-new-book",
-      "title": "The best apps for tracking your reading and discovering new books",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
-      "publishedAt": "2026-10-26T01:10:00.000Z",
-      "summaryShort": "The best apps for tracking your reading and discovering new books. There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "grok-releases-the-first-seven-minutes-of-its-ai-generated-odysse",
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "publishedAt": "2026-10-25T21:31:16.000Z",
-      "summaryShort": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’. The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/online-cohorts-nov-certification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-26T15:00:00.000Z",
+      "summaryShort": "Production AI and Engineering Team Design: InfoQ’s November Certification Cohorts. A preview of three November InfoQ online certification cohorts covering production AI systems, retrieval and agent design, engineering team flow, AI roles, a",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-bo",
-      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
-      "publishedAt": "2026-10-25T20:20:08.000Z",
-      "summaryShort": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead. \"That's a 12-year-old view of the world.\"",
+      "id": "java-news-roundup-jdk-28-schedule-oracle-cpus-emudhra-certs-apac",
+      "title": "Java News Roundup: JDK 28 Schedule, Oracle CPUs, eMudhra Certs, Apache POI, WildFly, Azul, BellSoft",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/java-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-26T14:35:00.000Z",
+      "summaryShort": "Java News Roundup: JDK 28 Schedule, Oracle CPUs, eMudhra Certs, Apache POI, WildFly, Azul, BellSoft. This week's Java roundup for October 19th, 2026, features news highlighting: the proposed release schedule for JDK 28; the eMudhra Intermed",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "readyon-builds-four-layer-tenant-isolation-for-multi-tenant-amaz",
+      "title": "Readyon Builds Four Layer Tenant Isolation for Multi Tenant Amazon EKS",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/readyon-four-layer-isolation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-26T14:07:00.000Z",
+      "summaryShort": "Readyon Builds Four Layer Tenant Isolation for Multi Tenant Amazon EKS. ReadyOn has detailed a four-layer tenant isolation architecture for its Harmony platform on Amazon EKS.",
+      "tags": [
+        "AI",
+        "Databases"
+      ]
+    },
+    {
+      "id": "article-the-evolution-of-agentic-harnesses-from-chains-to-graph-",
+      "title": "Article: The Evolution of Agentic Harnesses: From Chains to Graph to Code",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/agentic-ai-architecture-harness-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-26T11:00:00.000Z",
+      "summaryShort": "Article: The Evolution of Agentic Harnesses: From Chains to Graph to Code. Agentic LLM systems have moved from linear prompt chains to graph-based workflows and, more recently, code-executing harnesses.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "this-startup-s-self-driving-excavators-help-dig-up-600m-in-new-f",
+      "title": "This startup's self-driving excavators help dig up $600M in new funding",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "publishedAt": "2026-10-26T17:45:00.000Z",
+      "summaryShort": "This startup's self-driving excavators help dig up $600M in new funding. Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "anthropic-s-ipo-filing-reveals-its-strategy-for-keeping-enterpri",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "publishedAt": "2026-10-26T16:49:42.000Z",
+      "summaryShort": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked. Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook remini",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "spacex-locks-in-40b-gpu-financing-deal-with-apollo",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "publishedAt": "2026-10-26T16:46:36.000Z",
+      "summaryShort": "SpaceX locks in $40B GPU financing deal with Apollo. SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday.",
+      "tags": [
+        "AI"
       ]
     }
   ]
