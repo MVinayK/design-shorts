@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-26T18:31:06.938Z",
+  "generatedAt": "2026-10-27T04:25:48.763Z",
   "items": [
+    {
+      "id": "agntcon-mcpcon-2026-agentic-ai-foundation-adds-four-projects-as-",
+      "title": "AGNTCon + MCPCon 2026: Agentic AI Foundation Adds Four Projects as MCP Turns to Security",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/agntcon-mcpcon-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-26T22:00:00.000Z",
+      "summaryShort": "AGNTCon + MCPCon 2026: Agentic AI Foundation Adds Four Projects as MCP Turns to Security. At AGNTCon + MCPCon North America 2026, the Agentic AI Foundation added OpenSandbox, Open Responses, Agent Skills, and OpenEnv, reaching ten projects ",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "opentofu-1-13-lets-module-authors-reduce-unknown-values-at-plan-",
+      "title": "OpenTofu 1.13 Lets Module Authors Reduce Unknown Values at Plan Time",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/opentofu-1-13-unknown-values/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-26T21:26:00.000Z",
+      "summaryShort": "OpenTofu 1.13 Lets Module Authors Reduce Unknown Values at Plan Time. OpenTofu 1.13 adds convert and assume...",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "digitalocean-launches-learning-and-data-services-to-enable-self-",
       "title": "DigitalOcean Launches Learning and Data Services to Enable Self-Improving AI Agents",
@@ -36,59 +58,36 @@
       ]
     },
     {
-      "id": "readyon-builds-four-layer-tenant-isolation-for-multi-tenant-amaz",
-      "title": "Readyon Builds Four Layer Tenant Isolation for Multi Tenant Amazon EKS",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/readyon-four-layer-isolation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-26T14:07:00.000Z",
-      "summaryShort": "Readyon Builds Four Layer Tenant Isolation for Multi Tenant Amazon EKS. ReadyOn has detailed a four-layer tenant isolation architecture for its Harmony platform on Amazon EKS.",
-      "tags": [
-        "AI",
-        "Databases"
-      ]
-    },
-    {
-      "id": "article-the-evolution-of-agentic-harnesses-from-chains-to-graph-",
-      "title": "Article: The Evolution of Agentic Harnesses: From Chains to Graph to Code",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/agentic-ai-architecture-harness-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-26T11:00:00.000Z",
-      "summaryShort": "Article: The Evolution of Agentic Harnesses: From Chains to Graph to Code. Agentic LLM systems have moved from linear prompt chains to graph-based workflows and, more recently, code-executing harnesses.",
+      "id": "how-openai-turned-its-coding-tools-into-dots-an-always-on-person",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "publishedAt": "2026-10-27T02:00:00.000Z",
+      "summaryShort": "How OpenAI turned its coding tools into dots, an always-on personal assistant. Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "this-startup-s-self-driving-excavators-help-dig-up-600m-in-new-f",
-      "title": "This startup's self-driving excavators help dig up $600M in new funding",
+      "id": "cohere-says-alibaba-s-qwen-model-tried-to-send-a-file-to-beijing",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "publishedAt": "2026-10-26T17:45:00.000Z",
-      "summaryShort": "This startup's self-driving excavators help dig up $600M in new funding. Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "anthropic-s-ipo-filing-reveals-its-strategy-for-keeping-enterpri",
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "publishedAt": "2026-10-26T16:49:42.000Z",
-      "summaryShort": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked. Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook remini",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "spacex-locks-in-40b-gpu-financing-deal-with-apollo",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "publishedAt": "2026-10-26T16:46:36.000Z",
-      "summaryShort": "SpaceX locks in $40B GPU financing deal with Apollo. SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday.",
+      "sourceUrl": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "publishedAt": "2026-10-27T01:12:21.000Z",
+      "summaryShort": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing. An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espio",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "databricks-co-founder-shares-his-secrets-for-winning-big-enterpr",
+      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+      "publishedAt": "2026-10-26T22:00:00.000Z",
+      "summaryShort": "Databricks co-founder shares his secrets for winning big enterprise customers. Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
