@@ -1,93 +1,97 @@
 {
-  "generatedAt": "2026-10-27T04:25:48.763Z",
+  "generatedAt": "2026-10-27T17:45:58.086Z",
   "items": [
     {
-      "id": "agntcon-mcpcon-2026-agentic-ai-foundation-adds-four-projects-as-",
-      "title": "AGNTCon + MCPCon 2026: Agentic AI Foundation Adds Four Projects as MCP Turns to Security",
+      "id": "uber-moves-beyond-cpu-cores-with-performance-aware-scheduling-fo",
+      "title": "Uber Moves Beyond CPU Cores with Performance-Aware Scheduling for Stateful Workloads",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/agntcon-mcpcon-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-26T22:00:00.000Z",
-      "summaryShort": "AGNTCon + MCPCon 2026: Agentic AI Foundation Adds Four Projects as MCP Turns to Security. At AGNTCon + MCPCon North America 2026, the Agentic AI Foundation added OpenSandbox, Open Responses, Agent Skills, and OpenEnv, reaching ten projects ",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "opentofu-1-13-lets-module-authors-reduce-unknown-values-at-plan-",
-      "title": "OpenTofu 1.13 Lets Module Authors Reduce Unknown Values at Plan Time",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/opentofu-1-13-unknown-values/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-26T21:26:00.000Z",
-      "summaryShort": "OpenTofu 1.13 Lets Module Authors Reduce Unknown Values at Plan Time. OpenTofu 1.13 adds convert and assume...",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/uber-cpu-stateful-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-27T12:00:00.000Z",
+      "summaryShort": "Uber Moves Beyond CPU Cores with Performance-Aware Scheduling for Stateful Workloads. Uber has introduced Normalized Compute Units (NCUs) to make CPU allocation more consistent across its highly heterogeneous server fleet.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "digitalocean-launches-learning-and-data-services-to-enable-self-",
-      "title": "DigitalOcean Launches Learning and Data Services to Enable Self-Improving AI Agents",
+      "id": "how-anthropic-redesigned-source-control-for-ai-driven-developmen",
+      "title": "How Anthropic Redesigned Source Control for AI-Driven Development",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/digitalocean-self-improving-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-26T18:00:00.000Z",
-      "summaryShort": "DigitalOcean Launches Learning and Data Services to Enable Self-Improving AI Agents. DigitalOcean has announced the public preview of Learning Services and Agent Data Services, enabling developers to build, evaluate, and continuously improv",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/anthropic-source-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-27T11:25:00.000Z",
+      "summaryShort": "How Anthropic Redesigned Source Control for AI-Driven Development. Anthropic recently detailed how it migrated its monorepo from Git to Scion.",
+      "tags": [
+        "AI",
+        "Databases",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "presentation-serving-llms-at-scale-the-hidden-kv-cache-advantage",
+      "title": "Presentation: Serving LLMs at Scale: The Hidden KV Cache Advantage",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/llm-inference-kv-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-27T11:00:00.000Z",
+      "summaryShort": "Presentation: Serving LLMs at Scale: The Hidden KV Cache Advantage. Khawaja Shams shares a distributed systems perspective on scaling LLM inference stacks efficiently.",
+      "tags": [
+        "Databases",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "aws-shows-use-of-ai-agents-to-triage-linux-kernel-cves",
+      "title": "AWS Shows Use of AI Agents to Triage Linux Kernel CVEs",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/aws-ai-agents-linux-kernel-cves/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-27T09:00:00.000Z",
+      "summaryShort": "AWS Shows Use of AI Agents to Triage Linux Kernel CVEs. Engineers from Amazon Web Services (AWS) have described how the team that maintains the Linux kernel for EC2 infrastructure handles kernel CVEs.",
       "tags": [
         "AI",
         "Cloud"
       ]
     },
     {
-      "id": "production-ai-and-engineering-team-design-infoq-s-november-certi",
-      "title": "Production AI and Engineering Team Design: InfoQ’s November Certification Cohorts",
+      "id": "cloudflare-and-voidzero-introduce-tsrs-an-ai-generated-rust-port",
+      "title": "Cloudflare and VoidZero Introduce tsrs: An AI-Generated Rust Port of TypeScript",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/online-cohorts-nov-certification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-26T15:00:00.000Z",
-      "summaryShort": "Production AI and Engineering Team Design: InfoQ’s November Certification Cohorts. A preview of three November InfoQ online certification cohorts covering production AI systems, retrieval and agent design, engineering team flow, AI roles, a",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/cloudflare-tsrs-ai-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-27T07:34:00.000Z",
+      "summaryShort": "Cloudflare and VoidZero Introduce tsrs: An AI-Generated Rust Port of TypeScript. Cloudflare, VoidZero and Max Schwenk announced tsrs, an experimental Rust port of the TypeScript compiler, built with the TypeScript team's involvement.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "frontier-ai-labs-say-their-models-refuted-the-exponential-time-h",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "publishedAt": "2026-10-27T17:08:08.000Z",
+      "summaryShort": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "java-news-roundup-jdk-28-schedule-oracle-cpus-emudhra-certs-apac",
-      "title": "Java News Roundup: JDK 28 Schedule, Oracle CPUs, eMudhra Certs, Apache POI, WildFly, Azul, BellSoft",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/java-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-26T14:35:00.000Z",
-      "summaryShort": "Java News Roundup: JDK 28 Schedule, Oracle CPUs, eMudhra Certs, Apache POI, WildFly, Azul, BellSoft. This week's Java roundup for October 19th, 2026, features news highlighting: the proposed release schedule for JDK 28; the eMudhra Intermed",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "how-openai-turned-its-coding-tools-into-dots-an-always-on-person",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "id": "google-s-genie-4-world-model-adds-audio-more-realistic-worlds-an",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "publishedAt": "2026-10-27T02:00:00.000Z",
-      "summaryShort": "How OpenAI turned its coding tools into dots, an always-on personal assistant. Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "publishedAt": "2026-10-27T16:30:57.000Z",
+      "summaryShort": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering. Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview f",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "cohere-says-alibaba-s-qwen-model-tried-to-send-a-file-to-beijing",
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "id": "meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "publishedAt": "2026-10-27T01:12:21.000Z",
-      "summaryShort": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing. An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espio",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "publishedAt": "2026-10-27T14:59:09.000Z",
+      "summaryShort": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace. Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "databricks-co-founder-shares-his-secrets-for-winning-big-enterpr",
-      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-      "publishedAt": "2026-10-26T22:00:00.000Z",
-      "summaryShort": "Databricks co-founder shares his secrets for winning big enterprise customers. Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
