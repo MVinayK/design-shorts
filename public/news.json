@@ -1,95 +1,91 @@
 {
-  "generatedAt": "2026-10-28T04:56:45.400Z",
+  "generatedAt": "2026-10-28T18:09:53.538Z",
   "items": [
     {
-      "id": "uber-moves-beyond-cpu-cores-with-performance-aware-scheduling-fo",
-      "title": "Uber Moves beyond CPU Cores with Performance-Aware Scheduling for Stateful Workloads",
+      "id": "airbnb-cuts-recommendation-staleness-from-2-days-to-seconds-with",
+      "title": "Airbnb Cuts Recommendation Staleness from 2 Days to Seconds with Chronon",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/uber-cpu-stateful-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-27T12:00:00.000Z",
-      "summaryShort": "Uber Moves beyond CPU Cores with Performance-Aware Scheduling for Stateful Workloads. Uber has introduced Normalized Compute Units (NCUs) to make CPU allocation more consistent across its highly heterogeneous server fleet.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/airbnb-chronon-recommendation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-28T13:53:00.000Z",
+      "summaryShort": "Airbnb Cuts Recommendation Staleness from 2 Days to Seconds with Chronon. Airbnb extended its Chronon feature platform with Push Mode and Near Real-Time Model Transform to update sequence-based recommendation embeddings within seconds.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "presentation-wrangling-telemetry-at-scale-a-guide-to-self-hosted",
+      "title": "Presentation: Wrangling Telemetry at Scale: A Guide to Self-Hosted Observability",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/self-hosted-observability-stack-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-28T11:00:00.000Z",
+      "summaryShort": "Presentation: Wrangling Telemetry at Scale: A Guide to Self-Hosted Observability. Colin Douch shares battle-tested strategies for building and scaling self-hosted observability stacks.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "how-anthropic-redesigned-source-control-for-ai-driven-developmen",
-      "title": "How Anthropic Redesigned Source Control for AI-Driven Development",
+      "id": "microsoft-s-october-security-update-fixes-1-400-vulnerabilities-",
+      "title": "Microsoft's October Security Update Fixes 1,400+ Vulnerabilities, One Exploited in the Wild",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/anthropic-source-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-27T11:25:00.000Z",
-      "summaryShort": "How Anthropic Redesigned Source Control for AI-Driven Development. Anthropic recently detailed how it migrated its monorepo from Git to Scion.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/microsoft-october-2026-patch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-28T10:30:00.000Z",
+      "summaryShort": "Microsoft's October Security Update Fixes 1,400+ Vulnerabilities, One Exploited in the Wild. Microsoft's latest monthly security update addresses 1415 vulnerabilities across multiple products.",
       "tags": [
-        "AI",
-        "Databases",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-serving-llms-at-scale-the-hidden-kv-cache-advantage",
-      "title": "Presentation: Serving LLMs at Scale: The Hidden KV Cache Advantage",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/llm-inference-kv-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-27T11:00:00.000Z",
-      "summaryShort": "Presentation: Serving LLMs at Scale: The Hidden KV Cache Advantage. Khawaja Shams shares a distributed systems perspective on scaling LLM inference stacks efficiently.",
-      "tags": [
-        "Databases",
         "Architecture"
       ]
     },
     {
-      "id": "aws-shows-use-of-ai-agents-to-triage-linux-kernel-cves",
-      "title": "AWS Shows Use of AI Agents to Triage Linux Kernel CVEs",
+      "id": "chrome-opens-trial-for-the-email-verification-api-letting-sites-",
+      "title": "Chrome Opens Trial for the Email Verification API: Letting Sites Verify Without Sending Emails",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/aws-ai-agents-linux-kernel-cves/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-27T09:00:00.000Z",
-      "summaryShort": "AWS Shows Use of AI Agents to Triage Linux Kernel CVEs. Engineers from Amazon Web Services (AWS) have described how the team that maintains the Linux kernel for EC2 infrastructure handles kernel CVEs.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "cloudflare-and-voidzero-introduce-tsrs-an-ai-generated-rust-port",
-      "title": "Cloudflare and VoidZero Introduce tsrs: An AI-Generated Rust Port of TypeScript",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/cloudflare-tsrs-ai-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-27T07:34:00.000Z",
-      "summaryShort": "Cloudflare and VoidZero Introduce tsrs: An AI-Generated Rust Port of TypeScript. Cloudflare, VoidZero and Max Schwenk announced tsrs, an experimental Rust port of the TypeScript compiler, built with the TypeScript team's involvement.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "vcs-will-make-billions-on-anthropic-s-ipo-but-amazon-is-set-to-m",
-      "title": "VCs will make billions on Anthropic's IPO, but Amazon is set to make much (much) more",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "publishedAt": "2026-10-28T01:15:28.000Z",
-      "summaryShort": "VCs will make billions on Anthropic's IPO, but Amazon is set to make much (much) more. Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/chrome-email-verification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-28T09:32:00.000Z",
+      "summaryShort": "Chrome Opens Trial for the Email Verification API: Letting Sites Verify Without Sending Emails. Google has opened a Chrome origin trial for the Email Verification API, a WICG proposal that lets the browser confirm email ownership without se",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-se",
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "id": "article-building-an-offline-first-ai-coding-tutor-for-low-end-an",
+      "title": "Article: Building an Offline-First AI Coding Tutor for Low-End Android Phones",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/building-offline-first-android-app-low-end-devices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-28T09:00:00.000Z",
+      "summaryShort": "Article: Building an Offline-First AI Coding Tutor for Low-End Android Phones. This article is about engineering an offline-first app for low-end devices based on our experience in Nigeria and India.",
+      "tags": [
+        "AI",
+        "Databases"
+      ]
+    },
+    {
+      "id": "apple-launches-its-new-touchscreen-macbook-pro",
+      "title": "Apple launches its new touchscreen MacBook Pro",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "publishedAt": "2026-10-27T23:34:27.000Z",
-      "summaryShort": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication. A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in F",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+      "publishedAt": "2026-10-28T17:26:10.000Z",
+      "summaryShort": "Apple launches its new touchscreen MacBook Pro. Apple's new touchscreen MacBook Pro starts at $2,899",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
-      "title": "The data center boom has an upside: innovation for the US grid",
+      "id": "xreal-aura-is-a-new-wired-headset-powered-by-android-xr",
+      "title": "Xreal Aura is a new wired headset powered by Android XR",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "publishedAt": "2026-10-27T22:55:41.000Z",
-      "summaryShort": "The data center boom has an upside: innovation for the US grid. As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+      "publishedAt": "2026-10-28T17:00:00.000Z",
+      "summaryShort": "Xreal Aura is a new wired headset powered by Android XR. Xreal Aura will start at $1,279 and will have multiple XR specific launch apps at launch",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-m",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "publishedAt": "2026-10-28T17:00:00.000Z",
+      "summaryShort": "As AI agents reshape the web, Google opens Gemini and Search to more apps. A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
       "tags": [
         "AI"
       ]
