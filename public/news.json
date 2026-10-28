@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-27T17:45:58.086Z",
+  "generatedAt": "2026-10-28T04:56:45.400Z",
   "items": [
     {
       "id": "uber-moves-beyond-cpu-cores-with-performance-aware-scheduling-fo",
-      "title": "Uber Moves Beyond CPU Cores with Performance-Aware Scheduling for Stateful Workloads",
+      "title": "Uber Moves beyond CPU Cores with Performance-Aware Scheduling for Stateful Workloads",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/news/2026/10/uber-cpu-stateful-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-10-27T12:00:00.000Z",
-      "summaryShort": "Uber Moves Beyond CPU Cores with Performance-Aware Scheduling for Stateful Workloads. Uber has introduced Normalized Compute Units (NCUs) to make CPU allocation more consistent across its highly heterogeneous server fleet.",
+      "summaryShort": "Uber Moves beyond CPU Cores with Performance-Aware Scheduling for Stateful Workloads. Uber has introduced Normalized Compute Units (NCUs) to make CPU allocation more consistent across its highly heterogeneous server fleet.",
       "tags": [
         "Engineering"
       ]
@@ -62,34 +62,34 @@
       ]
     },
     {
-      "id": "frontier-ai-labs-say-their-models-refuted-the-exponential-time-h",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "id": "vcs-will-make-billions-on-anthropic-s-ipo-but-amazon-is-set-to-m",
+      "title": "VCs will make billions on Anthropic's IPO, but Amazon is set to make much (much) more",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "publishedAt": "2026-10-27T17:08:08.000Z",
-      "summaryShort": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?.",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "publishedAt": "2026-10-28T01:15:28.000Z",
+      "summaryShort": "VCs will make billions on Anthropic's IPO, but Amazon is set to make much (much) more. Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "google-s-genie-4-world-model-adds-audio-more-realistic-worlds-an",
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "id": "parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-se",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "publishedAt": "2026-10-27T16:30:57.000Z",
-      "summaryShort": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering. Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview f",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "publishedAt": "2026-10-27T23:34:27.000Z",
+      "summaryShort": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication. A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in F",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-",
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "id": "the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
+      "title": "The data center boom has an upside: innovation for the US grid",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "publishedAt": "2026-10-27T14:59:09.000Z",
-      "summaryShort": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace. Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned.",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "publishedAt": "2026-10-27T22:55:41.000Z",
+      "summaryShort": "The data center boom has an upside: innovation for the US grid. As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
       "tags": [
         "AI"
       ]
