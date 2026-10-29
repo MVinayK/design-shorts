@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T18:09:53.538Z",
+  "generatedAt": "2026-10-29T05:08:20.896Z",
   "items": [
     {
       "id": "airbnb-cuts-recommendation-staleness-from-2-days-to-seconds-with",
@@ -58,36 +58,36 @@
       ]
     },
     {
-      "id": "apple-launches-its-new-touchscreen-macbook-pro",
-      "title": "Apple launches its new touchscreen MacBook Pro",
+      "id": "upwind-raises-400m-after-walking-away-from-datadog-acquisition-o",
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-      "publishedAt": "2026-10-28T17:26:10.000Z",
-      "summaryShort": "Apple launches its new touchscreen MacBook Pro. Apple's new touchscreen MacBook Pro starts at $2,899",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "publishedAt": "2026-10-28T23:15:00.000Z",
+      "summaryShort": "Upwind raises $400M after walking away from Datadog acquisition offer. The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "apple-s-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-e",
+      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+      "publishedAt": "2026-10-28T22:47:50.000Z",
+      "summaryShort": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme. Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "xreal-aura-is-a-new-wired-headset-powered-by-android-xr",
-      "title": "Xreal Aura is a new wired headset powered by Android XR",
+      "id": "microsoft-just-shared-azure-s-actual-revenue-in-dollars-33-2-bil",
+      "title": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
-      "publishedAt": "2026-10-28T17:00:00.000Z",
-      "summaryShort": "Xreal Aura is a new wired headset powered by Android XR. Xreal Aura will start at $1,279 and will have multiple XR specific launch apps at launch",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "publishedAt": "2026-10-28T21:58:32.000Z",
+      "summaryShort": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion. Microsoft has never disclosed Azure's quarterly revenue in dollars.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-m",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "publishedAt": "2026-10-28T17:00:00.000Z",
-      "summaryShort": "As AI agents reshape the web, Google opens Gemini and Search to more apps. A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-      "tags": [
-        "AI"
       ]
     }
   ]
