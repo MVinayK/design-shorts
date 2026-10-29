@@ -1,93 +1,94 @@
 {
-  "generatedAt": "2026-10-29T05:08:20.896Z",
+  "generatedAt": "2026-10-29T18:16:14.643Z",
   "items": [
     {
-      "id": "airbnb-cuts-recommendation-staleness-from-2-days-to-seconds-with",
-      "title": "Airbnb Cuts Recommendation Staleness from 2 Days to Seconds with Chronon",
+      "id": "bug0-releases-qa-agent-to-automate-regression-testing-with-cache",
+      "title": "Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/airbnb-chronon-recommendation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-28T13:53:00.000Z",
-      "summaryShort": "Airbnb Cuts Recommendation Staleness from 2 Days to Seconds with Chronon. Airbnb extended its Chronon feature platform with Push Mode and Near Real-Time Model Transform to update sequence-based recommendation embeddings within seconds.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/bug0-agent-testing-cached-replay/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-29T15:17:00.000Z",
+      "summaryShort": "Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays. QA Agent is a new source-available Playwright library for agentic browser regression testing.",
+      "tags": [
+        "AI",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "how-to-make-artificial-intelligence-more-environmentally-sustain",
+      "title": "How to Make Artificial Intelligence More Environmentally Sustainable",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/AI-environmentally-sustainable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-29T11:41:00.000Z",
+      "summaryShort": "How to Make Artificial Intelligence More Environmentally Sustainable. IT is responsible for about 2 - 4% of all global emissions, and electricity use at Microsoft and Google has climbed because of AI, according to their own reports.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "presentation-wrangling-telemetry-at-scale-a-guide-to-self-hosted",
-      "title": "Presentation: Wrangling Telemetry at Scale: A Guide to Self-Hosted Observability",
+      "id": "qcon-ai-new-york-2026-program-committee-picks-agent-identity-con",
+      "title": "QCon AI New York 2026 Program Committee Picks: Agent Identity, Context Costs, and Open-Source Infere",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/self-hosted-observability-stack-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-28T11:00:00.000Z",
-      "summaryShort": "Presentation: Wrangling Telemetry at Scale: A Guide to Self-Hosted Observability. Colin Douch shares battle-tested strategies for building and scaling self-hosted observability stacks.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-pc-picks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-29T11:00:00.000Z",
+      "summaryShort": "QCon AI New York 2026 Program Committee Picks: Agent Identity, Context Costs, and Open-Source Infere. Who authorizes an agent’s actions, and how should teams manage growing context costs?",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "microsoft-s-october-security-update-fixes-1-400-vulnerabilities-",
-      "title": "Microsoft's October Security Update Fixes 1,400+ Vulnerabilities, One Exploited in the Wild",
+      "id": "anthropic-says-nobody-needs-a-mental-model-of-claude-code-practi",
+      "title": "Anthropic Says Nobody Needs a Mental Model of Claude Code. Practitioners Are Testing That",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/microsoft-october-2026-patch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-28T10:30:00.000Z",
-      "summaryShort": "Microsoft's October Security Update Fixes 1,400+ Vulnerabilities, One Exploited in the Wild. Microsoft's latest monthly security update addresses 1415 vulnerabilities across multiple products.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/anthropic-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-29T09:58:00.000Z",
+      "summaryShort": "Anthropic Says Nobody Needs a Mental Model of Claude Code. Practitioners Are Testing That.",
       "tags": [
-        "Architecture"
+        "AI"
       ]
     },
     {
-      "id": "chrome-opens-trial-for-the-email-verification-api-letting-sites-",
-      "title": "Chrome Opens Trial for the Email Verification API: Letting Sites Verify Without Sending Emails",
+      "id": "datadog-builds-a-specialist-ai-model-for-sre-investigations",
+      "title": "Datadog Builds a Specialist AI Model for SRE Investigations",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/chrome-email-verification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-28T09:32:00.000Z",
-      "summaryShort": "Chrome Opens Trial for the Email Verification API: Letting Sites Verify Without Sending Emails. Google has opened a Chrome origin trial for the Email Verification API, a WICG proposal that lets the browser confirm email ownership without se",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/datadog-scout-sre-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-29T09:00:00.000Z",
+      "summaryShort": "Datadog Builds a Specialist AI Model for SRE Investigations. Datadog has released Scout, a model trained to investigate production problems.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "article-building-an-offline-first-ai-coding-tutor-for-low-end-an",
-      "title": "Article: Building an Offline-First AI Coding Tutor for Low-End Android Phones",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/building-offline-first-android-app-low-end-devices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-28T09:00:00.000Z",
-      "summaryShort": "Article: Building an Offline-First AI Coding Tutor for Low-End Android Phones. This article is about engineering an offline-first app for low-end devices based on our experience in Nigeria and India.",
+      "id": "granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "publishedAt": "2026-10-29T17:54:38.000Z",
+      "summaryShort": "Granola crunches up a dictation feature to compete with Wispr. Uno reverse!",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "mistral-releases-weights-for-its-trillion-parameter-ai-model-tar",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "publishedAt": "2026-10-29T17:00:00.000Z",
+      "summaryShort": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity. Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "us-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "publishedAt": "2026-10-29T16:42:32.000Z",
+      "summaryShort": "US investigated Chinese spy plot aimed at Nvidia CEO. A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
       "tags": [
         "AI",
-        "Databases"
-      ]
-    },
-    {
-      "id": "upwind-raises-400m-after-walking-away-from-datadog-acquisition-o",
-      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-      "publishedAt": "2026-10-28T23:15:00.000Z",
-      "summaryShort": "Upwind raises $400M after walking away from Datadog acquisition offer. The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
-      "tags": [
         "Cloud"
-      ]
-    },
-    {
-      "id": "apple-s-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-e",
-      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-      "publishedAt": "2026-10-28T22:47:50.000Z",
-      "summaryShort": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme. Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "microsoft-just-shared-azure-s-actual-revenue-in-dollars-33-2-bil",
-      "title": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "publishedAt": "2026-10-28T21:58:32.000Z",
-      "summaryShort": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion. Microsoft has never disclosed Azure's quarterly revenue in dollars.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
