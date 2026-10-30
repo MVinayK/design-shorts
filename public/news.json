@@ -1,94 +1,92 @@
 {
-  "generatedAt": "2026-10-30T05:07:56.612Z",
+  "generatedAt": "2026-10-30T17:52:19.315Z",
   "items": [
     {
-      "id": "google-adopts-dpop-to-strengthen-oauth-2-0-against-token-theft-a",
-      "title": "Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks",
+      "id": "doordash-cuts-grocery-reorder-latency-from-16-to-2-seconds-with-",
+      "title": "DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/google-dpop-oauth2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-29T19:00:00.000Z",
-      "summaryShort": "Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks. Google's OAuth Platform has recently introduces support for Demonstrating Proof-of-Possession (DPoP), an OAuth 2.0 security mechanism designed to mitigate to",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/doordash-ai-grocery-reorder/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-30T13:31:00.000Z",
+      "summaryShort": "DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents. DoorDash reduced grocery reorder latency from 16 to 2 seconds by precomputing recurring purchase needs using batch LLM inference and deterministic validation.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "netflix-treats-gpu-reliability-as-a-distributed-systems-problem",
+      "title": "Netflix Treats GPU Reliability as a Distributed Systems Problem",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/netflix-gpu-distributed-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-30T12:00:00.000Z",
+      "summaryShort": "Netflix Treats GPU Reliability as a Distributed Systems Problem. Netflix has detailed how it is building a reliability platform for large-scale GPU training and inference, using layered health checks, automated remediation, and fault-tolera",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "bug0-releases-qa-agent-to-automate-regression-testing-with-cache",
-      "title": "Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays",
+      "id": "presentation-the-ladder-is-missing-rungs-engineering-progression",
+      "title": "Presentation: The Ladder Is Missing Rungs: Engineering Progression When AI Ate the Middle",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/bug0-agent-testing-cached-replay/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-29T15:17:00.000Z",
-      "summaryShort": "Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays. QA Agent is a new source-available Playwright library for agentic browser regression testing.",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "how-to-make-artificial-intelligence-more-environmentally-sustain",
-      "title": "How to Make Artificial Intelligence More Environmentally Sustainable",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/AI-environmentally-sustainable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-29T11:41:00.000Z",
-      "summaryShort": "How to Make Artificial Intelligence More Environmentally Sustainable. IT is responsible for about 2 - 4% of all global emissions, and electricity use at Microsoft and Google has climbed because of AI, according to their own reports.",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-software-engineering-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-30T11:00:00.000Z",
+      "summaryShort": "Presentation: The Ladder Is Missing Rungs: Engineering Progression When AI Ate the Middle. Alasdair Allan discusses empirical research from METR and Anthropic on AI coding adoption.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "qcon-ai-new-york-2026-program-committee-picks-agent-identity-con",
-      "title": "QCon AI New York 2026 Program Committee Picks: Agent Identity, Context Costs, and Open-Source Infere",
+      "id": "netflix-titus-adds-single-tenant-vm-isolation-for-containers",
+      "title": "Netflix Titus Adds Single-Tenant VM Isolation for Containers",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-pc-picks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-29T11:00:00.000Z",
-      "summaryShort": "QCon AI New York 2026 Program Committee Picks: Agent Identity, Context Costs, and Open-Source Infere. Who authorizes an agent’s actions, and how should teams manage growing context costs?",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "anthropic-says-nobody-needs-a-mental-model-of-claude-code-practi",
-      "title": "Anthropic Says Nobody Needs a Mental Model of Claude Code. Practitioners Are Testing That",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/anthropic-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-29T09:58:00.000Z",
-      "summaryShort": "Anthropic Says Nobody Needs a Mental Model of Claude Code. Practitioners Are Testing That.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "you-don-t-need-to-believe-in-a-god-to-get-a-religious-exemption-",
-      "title": "You don't need to believe in a god to get a religious exemption from using AI at work",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "publishedAt": "2026-10-30T01:20:48.000Z",
-      "summaryShort": "You don't need to believe in a god to get a religious exemption from using AI at work. David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "andy-jassy-says-prime-video-is-on-track-to-earn-8216-tens-of-bil",
-      "title": "Andy Jassy says Prime Video is on track to earn &#8216;tens of billions of dollars'",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-      "publishedAt": "2026-10-29T23:44:56.000Z",
-      "summaryShort": "Andy Jassy says Prime Video is on track to earn &#8216;tens of billions of dollars'. The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/netflix-titus-kubernetes-microvm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-30T10:00:00.000Z",
+      "summaryShort": "Netflix Titus Adds Single-Tenant VM Isolation for Containers. Netflix has added single-tenant Titus, a mode that runs one task alone on its own right-sized EC2 instance.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "publishedAt": "2026-10-29T23:42:22.000Z",
-      "summaryShort": "AWS will be a $1T business, Jassy says. But first, it will spend big..",
+      "id": "article-infoq-ai-ml-and-data-engineering-trends-report-2026",
+      "title": "Article: InfoQ AI, ML and Data Engineering Trends Report - 2026",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/ai-ml-data-engineering-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "summaryShort": "Article: InfoQ AI, ML and Data Engineering Trends Report - 2026. This InfoQ Trends Report offers readers a comprehensive overview of emerging trends and technologies in the areas of AI, ML, and Data Engineering.",
       "tags": [
-        "AI",
-        "Cloud"
+        "AI"
+      ]
+    },
+    {
+      "id": "zest-s-new-ai-agent-finds-restaurants-and-books-reservations-ove",
+      "title": "Zest's new AI agent finds restaurants and books reservations over text",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "publishedAt": "2026-10-30T17:47:12.000Z",
+      "summaryShort": "Zest's new AI agent finds restaurants and books reservations over text. Can't agree on where to eat?",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "google-s-first-data-center-satellite-is-online-and-writing-poetr",
+      "title": "Google's first data center satellite is online and writing poetry",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "publishedAt": "2026-10-30T17:00:00.000Z",
+      "summaryShort": "Google's first data center satellite is online and writing poetry. The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-82",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opportunity to go deceive people'",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "publishedAt": "2026-10-30T16:03:45.000Z",
+      "summaryShort": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opportunity to go deceive people'. The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raisi",
+      "tags": [
+        "AI"
       ]
     }
   ]
