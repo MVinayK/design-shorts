@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-29T18:16:14.643Z",
+  "generatedAt": "2026-10-30T05:07:56.612Z",
   "items": [
+    {
+      "id": "google-adopts-dpop-to-strengthen-oauth-2-0-against-token-theft-a",
+      "title": "Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/google-dpop-oauth2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-29T19:00:00.000Z",
+      "summaryShort": "Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks. Google's OAuth Platform has recently introduces support for Demonstrating Proof-of-Possession (DPoP), an OAuth 2.0 security mechanism designed to mitigate to",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "bug0-releases-qa-agent-to-automate-regression-testing-with-cache",
       "title": "Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays",
@@ -47,45 +58,34 @@
       ]
     },
     {
-      "id": "datadog-builds-a-specialist-ai-model-for-sre-investigations",
-      "title": "Datadog Builds a Specialist AI Model for SRE Investigations",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/datadog-scout-sre-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-29T09:00:00.000Z",
-      "summaryShort": "Datadog Builds a Specialist AI Model for SRE Investigations. Datadog has released Scout, a model trained to investigate production problems.",
+      "id": "you-don-t-need-to-believe-in-a-god-to-get-a-religious-exemption-",
+      "title": "You don't need to believe in a god to get a religious exemption from using AI at work",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "publishedAt": "2026-10-30T01:20:48.000Z",
+      "summaryShort": "You don't need to believe in a god to get a religious exemption from using AI at work. David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "id": "andy-jassy-says-prime-video-is-on-track-to-earn-8216-tens-of-bil",
+      "title": "Andy Jassy says Prime Video is on track to earn &#8216;tens of billions of dollars'",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "publishedAt": "2026-10-29T17:54:38.000Z",
-      "summaryShort": "Granola crunches up a dictation feature to compete with Wispr. Uno reverse!",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "publishedAt": "2026-10-29T23:44:56.000Z",
+      "summaryShort": "Andy Jassy says Prime Video is on track to earn &#8216;tens of billions of dollars'. The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "mistral-releases-weights-for-its-trillion-parameter-ai-model-tar",
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "id": "aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "publishedAt": "2026-10-29T17:00:00.000Z",
-      "summaryShort": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity. Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "us-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "publishedAt": "2026-10-29T16:42:32.000Z",
-      "summaryShort": "US investigated Chinese spy plot aimed at Nvidia CEO. A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "publishedAt": "2026-10-29T23:42:22.000Z",
+      "summaryShort": "AWS will be a $1T business, Jassy says. But first, it will spend big..",
       "tags": [
         "AI",
         "Cloud"
