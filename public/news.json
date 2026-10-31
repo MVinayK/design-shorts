@@ -1,92 +1,93 @@
 {
-  "generatedAt": "2026-10-31T04:53:50.535Z",
+  "generatedAt": "2026-10-31T17:03:30.888Z",
   "items": [
     {
-      "id": "doordash-cuts-grocery-reorder-latency-from-16-to-2-seconds-with-",
-      "title": "DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents",
+      "id": "openbsd-8-0-brings-expanded-hardware-support-security-enhancemen",
+      "title": "OpenBSD 8.0 Brings Expanded Hardware Support, Security Enhancements, and Virtualization Improvements",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/doordash-ai-grocery-reorder/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-30T13:31:00.000Z",
-      "summaryShort": "DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents. DoorDash reduced grocery reorder latency from 16 to 2 seconds by precomputing recurring purchase needs using batch LLM inference and deterministic validation.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "netflix-treats-gpu-reliability-as-a-distributed-systems-problem",
-      "title": "Netflix Treats GPU Reliability as a Distributed Systems Problem",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/netflix-gpu-distributed-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-30T12:00:00.000Z",
-      "summaryShort": "Netflix Treats GPU Reliability as a Distributed Systems Problem. Netflix has detailed how it is building a reliability platform for large-scale GPU training and inference, using layered health checks, automated remediation, and fault-tolera",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/openbsd-8-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-31T17:00:00.000Z",
+      "summaryShort": "OpenBSD 8.0 Brings Expanded Hardware Support, Security Enhancements, and Virtualization Improvements. OpenBSD 8.0 is a substantial upgrade bringing broader hardware compatibility, enhanced security, an expanded virtual address space, and su",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "presentation-the-ladder-is-missing-rungs-engineering-progression",
-      "title": "Presentation: The Ladder Is Missing Rungs: Engineering Progression When AI Ate the Middle",
+      "id": "spring-news-roundup-first-release-candidates-of-boot-framework-d",
+      "title": "Spring News Roundup: First Release Candidates of Boot, Framework, Data, Security, Modulith, AI",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-software-engineering-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-30T11:00:00.000Z",
-      "summaryShort": "Presentation: The Ladder Is Missing Rungs: Engineering Progression When AI Ate the Middle. Alasdair Allan discusses empirical research from METR and Anthropic on AI coding adoption.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/spring-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-31T13:30:00.000Z",
+      "summaryShort": "Spring News Roundup: First Release Candidates of Boot, Framework, Data, Security, Modulith, AI. There was a flurry of activity during the week of October 19th, 2026, highlighting: first release candidates of: Spring Boot, Spring Framework, ",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "kubernetes-confidential-containers-get-fortanix-attestation-and-",
+      "title": "Kubernetes Confidential Containers Get Fortanix Attestation and Key Management",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/k8s-confidential-containers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-31T08:18:00.000Z",
+      "summaryShort": "Kubernetes Confidential Containers Get Fortanix Attestation and Key Management. Fortanix's CoCo integration connects workload attestation to decryption-key release for Kubernetes AI workloads.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "netflix-titus-adds-single-tenant-vm-isolation-for-containers",
-      "title": "Netflix Titus Adds Single-Tenant VM Isolation for Containers",
+      "id": "localstack-for-azure-enters-public-preview-with-security-setting",
+      "title": "LocalStack for Azure Enters Public Preview with Security Settings Stored but Not Enforced",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/netflix-titus-kubernetes-microvm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-30T10:00:00.000Z",
-      "summaryShort": "Netflix Titus Adds Single-Tenant VM Isolation for Containers. Netflix has added single-tenant Titus, a mode that runs one task alone on its own right-sized EC2 instance.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/localstack-azure-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-31T07:57:00.000Z",
+      "summaryShort": "LocalStack for Azure Enters Public Preview with Security Settings Stored but Not Enforced. LocalStack has opened its Azure emulator to a free public preview, running Azure services locally and accepting existing ARM, Bicep, and Terraform wi",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "article-infoq-ai-ml-and-data-engineering-trends-report-2026",
-      "title": "Article: InfoQ AI, ML and Data Engineering Trends Report - 2026",
+      "id": "google-discloses-pagebreak-ai-security-agent-that-found-500-xss-",
+      "title": "Google Discloses PageBreak AI Security Agent That Found 500+ XSS Bugs",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/ai-ml-data-engineering-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-30T09:00:00.000Z",
-      "summaryShort": "Article: InfoQ AI, ML and Data Engineering Trends Report - 2026. This InfoQ Trends Report offers readers a comprehensive overview of emerging trends and technologies in the areas of AI, ML, and Data Engineering.",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-31T06:20:00.000Z",
+      "summaryShort": "Google Discloses PageBreak AI Security Agent That Found 500+ XSS Bugs. According to a paper published by Google, its AI-powered security agent has uncovered more than 500 XSS vulnerabilities across its web applications since entering full o",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vc",
-      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "id": "openai-reportedly-lowers-funding-target-for-new-round",
+      "title": "OpenAI reportedly lowers funding target for new round",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-      "publishedAt": "2026-10-31T04:16:50.000Z",
-      "summaryShort": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up. The money behind the money is thrilled, mostly.",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "publishedAt": "2026-10-31T16:12:55.000Z",
+      "summaryShort": "OpenAI reportedly lowers funding target for new round. OpenAI’s latest funding round doesn't seem to be living up to expectations.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-center-i",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "id": "from-restaurant-guides-to-payments-here-s-how-tiktok-is-building",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "publishedAt": "2026-10-31T01:20:05.000Z",
-      "summaryShort": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia. When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "publishedAt": "2026-10-31T15:41:57.000Z",
+      "summaryShort": "From restaurant guides to payments, here’s how TikTok is building a super app. TikTok may be working to become the app that people use for most of their digital activities.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "salesforce-s-m-038-a-spree-continues-with-a-reported-375m-deal-f",
-      "title": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune",
+      "id": "i-took-two-iphones-on-vacation-the-duo-won-me-over",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-      "publishedAt": "2026-10-30T23:21:23.000Z",
-      "summaryShort": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune. The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "publishedAt": "2026-10-31T14:00:00.000Z",
+      "summaryShort": "I took two iPhones on vacation. The Duo won me over..",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
