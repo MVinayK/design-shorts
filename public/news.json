@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T17:52:19.315Z",
+  "generatedAt": "2026-10-31T04:53:50.535Z",
   "items": [
     {
       "id": "doordash-cuts-grocery-reorder-latency-from-16-to-2-seconds-with-",
@@ -57,34 +57,34 @@
       ]
     },
     {
-      "id": "zest-s-new-ai-agent-finds-restaurants-and-books-reservations-ove",
-      "title": "Zest's new AI agent finds restaurants and books reservations over text",
+      "id": "pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vc",
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "publishedAt": "2026-10-30T17:47:12.000Z",
-      "summaryShort": "Zest's new AI agent finds restaurants and books reservations over text. Can't agree on where to eat?",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "publishedAt": "2026-10-31T04:16:50.000Z",
+      "summaryShort": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up. The money behind the money is thrilled, mostly.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-center-i",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "publishedAt": "2026-10-31T01:20:05.000Z",
+      "summaryShort": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia. When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "google-s-first-data-center-satellite-is-online-and-writing-poetr",
-      "title": "Google's first data center satellite is online and writing poetry",
+      "id": "salesforce-s-m-038-a-spree-continues-with-a-reported-375m-deal-f",
+      "title": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "publishedAt": "2026-10-30T17:00:00.000Z",
-      "summaryShort": "Google's first data center satellite is online and writing poetry. The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-82",
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opportunity to go deceive people'",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "publishedAt": "2026-10-30T16:03:45.000Z",
-      "summaryShort": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opportunity to go deceive people'. The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raisi",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "publishedAt": "2026-10-30T23:21:23.000Z",
+      "summaryShort": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune. The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
       "tags": [
         "AI"
       ]
