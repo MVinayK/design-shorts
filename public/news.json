@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-01T05:20:53.121Z",
+  "generatedAt": "2026-11-01T17:47:37.266Z",
   "items": [
+    {
+      "id": "aws-capacity-largely-sold-out-through-2027-with-on-demand-headro",
+      "title": "AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/aws-capacity-sold-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-01T08:03:00.000Z",
+      "summaryShort": "AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved. Amazon CEO Andy Jassy says AWS’s large committed cloud capacity is largely sold out through 2027, with part of 2028 already allocated, while the company continues",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "file-mover-express-aws-releases-open-source-tool-for-s3-file-tra",
+      "title": "File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/aws-s3-file-transfer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-01T06:32:00.000Z",
+      "summaryShort": "File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers. AWS has recently released File Mover Express, an open-source application under the Apache 2.0 license for transferring large files between local systems and Amazon S3.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "cloudflare-s-post-quantum-geokey-manager-enters-closed-beta-with",
       "title": "Cloudflare’s Post-Quantum GeoKey Manager Enters Closed Beta Without Attribute-Based Encryption",
@@ -36,56 +58,34 @@
       ]
     },
     {
-      "id": "kubernetes-confidential-containers-get-fortanix-attestation-and-",
-      "title": "Kubernetes Confidential Containers Get Fortanix Attestation and Key Management",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/k8s-confidential-containers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-31T08:18:00.000Z",
-      "summaryShort": "Kubernetes Confidential Containers Get Fortanix Attestation and Key Management. Fortanix's CoCo integration connects workload attestation to decryption-key release for Kubernetes AI workloads.",
+      "id": "techcrunch-mobility-a-new-bigger-av-boom-is-here",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "publishedAt": "2026-11-01T17:04:00.000Z",
+      "summaryShort": "TechCrunch Mobility: A new, bigger AV boom is here. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "localstack-for-azure-enters-public-preview-with-security-setting",
-      "title": "LocalStack for Azure Enters Public Preview with Security Settings Stored but Not Enforced",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/localstack-azure-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-31T07:57:00.000Z",
-      "summaryShort": "LocalStack for Azure Enters Public Preview with Security Settings Stored but Not Enforced. LocalStack has opened its Azure emulator to a free public preview, running Azure services locally and accepting existing ARM, Bicep, and Terraform wi",
+      "id": "binance-resumes-withdrawals-following-6-3-billion-breach",
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+      "publishedAt": "2026-11-01T16:20:10.000Z",
+      "summaryShort": "Binance resumes withdrawals following $6.3 billion breach. The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "data-centers-are-now-a-midterm-issue-even-in-brooklyn",
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "id": "pixel-11-pro-fold-sturdy-rectangle-in-a-wide-wide-world",
+      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-      "publishedAt": "2026-11-01T02:22:10.000Z",
-      "summaryShort": "Data centers are now a midterm issue, even in Brooklyn. At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI an",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "apple-ceo-says-the-company-doesn-t-want-to-ship-ai-for-ai-s-sake",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "publishedAt": "2026-10-31T21:41:00.000Z",
-      "summaryShort": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’. Apple's new CEO defended the company's current position in the AI landscape.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "4-days-left-how-techcrunch-founder-summit-helps-you-make-more-us",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "publishedAt": "2026-10-31T21:36:07.000Z",
-      "summaryShort": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale. On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and con",
+      "sourceUrl": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+      "publishedAt": "2026-11-01T15:00:00.000Z",
+      "summaryShort": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world. Google made a sturdy phone, but there is increasing competition in the foldable world.",
       "tags": [
         "Engineering"
       ]
