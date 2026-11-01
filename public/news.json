@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-31T17:03:30.888Z",
+  "generatedAt": "2026-11-01T05:20:53.121Z",
   "items": [
+    {
+      "id": "cloudflare-s-post-quantum-geokey-manager-enters-closed-beta-with",
+      "title": "Cloudflare’s Post-Quantum GeoKey Manager Enters Closed Beta Without Attribute-Based Encryption",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/10/cf-pq-geokey-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-10-31T19:56:00.000Z",
+      "summaryShort": "Cloudflare’s Post-Quantum GeoKey Manager Enters Closed Beta Without Attribute-Based Encryption. Cloudflare has moved a post-quantum rebuild of GeoKey Manager into closed beta, guarding geo-fenced keys with hybrid ML-KEM-768 and X25519 inste",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "openbsd-8-0-brings-expanded-hardware-support-security-enhancemen",
       "title": "OpenBSD 8.0 Brings Expanded Hardware Support, Security Enhancements, and Virtualization Improvements",
@@ -47,45 +58,34 @@
       ]
     },
     {
-      "id": "google-discloses-pagebreak-ai-security-agent-that-found-500-xss-",
-      "title": "Google Discloses PageBreak AI Security Agent That Found 500+ XSS Bugs",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-31T06:20:00.000Z",
-      "summaryShort": "Google Discloses PageBreak AI Security Agent That Found 500+ XSS Bugs. According to a paper published by Google, its AI-powered security agent has uncovered more than 500 XSS vulnerabilities across its web applications since entering full o",
+      "id": "data-centers-are-now-a-midterm-issue-even-in-brooklyn",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "publishedAt": "2026-11-01T02:22:10.000Z",
+      "summaryShort": "Data centers are now a midterm issue, even in Brooklyn. At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI an",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "openai-reportedly-lowers-funding-target-for-new-round",
-      "title": "OpenAI reportedly lowers funding target for new round",
+      "id": "apple-ceo-says-the-company-doesn-t-want-to-ship-ai-for-ai-s-sake",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "publishedAt": "2026-10-31T16:12:55.000Z",
-      "summaryShort": "OpenAI reportedly lowers funding target for new round. OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "publishedAt": "2026-10-31T21:41:00.000Z",
+      "summaryShort": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’. Apple's new CEO defended the company's current position in the AI landscape.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "from-restaurant-guides-to-payments-here-s-how-tiktok-is-building",
-      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "id": "4-days-left-how-techcrunch-founder-summit-helps-you-make-more-us",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-      "publishedAt": "2026-10-31T15:41:57.000Z",
-      "summaryShort": "From restaurant guides to payments, here’s how TikTok is building a super app. TikTok may be working to become the app that people use for most of their digital activities.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "i-took-two-iphones-on-vacation-the-duo-won-me-over",
-      "title": "I took two iPhones on vacation. The Duo won me over.",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-      "publishedAt": "2026-10-31T14:00:00.000Z",
-      "summaryShort": "I took two iPhones on vacation. The Duo won me over..",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "publishedAt": "2026-10-31T21:36:07.000Z",
+      "summaryShort": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale. On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and con",
       "tags": [
         "Engineering"
       ]
