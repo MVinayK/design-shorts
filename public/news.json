@@ -1,93 +1,93 @@
 {
-  "generatedAt": "2026-11-02T05:19:25.464Z",
+  "generatedAt": "2026-11-02T21:34:29.093Z",
   "items": [
     {
-      "id": "aws-capacity-largely-sold-out-through-2027-with-on-demand-headro",
-      "title": "AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved",
+      "id": "google-and-meta-open-source-torchtpu-to-bring-native-pytorch-sup",
+      "title": "Google and Meta Open-source TorchTPU to Bring Native PyTorch Support to Google TPUs",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/aws-capacity-sold-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-01T08:03:00.000Z",
-      "summaryShort": "AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved. Amazon CEO Andy Jassy says AWS’s large committed cloud capacity is largely sold out through 2027, with part of 2028 already allocated, while the company continues",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "file-mover-express-aws-releases-open-source-tool-for-s3-file-tra",
-      "title": "File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/aws-s3-file-transfer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-01T06:32:00.000Z",
-      "summaryShort": "File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers. AWS has recently released File Mover Express, an open-source application under the Apache 2.0 license for transferring large files between local systems and Amazon S3.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/torchtpu-native-pythorch-tpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-02T17:00:00.000Z",
+      "summaryShort": "Google and Meta Open-source TorchTPU to Bring Native PyTorch Support to Google TPUs. TorchTPU is an open-source project developed by Google in collaboration with Meta that provides a native PyTorch backend for Google TPUs.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "cloudflare-s-post-quantum-geokey-manager-enters-closed-beta-with",
-      "title": "Cloudflare’s Post-Quantum GeoKey Manager Enters Closed Beta Without Attribute-Based Encryption",
+      "id": "java-news-roundup-tornadovm-8-0-jnosql-endive-jreleaser-jbang-la",
+      "title": "Java News Roundup: TornadoVM 8.0, JNoSQL, Endive, JReleaser, JBang, LangChain4j, Quarkus Almanac",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/cf-pq-geokey-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-31T19:56:00.000Z",
-      "summaryShort": "Cloudflare’s Post-Quantum GeoKey Manager Enters Closed Beta Without Attribute-Based Encryption. Cloudflare has moved a post-quantum rebuild of GeoKey Manager into closed beta, guarding geo-fenced keys with hybrid ML-KEM-768 and X25519 inste",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "openbsd-8-0-brings-expanded-hardware-support-security-enhancemen",
-      "title": "OpenBSD 8.0 Brings Expanded Hardware Support, Security Enhancements, and Virtualization Improvements",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/openbsd-8-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-31T17:00:00.000Z",
-      "summaryShort": "OpenBSD 8.0 Brings Expanded Hardware Support, Security Enhancements, and Virtualization Improvements. OpenBSD 8.0 is a substantial upgrade bringing broader hardware compatibility, enhanced security, an expanded virtual address space, and su",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/java-news-roundup-oct26-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-02T17:00:00.000Z",
+      "summaryShort": "Java News Roundup: TornadoVM 8.0, JNoSQL, Endive, JReleaser, JBang, LangChain4j, Quarkus Almanac. This week's Java roundup for October 26th, 2026, features news highlighting: the GA release of TornadoVM 8.0; point releases of JNoSQL, Endive",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "spring-news-roundup-first-release-candidates-of-boot-framework-d",
-      "title": "Spring News Roundup: First Release Candidates of Boot, Framework, Data, Security, Modulith, AI",
+      "id": "uber-builds-mcp-gateway-to-govern-access-to-800-servers-and-5-00",
+      "title": "Uber Builds MCP Gateway to Govern Access to 800+ Servers and 5,000+ AI Agent Tools",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/10/spring-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-10-31T13:30:00.000Z",
-      "summaryShort": "Spring News Roundup: First Release Candidates of Boot, Framework, Data, Security, Modulith, AI. There was a flurry of activity during the week of October 19th, 2026, highlighting: first release candidates of: Spring Boot, Spring Framework, ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/uber-mcp-gateway-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-02T13:53:00.000Z",
+      "summaryShort": "Uber Builds MCP Gateway to Govern Access to 800+ Servers and 5,000+ AI Agent Tools. Uber has built an MCP Gateway to standardize how AI agents discover and invoke internal services across more than 800 MCP servers and 5,000 tools.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "article-systemic-approach-to-memory-knowledge-and-context-in-age",
+      "title": "Article: Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/agentic-ai-context-memory-knowledge/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-02T11:00:00.000Z",
+      "summaryShort": "Article: Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures. The article argues that reliable agentic AI architecture depends on a context engine that selects, injects, compresses, and expires information before",
       "tags": [
         "AI",
-        "Cloud"
+        "Architecture"
       ]
     },
     {
-      "id": "borrowed-reading-stories-from-our-extended-colleagues",
-      "title": "Borrowed reading: stories from our extended colleagues",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
-      "publishedAt": "2026-11-02T04:23:48.000Z",
-      "summaryShort": "Borrowed reading: stories from our extended colleagues. Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+      "id": "podcast-educating-an-architect-a-conversation-with-luca-mezzalir",
+      "title": "Podcast: Educating an Architect: A Conversation with Luca Mezzalira",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/educating-architect-conversation-luca-mezzalira/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-02T11:00:00.000Z",
+      "summaryShort": "Podcast: Educating an Architect: A Conversation with Luca Mezzalira. In this podcast, Michael Stiefel spoke to Luca Mezzalira about software architecture as a socio-technical discipline that balances technological design with an organizatio",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "id": "germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware",
+      "title": "Germany says lawmakers' iPhones may have been hacked with spyware",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "publishedAt": "2026-11-01T21:55:23.000Z",
-      "summaryShort": "OpenAI might rebrand its data centers as ‘AI compute campuses’. Data centers are deeply unpopular.",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+      "publishedAt": "2026-11-02T19:45:54.000Z",
+      "summaryShort": "Germany says lawmakers' iPhones may have been hacked with spyware. German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "id": "web-host-squarespace-lays-off-19-of-its-employees",
+      "title": "Web host Squarespace lays off 19% of its employees",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "publishedAt": "2026-11-01T20:57:58.000Z",
-      "summaryShort": "AI can make tech CEOs’ lives easier. What about everyone else?.",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "publishedAt": "2026-11-02T19:25:59.000Z",
+      "summaryShort": "Web host Squarespace lays off 19% of its employees. The website builder said that the job losses are part of a broader restructuring of its organization.",
       "tags": [
-        "AI"
+        "Engineering"
+      ]
+    },
+    {
+      "id": "new-york-times-and-other-outlets-sue-web-browser-brave-over-alle",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "publishedAt": "2026-11-02T19:19:17.000Z",
+      "summaryShort": "New York Times and other outlets sue web browser Brave over alleged content scraping. The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing ",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
