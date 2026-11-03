@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-11-03T05:59:38.453Z",
+  "generatedAt": "2026-11-03T19:17:38.184Z",
   "items": [
+    {
+      "id": "google-launches-litert-tensor-api-for-building-customizing-and-o",
+      "title": "Google Launches LiteRT Tensor API for Building, Customizing, and Optimizing ML Models for On-Device",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/litert-tensor-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-03T19:00:00.000Z",
+      "summaryShort": "Google Launches LiteRT Tensor API for Building, Customizing, and Optimizing ML Models for On-Device. Google has introduced the LiteRT Tensor API, a lightweight C++ API that allows developers to build, customize, and optimize machine learnin",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "vitest-5-prioritises-performance-with-a-shared-vite-server-trace",
+      "title": "Vitest 5: Prioritises Performance with a Shared Vite Server, Trace View, and Stricter Test Defaults",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/vite-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-03T16:47:00.000Z",
+      "summaryShort": "Vitest 5: Prioritises Performance with a Shared Vite Server, Trace View, and Stricter Test Defaults. Vitest 5.0 focuses on speed, with reported gains of 8 to 25 percent in most setups and up to 53 percent in VM pools.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "linkedin-uses-opentelemetry-to-trace-the-member-journey-from-tap",
+      "title": "LinkedIn Uses OpenTelemetry to Trace the Member Journey from Tap to Backend",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/linkedin-opentelemetry-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "summaryShort": "LinkedIn Uses OpenTelemetry to Trace the Member Journey from Tap to Backend. LinkedIn has built an OpenTelemetry-based telemetry platform that connects what members do in its iOS, Android, and web applications with the backend services proc",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-beyond-the-harness-canvas-for-ai-agents",
+      "title": "Presentation: Beyond the Harness: Canvas for AI Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/canvas-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-03T11:00:00.000Z",
+      "summaryShort": "Presentation: Beyond the Harness: Canvas for AI Agents. Nimisha Asthagiri shares how applying proven product engineering and architecture principles creates a bounded canvas for AI agents.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "google-and-meta-open-source-torchtpu-to-bring-native-pytorch-sup",
       "title": "Google and Meta Open-source TorchTPU to Bring Native PyTorch Support to Google TPUs",
@@ -13,79 +57,34 @@
       ]
     },
     {
-      "id": "java-news-roundup-tornadovm-8-0-jnosql-endive-jreleaser-jbang-la",
-      "title": "Java News Roundup: TornadoVM 8.0, JNoSQL, Endive, JReleaser, JBang, LangChain4j, Quarkus Almanac",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/java-news-roundup-oct26-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-02T17:00:00.000Z",
-      "summaryShort": "Java News Roundup: TornadoVM 8.0, JNoSQL, Endive, JReleaser, JBang, LangChain4j, Quarkus Almanac. This week's Java roundup for October 26th, 2026, features news highlighting: the GA release of TornadoVM 8.0; point releases of JNoSQL, Endive",
+      "id": "ten-years-later-8216-pok-mon-go-to-the-polls-still-haunts-the-in",
+      "title": "Ten years later, &#8216;Pokémon Go to the polls' still haunts the internet",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+      "publishedAt": "2026-11-03T19:04:52.000Z",
+      "summaryShort": "Ten years later, &#8216;Pokémon Go to the polls' still haunts the internet. Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "uber-builds-mcp-gateway-to-govern-access-to-800-servers-and-5-00",
-      "title": "Uber Builds MCP Gateway to Govern Access to 800+ Servers and 5,000+ AI Agent Tools",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/uber-mcp-gateway-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-02T13:53:00.000Z",
-      "summaryShort": "Uber Builds MCP Gateway to Govern Access to 800+ Servers and 5,000+ AI Agent Tools. Uber has built an MCP Gateway to standardize how AI agents discover and invoke internal services across more than 800 MCP servers and 5,000 tools.",
+      "id": "ferrari-s-controversial-luce-ev-is-sold-out-for-2027",
+      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
+      "publishedAt": "2026-11-03T18:51:33.000Z",
+      "summaryShort": "Ferrari’s controversial Luce EV is sold out for 2027. The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "article-systemic-approach-to-memory-knowledge-and-context-in-age",
-      "title": "Article: Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/agentic-ai-context-memory-knowledge/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-02T11:00:00.000Z",
-      "summaryShort": "Article: Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures. The article argues that reliable agentic AI architecture depends on a context engine that selects, injects, compresses, and expires information before",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "podcast-educating-an-architect-a-conversation-with-luca-mezzalir",
-      "title": "Podcast: Educating an Architect: A Conversation with Luca Mezzalira",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/educating-architect-conversation-luca-mezzalira/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-02T11:00:00.000Z",
-      "summaryShort": "Podcast: Educating an Architect: A Conversation with Luca Mezzalira. In this podcast, Michael Stiefel spoke to Luca Mezzalira about software architecture as a socio-technical discipline that balances technological design with an organizatio",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-pe",
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "id": "netflix-s-new-ai-discover-tab-helps-you-find-something-to-watch-",
+      "title": "Netflix's new AI Discover tab helps you find something to watch based on your mood",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "publishedAt": "2026-11-03T03:30:00.000Z",
-      "summaryShort": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses. Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "apple-may-try-to-increase-revenue-by-doing-8230-something-with-t",
-      "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "publishedAt": "2026-11-03T01:49:52.000Z",
-      "summaryShort": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps. Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "ukraine-s-new-pocket-sized-gadget-turns-russian-drones-cameras-a",
-      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
-      "publishedAt": "2026-11-03T01:12:55.000Z",
-      "summaryShort": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them. A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-g",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "publishedAt": "2026-11-03T18:42:16.000Z",
+      "summaryShort": "Netflix's new AI Discover tab helps you find something to watch based on your mood. The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
       "tags": [
         "AI"
       ]
