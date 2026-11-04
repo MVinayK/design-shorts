@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T19:17:38.184Z",
+  "generatedAt": "2026-11-04T05:39:22.843Z",
   "items": [
     {
       "id": "google-launches-litert-tensor-api-for-building-customizing-and-o",
@@ -46,47 +46,47 @@
       ]
     },
     {
-      "id": "google-and-meta-open-source-torchtpu-to-bring-native-pytorch-sup",
-      "title": "Google and Meta Open-source TorchTPU to Bring Native PyTorch Support to Google TPUs",
+      "id": "java-news-roundup-tornadovm-8-0-jnosql-endive-jreleaser-jbang-la",
+      "title": "Java News Roundup: TornadoVM 8.0, JNoSQL, Endive, JReleaser, JBang, LangChain4j, Quarkus Almanac",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/torchtpu-native-pythorch-tpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/java-news-roundup-oct26-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-11-02T17:00:00.000Z",
-      "summaryShort": "Google and Meta Open-source TorchTPU to Bring Native PyTorch Support to Google TPUs. TorchTPU is an open-source project developed by Google in collaboration with Meta that provides a native PyTorch backend for Google TPUs.",
+      "summaryShort": "Java News Roundup: TornadoVM 8.0, JNoSQL, Endive, JReleaser, JBang, LangChain4j, Quarkus Almanac. This week's Java roundup for October 26th, 2026, features news highlighting: the GA release of TornadoVM 8.0; point releases of JNoSQL, Endive",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "ten-years-later-8216-pok-mon-go-to-the-polls-still-haunts-the-in",
-      "title": "Ten years later, &#8216;Pokémon Go to the polls' still haunts the internet",
+      "id": "india-s-eloelo-nabs-80m-from-nbcuniversal-to-bet-on-the-country-",
+      "title": "India's EloElo nabs $80M from NBCUniversal to bet on the country's rising microdrama market",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
-      "publishedAt": "2026-11-03T19:04:52.000Z",
-      "summaryShort": "Ten years later, &#8216;Pokémon Go to the polls' still haunts the internet. Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+      "publishedAt": "2026-11-04T04:45:00.000Z",
+      "summaryShort": "India's EloElo nabs $80M from NBCUniversal to bet on the country's rising microdrama market. StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "ferrari-s-controversial-luce-ev-is-sold-out-for-2027",
-      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+      "id": "anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+      "title": "Anthropic is working on a system to prove AI models' identity",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
-      "publishedAt": "2026-11-03T18:51:33.000Z",
-      "summaryShort": "Ferrari’s controversial Luce EV is sold out for 2027. The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "publishedAt": "2026-11-03T22:41:03.000Z",
+      "summaryShort": "Anthropic is working on a system to prove AI models' identity. Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "netflix-s-new-ai-discover-tab-helps-you-find-something-to-watch-",
-      "title": "Netflix's new AI Discover tab helps you find something to watch based on your mood",
+      "id": "data-centers-are-turning-to-old-jet-engines-as-the-wait-for-powe",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "publishedAt": "2026-11-03T18:42:16.000Z",
-      "summaryShort": "Netflix's new AI Discover tab helps you find something to watch based on your mood. The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "sourceUrl": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "publishedAt": "2026-11-03T22:19:53.000Z",
+      "summaryShort": "Data centers are turning to old jet engines as the wait for power grows. The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly sol",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
