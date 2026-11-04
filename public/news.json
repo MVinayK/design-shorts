@@ -1,90 +1,90 @@
 {
-  "generatedAt": "2026-11-04T05:39:22.843Z",
+  "generatedAt": "2026-11-04T19:34:36.938Z",
   "items": [
     {
-      "id": "google-launches-litert-tensor-api-for-building-customizing-and-o",
-      "title": "Google Launches LiteRT Tensor API for Building, Customizing, and Optimizing ML Models for On-Device",
+      "id": "inkitt-builds-a-one-shot-pr-creator-with-resumable-agent-orchest",
+      "title": "Inkitt Builds a One-Shot PR Creator with Resumable Agent Orchestration",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/litert-tensor-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-03T19:00:00.000Z",
-      "summaryShort": "Google Launches LiteRT Tensor API for Building, Customizing, and Optimizing ML Models for On-Device. Google has introduced the LiteRT Tensor API, a lightweight C++ API that allows developers to build, customize, and optimize machine learnin",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/inkitt-one-shot-pr-creator-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-04T14:36:00.000Z",
+      "summaryShort": "Inkitt Builds a One-Shot PR Creator with Resumable Agent Orchestration. Inkitt built a one-shot pull request creator that automates small, low-risk code changes from task intake to draft PR creation.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-panel-who-builds-the-frontend-now-and-what-breaks-w",
+      "title": "Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do)",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/panel-ai-frontend-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-04T11:00:00.000Z",
+      "summaryShort": "Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do).",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "vitest-5-prioritises-performance-with-a-shared-vite-server-trace",
-      "title": "Vitest 5: Prioritises Performance with a Shared Vite Server, Trace View, and Stricter Test Defaults",
+      "id": "amazon-ecs-gateway-arrives-with-generated-hostnames-and-no-custo",
+      "title": "Amazon ECS Gateway Arrives with Generated Hostnames and No Custom Domain Support",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/vite-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-03T16:47:00.000Z",
-      "summaryShort": "Vitest 5: Prioritises Performance with a Shared Vite Server, Trace View, and Stricter Test Defaults. Vitest 5.0 focuses on speed, with reported gains of 8 to 25 percent in most setups and up to 53 percent in VM pools.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/introducing-amazon-ecs-gateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-04T09:49:00.000Z",
+      "summaryShort": "Amazon ECS Gateway Arrives with Generated Hostnames and No Custom Domain Support. AWS has released Amazon ECS Gateway, an account-level ingress resource letting platform teams define networking once and application teams opt services in wit",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "linkedin-uses-opentelemetry-to-trace-the-member-journey-from-tap",
-      "title": "LinkedIn Uses OpenTelemetry to Trace the Member Journey from Tap to Backend",
+      "id": "article-the-app-is-just-the-tip-what-it-takes-to-build-mobile-in",
+      "title": "Article: The App Is Just the Tip: What It Takes to Build Mobile Infrastructure at Scale",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/linkedin-opentelemetry-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-03T12:00:00.000Z",
-      "summaryShort": "LinkedIn Uses OpenTelemetry to Trace the Member Journey from Tap to Backend. LinkedIn has built an OpenTelemetry-based telemetry platform that connects what members do in its iOS, Android, and web applications with the backend services proc",
+      "sourceUrl": "https://www.infoq.com/articles/mobile-app-infrastructure-at-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-04T09:00:00.000Z",
+      "summaryShort": "Article: The App Is Just the Tip: What It Takes to Build Mobile Infrastructure at Scale. What determines whether your app feels fast, ships often, and stays stable at scale is not the app itself.",
       "tags": [
-        "Engineering"
+        "Cloud"
       ]
     },
     {
-      "id": "presentation-beyond-the-harness-canvas-for-ai-agents",
-      "title": "Presentation: Beyond the Harness: Canvas for AI Agents",
+      "id": "docker-urges-isolation-and-governance-for-ai-agent-security",
+      "title": "Docker Urges Isolation and Governance for AI Agent Security",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/canvas-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-03T11:00:00.000Z",
-      "summaryShort": "Presentation: Beyond the Harness: Canvas for AI Agents. Nimisha Asthagiri shares how applying proven product engineering and architecture principles creates a bounded canvas for AI agents.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/docker-ai-agent-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-04T09:00:00.000Z",
+      "summaryShort": "Docker Urges Isolation and Governance for AI Agent Security. Docker has published a guide to five security risks that arise when AI agents are allowed to browse, run code and call tools with limited human oversight.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "java-news-roundup-tornadovm-8-0-jnosql-endive-jreleaser-jbang-la",
-      "title": "Java News Roundup: TornadoVM 8.0, JNoSQL, Endive, JReleaser, JBang, LangChain4j, Quarkus Almanac",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/java-news-roundup-oct26-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-02T17:00:00.000Z",
-      "summaryShort": "Java News Roundup: TornadoVM 8.0, JNoSQL, Endive, JReleaser, JBang, LangChain4j, Quarkus Almanac. This week's Java roundup for October 26th, 2026, features news highlighting: the GA release of TornadoVM 8.0; point releases of JNoSQL, Endive",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "india-s-eloelo-nabs-80m-from-nbcuniversal-to-bet-on-the-country-",
-      "title": "India's EloElo nabs $80M from NBCUniversal to bet on the country's rising microdrama market",
+      "id": "open-source-ai-is-booming-hugging-face-explains-who-profits",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
-      "publishedAt": "2026-11-04T04:45:00.000Z",
-      "summaryShort": "India's EloElo nabs $80M from NBCUniversal to bet on the country's rising microdrama market. StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "anthropic-is-working-on-a-system-to-prove-ai-models-identity",
-      "title": "Anthropic is working on a system to prove AI models' identity",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "publishedAt": "2026-11-03T22:41:03.000Z",
-      "summaryShort": "Anthropic is working on a system to prove AI models' identity. Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "sourceUrl": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "publishedAt": "2026-11-04T19:30:04.000Z",
+      "summaryShort": "Open source AI is booming. Hugging Face explains who profits..",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "data-centers-are-turning-to-old-jet-engines-as-the-wait-for-powe",
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "id": "duckduckgo-pitches-itself-to-schools-amid-backlash-over-google-s",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google's AI policy",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "publishedAt": "2026-11-03T22:19:53.000Z",
-      "summaryShort": "Data centers are turning to old jet engines as the wait for power grows. The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly sol",
+      "sourceUrl": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "publishedAt": "2026-11-04T19:29:52.000Z",
+      "summaryShort": "DuckDuckGo pitches itself to schools amid backlash over Google's AI policy. DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "waymo-confirms-it-will-split-with-uber-in-january-2028",
+      "title": "Waymo confirms it will split with Uber in January 2028",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/",
+      "publishedAt": "2026-11-04T18:12:30.000Z",
+      "summaryShort": "Waymo confirms it will split with Uber in January 2028. The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
       "tags": [
         "Engineering"
       ]
