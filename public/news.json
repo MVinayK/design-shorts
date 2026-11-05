@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-05T05:57:05.922Z",
+  "generatedAt": "2026-11-05T19:43:53.449Z",
   "items": [
+    {
+      "id": "google-cloud-api-gateway-introduces-streaming-support-for-real-t",
+      "title": "Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-05T16:00:00.000Z",
+      "summaryShort": "Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications. Google has announced the public preview of streaming support for API Gateway, extending its traditional request-response model to support appli",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "leapwork-play-reaches-ga-with-governance-for-playwright-tests",
+      "title": "Leapwork Play Reaches GA with Governance for Playwright Tests",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/leapwork-play-playwright/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-05T15:56:00.000Z",
+      "summaryShort": "Leapwork Play Reaches GA with Governance for Playwright Tests. Leapwork Play adds requirement traceability and approval workflows around portable Playwright tests.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "building-a-culture-for-a-kubernetes-based-platform-in-a-bank",
+      "title": "Building a Culture for a Kubernetes-Based Platform in a Bank",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/culture-kubernetes-bank/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-05T11:11:00.000Z",
+      "summaryShort": "Building a Culture for a Kubernetes-Based Platform in a Bank. In banking, open source can earn trust by running real workloads, as Marcy Paramonova and Stéphane Cusin explained in their talk Building Cloud Native Culture in a Bank at KubeCo",
+      "tags": [
+        "Cloud",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "presentation-zero-trust-agent-systems-that-pass-audits-and-still",
+      "title": "Presentation: Zero Trust Agent Systems that Pass Audits and Still Ship",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/zero-trust-ai-agents-production-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-05T11:00:00.000Z",
+      "summaryShort": "Presentation: Zero Trust Agent Systems that Pass Audits and Still Ship. Advait Patel shares a playbook for securing AI agent systems in production.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "inkitt-builds-a-one-shot-pr-creator-with-resumable-agent-orchest",
       "title": "Inkitt Builds a One-Shot PR Creator with Resumable Agent Orchestration",
@@ -13,80 +59,38 @@
       ]
     },
     {
-      "id": "presentation-panel-who-builds-the-frontend-now-and-what-breaks-w",
-      "title": "Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do)",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/panel-ai-frontend-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-04T11:00:00.000Z",
-      "summaryShort": "Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do).",
+      "id": "meta-warns-that-election-backlash-against-data-centers-could-mak",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "publishedAt": "2026-11-05T19:12:39.000Z",
+      "summaryShort": "Meta warns that election backlash against data centers could make AI expansion harder. Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructur",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "amazon-ecs-gateway-arrives-with-generated-hostnames-and-no-custo",
-      "title": "Amazon ECS Gateway Arrives with Generated Hostnames and No Custom Domain Support",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/introducing-amazon-ecs-gateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-04T09:49:00.000Z",
-      "summaryShort": "Amazon ECS Gateway Arrives with Generated Hostnames and No Custom Domain Support. AWS has released Amazon ECS Gateway, an account-level ingress resource letting platform teams define networking once and application teams opt services in wit",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "article-the-app-is-just-the-tip-what-it-takes-to-build-mobile-in",
-      "title": "Article: The App Is Just the Tip: What It Takes to Build Mobile Infrastructure at Scale",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/mobile-app-infrastructure-at-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-04T09:00:00.000Z",
-      "summaryShort": "Article: The App Is Just the Tip: What It Takes to Build Mobile Infrastructure at Scale. What determines whether your app feels fast, ships often, and stays stable at scale is not the app itself.",
-      "tags": [
+        "AI",
         "Cloud"
       ]
     },
     {
-      "id": "docker-urges-isolation-and-governance-for-ai-agent-security",
-      "title": "Docker Urges Isolation and Governance for AI Agent Security",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/docker-ai-agent-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-04T09:00:00.000Z",
-      "summaryShort": "Docker Urges Isolation and Governance for AI Agent Security. Docker has published a guide to five security risks that arise when AI agents are allowed to browse, run code and call tools with limited human oversight.",
+      "id": "openai-released-a-new-cybersecurity-model-is-that-enough",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "publishedAt": "2026-11-05T19:06:12.000Z",
+      "summaryShort": "OpenAI released a new cybersecurity model. Is that enough?.",
       "tags": [
-        "AI"
+        "AI",
+        "Cloud"
       ]
     },
     {
-      "id": "apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "id": "us-government-warns-of-8216-ongoing-cyber-threat-amid-mass-hacks",
+      "title": "US government warns of &#8216;ongoing cyber threat' amid mass hacks of industrial retail and military freezers",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "publishedAt": "2026-11-05T01:26:22.000Z",
-      "summaryShort": "Apple is reportedly cutting budgets for its internal AI usage. The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "after-the-midterms-a-bigger-clash-over-data-centers-could-be-com",
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "publishedAt": "2026-11-05T01:02:14.000Z",
-      "summaryShort": "After the midterms, a bigger clash over data centers could be coming. Data center opposition crossed party lines in Tuesday’s midterms.",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+      "publishedAt": "2026-11-05T18:48:34.000Z",
+      "summaryShort": "US government warns of &#8216;ongoing cyber threat' amid mass hacks of industrial retail and military freezers. A joint U.S.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "ai-pacs-spent-millions-trying-to-shape-congress-here-s-how-they-",
-      "title": "AI PACs spent millions trying to shape Congress — here's how they fared",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "publishedAt": "2026-11-04T22:45:09.000Z",
-      "summaryShort": "AI PACs spent millions trying to shape Congress — here's how they fared. AI industry PACs spent millions influencing the 2026 midterms, with mixed results.",
-      "tags": [
-        "AI"
       ]
     }
   ]
