@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T19:43:53.449Z",
+  "generatedAt": "2026-11-06T05:53:48.771Z",
   "items": [
     {
       "id": "google-cloud-api-gateway-introduces-streaming-support-for-real-t",
@@ -59,38 +59,36 @@
       ]
     },
     {
-      "id": "meta-warns-that-election-backlash-against-data-centers-could-mak",
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "id": "the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330",
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "publishedAt": "2026-11-05T19:12:39.000Z",
-      "summaryShort": "Meta warns that election backlash against data centers could make AI expansion harder. Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructur",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "openai-released-a-new-cybersecurity-model-is-that-enough",
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "publishedAt": "2026-11-05T19:06:12.000Z",
-      "summaryShort": "OpenAI released a new cybersecurity model. Is that enough?.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "us-government-warns-of-8216-ongoing-cyber-threat-amid-mass-hacks",
-      "title": "US government warns of &#8216;ongoing cyber threat' amid mass hacks of industrial retail and military freezers",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-      "publishedAt": "2026-11-05T18:48:34.000Z",
-      "summaryShort": "US government warns of &#8216;ongoing cyber threat' amid mass hacks of industrial retail and military freezers. A joint U.S.",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "publishedAt": "2026-11-06T00:07:18.000Z",
+      "summaryShort": "The New York Times reportedly in talks to buy Letterboxd for $330 million. Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "meta-google-and-tiktok-sue-california-ag-over-teen-social-media-",
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "publishedAt": "2026-11-06T00:01:38.000Z",
+      "summaryShort": "Meta, Google, and TikTok sue California AG over teen social media law. If it goes into effect next year, this California law would restrict social media access for children under 16.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "airbnb-says-it-s-launching-an-ai-travel-agent-in-the-first-half-",
+      "title": "Airbnb says it's launching an AI travel agent in the first half of 2027",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "publishedAt": "2026-11-05T22:40:55.000Z",
+      "summaryShort": "Airbnb says it's launching an AI travel agent in the first half of 2027. Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "tags": [
+        "AI"
       ]
     }
   ]
