@@ -1,92 +1,90 @@
 {
-  "generatedAt": "2026-11-06T05:53:48.771Z",
+  "generatedAt": "2026-11-06T19:06:47.056Z",
   "items": [
     {
-      "id": "google-cloud-api-gateway-introduces-streaming-support-for-real-t",
-      "title": "Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications",
+      "id": "yelp-combines-native-and-server-driven-ui-for-its-ai-assistant",
+      "title": "Yelp Combines Native and Server-Driven UI for Its AI Assistant",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-05T16:00:00.000Z",
-      "summaryShort": "Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications. Google has announced the public preview of streaming support for API Gateway, extending its traditional request-response model to support appli",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "leapwork-play-reaches-ga-with-governance-for-playwright-tests",
-      "title": "Leapwork Play Reaches GA with Governance for Playwright Tests",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/leapwork-play-playwright/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-05T15:56:00.000Z",
-      "summaryShort": "Leapwork Play Reaches GA with Governance for Playwright Tests. Leapwork Play adds requirement traceability and approval workflows around portable Playwright tests.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "building-a-culture-for-a-kubernetes-based-platform-in-a-bank",
-      "title": "Building a Culture for a Kubernetes-Based Platform in a Bank",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/culture-kubernetes-bank/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-05T11:11:00.000Z",
-      "summaryShort": "Building a Culture for a Kubernetes-Based Platform in a Bank. In banking, open source can earn trust by running real workloads, as Marcy Paramonova and Stéphane Cusin explained in their talk Building Cloud Native Culture in a Bank at KubeCo",
-      "tags": [
-        "Cloud",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "presentation-zero-trust-agent-systems-that-pass-audits-and-still",
-      "title": "Presentation: Zero Trust Agent Systems that Pass Audits and Still Ship",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/zero-trust-ai-agents-production-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-05T11:00:00.000Z",
-      "summaryShort": "Presentation: Zero Trust Agent Systems that Pass Audits and Still Ship. Advait Patel shares a playbook for securing AI agent systems in production.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/yelp-assistant-hybrid-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-06T14:25:00.000Z",
+      "summaryShort": "Yelp Combines Native and Server-Driven UI for Its AI Assistant. Yelp combines native mobile controls with server-driven conversation rendering in its AI Assistant using the CHAOS framework.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "inkitt-builds-a-one-shot-pr-creator-with-resumable-agent-orchest",
-      "title": "Inkitt Builds a One-Shot PR Creator with Resumable Agent Orchestration",
+      "id": "gitlab-19-5-makes-agentic-development-a-governed-part-of-the-dev",
+      "title": "GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/inkitt-one-shot-pr-creator-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-04T14:36:00.000Z",
-      "summaryShort": "Inkitt Builds a One-Shot PR Creator with Resumable Agent Orchestration. Inkitt built a one-shot pull request creator that automates small, low-risk code changes from task intake to draft PR creation.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/gitlab-19-5-agentic-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-06T12:00:00.000Z",
+      "summaryShort": "GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform. GitLab 19.5, released on October 15, puts agentic software development and governance at the centre of the platform, making its GitLab MCP server generally availa",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "typescript-7-1-beta-restores-the-compiler-api-and-makes-vue-and-",
+      "title": "TypeScript 7.1 Beta: Restores the Compiler API and Makes Vue and Svelte First-Class",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/typescript-7-1-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-06T11:06:00.000Z",
+      "summaryShort": "TypeScript 7.1 Beta: Restores the Compiler API and Makes Vue and Svelte First-Class. TypeScript 7.1 Beta, announced October 20, 2026, restores the compiler API removed in 7.0, now split into separate entry points.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330",
-      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
-      "publishedAt": "2026-11-06T00:07:18.000Z",
-      "summaryShort": "The New York Times reportedly in talks to buy Letterboxd for $330 million. Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+      "id": "presentation-the-socio-technical-staff-engineer-architecture-cul",
+      "title": "Presentation: The Socio-Technical Staff+ Engineer: Architecture, Culture and Organisational Change",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/sociotechnical-staff-engineer-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-06T11:00:00.000Z",
+      "summaryShort": "Presentation: The Socio-Technical Staff+ Engineer: Architecture, Culture and Organisational Change. Vanessa Formicola shares how technical leaders can move beyond \"wishful architecture\" by practicing holistic socio-technical engineering.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "meta-google-and-tiktok-sue-california-ag-over-teen-social-media-",
-      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
-      "publishedAt": "2026-11-06T00:01:38.000Z",
-      "summaryShort": "Meta, Google, and TikTok sue California AG over teen social media law. If it goes into effect next year, this California law would restrict social media access for children under 16.",
+      "id": "aws-ships-continuum-for-code-vulnerabilities",
+      "title": "AWS Ships Continuum for Code Vulnerabilities",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/aws-continuum-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-06T10:00:00.000Z",
+      "summaryShort": "AWS Ships Continuum for Code Vulnerabilities. AWS has made Continuum for code vulnerabilities generally available in two regions.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "airbnb-says-it-s-launching-an-ai-travel-agent-in-the-first-half-",
-      "title": "Airbnb says it's launching an AI travel agent in the first half of 2027",
+      "id": "hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "publishedAt": "2026-11-05T22:40:55.000Z",
-      "summaryShort": "Airbnb says it's launching an AI travel agent in the first half of 2027. Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "publishedAt": "2026-11-06T18:44:38.000Z",
+      "summaryShort": "Hundreds of Artex AI hacking tools found publicly exposed to the web. Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-a",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "publishedAt": "2026-11-06T18:44:20.000Z",
+      "summaryShort": "Meta introduces Spaces, a new way to collaborate with your Muse agent. Meta's Muse agents continue to get new features and integrations.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "publishedAt": "2026-11-06T17:23:52.000Z",
+      "summaryShort": "After the midterms, is the AI industry in for a rough two years?. Democrats’ historic victories in this week’s U.S.",
       "tags": [
         "AI"
       ]
