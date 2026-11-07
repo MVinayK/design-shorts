@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T19:06:47.056Z",
+  "generatedAt": "2026-11-07T05:25:17.934Z",
   "items": [
     {
       "id": "yelp-combines-native-and-server-driven-ui-for-its-ai-assistant",
@@ -57,34 +57,34 @@
       ]
     },
     {
-      "id": "hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "id": "sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era",
+      "title": "Sequoia shutting down its Scouts program marks the end of an era",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "publishedAt": "2026-11-06T18:44:38.000Z",
-      "summaryShort": "Hundreds of Artex AI hacking tools found publicly exposed to the web. Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+      "publishedAt": "2026-11-07T05:01:54.000Z",
+      "summaryShort": "Sequoia shutting down its Scouts program marks the end of an era. Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-a",
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "id": "from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-bi",
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "publishedAt": "2026-11-06T18:44:20.000Z",
-      "summaryShort": "Meta introduces Spaces, a new way to collaborate with your Muse agent. Meta's Muse agents continue to get new features and integrations.",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "publishedAt": "2026-11-07T04:16:43.000Z",
+      "summaryShort": "From the front row to the hot seat — what the midterms mean for Big Tech. After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image ma",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "id": "crusoe-sells-troubled-wyoming-data-center-project-to-google",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "publishedAt": "2026-11-06T17:23:52.000Z",
-      "summaryShort": "After the midterms, is the AI industry in for a rough two years?. Democrats’ historic victories in this week’s U.S.",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "publishedAt": "2026-11-07T01:40:28.000Z",
+      "summaryShort": "Crusoe sells troubled Wyoming data center project to Google. The deal highlights the challenges of developing massive AI data centers.",
       "tags": [
         "AI"
       ]
