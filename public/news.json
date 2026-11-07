@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-11-07T05:25:17.934Z",
+  "generatedAt": "2026-11-07T17:38:07.987Z",
   "items": [
+    {
+      "id": "how-grab-improved-mobile-app-stability-by-safely-handling-surge-",
+      "title": "How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/grab-ai-generated-code-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-07T11:00:00.000Z",
+      "summaryShort": "How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes. The growing adoption of AI coding assistants has accelerated development and increased the volume of code changes per release, bringing more oppor",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "open-source-pg-vectorsearch-brings-more-scalable-vector-search-t",
+      "title": "Open Source pg_vectorsearch Brings More Scalable Vector Search to PostgreSQL",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/postgresql-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-07T09:49:00.000Z",
+      "summaryShort": "Open Source pg_vectorsearch Brings More Scalable Vector Search to PostgreSQL. Tiger Data has released pg_vectorsearch, an open source PostgreSQL extension for vector similarity search, currently in alpha.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "varlock-releases-bumpy-a-file-based-versioning-alternative-to-ch",
+      "title": "Varlock Releases Bumpy: A File-Based Versioning Alternative to Changesets",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/bumpy-changesets-alternative/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-07T06:54:00.000Z",
+      "summaryShort": "Varlock Releases Bumpy: A File-Based Versioning Alternative to Changesets. Bumpy is an MIT-licensed, TypeScript tool for version management and changelogs in monorepos.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "yelp-combines-native-and-server-driven-ui-for-its-ai-assistant",
       "title": "Yelp Combines Native and Server-Driven UI for Its AI Assistant",
@@ -24,36 +57,25 @@
       ]
     },
     {
-      "id": "typescript-7-1-beta-restores-the-compiler-api-and-makes-vue-and-",
-      "title": "TypeScript 7.1 Beta: Restores the Compiler API and Makes Vue and Svelte First-Class",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/typescript-7-1-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-06T11:06:00.000Z",
-      "summaryShort": "TypeScript 7.1 Beta: Restores the Compiler API and Makes Vue and Svelte First-Class. TypeScript 7.1 Beta, announced October 20, 2026, restores the compiler API removed in 7.0, now split into separate entry points.",
+      "id": "binance-cfo-is-leaving-to-8216-pursue-a-new-venture-after-6-3-bi",
+      "title": "Binance CFO is leaving to &#8216;pursue a new venture' after $6.3 billion hack",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "publishedAt": "2026-11-07T17:24:07.000Z",
+      "summaryShort": "Binance CFO is leaving to &#8216;pursue a new venture' after $6.3 billion hack. The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "presentation-the-socio-technical-staff-engineer-architecture-cul",
-      "title": "Presentation: The Socio-Technical Staff+ Engineer: Architecture, Culture and Organisational Change",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/sociotechnical-staff-engineer-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-06T11:00:00.000Z",
-      "summaryShort": "Presentation: The Socio-Technical Staff+ Engineer: Architecture, Culture and Organisational Change. Vanessa Formicola shares how technical leaders can move beyond \"wishful architecture\" by practicing holistic socio-technical engineering.",
+      "id": "amazon-s-new-basic-kindle-proves-you-don-t-need-all-the-bells-an",
+      "title": "Amazon's new basic Kindle proves you don't need all the bells and whistles",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "publishedAt": "2026-11-07T17:18:00.000Z",
+      "summaryShort": "Amazon's new basic Kindle proves you don't need all the bells and whistles. Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
       "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "aws-ships-continuum-for-code-vulnerabilities",
-      "title": "AWS Ships Continuum for Code Vulnerabilities",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/aws-continuum-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-06T10:00:00.000Z",
-      "summaryShort": "AWS Ships Continuum for Code Vulnerabilities. AWS has made Continuum for code vulnerabilities generally available in two regions.",
-      "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
@@ -63,28 +85,6 @@
       "sourceUrl": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
       "publishedAt": "2026-11-07T05:01:54.000Z",
       "summaryShort": "Sequoia shutting down its Scouts program marks the end of an era. Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-bi",
-      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-      "publishedAt": "2026-11-07T04:16:43.000Z",
-      "summaryShort": "From the front row to the hot seat — what the midterms mean for Big Tech. After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image ma",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "crusoe-sells-troubled-wyoming-data-center-project-to-google",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "publishedAt": "2026-11-07T01:40:28.000Z",
-      "summaryShort": "Crusoe sells troubled Wyoming data center project to Google. The deal highlights the challenges of developing massive AI data centers.",
       "tags": [
         "AI"
       ]
