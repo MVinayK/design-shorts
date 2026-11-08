@@ -1,6 +1,41 @@
 {
-  "generatedAt": "2026-11-08T05:24:35.176Z",
+  "generatedAt": "2026-11-08T17:47:38.130Z",
   "items": [
+    {
+      "id": "entire-s-git-forge-rethinks-git-collaboration-for-coding-agents",
+      "title": "Entire's Git Forge Rethinks Git Collaboration for Coding Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/entire-git-forge-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-08T11:00:00.000Z",
+      "summaryShort": "Entire's Git Forge Rethinks Git Collaboration for Coding Agents. Entire is a Git forge designed specifically for collaboration between human developers and AI coding agents.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "google-cloud-adds-self-managed-vmware-cloud-foundation-on-bare-m",
+      "title": "Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/google-cloud-self-managed-vmware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-08T07:16:00.000Z",
+      "summaryShort": "Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal. Google Cloud has made a self-managed VMware solution generally available, running VMware Cloud Foundation 9.x on dedicated Z3 bare metal with root access across ESXi, vCe",
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "id": "cloudflare-scales-d1-control-plane-to-millions-of-databases",
+      "title": "Cloudflare Scales D1 Control Plane to Millions of Databases",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/cloudflare-d1-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-08T06:34:00.000Z",
+      "summaryShort": "Cloudflare Scales D1 Control Plane to Millions of Databases. In a recent article, Cloudflare shared the redesign of the control plane of its D1 serverless SQL database to support millions of databases, avoiding centralized bottlenecks, impl",
+      "tags": [
+        "Databases",
+        "Cloud"
+      ]
+    },
     {
       "id": "how-grab-improved-mobile-app-stability-by-safely-handling-surge-",
       "title": "How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes",
@@ -24,67 +59,34 @@
       ]
     },
     {
-      "id": "varlock-releases-bumpy-a-file-based-versioning-alternative-to-ch",
-      "title": "Varlock Releases Bumpy: A File-Based Versioning Alternative to Changesets",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/bumpy-changesets-alternative/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-07T06:54:00.000Z",
-      "summaryShort": "Varlock Releases Bumpy: A File-Based Versioning Alternative to Changesets. Bumpy is an MIT-licensed, TypeScript tool for version management and changelogs in monorepos.",
+      "id": "he-arrested-a-hacker-then-spent-18-months-clearing-his-own-name-",
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "publishedAt": "2026-11-08T17:30:00.000Z",
+      "summaryShort": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC..",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "yelp-combines-native-and-server-driven-ui-for-its-ai-assistant",
-      "title": "Yelp Combines Native and Server-Driven UI for Its AI Assistant",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/yelp-assistant-hybrid-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-06T14:25:00.000Z",
-      "summaryShort": "Yelp Combines Native and Server-Driven UI for Its AI Assistant. Yelp combines native mobile controls with server-driven conversation rendering in its AI Assistant using the CHAOS framework.",
+      "id": "techcrunch-mobility-the-cybertruck-experiment-is-over",
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "publishedAt": "2026-11-08T17:02:00.000Z",
+      "summaryShort": "TechCrunch Mobility: The Cybertruck experiment is over. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "gitlab-19-5-makes-agentic-development-a-governed-part-of-the-dev",
-      "title": "GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/gitlab-19-5-agentic-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-06T12:00:00.000Z",
-      "summaryShort": "GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform. GitLab 19.5, released on October 15, puts agentic software development and governance at the centre of the platform, making its GitLab MCP server generally availa",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "after-the-midterms-things-are-looking-rocky-for-elon-musk-and-da",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "id": "ninja-s-autobarista-is-impressively-versatile-but-one-feature-wa",
+      "title": "Ninja's AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "publishedAt": "2026-11-07T22:07:22.000Z",
-      "summaryShort": "After the midterms, things are looking rocky for Elon Musk and data centers. On Equity, we unpacked what the midterms mean for the tech industry.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "megaspeed-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-u",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "publishedAt": "2026-11-07T21:17:08.000Z",
-      "summaryShort": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo. A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's ",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "parents-want-safer-phones-for-kids-these-companies-are-answering",
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-      "publishedAt": "2026-11-07T19:00:00.000Z",
-      "summaryShort": "Parents want safer phones for kids. These companies are answering the call..",
+      "sourceUrl": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "publishedAt": "2026-11-08T15:00:00.000Z",
+      "summaryShort": "Ninja's AutoBarista is impressively versatile, but one feature was a dealbreaker for me. The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
       "tags": [
         "Engineering"
       ]
