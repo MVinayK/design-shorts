@@ -1,92 +1,93 @@
 {
-  "generatedAt": "2026-11-10T06:45:17.852Z",
+  "generatedAt": "2026-11-10T19:29:48.427Z",
   "items": [
     {
-      "id": "effect-4-0-ships-dependency-free-rewrite-with-5x-smaller-bundles",
-      "title": "Effect 4.0 Ships: Dependency-Free Rewrite with 5x Smaller Bundles and Long-Term Support",
+      "id": "cloudflare-makes-basin-serverless-analytics-generally-available",
+      "title": "Cloudflare Makes Basin Serverless Analytics Generally Available",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/effect-4-0-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-10T06:33:00.000Z",
-      "summaryShort": "Effect 4.0 Ships: Dependency-Free Rewrite with 5x Smaller Bundles and Long-Term Support. Effect 4.0, a TypeScript framework for typed errors and structured concurrency, was released on 30 September 2026 with a rewritten fiber runtime.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/cloudflare-basin-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-10T19:14:00.000Z",
+      "summaryShort": "Cloudflare Makes Basin Serverless Analytics Generally Available. Cloudflare has announced the general availability of Basin, a serverless analytics platform built on Apache Iceberg and R2 Object Storage.",
       "tags": [
-        "Engineering"
+        "Databases",
+        "Cloud"
       ]
     },
     {
-      "id": "java-news-roundup-tornadovm-a2a-java-open-liberty-open-j-proxy-g",
-      "title": "Java News Roundup: TornadoVM, A2A Java, Open Liberty, Open J Proxy, Gradle, EclipseStore",
+      "id": "google-finds-that-technical-debt-can-derail-coding-agents-throug",
+      "title": "Google Finds that Technical Debt Can Derail Coding Agents Through \"Agent Distraction\"",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/java-news-roundup-nov02-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-09T18:40:00.000Z",
-      "summaryShort": "Java News Roundup: TornadoVM, A2A Java, Open Liberty, Open J Proxy, Gradle, EclipseStore. This week's Java roundup for November 2nd, 2026, features news highlighting: point releases of TornadoVM, TornadoInsight, A2A for Java, Gradle and Ecl",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "google-releases-gemini-4-argon-for-robotics-control-simulation-a",
-      "title": "Google Releases Gemini 4 Argon for Robotics Control, Simulation, and Policy Improvement",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/google-gemini-argon/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-09T15:44:00.000Z",
-      "summaryShort": "Google Releases Gemini 4 Argon for Robotics Control, Simulation, and Policy Improvement. Google has released Gemini 4 Argon framing it as a general-purpose physical-reasoning model for robot control, Real2Sim scene construction, multimodal ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/google-agent-distraction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-10T18:00:00.000Z",
+      "summaryShort": "Google Finds that Technical Debt Can Derail Coding Agents Through \"Agent Distraction\". In a recent article, Google senior staff software engineer Sam Saccone and senior staff data scientist Madhuri Garikapati highlighted the cost of agent d",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "cloudflare-develops-public-certificate-authority-for-post-quantu",
-      "title": "Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security",
+      "id": "pinterest-and-intel-take-open-source-profiling-to-internet-scale",
+      "title": "Pinterest and Intel Take Open-Source Profiling to Internet Scale",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/cloudflare-merkle-certificates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-09T14:35:00.000Z",
-      "summaryShort": "Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security. Cloudflare is developing a public certificate authority for Merkle Tree Certificates (MTCs) to reduce the bandwidth overhead of post-quantum cryptography.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/pinterest-intel-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-10T12:00:00.000Z",
+      "summaryShort": "Pinterest and Intel Take Open-Source Profiling to Internet Scale. Pinterest has partnered with Intel to extend gProfiler, an open-source continuous profiler that provides production performance visibility across an internet-scale fleet of i",
       "tags": [
         "Cloud"
       ]
     },
     {
-      "id": "aws-launches-torchneuron-to-run-pytorch-models-on-aws-trainium-w",
-      "title": "AWS Launches TorchNeuron to Run PyTorch Models on AWS Trainium Without Modifications",
+      "id": "presentation-batch-intelligence-at-scale-cost-efficient-multi-ag",
+      "title": "Presentation: Batch Intelligence at Scale: Cost-Efficient Multi-Agent LLM Workflows with Built-In Resilience",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/aws-torchneuron-trainium-pytorch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-09T11:00:00.000Z",
-      "summaryShort": "AWS Launches TorchNeuron to Run PyTorch Models on AWS Trainium Without Modifications. At the recent PyTorch Conference North America 2026, Amazon introduced TorchNeuron, a native PyTorch backend that enables developers to run existing PyTor",
+      "sourceUrl": "https://www.infoq.com/presentations/scaling-multi-agent-llm-batch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-10T11:00:00.000Z",
+      "summaryShort": "Presentation: Batch Intelligence at Scale: Cost-Efficient Multi-Agent LLM Workflows with Built-In Resilience. Aditya Mulik explains how Walmart Global Tech deployed multi-agent LLM workflows across 4,700 stores for nightly batch inventory f",
       "tags": [
-        "AI"
+        "Cloud"
       ]
     },
     {
-      "id": "california-s-proposed-8216-billionaire-tax-fails-to-pass",
-      "title": "California's proposed &#8216;billionaire tax' fails to pass",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
-      "publishedAt": "2026-11-10T05:18:43.000Z",
-      "summaryShort": "California's proposed &#8216;billionaire tax' fails to pass. California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday.",
+      "id": "article-llm-reliability-layers-under-test-accuracy-yield-and-the",
+      "title": "Article: LLM Reliability Layers Under Test: Accuracy, Yield, and the Limits of Verification",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/llm-reliability-layers-limits-accuracy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-10T09:00:00.000Z",
+      "summaryShort": "Article: LLM Reliability Layers Under Test: Accuracy, Yield, and the Limits of Verification. Verification layers sort outputs by trust rather than fixing errors.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "jensen-huang-s-alleged-honeypot-scandal-has-inspired-some-top-no",
-      "title": "Jensen Huang's alleged honeypot scandal has inspired some top-notch memes",
+      "id": "oura-to-acquire-ai-native-primary-care-startup-counsel-health-fo",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
-      "publishedAt": "2026-11-10T04:34:15.000Z",
-      "summaryShort": "Jensen Huang's alleged honeypot scandal has inspired some top-notch memes. The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "publishedAt": "2026-11-10T19:23:34.000Z",
+      "summaryShort": "Oura to acquire AI-native primary care startup Counsel Health for $625M. The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "id": "psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-dis",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "publishedAt": "2026-11-10T01:27:12.000Z",
-      "summaryShort": "Anthropic reportedly plans to move forward with IPO plans. The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "publishedAt": "2026-11-10T19:03:52.000Z",
+      "summaryShort": "PSI is trying to make a business out of AI-driven scientific discovery. PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "openai-rolls-out-new-business-profiles-making-chatgpt-just-a-lit",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "publishedAt": "2026-11-10T18:49:52.000Z",
+      "summaryShort": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google. OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
