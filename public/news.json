@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-09T22:07:21.887Z",
+  "generatedAt": "2026-11-10T06:45:17.852Z",
   "items": [
+    {
+      "id": "effect-4-0-ships-dependency-free-rewrite-with-5x-smaller-bundles",
+      "title": "Effect 4.0 Ships: Dependency-Free Rewrite with 5x Smaller Bundles and Long-Term Support",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/effect-4-0-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-10T06:33:00.000Z",
+      "summaryShort": "Effect 4.0 Ships: Dependency-Free Rewrite with 5x Smaller Bundles and Long-Term Support. Effect 4.0, a TypeScript framework for typed errors and structured concurrency, was released on 30 September 2026 with a rewritten fiber runtime.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "java-news-roundup-tornadovm-a2a-java-open-liberty-open-j-proxy-g",
       "title": "Java News Roundup: TornadoVM, A2A Java, Open Liberty, Open J Proxy, Gradle, EclipseStore",
@@ -46,48 +57,36 @@
       ]
     },
     {
-      "id": "podcast-distributed-llm-inference-on-kubernetes-with-llm-d-wasm-",
-      "title": "Podcast: Distributed LLM Inference on Kubernetes with llm-d, Wasm, & TornadoVM",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/distributed-llm-inference-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-09T11:00:00.000Z",
-      "summaryShort": "Podcast: Distributed LLM Inference on Kubernetes with llm-d, Wasm, & TornadoVM. In this episode, Edoardo Vacchi discusses the evolving landscape of WebAssembly on the backend, running Java workloads on GPUs using TornadoVM, and optimizing d",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "fervo-now-has-12b-in-orders-for-its-geothermal-power-tech",
-      "title": "Fervo now has $12B in orders for its geothermal power tech",
+      "id": "california-s-proposed-8216-billionaire-tax-fails-to-pass",
+      "title": "California's proposed &#8216;billionaire tax' fails to pass",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
-      "publishedAt": "2026-11-09T20:55:34.000Z",
-      "summaryShort": "Fervo now has $12B in orders for its geothermal power tech. Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+      "publishedAt": "2026-11-10T05:18:43.000Z",
+      "summaryShort": "California's proposed &#8216;billionaire tax' fails to pass. California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controve",
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "id": "jensen-huang-s-alleged-honeypot-scandal-has-inspired-some-top-no",
+      "title": "Jensen Huang's alleged honeypot scandal has inspired some top-notch memes",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "publishedAt": "2026-11-09T20:09:06.000Z",
-      "summaryShort": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy. The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+      "publishedAt": "2026-11-10T04:34:15.000Z",
+      "summaryShort": "Jensen Huang's alleged honeypot scandal has inspired some top-notch memes. The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "youtube-streaming-data-returns-to-billboard-charts-ending-major-",
-      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+      "id": "anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
-      "publishedAt": "2026-11-09T19:39:41.000Z",
-      "summaryShort": "YouTube streaming data returns to Billboard charts, ending major disagreement. YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "publishedAt": "2026-11-10T01:27:12.000Z",
+      "summaryShort": "Anthropic reportedly plans to move forward with IPO plans. The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
