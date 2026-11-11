@@ -1,93 +1,93 @@
 {
-  "generatedAt": "2026-11-11T05:31:43.222Z",
+  "generatedAt": "2026-11-11T19:25:20.025Z",
   "items": [
     {
-      "id": "cloudflare-makes-basin-serverless-analytics-generally-available",
-      "title": "Cloudflare Makes Basin Serverless Analytics Generally Available",
+      "id": "github-makes-agentic-workflows-generally-available-with-isolatio",
+      "title": "GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/cloudflare-basin-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-10T19:14:00.000Z",
-      "summaryShort": "Cloudflare Makes Basin Serverless Analytics Generally Available. Cloudflare has announced the general availability of Basin, a serverless analytics platform built on Apache Iceberg and R2 Object Storage.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/github-agentic-workflows-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-11T17:00:00.000Z",
+      "summaryShort": "GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls. GitHub Agentic Workflows is generally available, running coding agents in GitHub Actions with read-only defaults and separately scoped write jobs.",
       "tags": [
-        "Databases",
-        "Cloud"
+        "Engineering"
       ]
     },
     {
-      "id": "google-finds-that-technical-debt-can-derail-coding-agents-throug",
-      "title": "Google Finds that Technical Debt Can Derail Coding Agents Through \"Agent Distraction\"",
+      "id": "jiohotstar-benchmarks-knowledge-bases-for-ai-coding-agents",
+      "title": "JioHotstar Benchmarks Knowledge Bases for AI Coding Agents",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/google-agent-distraction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-10T18:00:00.000Z",
-      "summaryShort": "Google Finds that Technical Debt Can Derail Coding Agents Through \"Agent Distraction\". In a recent article, Google senior staff software engineer Sam Saccone and senior staff data scientist Madhuri Garikapati highlighted the cost of agent d",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/jiohotstar-codingagent-retrieval/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-11T14:28:00.000Z",
+      "summaryShort": "JioHotstar Benchmarks Knowledge Bases for AI Coding Agents. JioHotstar evaluated 6 approaches to code retrieval for AI coding agents using SWE, CodeScale Bench, and an internal question-answering harness.",
+      "tags": [
+        "AI",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "how-linkedin-netflix-doordash-run-agents-evals-inference-in-prod",
+      "title": "How LinkedIn, Netflix & DoorDash Run Agents, Evals & Inference in Production: QCon AI New York 2026",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/qcon-ai-newyork-2026-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-11T11:00:00.000Z",
+      "summaryShort": "How LinkedIn, Netflix & DoorDash Run Agents, Evals & Inference in Production: QCon AI New York 2026. QCon AI New York has published its full program for December 15–16, 2026.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "pinterest-and-intel-take-open-source-profiling-to-internet-scale",
-      "title": "Pinterest and Intel Take Open-Source Profiling to Internet Scale",
+      "id": "presentation-uncorking-queueing-bottlenecks-with-opentelemetry",
+      "title": "Presentation: Uncorking Queueing Bottlenecks with OpenTelemetry",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/pinterest-intel-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-10T12:00:00.000Z",
-      "summaryShort": "Pinterest and Intel Take Open-Source Profiling to Internet Scale. Pinterest has partnered with Intel to extend gProfiler, an open-source continuous profiler that provides production performance visibility across an internet-scale fleet of i",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-batch-intelligence-at-scale-cost-efficient-multi-ag",
-      "title": "Presentation: Batch Intelligence at Scale: Cost-Efficient Multi-Agent LLM Workflows with Built-In Resilience",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/scaling-multi-agent-llm-batch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-10T11:00:00.000Z",
-      "summaryShort": "Presentation: Batch Intelligence at Scale: Cost-Efficient Multi-Agent LLM Workflows with Built-In Resilience. Aditya Mulik explains how Walmart Global Tech deployed multi-agent LLM workflows across 4,700 stores for nightly batch inventory f",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "article-llm-reliability-layers-under-test-accuracy-yield-and-the",
-      "title": "Article: LLM Reliability Layers Under Test: Accuracy, Yield, and the Limits of Verification",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/llm-reliability-layers-limits-accuracy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-10T09:00:00.000Z",
-      "summaryShort": "Article: LLM Reliability Layers Under Test: Accuracy, Yield, and the Limits of Verification. Verification layers sort outputs by trust rather than fixing errors.",
+      "sourceUrl": "https://www.infoq.com/presentations/opentelemetry-queue-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-11T11:00:00.000Z",
+      "summaryShort": "Presentation: Uncorking Queueing Bottlenecks with OpenTelemetry. Oli Lane and Julian Wreford share how Gearset replaced guesswork in distributed asynchronous queues with OpenTelemetry tracing.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "x-launches-its-own-clipping-feature-to-spur-influencer-engagemen",
-      "title": "X launches its own clipping feature to spur influencer engagement",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
-      "publishedAt": "2026-11-11T01:02:13.000Z",
-      "summaryShort": "X launches its own clipping feature to spur influencer engagement. X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+      "id": "article-the-ios-crash-we-could-not-reproduce",
+      "title": "Article: The iOS Crash We Could Not Reproduce",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/ios-crash-sigbus-debugging-experiment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-11T09:00:00.000Z",
+      "summaryShort": "Article: The iOS Crash We Could Not Reproduce. This article describes the investigation to find the root cause of a production crash in a large-scale iOS consumer app that had no clean stack trace.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "openai-acquires-odessia-travel-startup-created-by-sonder-founder",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "id": "congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-s",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "publishedAt": "2026-11-10T21:08:52.000Z",
-      "summaryShort": "OpenAI acquires Odessia, travel startup created by Sonder founder. OpenAI has not yet said what its plans are for the future of travel.",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "publishedAt": "2026-11-11T19:22:22.000Z",
+      "summaryShort": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair. Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese ",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "openai-anthropic-face-new-oversight-as-new-york-s-ai-safety-law-",
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "id": "is-jensen-huang-s-bad-behavior-more-commonplace-than-it-seems",
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "publishedAt": "2026-11-10T20:52:13.000Z",
-      "summaryShort": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect. New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and rep",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "publishedAt": "2026-11-11T16:16:07.000Z",
+      "summaryShort": "Is Jensen Huang’s bad behavior more commonplace than it seems?. “There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
       "tags": [
-        "AI"
+        "Engineering"
+      ]
+    },
+    {
+      "id": "openai-s-quarterly-revenue-reportedly-crosses-10b-for-the-first-",
+      "title": "OpenAI's quarterly revenue reportedly crosses $10B for the first time",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "publishedAt": "2026-11-11T16:14:44.000Z",
+      "summaryShort": "OpenAI's quarterly revenue reportedly crosses $10B for the first time. Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
