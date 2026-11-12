@@ -1,92 +1,92 @@
 {
-  "generatedAt": "2026-11-12T06:37:48.859Z",
+  "generatedAt": "2026-11-12T19:42:57.079Z",
   "items": [
     {
-      "id": "github-makes-agentic-workflows-generally-available-with-isolatio",
-      "title": "GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls",
+      "id": "technical-debt-is-social-it-is-the-price-of-learning-by-doing",
+      "title": "Technical Debt is Social; it is the Price of Learning by Doing",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/github-agentic-workflows-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-11T17:00:00.000Z",
-      "summaryShort": "GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls. GitHub Agentic Workflows is generally available, running coding agents in GitHub Actions with read-only defaults and separately scoped write jobs.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "jiohotstar-benchmarks-knowledge-bases-for-ai-coding-agents",
-      "title": "JioHotstar Benchmarks Knowledge Bases for AI Coding Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/jiohotstar-codingagent-retrieval/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-11T14:28:00.000Z",
-      "summaryShort": "JioHotstar Benchmarks Knowledge Bases for AI Coding Agents. JioHotstar evaluated 6 approaches to code retrieval for AI coding agents using SWE, CodeScale Bench, and an internal question-answering harness.",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "how-linkedin-netflix-doordash-run-agents-evals-inference-in-prod",
-      "title": "How LinkedIn, Netflix & DoorDash Run Agents, Evals & Inference in Production: QCon AI New York 2026",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/qcon-ai-newyork-2026-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-11T11:00:00.000Z",
-      "summaryShort": "How LinkedIn, Netflix & DoorDash Run Agents, Evals & Inference in Production: QCon AI New York 2026. QCon AI New York has published its full program for December 15–16, 2026.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/tech-debt-learning-doing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-12T11:05:00.000Z",
+      "summaryShort": "Technical Debt is Social; it is the Price of Learning by Doing. Technical debt is not necessarily a sign of poor engineering.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "presentation-uncorking-queueing-bottlenecks-with-opentelemetry",
-      "title": "Presentation: Uncorking Queueing Bottlenecks with OpenTelemetry",
+      "id": "presentation-opening-the-black-box-critical-explainability-for-a",
+      "title": "Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/opentelemetry-queue-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-11T11:00:00.000Z",
-      "summaryShort": "Presentation: Uncorking Queueing Bottlenecks with OpenTelemetry. Oli Lane and Julian Wreford share how Gearset replaced guesswork in distributed asynchronous queues with OpenTelemetry tracing.",
+      "sourceUrl": "https://www.infoq.com/presentations/explainable-ai-llm-agent-decisions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-12T11:00:00.000Z",
+      "summaryShort": "Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector. Hannes Hapke shares how Dataiku’s open-source Kiji Inspector applies Sparse Autoencoders (SAEs) directly to decision tokens to exp",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "article-the-ios-crash-we-could-not-reproduce",
-      "title": "Article: The iOS Crash We Could Not Reproduce",
+      "id": "azure-logic-apps-standard-gets-a-local-cli-in-preview",
+      "title": "Azure Logic Apps Standard Gets a Local CLI in Preview",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/ios-crash-sigbus-debugging-experiment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-11T09:00:00.000Z",
-      "summaryShort": "Article: The iOS Crash We Could Not Reproduce. This article describes the investigation to find the root cause of a production crash in a large-scale iOS consumer app that had no clean stack trace.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/logic-apps-local-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-12T10:23:00.000Z",
+      "summaryShort": "Azure Logic Apps Standard Gets a Local CLI in Preview. Microsoft has released a public preview of the logicapp extension for the Azure CLI, adding local project creation, workflow authoring, a runtime lifecycle, connector management, run in",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "who-could-replace-jensen-huang-a-highly-unscientific-list-of-pos",
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "publishedAt": "2026-11-12T03:13:10.000Z",
-      "summaryShort": "Who could replace Jensen Huang? A highly unscientific list of possible successors.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "the-unfolding-jensen-huang-scandal-a-timeline",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "publishedAt": "2026-11-11T23:50:00.000Z",
-      "summaryShort": "The unfolding Jensen Huang scandal: a timeline. The affair could have ramifications for national security as the U.S.",
+      "id": "google-open-sources-tpu-sync-for-kv-cache-and-weight-transfer-on",
+      "title": "Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/google-tpu-sync/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-12T10:06:00.000Z",
+      "summaryShort": "Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs. Google Cloud has open-sourced TPU Sync, a native C++ library that moves KV cache blocks and model weights between TPU HBM, host DRAM, shared storage, and the data center",
       "tags": [
         "AI",
+        "Databases",
         "Cloud"
       ]
     },
     {
-      "id": "nvidia-s-stock-drops-as-board-reportedly-preps-to-oust-ceo-jense",
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "id": "author-q-a-finprim-is-a-case-for-one-financial-validation-librar",
+      "title": "Author Q+A: finprim is a Case for One Financial Validation Library in TypeScript",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/finprim-validation-qanda/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-12T09:28:00.000Z",
+      "summaryShort": "Author Q+A: finprim is a Case for One Financial Validation Library in TypeScript. finprim is an MIT-licensed TypeScript library that offers IBAN, BIC, card, sort code, VAT, routing number and loan functions through one API with no runtime d",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "google-s-latest-search-upgrade-promises-better-answers-to-your-m",
+      "title": "Google's latest Search upgrade promises better answers to your most complicated questions",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "publishedAt": "2026-11-11T23:28:45.000Z",
-      "summaryShort": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang. As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "publishedAt": "2026-11-12T19:27:45.000Z",
+      "summaryShort": "Google's latest Search upgrade promises better answers to your most complicated questions. Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer vi",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "nectar-launches-an-ai-agent-to-automate-creator-discovery-and-ou",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "publishedAt": "2026-11-12T19:11:00.000Z",
+      "summaryShort": "Nectar launches an AI agent to automate creator discovery and outreach for brands. Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "microsoft-s-outlook-email-hit-by-new-outage",
+      "title": "Microsoft's Outlook email hit by new outage",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+      "publishedAt": "2026-11-12T19:03:39.000Z",
+      "summaryShort": "Microsoft's Outlook email hit by new outage. Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
       "tags": [
         "Engineering"
       ]
