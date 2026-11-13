@@ -1,81 +1,80 @@
 {
-  "generatedAt": "2026-11-13T05:55:28.682Z",
+  "generatedAt": "2026-11-13T19:25:22.443Z",
   "items": [
     {
-      "id": "technical-debt-is-social-it-is-the-price-of-learning-by-doing",
-      "title": "Technical Debt is Social; it is the Price of Learning by Doing",
+      "id": "siri-ai-developer-preview-lets-ios-ipados-and-macos-apps-integra",
+      "title": "Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/tech-debt-learning-doing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-12T11:05:00.000Z",
-      "summaryShort": "Technical Debt is Social; it is the Price of Learning by Doing. Technical debt is not necessarily a sign of poor engineering.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/apple-siri-ai-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-13T16:00:00.000Z",
+      "summaryShort": "Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri. Apple released the Siri AI Developer Preview in the 27.3 beta releases of its operating systems, enabling developers and apps to integrate with the assistant an",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "presentation-opening-the-black-box-critical-explainability-for-a",
-      "title": "Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector",
+      "id": "google-open-sources-ambient-quality-agent-aqua-to-diagnose-produ",
+      "title": "Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/explainable-ai-llm-agent-decisions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-12T11:00:00.000Z",
-      "summaryShort": "Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector. Hannes Hapke shares how Dataiku’s open-source Kiji Inspector applies Sparse Autoencoders (SAEs) directly to decision tokens to exp",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/google-ambient-agent-prod/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-13T13:53:00.000Z",
+      "summaryShort": "Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures. Google has open-sourced AQuA, a reference implementation that analyzes production AI agent sessions, verifies recurring failure patterns, and investi",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "azure-logic-apps-standard-gets-a-local-cli-in-preview",
-      "title": "Azure Logic Apps Standard Gets a Local CLI in Preview",
+      "id": "netflix-turns-operational-data-into-a-knowledge-graph-for-ai-dri",
+      "title": "Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/logic-apps-local-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-12T10:23:00.000Z",
-      "summaryShort": "Azure Logic Apps Standard Gets a Local CLI in Preview. Microsoft has released a public preview of the logicapp extension for the Azure CLI, adding local project creation, workflow authoring, a runtime lifecycle, connector management, run in",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "google-open-sources-tpu-sync-for-kv-cache-and-weight-transfer-on",
-      "title": "Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/google-tpu-sync/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-12T10:06:00.000Z",
-      "summaryShort": "Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs. Google Cloud has open-sourced TPU Sync, a native C++ library that moves KV cache blocks and model weights between TPU HBM, host DRAM, shared storage, and the data center",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/netflix-ai-driven-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-13T12:00:00.000Z",
+      "summaryShort": "Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability. Netflix is developing an ontology-driven knowledge graph to accelerate production investigations and provide AI agents with a shared understanding of its ope",
       "tags": [
         "AI",
-        "Databases",
-        "Cloud"
+        "Architecture"
       ]
     },
     {
-      "id": "author-q-a-finprim-is-a-case-for-one-financial-validation-librar",
-      "title": "Author Q+A: finprim is a Case for One Financial Validation Library in TypeScript",
+      "id": "presentation-the-influence-toolkit",
+      "title": "Presentation: The Influence Toolkit",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/finprim-validation-qanda/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-12T09:28:00.000Z",
-      "summaryShort": "Author Q+A: finprim is a Case for One Financial Validation Library in TypeScript. finprim is an MIT-licensed TypeScript library that offers IBAN, BIC, card, sort code, VAT, routing number and loan functions through one API with no runtime d",
+      "sourceUrl": "https://www.infoq.com/presentations/bbc-software-architecture-influence/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-13T11:00:00.000Z",
+      "summaryShort": "Presentation: The Influence Toolkit. Henry Wilson shares actionable tools from the BBC Sounds re-architecture to help senior engineering leaders drive technical strategy.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "democrats-launch-nvidia-investigation-write-scathing-letter-on-h",
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang's &#8216;scheme' with Trump",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-      "publishedAt": "2026-11-12T22:42:51.000Z",
-      "summaryShort": "Democrats launch Nvidia investigation, write scathing letter on Huang's &#8216;scheme' with Trump. This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged s",
+      "id": "podcast-doing-the-right-thing-accountability-in-the-age-of-ai-co",
+      "title": "Podcast: Doing The Right Thing: Accountability In The Age Of AI Coding Summary",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/accountability-age-ai-coding-summary/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-13T09:00:00.000Z",
+      "summaryShort": "Podcast: Doing The Right Thing: Accountability In The Age Of AI Coding Summary. In this podcast, Shane Hastie, Lead Editor for Culture & Methods, spoke to Hugo Venturini about who is accountable when AI writes the code, how AI is reshaping ",
       "tags": [
-        "Engineering"
+        "AI"
       ]
     },
     {
-      "id": "muse-can-now-place-calls-to-us-businesses-if-you-pay",
-      "title": "Muse can now place calls to US businesses — if you pay",
+      "id": "export-banned-nvidia-chips-are-behind-china-s-most-powerful-ai-m",
+      "title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh oh, Jensen!",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-      "publishedAt": "2026-11-12T22:22:28.000Z",
-      "summaryShort": "Muse can now place calls to US businesses — if you pay. Muse's AI can now place outbound calls to U.S.",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "publishedAt": "2026-11-13T18:40:30.000Z",
+      "summaryShort": "Export-banned Nvidia chips are behind China's most powerful AI models — uh oh, Jensen!. New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "chatgpt-s-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+      "title": "ChatGPT's new Wallet lets AI agents shop and check out for you",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "publishedAt": "2026-11-13T16:00:12.000Z",
+      "summaryShort": "ChatGPT's new Wallet lets AI agents shop and check out for you. ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S.",
       "tags": [
         "AI"
       ]
@@ -84,8 +83,8 @@
       "id": "the-unfolding-jensen-huang-scandal-a-timeline",
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "publishedAt": "2026-11-12T21:35:00.000Z",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publishedAt": "2026-11-13T15:58:00.000Z",
       "summaryShort": "The unfolding Jensen Huang scandal: a timeline. Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S.",
       "tags": [
         "AI",
