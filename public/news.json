@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T19:25:22.443Z",
+  "generatedAt": "2026-11-14T05:44:33.236Z",
   "items": [
     {
       "id": "siri-ai-developer-preview-lets-ios-ipados-and-macos-apps-integra",
@@ -58,37 +58,37 @@
       ]
     },
     {
-      "id": "export-banned-nvidia-chips-are-behind-china-s-most-powerful-ai-m",
-      "title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh oh, Jensen!",
+      "id": "amazon-s-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premi",
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "publishedAt": "2026-11-13T18:40:30.000Z",
-      "summaryShort": "Export-banned Nvidia chips are behind China's most powerful AI models — uh oh, Jensen!. New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "chatgpt-s-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
-      "title": "ChatGPT's new Wallet lets AI agents shop and check out for you",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "publishedAt": "2026-11-13T16:00:12.000Z",
-      "summaryShort": "ChatGPT's new Wallet lets AI agents shop and check out for you. ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "the-unfolding-jensen-huang-scandal-a-timeline",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "publishedAt": "2026-11-13T15:58:00.000Z",
-      "summaryShort": "The unfolding Jensen Huang scandal: a timeline. Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S.",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "publishedAt": "2026-11-13T23:00:00.000Z",
+      "summaryShort": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price. The latest model is lighter and thinner than its predecessor and features an edge-to-edge display.",
       "tags": [
         "AI",
-        "Cloud"
+        "Architecture"
+      ]
+    },
+    {
+      "id": "jensen-huang-s-departure-blasts-big-hole-in-ai-startup-funding-v",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "publishedAt": "2026-11-13T22:43:00.000Z",
+      "summaryShort": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say. Nvidia poured tens of billions into AI startups under Huang.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "us-government-grounds-all-flights-across-the-united-states-8216-",
+      "title": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances'",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "publishedAt": "2026-11-13T21:44:38.000Z",
+      "summaryShort": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances'. A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Tr",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
