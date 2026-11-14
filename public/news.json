@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-11-14T05:44:33.236Z",
+  "generatedAt": "2026-11-14T17:49:08.633Z",
   "items": [
+    {
+      "id": "node-js-brings-debounce-throttle-and-pkcs-12-parsing-into-core-m",
+      "title": "Node.js Brings Debounce, Throttle, and PKCS#12 Parsing Into Core Modules",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/nodejs-debounce-throttle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-14T08:03:00.000Z",
+      "summaryShort": "Node.js Brings Debounce, Throttle, and PKCS#12 Parsing Into Core Modules. Node.js 26.10.0 adds util.debounce() and util.throttle(), plus util.markPromiseAsHandled(), to the core library.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "google-cloud-moves-the-compute-engine-api-to-immutable-date-base",
+      "title": "Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/compute-engine-api-versioning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-14T07:27:00.000Z",
+      "summaryShort": "Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions. Google Cloud has made date-based versioning of the Compute Engine API generally available, replacing the single mutable /v1 surface with immutable quarterly snapsho",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "open-source-documentdb-1-0-reaches-general-availability",
+      "title": "Open Source DocumentDB 1.0 Reaches General Availability",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-14T06:37:00.000Z",
+      "summaryShort": "Open Source DocumentDB 1.0 Reaches General Availability. DocumentDB 1.0 is the first generally available release of the open source, MIT-licensed document database built on PostgreSQL, with compatibility for the MongoDB wire protocol.",
+      "tags": [
+        "Databases"
+      ]
+    },
     {
       "id": "siri-ai-developer-preview-lets-ios-ipados-and-macos-apps-integra",
       "title": "Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri",
@@ -24,69 +58,34 @@
       ]
     },
     {
-      "id": "netflix-turns-operational-data-into-a-knowledge-graph-for-ai-dri",
-      "title": "Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/netflix-ai-driven-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-13T12:00:00.000Z",
-      "summaryShort": "Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability. Netflix is developing an ontology-driven knowledge graph to accelerate production investigations and provide AI agents with a shared understanding of its ope",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "presentation-the-influence-toolkit",
-      "title": "Presentation: The Influence Toolkit",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/bbc-software-architecture-influence/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-13T11:00:00.000Z",
-      "summaryShort": "Presentation: The Influence Toolkit. Henry Wilson shares actionable tools from the BBC Sounds re-architecture to help senior engineering leaders drive technical strategy.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "podcast-doing-the-right-thing-accountability-in-the-age-of-ai-co",
-      "title": "Podcast: Doing The Right Thing: Accountability In The Age Of AI Coding Summary",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/accountability-age-ai-coding-summary/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-13T09:00:00.000Z",
-      "summaryShort": "Podcast: Doing The Right Thing: Accountability In The Age Of AI Coding Summary. In this podcast, Shane Hastie, Lead Editor for Culture & Methods, spoke to Hugo Venturini about who is accountable when AI writes the code, how AI is reshaping ",
+      "id": "transportation-secretary-blames-routine-equipment-upgrade-for-gr",
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "publishedAt": "2026-11-14T17:45:04.000Z",
+      "summaryShort": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide. FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "amazon-s-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premi",
-      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "id": "the-ai-graveyard-a-running-list-of-projects-and-startups-that-di",
+      "title": "The AI graveyard: a running list of projects and startups that didn't make it",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-      "publishedAt": "2026-11-13T23:00:00.000Z",
-      "summaryShort": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price. The latest model is lighter and thinner than its predecessor and features an edge-to-edge display.",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "jensen-huang-s-departure-blasts-big-hole-in-ai-startup-funding-v",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "publishedAt": "2026-11-13T22:43:00.000Z",
-      "summaryShort": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say. Nvidia poured tens of billions into AI startups under Huang.",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-11-14T17:30:00.000Z",
+      "summaryShort": "The AI graveyard: a running list of projects and startups that didn't make it. From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "us-government-grounds-all-flights-across-the-united-states-8216-",
-      "title": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances'",
+      "id": "asian-governments-react-to-nvidia-ceo-jensen-huang-s-exit",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-      "publishedAt": "2026-11-13T21:44:38.000Z",
-      "summaryShort": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances'. A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Tr",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "publishedAt": "2026-11-14T16:34:15.000Z",
+      "summaryShort": "Asian governments react to Nvidia CEO Jensen Huang’s exit. Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
       "tags": [
         "Engineering"
       ]
