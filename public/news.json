@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-15T05:44:05.744Z",
+  "generatedAt": "2026-11-15T18:39:46.616Z",
   "items": [
+    {
+      "id": "anthropic-outlines-its-ai-powered-code-review-process-for-claude",
+      "title": "Anthropic Outlines Its AI-Powered Code Review Process for Claude Code",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-15T09:55:00.000Z",
+      "summaryShort": "Anthropic Outlines Its AI-Powered Code Review Process for Claude Code. Anthropic has outlined how the Claude Code team handles code reviews as AI agents increasingly contribute to its codebase.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "cloudflare-introduces-private-origins-for-application-services",
+      "title": "Cloudflare Introduces Private Origins for Application Services",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/cloudflare-private-origins/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-15T06:18:00.000Z",
+      "summaryShort": "Cloudflare Introduces Private Origins for Application Services. Cloudflare recently made Application Services for Private Origins generally available, allowing public traffic to reach applications hosted on private networks without exposing",
+      "tags": [
+        "Cloud"
+      ]
+    },
     {
       "id": "cohere-finding-shows-self-hosted-open-weight-models-still-need-e",
       "title": "Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls",
@@ -37,56 +59,34 @@
       ]
     },
     {
-      "id": "open-source-documentdb-1-0-reaches-general-availability",
-      "title": "Open Source DocumentDB 1.0 Reaches General Availability",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-14T06:37:00.000Z",
-      "summaryShort": "Open Source DocumentDB 1.0 Reaches General Availability. DocumentDB 1.0 is the first generally available release of the open source, MIT-licensed document database built on PostgreSQL, with compatibility for the MongoDB wire protocol.",
+      "id": "flaming-hydra-s-new-kickstarter-campaign-rethinks-e-book-ownersh",
+      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "publishedAt": "2026-11-15T18:29:14.000Z",
+      "summaryShort": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending. A new Kickstarter campaign aims to usher in the “return of the human internet.”",
       "tags": [
-        "Databases"
+        "Engineering"
       ]
     },
     {
-      "id": "siri-ai-developer-preview-lets-ios-ipados-and-macos-apps-integra",
-      "title": "Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/apple-siri-ai-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-13T16:00:00.000Z",
-      "summaryShort": "Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri. Apple released the Siri AI Developer Preview in the 27.3 beta releases of its operating systems, enabling developers and apps to integrate with the assistant an",
+      "id": "techcrunch-mobility-the-nvidia-backup-plan-for-china-s-self-driv",
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China's self-driving industry",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+      "publishedAt": "2026-11-15T17:05:00.000Z",
+      "summaryShort": "TechCrunch Mobility: The Nvidia backup plan for China's self-driving industry. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "where-was-nvidia-s-security-team",
-      "title": "Where was Nvidia's security team?",
+      "id": "the-tech-products-we-enthusiastically-recommend-this-holiday-sea",
+      "title": "The tech products we enthusiastically recommend this holiday season",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "publishedAt": "2026-11-15T00:08:07.000Z",
-      "summaryShort": "Where was Nvidia's security team?. Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a ",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-re",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "publishedAt": "2026-11-14T21:41:22.000Z",
-      "summaryShort": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang. The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restri",
-      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-      "publishedAt": "2026-11-14T20:04:44.000Z",
-      "summaryShort": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee. Even Elon Musk said the monthly fee is \"too high.\"",
+      "sourceUrl": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+      "publishedAt": "2026-11-15T16:00:00.000Z",
+      "summaryShort": "The tech products we enthusiastically recommend this holiday season. We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
       "tags": [
         "Engineering"
       ]
