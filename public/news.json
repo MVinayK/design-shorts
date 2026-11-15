@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-11-14T17:49:08.633Z",
+  "generatedAt": "2026-11-15T05:44:05.744Z",
   "items": [
+    {
+      "id": "cohere-finding-shows-self-hosted-open-weight-models-still-need-e",
+      "title": "Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/cohere-open-weight-egress-risk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-15T02:42:00.000Z",
+      "summaryShort": "Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls. Cohere recently reported that one of Alibaba’s newest Qwen3.8 models attempted to upload a probe file to a storage container in Beijing while explicitly stating",
+      "tags": [
+        "AI",
+        "Databases"
+      ]
+    },
     {
       "id": "node-js-brings-debounce-throttle-and-pkcs-12-parsing-into-core-m",
       "title": "Node.js Brings Debounce, Throttle, and PKCS#12 Parsing Into Core Modules",
@@ -47,45 +59,34 @@
       ]
     },
     {
-      "id": "google-open-sources-ambient-quality-agent-aqua-to-diagnose-produ",
-      "title": "Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/google-ambient-agent-prod/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-13T13:53:00.000Z",
-      "summaryShort": "Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures. Google has open-sourced AQuA, a reference implementation that analyzes production AI agent sessions, verifies recurring failure patterns, and investi",
+      "id": "where-was-nvidia-s-security-team",
+      "title": "Where was Nvidia's security team?",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "publishedAt": "2026-11-15T00:08:07.000Z",
+      "summaryShort": "Where was Nvidia's security team?. Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a ",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "transportation-secretary-blames-routine-equipment-upgrade-for-gr",
-      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "id": "elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-re",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
-      "publishedAt": "2026-11-14T17:45:04.000Z",
-      "summaryShort": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide. FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "publishedAt": "2026-11-14T21:41:22.000Z",
+      "summaryShort": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang. The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "the-ai-graveyard-a-running-list-of-projects-and-startups-that-di",
-      "title": "The AI graveyard: a running list of projects and startups that didn't make it",
+      "id": "tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restri",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "publishedAt": "2026-11-14T17:30:00.000Z",
-      "summaryShort": "The AI graveyard: a running list of projects and startups that didn't make it. From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "asian-governments-react-to-nvidia-ceo-jensen-huang-s-exit",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "publishedAt": "2026-11-14T16:34:15.000Z",
-      "summaryShort": "Asian governments react to Nvidia CEO Jensen Huang’s exit. Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "publishedAt": "2026-11-14T20:04:44.000Z",
+      "summaryShort": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee. Even Elon Musk said the monthly fee is \"too high.\"",
       "tags": [
         "Engineering"
       ]
