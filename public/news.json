@@ -1,93 +1,94 @@
 {
-  "generatedAt": "2026-11-16T05:44:00.306Z",
+  "generatedAt": "2026-11-16T21:49:23.006Z",
   "items": [
     {
-      "id": "uber-s-secure-ai-framework-governs-autonomous-ai-agents-across-t",
-      "title": "Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle",
+      "id": "java-news-roundup-lazy-constants-spring-for-apache-pulsar-glassf",
+      "title": "Java News Roundup: Lazy Constants, Spring for Apache Pulsar, GlassFish, Hibernate, TomEE, Seed4J",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-15T20:00:00.000Z",
-      "summaryShort": "Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle. In a recent article, Uber Engineering highlights the limitations of traditional identity and API controls in securing AI agents that dynamically reason over ext",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/java-news-roundup-nov09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-16T15:25:00.000Z",
+      "summaryShort": "Java News Roundup: Lazy Constants, Spring for Apache Pulsar, GlassFish, Hibernate, TomEE, Seed4J. This week's Java roundup for November 9th, 2026, features news highlighting: Lazy Constants proposed to target for JDK 28; TornadoVM jitLLM 3.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "anthropic-outlines-its-ai-powered-code-review-process-for-claude",
-      "title": "Anthropic Outlines its AI-Powered Code Review Process for Claude Code",
+      "id": "uber-s-legal-ai-agent-cuts-contract-review-time-by-20-with-rules",
+      "title": "Uber’s Legal AI Agent Cuts Contract Review Time by 20% with Rules and RAG",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-15T09:55:00.000Z",
-      "summaryShort": "Anthropic Outlines its AI-Powered Code Review Process for Claude Code. Anthropic has outlined how the Claude Code team handles code reviews as AI agents increasingly contribute to its codebase.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "cloudflare-introduces-private-origins-for-application-services",
-      "title": "Cloudflare Introduces Private Origins for Application Services",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/cloudflare-private-origins/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-15T06:18:00.000Z",
-      "summaryShort": "Cloudflare Introduces Private Origins for Application Services. Cloudflare recently made Application Services for Private Origins generally available, allowing public traffic to reach applications hosted on private networks without exposing",
-      "tags": [
-        "Cloud"
-      ]
-    },
-    {
-      "id": "cohere-finding-shows-self-hosted-open-weight-models-still-need-e",
-      "title": "Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/cohere-open-weight-egress-risk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-15T02:42:00.000Z",
-      "summaryShort": "Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls. Cohere recently reported that one of Alibaba’s newest Qwen3.8 models attempted to upload a probe file to a storage container in Beijing while explicitly stating",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/uber-legal-redlining-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-16T14:37:00.000Z",
+      "summaryShort": "Uber’s Legal AI Agent Cuts Contract Review Time by 20% with Rules and RAG. Uber’s Legal Redlining Agent reviews contract changes in Microsoft Word using RAG, historical lawyer feedback, and deterministic policy rules.",
       "tags": [
         "AI",
-        "Databases"
+        "Architecture"
       ]
     },
     {
-      "id": "node-js-brings-debounce-throttle-and-pkcs-12-parsing-into-core-m",
-      "title": "Node.js Brings Debounce, Throttle, and PKCS#12 Parsing into Core Modules",
+      "id": "airbnb-introduces-castle-for-training-natural-language-search-mo",
+      "title": "Airbnb Introduces CASTLE for Training Natural Language Search Models with Synthetic Data",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/nodejs-debounce-throttle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-14T08:03:00.000Z",
-      "summaryShort": "Node.js Brings Debounce, Throttle, and PKCS#12 Parsing into Core Modules. Node.js 26.10.0 adds util.debounce() and util.throttle(), plus util.markPromiseAsHandled(), to the core library.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/airbnb-castle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-16T12:25:00.000Z",
+      "summaryShort": "Airbnb Introduces CASTLE for Training Natural Language Search Models with Synthetic Data. Airbnb researchers have introduced CASTLE, a framework designed to address the cold-start problem in natural language search.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "article-governed-autonomous-intelligence-for-mission-critical-ut",
+      "title": "Article: Governed Autonomous Intelligence for Mission-Critical Utility",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/utility-governed-autonomous-intelligence-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-16T11:00:00.000Z",
+      "summaryShort": "Article: Governed Autonomous Intelligence for Mission-Critical Utility. The article describes an architecture for agentic AI in regulated utility operations.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "podcast-getting-cra-compliant-hardens-the-code-and-gets-your-com",
+      "title": "Podcast: Getting CRA Compliant Hardens the Code and Gets Your Company Closer to Digital Sovereignty",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/podcasts/company-closer-digital-sovereignty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-16T11:00:00.000Z",
+      "summaryShort": "Podcast: Getting CRA Compliant Hardens the Code and Gets Your Company Closer to Digital Sovereignty. In this episode, Christopher \"CRob\" Robinson, CTO of OpenSSF, Akrites and Chief Security Architect of the Linux Foundation, explores the st",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "apple-launches-new-app-to-study-how-people-use-ai-for-health",
-      "title": "Apple launches new app to study how people use AI for health",
+      "id": "apple-reveals-new-mac-security-controls-as-ai-agents-raise-priva",
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-      "publishedAt": "2026-11-16T01:30:00.000Z",
-      "summaryShort": "Apple launches new app to study how people use AI for health. Apple's new app for a study will answer everyday medical questions",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "publishedAt": "2026-11-16T21:01:02.000Z",
+      "summaryShort": "Apple reveals new Mac security controls as AI agents raise privacy risks. Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI a",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "id": "california-state-ag-sues-openai-over-rogue-agent-incidents",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "publishedAt": "2026-11-15T23:30:00.000Z",
-      "summaryShort": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market. Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "publishedAt": "2026-11-16T20:07:13.000Z",
+      "summaryShort": "California state AG sues OpenAI over rogue agent incidents. The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry",
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "id": "uber-says-hackers-stole-information-on-close-to-150-000-driver-s",
+      "title": "Uber says hackers stole information on close to 150,000 driver's licenses during data breach",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "publishedAt": "2026-11-15T21:56:35.000Z",
-      "summaryShort": "Is bad news for Jensen Huang also bad news for the AI industry?. \"Jensen is Nvidia, right?",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "publishedAt": "2026-11-16T19:53:00.000Z",
+      "summaryShort": "Uber says hackers stole information on close to 150,000 driver's licenses during data breach. The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
       "tags": [
-        "AI"
+        "AI",
+        "Cloud"
       ]
     }
   ]
