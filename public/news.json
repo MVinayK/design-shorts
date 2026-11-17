@@ -1,91 +1,90 @@
 {
-  "generatedAt": "2026-11-17T07:21:19.501Z",
+  "generatedAt": "2026-11-17T20:39:59.172Z",
   "items": [
     {
-      "id": "java-news-roundup-lazy-constants-spring-for-apache-pulsar-glassf",
-      "title": "Java News Roundup: Lazy Constants, Spring for Apache Pulsar, GlassFish, Hibernate, TomEE, Seed4J",
+      "id": "qwik-2-0-rc-replaces-html-comment-markers-for-faster-reactivity-",
+      "title": "Qwik 2.0 RC: Replaces HTML Comment Markers for Faster Reactivity and Out-of-Order Streaming",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/java-news-roundup-nov09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-16T15:25:00.000Z",
-      "summaryShort": "Java News Roundup: Lazy Constants, Spring for Apache Pulsar, GlassFish, Hibernate, TomEE, Seed4J. This week's Java roundup for November 9th, 2026, features news highlighting: Lazy Constants proposed to target for JDK 28; TornadoVM jitLLM 3.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/quik-2-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-17T12:25:00.000Z",
+      "summaryShort": "Qwik 2.0 RC: Replaces HTML Comment Markers for Faster Reactivity and Out-of-Order Streaming. Qwik 2.0 Release Candidate, published on 1 October 2026, replaces v1's HTML comment markers with two script blocks that hold state and virtual node",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "uber-s-legal-ai-agent-cuts-contract-review-time-by-20-with-rules",
-      "title": "Uber’s Legal AI Agent Cuts Contract Review Time by 20% with Rules and RAG",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/uber-legal-redlining-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-16T14:37:00.000Z",
-      "summaryShort": "Uber’s Legal AI Agent Cuts Contract Review Time by 20% with Rules and RAG. Uber’s Legal Redlining Agent reviews contract changes in Microsoft Word using RAG, historical lawyer feedback, and deterministic policy rules.",
-      "tags": [
-        "AI",
         "Architecture"
       ]
     },
     {
-      "id": "airbnb-introduces-castle-for-training-natural-language-search-mo",
-      "title": "Airbnb Introduces CASTLE for Training Natural Language Search Models with Synthetic Data",
+      "id": "datadog-brings-production-experimentation-to-ai-agent-observabil",
+      "title": "Datadog Brings Production Experimentation to AI Agent Observability",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/airbnb-castle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-16T12:25:00.000Z",
-      "summaryShort": "Airbnb Introduces CASTLE for Training Natural Language Search Models with Synthetic Data. Airbnb researchers have introduced CASTLE, a framework designed to address the cold-start problem in natural language search.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/datadog-ai-agent-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "summaryShort": "Datadog Brings Production Experimentation to AI Agent Observability. Datadog is extending its Agent Observability platform with Online Experiments, allowing engineering teams to compare AI agent versions against real production traffic rath",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "article-governed-autonomous-intelligence-for-mission-critical-ut",
-      "title": "Article: Governed Autonomous Intelligence for Mission-Critical Utility",
+      "id": "microsoft-releases-net-11-c-15-union-types-native-aot-cli-host-a",
+      "title": "Microsoft Releases .NET 11: C# 15 Union Types, Native AOT CLI Host, and CoreCLR by Default in MAUI",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/utility-governed-autonomous-intelligence-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-16T11:00:00.000Z",
-      "summaryShort": "Article: Governed Autonomous Intelligence for Mission-Critical Utility. The article describes an architecture for agentic AI in regulated utility operations.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "podcast-getting-cra-compliant-hardens-the-code-and-gets-your-com",
-      "title": "Podcast: Getting CRA Compliant Hardens the Code and Gets Your Company Closer to Digital Sovereignty",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/podcasts/company-closer-digital-sovereignty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-16T11:00:00.000Z",
-      "summaryShort": "Podcast: Getting CRA Compliant Hardens the Code and Gets Your Company Closer to Digital Sovereignty. In this episode, Christopher \"CRob\" Robinson, CTO of OpenSSF, Akrites and Chief Security Architect of the Linux Foundation, explores the st",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/dotnet-11-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-17T11:50:00.000Z",
+      "summaryShort": "Microsoft Releases .NET 11: C# 15 Union Types, Native AOT CLI Host, and CoreCLR by Default in MAUI. Microsoft has released .NET 11, a Standard Term Support release with two years of support.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-m",
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "publishedAt": "2026-11-16T23:32:32.000Z",
-      "summaryShort": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months. Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "id": "production-ai-architecture-trade-offs-team-design-infoq-opens-re",
+      "title": "Production AI, Architecture Trade-offs & Team Design: InfoQ Opens Registration for 6 January Cohorts",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/onlinecohort-jan27-certification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-17T11:00:00.000Z",
+      "summaryShort": "Production AI, Architecture Trade-offs & Team Design: InfoQ Opens Registration for 6 January Cohorts. From agent reliability to architecture decisions and delivery bottlenecks, InfoQ’s January 2027 cohorts give senior practitioners five wee",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "cyber-giant-infoblox-confirms-security-incident-after-hackers-ac",
-      "title": "Cyber giant Infoblox confirms security incident after hackers access &#8216;company information'",
+      "id": "presentation-scaling-llm-based-ranking-systems-for-latency-criti",
+      "title": "Presentation: Scaling LLM-Based Ranking Systems for Latency-Critical Search & Recommendation Workloads",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/scale-llm-ranking-systems-linkedin/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-17T11:00:00.000Z",
+      "summaryShort": "Presentation: Scaling LLM-Based Ranking Systems for Latency-Critical Search & Recommendation Workloads. Sundara Raman Ramachandran shares how LinkedIn productionizes LLM ranking under strict P99 latency SLAs.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "waymo-suspends-freeway-rides-nationwide-after-california-dmv-ord",
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
-      "publishedAt": "2026-11-16T22:12:31.000Z",
-      "summaryShort": "Cyber giant Infoblox confirms security incident after hackers access &#8216;company information'. The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+      "publishedAt": "2026-11-17T19:49:41.000Z",
+      "summaryShort": "Waymo suspends freeway rides nationwide after California DMV order. The California Department of Motor Vehicles, which regulates the testing and deployment of autonomous vehicles in the state, issued the operational restrictions on Waymo fo",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "all-the-questions-nvidia-should-answer-on-tuesday-but-probably-w",
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "id": "model-ml-raises-250m-to-automate-investment-banking-grunt-work",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-      "publishedAt": "2026-11-16T22:03:02.000Z",
-      "summaryShort": "All the questions Nvidia should answer on Tuesday — but probably won’t. Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results.",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "publishedAt": "2026-11-17T19:32:11.000Z",
+      "summaryShort": "Model ML raises $250M to automate investment banking grunt work. The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations wh",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "google-expands-access-to-gemini-tasks-which-can-help-with-calls-",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "publishedAt": "2026-11-17T19:02:20.000Z",
+      "summaryShort": "Google expands access to Gemini Tasks, which can help with calls, purchases. Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
       "tags": [
         "Engineering"
       ]
