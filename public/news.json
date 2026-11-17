@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T21:49:23.006Z",
+  "generatedAt": "2026-11-17T07:21:19.501Z",
   "items": [
     {
       "id": "java-news-roundup-lazy-constants-spring-for-apache-pulsar-glassf",
@@ -58,37 +58,36 @@
       ]
     },
     {
-      "id": "apple-reveals-new-mac-security-controls-as-ai-agents-raise-priva",
-      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "id": "cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-m",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
-      "publishedAt": "2026-11-16T21:01:02.000Z",
-      "summaryShort": "Apple reveals new Mac security controls as AI agents raise privacy risks. Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI a",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "publishedAt": "2026-11-16T23:32:32.000Z",
+      "summaryShort": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months. Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "california-state-ag-sues-openai-over-rogue-agent-incidents",
-      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "id": "cyber-giant-infoblox-confirms-security-incident-after-hackers-ac",
+      "title": "Cyber giant Infoblox confirms security incident after hackers access &#8216;company information'",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "publishedAt": "2026-11-16T20:07:13.000Z",
-      "summaryShort": "California state AG sues OpenAI over rogue agent incidents. The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+      "publishedAt": "2026-11-16T22:12:31.000Z",
+      "summaryShort": "Cyber giant Infoblox confirms security incident after hackers access &#8216;company information'. The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "uber-says-hackers-stole-information-on-close-to-150-000-driver-s",
-      "title": "Uber says hackers stole information on close to 150,000 driver's licenses during data breach",
+      "id": "all-the-questions-nvidia-should-answer-on-tuesday-but-probably-w",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-      "publishedAt": "2026-11-16T19:53:00.000Z",
-      "summaryShort": "Uber says hackers stole information on close to 150,000 driver's licenses during data breach. The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "publishedAt": "2026-11-16T22:03:02.000Z",
+      "summaryShort": "All the questions Nvidia should answer on Tuesday — but probably won’t. Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results.",
       "tags": [
-        "AI",
-        "Cloud"
+        "Engineering"
       ]
     }
   ]
