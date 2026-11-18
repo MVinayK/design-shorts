@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-17T20:39:59.172Z",
+  "generatedAt": "2026-11-18T06:46:04.519Z",
   "items": [
+    {
+      "id": "how-shopify-orchestrates-ai-powered-mobile-app-development-witho",
+      "title": "How Shopify Orchestrates AI-Powered Mobile App Development Without Overloading Developers' Machines",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/shopify-remote-ai-dev/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-17T21:00:00.000Z",
+      "summaryShort": "How Shopify Orchestrates AI-Powered Mobile App Development Without Overloading Developers' Machines. To prevent AI development workflows from exhausting developer machines' resources, Shopify built Remote Dev, a remote mobile development en",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "qwik-2-0-rc-replaces-html-comment-markers-for-faster-reactivity-",
       "title": "Qwik 2.0 RC: Replaces HTML Comment Markers for Faster Reactivity and Out-of-Order Streaming",
@@ -21,17 +32,6 @@
       "summaryShort": "Datadog Brings Production Experimentation to AI Agent Observability. Datadog is extending its Agent Observability platform with Online Experiments, allowing engineering teams to compare AI agent versions against real production traffic rath",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "microsoft-releases-net-11-c-15-union-types-native-aot-cli-host-a",
-      "title": "Microsoft Releases .NET 11: C# 15 Union Types, Native AOT CLI Host, and CoreCLR by Default in MAUI",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/dotnet-11-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-17T11:50:00.000Z",
-      "summaryShort": "Microsoft Releases .NET 11: C# 15 Union Types, Native AOT CLI Host, and CoreCLR by Default in MAUI. Microsoft has released .NET 11, a Standard Term Support release with two years of support.",
-      "tags": [
-        "Engineering"
       ]
     },
     {
@@ -57,34 +57,34 @@
       ]
     },
     {
-      "id": "waymo-suspends-freeway-rides-nationwide-after-california-dmv-ord",
-      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "id": "nvidia-s-startup-stakes-ballooned-to-65b-but-huang-s-exit-puts-f",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
-      "publishedAt": "2026-11-17T19:49:41.000Z",
-      "summaryShort": "Waymo suspends freeway rides nationwide after California DMV order. The California Department of Motor Vehicles, which regulates the testing and deployment of autonomous vehicles in the state, issued the operational restrictions on Waymo fo",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "publishedAt": "2026-11-18T01:44:21.000Z",
+      "summaryShort": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt. The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuat",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "model-ml-raises-250m-to-automate-investment-banking-grunt-work",
-      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "id": "nvidia-promises-that-revenue-will-keep-soaring-for-now",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-      "publishedAt": "2026-11-17T19:32:11.000Z",
-      "summaryShort": "Model ML raises $250M to automate investment banking grunt work. The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations wh",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "publishedAt": "2026-11-18T00:16:50.000Z",
+      "summaryShort": "Nvidia promises that revenue will keep soaring — for now. Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to st",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "google-expands-access-to-gemini-tasks-which-can-help-with-calls-",
-      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "id": "stripe-backer-atomico-calls-for-europe-to-own-its-success-storie",
+      "title": "Stripe backer Atomico calls for Europe to own its success stories",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-      "publishedAt": "2026-11-17T19:02:20.000Z",
-      "summaryShort": "Google expands access to Gemini Tasks, which can help with calls, purchases. Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+      "publishedAt": "2026-11-18T00:01:00.000Z",
+      "summaryShort": "Stripe backer Atomico calls for Europe to own its success stories. Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
       "tags": [
         "Engineering"
       ]
