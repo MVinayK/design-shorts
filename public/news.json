@@ -1,92 +1,93 @@
 {
-  "generatedAt": "2026-11-18T06:46:04.519Z",
+  "generatedAt": "2026-11-18T20:13:45.962Z",
   "items": [
     {
-      "id": "how-shopify-orchestrates-ai-powered-mobile-app-development-witho",
-      "title": "How Shopify Orchestrates AI-Powered Mobile App Development Without Overloading Developers' Machines",
+      "id": "linkedin-cuts-daily-spark-shuffle-fetch-failures-from-750-to-20-",
+      "title": "LinkedIn Cuts Daily Spark Shuffle Fetch Failures from 750 to 20 with Apache Celeborn",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/shopify-remote-ai-dev/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-17T21:00:00.000Z",
-      "summaryShort": "How Shopify Orchestrates AI-Powered Mobile App Development Without Overloading Developers' Machines. To prevent AI development workflows from exhausting developer machines' resources, Shopify built Remote Dev, a remote mobile development en",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/linkedin-celeborn-remote-shuffle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-18T15:05:00.000Z",
+      "summaryShort": "LinkedIn Cuts Daily Spark Shuffle Fetch Failures from 750 to 20 with Apache Celeborn. LinkedIn deployed Apache Celeborn as a shared remote shuffle platform across most Spark and Flink workloads, reducing daily shuffle fetch failures from ap",
       "tags": [
-        "AI"
+        "Databases"
       ]
     },
     {
-      "id": "qwik-2-0-rc-replaces-html-comment-markers-for-faster-reactivity-",
-      "title": "Qwik 2.0 RC: Replaces HTML Comment Markers for Faster Reactivity and Out-of-Order Streaming",
+      "id": "presentation-behind-booking-com-s-ai-evolution-the-unpolished-st",
+      "title": "Presentation: Behind Booking.com's AI Evolution: The Unpolished Story",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/quik-2-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-17T12:25:00.000Z",
-      "summaryShort": "Qwik 2.0 RC: Replaces HTML Comment Markers for Faster Reactivity and Out-of-Order Streaming. Qwik 2.0 Release Candidate, published on 1 October 2026, replaces v1's HTML comment markers with two script blocks that hold state and virtual node",
+      "sourceUrl": "https://www.infoq.com/presentations/bookingcom-ml-data-platform-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-18T11:00:00.000Z",
+      "summaryShort": "Presentation: Behind Booking.com's AI Evolution: The Unpolished Story. Jabez Eliezer Manuel discusses the 20-year evolution of Booking.com’s data management and ML platforms.",
       "tags": [
-        "Architecture"
+        "AI",
+        "Cloud"
       ]
     },
     {
-      "id": "datadog-brings-production-experimentation-to-ai-agent-observabil",
-      "title": "Datadog Brings Production Experimentation to AI Agent Observability",
+      "id": "vercel-releases-ui-sdk-for-agents-to-compose-ui-from-reusable-be",
+      "title": "Vercel Releases UI SDK for Agents to Compose UI from Reusable Behaviors",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/datadog-ai-agent-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-17T12:00:00.000Z",
-      "summaryShort": "Datadog Brings Production Experimentation to AI Agent Observability. Datadog is extending its Agent Observability platform with Online Experiments, allowing engineering teams to compare AI agent versions against real production traffic rath",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "production-ai-architecture-trade-offs-team-design-infoq-opens-re",
-      "title": "Production AI, Architecture Trade-offs & Team Design: InfoQ Opens Registration for 6 January Cohorts",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/onlinecohort-jan27-certification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-17T11:00:00.000Z",
-      "summaryShort": "Production AI, Architecture Trade-offs & Team Design: InfoQ Opens Registration for 6 January Cohorts. From agent reliability to architecture decisions and delivery bottlenecks, InfoQ’s January 2027 cohorts give senior practitioners five wee",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-scaling-llm-based-ranking-systems-for-latency-criti",
-      "title": "Presentation: Scaling LLM-Based Ranking Systems for Latency-Critical Search & Recommendation Workloads",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/scale-llm-ranking-systems-linkedin/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-17T11:00:00.000Z",
-      "summaryShort": "Presentation: Scaling LLM-Based Ranking Systems for Latency-Critical Search & Recommendation Workloads. Sundara Raman Ramachandran shares how LinkedIn productionizes LLM ranking under strict P99 latency SLAs.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "nvidia-s-startup-stakes-ballooned-to-65b-but-huang-s-exit-puts-f",
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "publishedAt": "2026-11-18T01:44:21.000Z",
-      "summaryShort": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt. The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuat",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/vercel-ui-sdk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-18T10:12:00.000Z",
+      "summaryShort": "Vercel Releases UI SDK for Agents to Compose UI from Reusable Behaviors. Vercel has released UI SDK in beta, an Apache 2.0 TypeScript library of more than 50 UI behaviors in @ui-sdk/core, with adapters for React, Vue, Svelte, Solid, and Web",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "nvidia-promises-that-revenue-will-keep-soaring-for-now",
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "publishedAt": "2026-11-18T00:16:50.000Z",
-      "summaryShort": "Nvidia promises that revenue will keep soaring — for now. Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to st",
+      "id": "aws-privatelink-tunnel-endpoints-open-a-whole-cidr-range-to-anot",
+      "title": "AWS PrivateLink Tunnel Endpoints Open a Whole CIDR Range to Another Account",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/aws-privatelink-tunnel-endpoints/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-18T09:29:00.000Z",
+      "summaryShort": "AWS PrivateLink Tunnel Endpoints Open a Whole CIDR Range to Another Account. AWS has detailed tunnel endpoints, a PrivateLink endpoint type that gives a consumer VPC access to an entire network segment in another account rather than one res",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "stripe-backer-atomico-calls-for-europe-to-own-its-success-storie",
-      "title": "Stripe backer Atomico calls for Europe to own its success stories",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
-      "publishedAt": "2026-11-18T00:01:00.000Z",
-      "summaryShort": "Stripe backer Atomico calls for Europe to own its success stories. Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+      "id": "yelp-migrates-cassandra-to-eks-by-moving-ebs-volumes",
+      "title": "Yelp Migrates Cassandra to EKS by Moving EBS Volumes",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/kubernetes-cassandra-eks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-18T09:00:00.000Z",
+      "summaryShort": "Yelp Migrates Cassandra to EKS by Moving EBS Volumes. Yelp has moved its Cassandra fleet from legacy self-managed Kubernetes clusters to Amazon EKS by re-pointing existing EBS volumes at new pods, rather than streaming data between nodes.",
       "tags": [
         "Engineering"
+      ]
+    },
+    {
+      "id": "sam-altman-says-his-life-is-so-weird-that-he-s-unphased-by-andre",
+      "title": "Sam Altman says his life is so weird that he's unphased by Andrew Garfield portraying him in upcoming movie",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "publishedAt": "2026-11-18T20:07:01.000Z",
+      "summaryShort": "Sam Altman says his life is so weird that he's unphased by Andrew Garfield portraying him in upcoming movie. \"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "snapchat-now-lets-developers-build-ar-lenses-with-ai-assistants-",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "publishedAt": "2026-11-18T19:56:39.000Z",
+      "summaryShort": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor. Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "spend-management-platform-payhawk-announces-280m-raise-2b-valuat",
+      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+      "publishedAt": "2026-11-18T19:29:41.000Z",
+      "summaryShort": "Spend management platform Payhawk announces $280M raise, 2B valuation. Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+      "tags": [
+        "AI"
       ]
     }
   ]
