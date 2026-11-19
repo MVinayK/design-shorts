@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-18T20:13:45.962Z",
+  "generatedAt": "2026-11-19T06:47:13.378Z",
   "items": [
+    {
+      "id": "discord-rewrites-desktop-and-mobile-clients-in-rust-using-zed-s-",
+      "title": "Discord Rewrites Desktop and Mobile Clients in Rust Using Zed's GPU-Accelerated Rendering Framework",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/discord-rust-rewrite-gpui-zed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-19T03:12:00.000Z",
+      "summaryShort": "Discord Rewrites Desktop and Mobile Clients in Rust Using Zed's GPU-Accelerated Rendering Framework. Discord’s CTO Stanislav Vishnevskiy recently announced rewriting its desktop and mobile clients in Rust, moving away from Electron and Reac",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "linkedin-cuts-daily-spark-shuffle-fetch-failures-from-750-to-20-",
       "title": "LinkedIn Cuts Daily Spark Shuffle Fetch Failures from 750 to 20 with Apache Celeborn",
@@ -47,47 +58,37 @@
       ]
     },
     {
-      "id": "yelp-migrates-cassandra-to-eks-by-moving-ebs-volumes",
-      "title": "Yelp Migrates Cassandra to EKS by Moving EBS Volumes",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/kubernetes-cassandra-eks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-18T09:00:00.000Z",
-      "summaryShort": "Yelp Migrates Cassandra to EKS by Moving EBS Volumes. Yelp has moved its Cassandra fleet from legacy self-managed Kubernetes clusters to Amazon EKS by re-pointing existing EBS volumes at new pods, rather than streaming data between nodes.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "sam-altman-says-his-life-is-so-weird-that-he-s-unphased-by-andre",
-      "title": "Sam Altman says his life is so weird that he's unphased by Andrew Garfield portraying him in upcoming movie",
+      "id": "microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-      "publishedAt": "2026-11-18T20:07:01.000Z",
-      "summaryShort": "Sam Altman says his life is so weird that he's unphased by Andrew Garfield portraying him in upcoming movie. \"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "snapchat-now-lets-developers-build-ar-lenses-with-ai-assistants-",
-      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-      "publishedAt": "2026-11-18T19:56:39.000Z",
-      "summaryShort": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor. Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "publishedAt": "2026-11-19T00:42:56.000Z",
+      "summaryShort": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit. Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing t",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "spend-management-platform-payhawk-announces-280m-raise-2b-valuat",
-      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+      "id": "elon-musk-says-8216-i-m-not-maga",
+      "title": "Elon Musk says: &#8216;I'm not MAGA'",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-      "publishedAt": "2026-11-18T19:29:41.000Z",
-      "summaryShort": "Spend management platform Payhawk announces $280M raise, 2B valuation. Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "publishedAt": "2026-11-19T00:40:49.000Z",
+      "summaryShort": "Elon Musk says: &#8216;I'm not MAGA'. During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so",
       "tags": [
-        "AI"
+        "Engineering"
+      ]
+    },
+    {
+      "id": "amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-criti",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable'",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "publishedAt": "2026-11-18T23:45:00.000Z",
+      "summaryShort": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable'. The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for se",
+      "tags": [
+        "AI",
+        "Cloud"
       ]
     }
   ]
