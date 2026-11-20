@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T20:17:43.001Z",
+  "generatedAt": "2026-11-20T06:35:52.552Z",
   "items": [
     {
       "id": "presentation-ai-assisted-software-delivery-from-code-to-producti",
@@ -58,34 +58,34 @@
       ]
     },
     {
-      "id": "anthropic-s-ipo-could-deliver-156-billion-to-charity",
-      "title": "Anthropic's IPO could deliver $156 billion to charity",
+      "id": "apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "publishedAt": "2026-11-19T19:10:45.000Z",
-      "summaryShort": "Anthropic's IPO could deliver $156 billion to charity. At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "google-gives-gemini-the-ability-to-use-your-mac-for-you",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "publishedAt": "2026-11-19T18:09:11.000Z",
-      "summaryShort": "Google gives Gemini the ability to use your Mac for you. Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "publishedAt": "2026-11-20T00:56:01.000Z",
+      "summaryShort": "Apple may be developing its own AI agent that runs your Mac. The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "meta-s-ai-agent-muse-is-mixing-up-conversations-and-could-be-exp",
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "id": "anthropic-s-7-founders-cashed-out-nearly-2b-in-record-breaking-i",
+      "title": "Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "publishedAt": "2026-11-19T17:38:40.000Z",
-      "summaryShort": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says. In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for,",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "publishedAt": "2026-11-20T00:43:50.000Z",
+      "summaryShort": "Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO. At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "anthropic-rival-says-companies-can-mostly-skip-the-pricey-models",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "publishedAt": "2026-11-20T00:26:03.000Z",
+      "summaryShort": "Anthropic rival says companies can (mostly) skip the pricey models. On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the com",
       "tags": [
         "AI"
       ]
