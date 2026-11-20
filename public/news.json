@@ -1,93 +1,95 @@
 {
-  "generatedAt": "2026-11-20T06:35:52.552Z",
+  "generatedAt": "2026-11-20T19:49:11.369Z",
   "items": [
     {
-      "id": "presentation-ai-assisted-software-delivery-from-code-to-producti",
-      "title": "Presentation: AI-Assisted Software Delivery: From Code to Production",
+      "id": "meta-tlx-a-native-gpu-compiler-extension-supporting-advanced-har",
+      "title": "Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-assisted-software-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-19T14:30:00.000Z",
-      "summaryShort": "Presentation: AI-Assisted Software Delivery: From Code to Production. The panelists explore how engineering teams adapt delivery architectures, pipelines, security, and governance for AI-assisted development.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "qcon-san-francisco-2026-use-ai-to-multiply-your-team-as-a-staff-",
-      "title": "QCon San Francisco 2026: Use AI to Multiply Your Team as a Staff Engineer",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/ai-staff-engineer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-19T13:00:00.000Z",
-      "summaryShort": "QCon San Francisco 2026: Use AI to Multiply Your Team as a Staff Engineer. At QCon San Francisco 2026, Jordan Cutler, Senior Staff Engineer and Web Platform Tech Lead at Pinterest, presented how the role of a staff engineer changes when eve",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "net-11-asp-net-core-union-type-support-openapi-3-2-by-default-an",
-      "title": ".NET 11 : ASP.NET Core: Union Type Support, OpenAPI 3.2 by Default and Blazor AI Components",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/asp-net-11-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-19T11:27:00.000Z",
-      "summaryShort": ".NET 11 : ASP.NET Core: Union Type Support, OpenAPI 3.2 by Default and Blazor AI Components. Microsoft has released ASP.NET Core in .NET 11.",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "producing-healthy-code-with-artificial-intelligence-costs-fewer-",
-      "title": "Producing Healthy Code with Artificial Intelligence Costs Fewer Tokens",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/healthy-code-AI-tokens/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-19T11:09:00.000Z",
-      "summaryShort": "Producing Healthy Code with Artificial Intelligence Costs Fewer Tokens. Agentic AI can speed up velocity, but the gains vanish within months as code complexity grows.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "presentation-riiir-rewrite-it-in-idiomatic-rust-with-ai",
-      "title": "Presentation: RIIIR: Rewrite It In *Idiomatic* Rust (with AI)",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/rust-ai-symposium-agent-client-protocol/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-19T11:00:00.000Z",
-      "summaryShort": "Presentation: RIIIR: Rewrite It In *Idiomatic* Rust (with AI). Nicholas Matsakis shares why AI makes Rust the ideal choice for modern production systems, skipping steep adoption hurdles via compiler guardrails.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "publishedAt": "2026-11-20T00:56:01.000Z",
-      "summaryShort": "Apple may be developing its own AI agent that runs your Mac. The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "anthropic-s-7-founders-cashed-out-nearly-2b-in-record-breaking-i",
-      "title": "Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "publishedAt": "2026-11-20T00:43:50.000Z",
-      "summaryShort": "Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO. At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/meta-triton-tlx-gpu-compiler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-20T18:00:00.000Z",
+      "summaryShort": "Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities. Meta developed Triton Low-Level Extensions (TLX), designed to bridge the gap between high-level GPU programming abstractions and the low-level execution co",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "anthropic-rival-says-companies-can-mostly-skip-the-pricey-models",
-      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "id": "uber-cuts-translation-cache-memory-by-up-to-90-while-keeping-p99",
+      "title": "Uber Cuts Translation Cache Memory by up to 90% While Keeping P99 Latency Below 1 MS",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/uber-go-translation-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-20T14:38:00.000Z",
+      "summaryShort": "Uber Cuts Translation Cache Memory by up to 90% While Keeping P99 Latency Below 1 MS. Uber redesigned its Go-based translation cache to reduce its initial memory footprint by more than 90% while maintaining a cache hit rate above 99.9% and ",
+      "tags": [
+        "Databases",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "google-donates-agent-substrate-and-gvisor-to-the-cncf-to-secure-",
+      "title": "Google Donates Agent Substrate and gVisor to the CNCF to Secure AI Agents at Scale",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-20T12:00:00.000Z",
+      "summaryShort": "Google Donates Agent Substrate and gVisor to the CNCF to Secure AI Agents at Scale. Google has announced it is donating Agent Substrate and gVisor to the Cloud Native Computing Foundation (CNCF), placing two important components of its AI a",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "presentation-modernising-retail-at-scale-architecting-a-cloud-to",
+      "title": "Presentation: Modernising Retail at Scale: Architecting a Cloud‑to‑Edge Platform for a Global Enterprise",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/tesco-enterprise-tech-transformation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-20T11:00:00.000Z",
+      "summaryShort": "Presentation: Modernising Retail at Scale: Architecting a Cloud‑to‑Edge Platform for a Global Enterprise. Jayesh Bhayani discusses Tesco’s decade-long enterprise transformation from fragmented legacy systems to a unified cloud-edge platform",
+      "tags": [
+        "Cloud",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "qcon-san-francisco-2026-the-future-of-apache-iceberg",
+      "title": "QCon San Francisco 2026: The Future of Apache Iceberg",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/iceberg-v4-metadata/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-20T09:17:00.000Z",
+      "summaryShort": "QCon San Francisco 2026: The Future of Apache Iceberg. Apache Iceberg V4 proposes a redesign of table metadata to improve scalability and support more frequent writes, alongside new capabilities for data management and schema evolution.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and",
+      "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-      "publishedAt": "2026-11-20T00:26:03.000Z",
-      "summaryShort": "Anthropic rival says companies can (mostly) skip the pricey models. On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the com",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "publishedAt": "2026-11-20T19:32:08.000Z",
+      "summaryShort": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too. Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
       "tags": [
         "AI"
+      ]
+    },
+    {
+      "id": "super-hot-rock-geothermal-could-end-data-center-energy-woes",
+      "title": "Super-hot rock geothermal could end data center energy woes",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+      "publishedAt": "2026-11-20T18:34:00.000Z",
+      "summaryShort": "Super-hot rock geothermal could end data center energy woes. New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "chips-can-survive-the-space-environment-can-their-financing",
+      "title": "Chips can survive the space environment — can their financing?",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "publishedAt": "2026-11-20T17:40:01.000Z",
+      "summaryShort": "Chips can survive the space environment — can their financing?. Lenders don't want SpaceX shooting their collateral into orbit.",
+      "tags": [
+        "Engineering"
       ]
     }
   ]
