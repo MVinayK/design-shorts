@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-11-21T06:27:23.645Z",
+  "generatedAt": "2026-11-21T18:55:12.942Z",
   "items": [
+    {
+      "id": "grafana-13-3-adds-shared-dashboard-variables-and-notebooks",
+      "title": "Grafana 13.3 Adds Shared Dashboard Variables and Notebooks",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/grafana-13-3-shared-variables/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-21T14:30:00.000Z",
+      "summaryShort": "Grafana 13.3 Adds Shared Dashboard Variables and Notebooks. Grafana 13.3 introduces shared variables across dashboards and adds Notebooks to record investigations.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "qcon-san-francisco-2026-scaling-tech-by-aligning-humans",
+      "title": "QCon San Francisco 2026: Scaling Tech by Aligning Humans",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/scalling-tech-humans/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-21T13:30:00.000Z",
+      "summaryShort": "QCon San Francisco 2026: Scaling Tech by Aligning Humans. At QCon San Francisco 2026, Scott Behrens, Principal Security Engineer at Netflix, presented how staff-plus engineers can define and align a company-wide technical strategy.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "how-google-traced-gke-api-timeouts-to-a-linux-kernel-tcp-bug",
+      "title": "How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/gke-kernel-network-bug/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-21T09:44:00.000Z",
+      "summaryShort": "How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug. Google recently detailed how three interacting bugs across Google Kubernetes Engine (GKE), Private Service Connect, and the Linux kernel caused intermittent Kubernetes API connec",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "meta-tlx-a-native-gpu-compiler-extension-supporting-advanced-har",
       "title": "Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities",
@@ -25,69 +58,34 @@
       ]
     },
     {
-      "id": "google-donates-agent-substrate-and-gvisor-to-the-cncf-to-secure-",
-      "title": "Google Donates Agent Substrate and gVisor to the CNCF to Secure AI Agents at Scale",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-20T12:00:00.000Z",
-      "summaryShort": "Google Donates Agent Substrate and gVisor to the CNCF to Secure AI Agents at Scale. Google has announced it is donating Agent Substrate and gVisor to the Cloud Native Computing Foundation (CNCF), placing two important components of its AI a",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "presentation-modernising-retail-at-scale-architecting-a-cloud-to",
-      "title": "Presentation: Modernising Retail at Scale: Architecting a Cloud‑to‑Edge Platform for a Global Enterprise",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/tesco-enterprise-tech-transformation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-20T11:00:00.000Z",
-      "summaryShort": "Presentation: Modernising Retail at Scale: Architecting a Cloud‑to‑Edge Platform for a Global Enterprise. Jayesh Bhayani discusses Tesco’s decade-long enterprise transformation from fragmented legacy systems to a unified cloud-edge platform",
-      "tags": [
-        "Cloud",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "qcon-san-francisco-2026-the-future-of-apache-iceberg",
-      "title": "QCon San Francisco 2026: The Future of Apache Iceberg",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/iceberg-v4-metadata/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-20T09:17:00.000Z",
-      "summaryShort": "QCon San Francisco 2026: The Future of Apache Iceberg. Apache Iceberg V4 proposes a redesign of table metadata to improve scalability and support more frequent writes, alongside new capabilities for data management and schema evolution.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "startup-sues-apple-in-india-over-tap-to-share-contacts-feature",
-      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "id": "trump-says-reported-fbi-database-hack-is-not-good",
+      "title": "Trump says reported FBI database hack is ‘not good’",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-      "publishedAt": "2026-11-21T04:00:00.000Z",
-      "summaryShort": "Startup sues Apple in India over tap-to-share contacts feature. A U.S.",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "publishedAt": "2026-11-21T18:44:53.000Z",
+      "summaryShort": "Trump says reported FBI database hack is ‘not good’. The FBI is reportedly investigating a hack of the National Crime Information Center.",
       "tags": [
-        "Engineering"
+        "Databases"
       ]
     },
     {
-      "id": "experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-tra",
-      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "id": "here-are-the-top-ai-agents-that-can-live-in-your-text-messages",
+      "title": "Here are the top AI agents that can live in your text messages",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-      "publishedAt": "2026-11-20T20:58:29.000Z",
-      "summaryShort": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now. Techies are building technology that can advance all aspects of the world — but can they protect their hearts?",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "summaryShort": "Here are the top AI agents that can live in your text messages. We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "daniel-ek-backs-ai-researcher-s-fusion-power-startup-here-s-what",
-      "title": "Daniel Ek backs AI researcher's fusion power startup. Here's what they're building.",
+      "id": "is-selling-an-ai-version-of-your-face-to-this-microdrama-startup",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "publishedAt": "2026-11-20T19:53:41.000Z",
-      "summaryShort": "Daniel Ek backs AI researcher's fusion power startup. Here's what they're building..",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "publishedAt": "2026-11-21T16:00:00.000Z",
+      "summaryShort": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?. An actor has licensed his face to a microdrama startup — in a trend that's already popular in China.",
       "tags": [
         "AI"
       ]
