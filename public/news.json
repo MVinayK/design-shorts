@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T19:49:11.369Z",
+  "generatedAt": "2026-11-21T06:27:23.645Z",
   "items": [
     {
       "id": "meta-tlx-a-native-gpu-compiler-extension-supporting-advanced-har",
@@ -60,36 +60,36 @@
       ]
     },
     {
-      "id": "ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and",
-      "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+      "id": "startup-sues-apple-in-india-over-tap-to-share-contacts-feature",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "publishedAt": "2026-11-20T19:32:08.000Z",
-      "summaryShort": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too. Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "publishedAt": "2026-11-21T04:00:00.000Z",
+      "summaryShort": "Startup sues Apple in India over tap-to-share contacts feature. A U.S.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-tra",
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "publishedAt": "2026-11-20T20:58:29.000Z",
+      "summaryShort": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now. Techies are building technology that can advance all aspects of the world — but can they protect their hearts?",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "super-hot-rock-geothermal-could-end-data-center-energy-woes",
-      "title": "Super-hot rock geothermal could end data center energy woes",
+      "id": "daniel-ek-backs-ai-researcher-s-fusion-power-startup-here-s-what",
+      "title": "Daniel Ek backs AI researcher's fusion power startup. Here's what they're building.",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-      "publishedAt": "2026-11-20T18:34:00.000Z",
-      "summaryShort": "Super-hot rock geothermal could end data center energy woes. New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "publishedAt": "2026-11-20T19:53:41.000Z",
+      "summaryShort": "Daniel Ek backs AI researcher's fusion power startup. Here's what they're building..",
       "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "chips-can-survive-the-space-environment-can-their-financing",
-      "title": "Chips can survive the space environment — can their financing?",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-      "publishedAt": "2026-11-20T17:40:01.000Z",
-      "summaryShort": "Chips can survive the space environment — can their financing?. Lenders don't want SpaceX shooting their collateral into orbit.",
-      "tags": [
-        "Engineering"
+        "AI"
       ]
     }
   ]
