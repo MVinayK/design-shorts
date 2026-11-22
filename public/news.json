@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T18:55:12.942Z",
+  "generatedAt": "2026-11-22T05:57:14.091Z",
   "items": [
     {
       "id": "grafana-13-3-adds-shared-dashboard-variables-and-notebooks",
@@ -58,6 +58,28 @@
       ]
     },
     {
+      "id": "signal-restricts-mobile-screenshots-as-it-confronts-existential-",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "publishedAt": "2026-11-21T21:37:10.000Z",
+      "summaryShort": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance. Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "a-tale-of-two-nvidias",
+      "title": "A tale of two Nvidias",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "publishedAt": "2026-11-21T21:07:42.000Z",
+      "summaryShort": "A tale of two Nvidias. We got two very different pictures of Nvidia — the company’s latest earnings report vs.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
       "id": "trump-says-reported-fbi-database-hack-is-not-good",
       "title": "Trump says reported FBI database hack is ‘not good’",
       "sourceName": "TechCrunch",
@@ -66,28 +88,6 @@
       "summaryShort": "Trump says reported FBI database hack is ‘not good’. The FBI is reportedly investigating a hack of the National Crime Information Center.",
       "tags": [
         "Databases"
-      ]
-    },
-    {
-      "id": "here-are-the-top-ai-agents-that-can-live-in-your-text-messages",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "publishedAt": "2026-11-21T17:00:00.000Z",
-      "summaryShort": "Here are the top AI agents that can live in your text messages. We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "is-selling-an-ai-version-of-your-face-to-this-microdrama-startup",
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "publishedAt": "2026-11-21T16:00:00.000Z",
-      "summaryShort": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?. An actor has licensed his face to a microdrama startup — in a trend that's already popular in China.",
-      "tags": [
-        "AI"
       ]
     }
   ]
