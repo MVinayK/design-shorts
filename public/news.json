@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-11-22T05:57:14.091Z",
+  "generatedAt": "2026-11-22T19:15:37.349Z",
   "items": [
+    {
+      "id": "postgresql-19-released-with-online-table-repacking-and-query-pla",
+      "title": "PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/postgresql-19-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-22T12:54:00.000Z",
+      "summaryShort": "PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls. The PostgreSQL Global Development Group released PostgreSQL 19, introducing changes to database maintenance, query planning, replication, and application develo",
+      "tags": [
+        "Databases"
+      ]
+    },
+    {
+      "id": "claude-code-has-been-leaking-secrets-through-its-don-t-ask-again",
+      "title": "Claude Code Has Been Leaking Secrets Through Its \"Don't Ask Again\" Feature",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/claude-code-leaking-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-22T11:00:00.000Z",
+      "summaryShort": "Claude Code Has Been Leaking Secrets Through Its \"Don't Ask Again\" Feature. Agentic security firm Apiiro found that Claude Code has been exposing secrets in public repositories due to how it stores them in local file on developers' machines",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "google-announces-agent-compute-engine-for-secure-ai-agent-execut",
+      "title": "Google Announces Agent Compute Engine for Secure AI Agent Execution",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-22T06:30:00.000Z",
+      "summaryShort": "Google Announces Agent Compute Engine for Secure AI Agent Execution. Google recently announced Agent Compute Engine, a managed service that runs AI agents in isolated microVMs, with checkpointing capabilities to suspend and resume execution",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "aws-lambda-now-runs-gpu-inference-with-48-concurrent-invocations",
+      "title": "AWS Lambda Now Runs GPU Inference with 48 Concurrent Invocations Sharing One Model per GPU",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/aws-lambda-gpu-managed-instances/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-22T06:27:00.000Z",
+      "summaryShort": "AWS Lambda Now Runs GPU Inference with 48 Concurrent Invocations Sharing One Model per GPU. AWS Lambda now runs Event Functions on EC2 G-series GPU instances through Lambda Managed Instances, with up to 48 concurrent invocations sharing one",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "grafana-13-3-adds-shared-dashboard-variables-and-notebooks",
       "title": "Grafana 13.3 Adds Shared Dashboard Variables and Notebooks",
@@ -13,81 +57,36 @@
       ]
     },
     {
-      "id": "qcon-san-francisco-2026-scaling-tech-by-aligning-humans",
-      "title": "QCon San Francisco 2026: Scaling Tech by Aligning Humans",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/scalling-tech-humans/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-21T13:30:00.000Z",
-      "summaryShort": "QCon San Francisco 2026: Scaling Tech by Aligning Humans. At QCon San Francisco 2026, Scott Behrens, Principal Security Engineer at Netflix, presented how staff-plus engineers can define and align a company-wide technical strategy.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "how-google-traced-gke-api-timeouts-to-a-linux-kernel-tcp-bug",
-      "title": "How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/gke-kernel-network-bug/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-21T09:44:00.000Z",
-      "summaryShort": "How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug. Google recently detailed how three interacting bugs across Google Kubernetes Engine (GKE), Private Service Connect, and the Linux kernel caused intermittent Kubernetes API connec",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "meta-tlx-a-native-gpu-compiler-extension-supporting-advanced-har",
-      "title": "Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/meta-triton-tlx-gpu-compiler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-20T18:00:00.000Z",
-      "summaryShort": "Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities. Meta developed Triton Low-Level Extensions (TLX), designed to bridge the gap between high-level GPU programming abstractions and the low-level execution co",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "uber-cuts-translation-cache-memory-by-up-to-90-while-keeping-p99",
-      "title": "Uber Cuts Translation Cache Memory by up to 90% While Keeping P99 Latency Below 1 MS",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/uber-go-translation-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-20T14:38:00.000Z",
-      "summaryShort": "Uber Cuts Translation Cache Memory by up to 90% While Keeping P99 Latency Below 1 MS. Uber redesigned its Go-based translation cache to reduce its initial memory footprint by more than 90% while maintaining a cache hit rate above 99.9% and ",
-      "tags": [
-        "Databases",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "signal-restricts-mobile-screenshots-as-it-confronts-existential-",
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "id": "why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+      "title": "Why data centers are at the center of the Big Tech backlash",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "publishedAt": "2026-11-21T21:37:10.000Z",
-      "summaryShort": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance. Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "sourceUrl": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "publishedAt": "2026-11-22T18:08:43.000Z",
+      "summaryShort": "Why data centers are at the center of the Big Tech backlash. Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "techcrunch-mobility-a-b-testing-robots-vs-humans",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "publishedAt": "2026-11-22T17:06:00.000Z",
+      "summaryShort": "TechCrunch Mobility: A/B testing robots vs. humans.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "a-tale-of-two-nvidias",
-      "title": "A tale of two Nvidias",
+      "id": "can-a-tv-be-too-large-an-investigation",
+      "title": "Can a TV be too large? An investigation",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "publishedAt": "2026-11-21T21:07:42.000Z",
-      "summaryShort": "A tale of two Nvidias. We got two very different pictures of Nvidia — the company’s latest earnings report vs.",
+      "sourceUrl": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "publishedAt": "2026-11-22T15:00:00.000Z",
+      "summaryShort": "Can a TV be too large? An investigation.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "trump-says-reported-fbi-database-hack-is-not-good",
-      "title": "Trump says reported FBI database hack is ‘not good’",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
-      "publishedAt": "2026-11-21T18:44:53.000Z",
-      "summaryShort": "Trump says reported FBI database hack is ‘not good’. The FBI is reportedly investigating a hack of the National Crime Information Center.",
-      "tags": [
-        "Databases"
       ]
     }
   ]
