@@ -1,90 +1,90 @@
 {
-  "generatedAt": "2026-11-23T06:47:55.804Z",
+  "generatedAt": "2026-11-23T23:38:27.860Z",
   "items": [
     {
-      "id": "qcon-san-francisco-2026-the-harness-is-the-new-operating-system",
-      "title": "QCon San Francisco 2026: The Harness Is the New Operating System",
+      "id": "qcon-san-francisco-2026-securing-ai-agents-in-production",
+      "title": "QCon San Francisco 2026: Securing AI Agents in Production",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/harness-new-operating-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-22T22:44:00.000Z",
-      "summaryShort": "QCon San Francisco 2026: The Harness Is the New Operating System. At QCon San Francisco 2026, Mad Labs founder and CEO Manju Rajashekhar opened the conference arguing that the harness around an AI model, rather than the model itself, decide",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/qcon-ai-agent-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-23T20:00:00.000Z",
+      "summaryShort": "QCon San Francisco 2026: Securing AI Agents in Production. At QCon San Francisco, Google's Amanda Walker framed AI agents as an insider-risk problem operating at machine speed, and described identity, credential and containment patterns for",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "postgresql-19-released-with-online-table-repacking-and-query-pla",
-      "title": "PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls",
+      "id": "how-linkedin-built-a-view-agnostic-analytics-system-for-modern-i",
+      "title": "How LinkedIn Built a View-Agnostic Analytics System for Modern iOS UI Architectures",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/postgresql-19-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-22T12:54:00.000Z",
-      "summaryShort": "PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls. The PostgreSQL Global Development Group released PostgreSQL 19, introducing changes to database maintenance, query planning, replication, and application develo",
-      "tags": [
-        "Databases"
-      ]
-    },
-    {
-      "id": "claude-code-has-been-leaking-secrets-through-its-don-t-ask-again",
-      "title": "Claude Code Has Been Leaking Secrets through its \"Don't Ask Again\" Feature",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/claude-code-leaking-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-22T11:00:00.000Z",
-      "summaryShort": "Claude Code Has Been Leaking Secrets through its \"Don't Ask Again\" Feature. Agentic security firm Apiiro found that Claude Code has been exposing secrets in public repositories due to how it stores them in local file on developers' machines",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/linkedin-view-agnostic-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-23T18:00:00.000Z",
+      "summaryShort": "How LinkedIn Built a View-Agnostic Analytics System for Modern iOS UI Architectures. To address the challenge posed by modern iOS UI systems where the logical UI structure may not mirror the native UIKit hierarchy, LinkedIn engineers develo",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "google-announces-agent-compute-engine-for-secure-ai-agent-execut",
-      "title": "Google Announces Agent Compute Engine for Secure AI Agent Execution",
+      "id": "jep-545-moves-zgc-memory-preparation-off-the-startup-path-in-jdk",
+      "title": "JEP 545 Moves ZGC Memory Preparation off the Startup Path in JDK 28",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-22T06:30:00.000Z",
-      "summaryShort": "Google Announces Agent Compute Engine for Secure AI Agent Execution. Google recently announced Agent Compute Engine, a managed service that runs AI agents in isolated microVMs, with checkpointing capabilities to suspend and resume execution",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/jep-545-jdk-28/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-23T15:30:00.000Z",
+      "summaryShort": "JEP 545 Moves ZGC Memory Preparation off the Startup Path in JDK 28. JEP 545, Faster Startup and Warmup with ZGC, has been integrated into JDK 28, moving heap memory preparation onto concurrent worker threads.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "java-news-roundup-java4shell-oracle-cspus-openjdk-azul-payara-be",
+      "title": "Java News Roundup: Java4Shell, Oracle CSPUs, OpenJDK, Azul Payara, BellSoft, Helidon, LangChain4j",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/java-news-roundup-nov16-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-23T15:30:00.000Z",
+      "summaryShort": "Java News Roundup: Java4Shell, Oracle CSPUs, OpenJDK, Azul Payara, BellSoft, Helidon, LangChain4j. This week's Java roundup for November 16th, 2026, features news highlighting: the Java4Shell RCE vulnerability; Oracle CSPUs; Lazy Constants ",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "netflix-at-qconsf-2026-retrofitting-the-sdlc-for-ai-coding-agent",
+      "title": "Netflix at QConSF 2026: Retrofitting the SDLC for AI Coding Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/netflix-sdlc-ai-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-23T14:58:00.000Z",
+      "summaryShort": "Netflix at QConSF 2026: Retrofitting the SDLC for AI Coding Agents. At QCon San Francisco 2026, Mark Khuzam of Netflix explained how the Commerce team retrofitted its SDLC so AI coding agents and engineers could ship together.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "aws-lambda-now-runs-gpu-inference-with-48-concurrent-invocations",
-      "title": "AWS Lambda Now Runs GPU Inference with 48 Concurrent Invocations Sharing One Model per GPU",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/aws-lambda-gpu-managed-instances/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-22T06:27:00.000Z",
-      "summaryShort": "AWS Lambda Now Runs GPU Inference with 48 Concurrent Invocations Sharing One Model per GPU. AWS Lambda now runs Event Functions on EC2 G-series GPU instances through Lambda Managed Instances, with up to 48 concurrent invocations sharing one",
+      "id": "figma-employee-sues-alleging-company-forced-her-to-confront-hara",
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+      "publishedAt": "2026-11-23T23:07:49.000Z",
+      "summaryShort": "Figma employee sues, alleging company forced her to confront harassers. Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "publishedAt": "2026-11-23T22:05:50.000Z",
+      "summaryShort": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes. As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic",
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "id": "supertake-raises-20m-to-let-ai-agents-turn-your-market-predictio",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "publishedAt": "2026-11-23T01:25:53.000Z",
-      "summaryShort": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO. Three significant backers share what gave them conviction to bet billions on Anthropic.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "you-can-see-everything-has-made-more-than-100m-worldwide",
-      "title": "‘You Can See Everything’ has made more than $100M worldwide",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
-      "publishedAt": "2026-11-22T21:42:48.000Z",
-      "summaryShort": "‘You Can See Everything’ has made more than $100M worldwide. The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "openai-s-chief-scientist-has-thoughts-on-how-to-limit-ai-develop",
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "publishedAt": "2026-11-22T21:14:07.000Z",
-      "summaryShort": "OpenAI’s chief scientist has thoughts on how to limit AI development. To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "sourceUrl": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "publishedAt": "2026-11-23T22:02:05.000Z",
+      "summaryShort": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios. Think you know where the market is headed?",
       "tags": [
         "AI"
       ]
