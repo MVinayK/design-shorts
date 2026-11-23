@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-22T19:15:37.349Z",
+  "generatedAt": "2026-11-23T06:47:55.804Z",
   "items": [
+    {
+      "id": "qcon-san-francisco-2026-the-harness-is-the-new-operating-system",
+      "title": "QCon San Francisco 2026: The Harness Is the New Operating System",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/harness-new-operating-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-22T22:44:00.000Z",
+      "summaryShort": "QCon San Francisco 2026: The Harness Is the New Operating System. At QCon San Francisco 2026, Mad Labs founder and CEO Manju Rajashekhar opened the conference arguing that the harness around an AI model, rather than the model itself, decide",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "postgresql-19-released-with-online-table-repacking-and-query-pla",
       "title": "PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls",
@@ -14,11 +25,11 @@
     },
     {
       "id": "claude-code-has-been-leaking-secrets-through-its-don-t-ask-again",
-      "title": "Claude Code Has Been Leaking Secrets Through Its \"Don't Ask Again\" Feature",
+      "title": "Claude Code Has Been Leaking Secrets through its \"Don't Ask Again\" Feature",
       "sourceName": "InfoQ",
       "sourceUrl": "https://www.infoq.com/news/2026/11/claude-code-leaking-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-11-22T11:00:00.000Z",
-      "summaryShort": "Claude Code Has Been Leaking Secrets Through Its \"Don't Ask Again\" Feature. Agentic security firm Apiiro found that Claude Code has been exposing secrets in public repositories due to how it stores them in local file on developers' machines",
+      "summaryShort": "Claude Code Has Been Leaking Secrets through its \"Don't Ask Again\" Feature. Agentic security firm Apiiro found that Claude Code has been exposing secrets in public repositories due to how it stores them in local file on developers' machines",
       "tags": [
         "Engineering"
       ]
@@ -46,47 +57,36 @@
       ]
     },
     {
-      "id": "grafana-13-3-adds-shared-dashboard-variables-and-notebooks",
-      "title": "Grafana 13.3 Adds Shared Dashboard Variables and Notebooks",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/grafana-13-3-shared-variables/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-21T14:30:00.000Z",
-      "summaryShort": "Grafana 13.3 Adds Shared Dashboard Variables and Notebooks. Grafana 13.3 introduces shared variables across dashboards and adds Notebooks to record investigations.",
+      "id": "how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "publishedAt": "2026-11-23T01:25:53.000Z",
+      "summaryShort": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO. Three significant backers share what gave them conviction to bet billions on Anthropic.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "why-data-centers-are-at-the-center-of-the-big-tech-backlash",
-      "title": "Why data centers are at the center of the Big Tech backlash",
+      "id": "you-can-see-everything-has-made-more-than-100m-worldwide",
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "publishedAt": "2026-11-22T18:08:43.000Z",
-      "summaryShort": "Why data centers are at the center of the Big Tech backlash. Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "sourceUrl": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "publishedAt": "2026-11-22T21:42:48.000Z",
+      "summaryShort": "‘You Can See Everything’ has made more than $100M worldwide. The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "techcrunch-mobility-a-b-testing-robots-vs-humans",
-      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "id": "openai-s-chief-scientist-has-thoughts-on-how-to-limit-ai-develop",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
-      "publishedAt": "2026-11-22T17:06:00.000Z",
-      "summaryShort": "TechCrunch Mobility: A/B testing robots vs. humans.",
+      "sourceUrl": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "publishedAt": "2026-11-22T21:14:07.000Z",
+      "summaryShort": "OpenAI’s chief scientist has thoughts on how to limit AI development. To establish a speed limit on AI development, you need to agree on how to measure speed.",
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "id": "can-a-tv-be-too-large-an-investigation",
-      "title": "Can a TV be too large? An investigation",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
-      "publishedAt": "2026-11-22T15:00:00.000Z",
-      "summaryShort": "Can a TV be too large? An investigation.",
-      "tags": [
-        "Engineering"
       ]
     }
   ]
