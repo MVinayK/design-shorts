@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-11-24T09:15:29.166Z",
+  "generatedAt": "2026-11-24T22:09:18.634Z",
   "items": [
+    {
+      "id": "cncf-research-shows-virtual-machines-remain-central-as-ai-worklo",
+      "title": "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/cncf-vm-ai-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-24T12:00:00.000Z",
+      "summaryShort": "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve. New research from the Cloud Native Computing Foundation (CNCF) and Linux Foundation Research finds that VMs host an average of 53% of production applications, while",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "openai-scales-git-for-coding-agents-with-pando",
+      "title": "OpenAI Scales Git for Coding Agents with Pando",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/openai-git-pando/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-24T11:55:00.000Z",
+      "summaryShort": "OpenAI Scales Git for Coding Agents with Pando. OpenAI has detailed Pando, a new backend that scales Git for concurrent coding-agent workloads without replacing familiar Git workflows.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-inferencing-for-enterprises",
+      "title": "Presentation: Inferencing for Enterprises",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/enterprise-ai-inference-architecture-costs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-24T11:00:00.000Z",
+      "summaryShort": "Presentation: Inferencing for Enterprises. Dio Rettori discusses the operational realities of enterprise AI inference.",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "article-engineering-around-non-determinism-evals-grounding-and-r",
+      "title": "Article: Engineering Around Non-Determinism: Evals, Grounding, and Release Gates for AI-Drafted Suspicious Reports",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/llm-agent-architecture-evals-grounding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-24T09:30:00.000Z",
+      "summaryShort": "Article: Engineering Around Non-Determinism: Evals, Grounding, and Release Gates for AI-Drafted Suspicious Reports. Moving GenAI into high-stakes production requires treating non-determinism as an engineering problem.",
+      "tags": [
+        "AI",
+        "Architecture"
+      ]
+    },
     {
       "id": "qcon-san-francisco-2026-lessons-from-building-a-100m-product-in-",
       "title": "QCon San Francisco 2026: Lessons from Building a $100M Product in Six Weeks at OpenAI",
@@ -13,78 +60,34 @@
       ]
     },
     {
-      "id": "qcon-san-francisco-2026-securing-ai-agents-in-production",
-      "title": "QCon San Francisco 2026: Securing AI Agents in Production",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/qcon-ai-agent-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-23T20:00:00.000Z",
-      "summaryShort": "QCon San Francisco 2026: Securing AI Agents in Production. At QCon San Francisco, Google's Amanda Walker framed AI agents as an insider-risk problem operating at machine speed, and described identity, credential and containment patterns for",
+      "id": "in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-he",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he's in therapy",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "publishedAt": "2026-11-24T21:48:27.000Z",
+      "summaryShort": "In all-hands meeting, Jensen Huang thanks White House and says he's in therapy. The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "even-the-best-ai-agents-struggle-with-everyday-life",
+      "title": "Even the best AI agents struggle with everyday life",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "publishedAt": "2026-11-24T21:33:29.000Z",
+      "summaryShort": "Even the best AI agents struggle with everyday life. As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing poten",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "how-linkedin-built-a-view-agnostic-analytics-system-for-modern-i",
-      "title": "How LinkedIn Built a View-Agnostic Analytics System for Modern iOS UI Architectures",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/linkedin-view-agnostic-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-23T18:00:00.000Z",
-      "summaryShort": "How LinkedIn Built a View-Agnostic Analytics System for Modern iOS UI Architectures. To address the challenge posed by modern iOS UI systems where the logical UI structure may not mirror the native UIKit hierarchy, LinkedIn engineers develo",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "jep-545-moves-zgc-memory-preparation-off-the-startup-path-in-jdk",
-      "title": "JEP 545 Moves ZGC Memory Preparation off the Startup Path in JDK 28",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/jep-545-jdk-28/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-23T15:30:00.000Z",
-      "summaryShort": "JEP 545 Moves ZGC Memory Preparation off the Startup Path in JDK 28. JEP 545, Faster Startup and Warmup with ZGC, has been integrated into JDK 28, moving heap memory preparation onto concurrent worker threads.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "java-news-roundup-java4shell-oracle-cspus-openjdk-azul-payara-be",
-      "title": "Java News Roundup: Java4Shell, Oracle CSPUs, OpenJDK, Azul Payara, BellSoft, Helidon, LangChain4j",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/java-news-roundup-nov16-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-23T15:30:00.000Z",
-      "summaryShort": "Java News Roundup: Java4Shell, Oracle CSPUs, OpenJDK, Azul Payara, BellSoft, Helidon, LangChain4j. This week's Java roundup for November 16th, 2026, features news highlighting: the Java4Shell RCE vulnerability; Oracle CSPUs; Lazy Constants ",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "figma-employee-sues-alleging-company-forced-her-to-confront-hara",
-      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "id": "walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-age",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
-      "publishedAt": "2026-11-23T23:07:49.000Z",
-      "summaryShort": "Figma employee sues, alleging company forced her to confront harassers. Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "publishedAt": "2026-11-23T22:05:50.000Z",
-      "summaryShort": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes. As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "supertake-raises-20m-to-let-ai-agents-turn-your-market-predictio",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "publishedAt": "2026-11-23T22:02:05.000Z",
-      "summaryShort": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios. Think you know where the market is headed?",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "publishedAt": "2026-11-24T21:32:38.000Z",
+      "summaryShort": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse. Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
       "tags": [
         "AI"
       ]
