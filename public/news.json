@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-23T23:38:27.860Z",
+  "generatedAt": "2026-11-24T09:15:29.166Z",
   "items": [
+    {
+      "id": "qcon-san-francisco-2026-lessons-from-building-a-100m-product-in-",
+      "title": "QCon San Francisco 2026: Lessons from Building a $100M Product in Six Weeks at OpenAI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/qcon-sf-openai-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-24T06:32:00.000Z",
+      "summaryShort": "QCon San Francisco 2026: Lessons from Building a $100M Product in Six Weeks at OpenAI. At QCon San Francisco 2026, OpenAI's Brian Yang described building the ChatGPT ads product with Codex agents and no human-written code.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "qcon-san-francisco-2026-securing-ai-agents-in-production",
       "title": "QCon San Francisco 2026: Securing AI Agents in Production",
@@ -43,17 +54,6 @@
       "summaryShort": "Java News Roundup: Java4Shell, Oracle CSPUs, OpenJDK, Azul Payara, BellSoft, Helidon, LangChain4j. This week's Java roundup for November 16th, 2026, features news highlighting: the Java4Shell RCE vulnerability; Oracle CSPUs; Lazy Constants ",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "netflix-at-qconsf-2026-retrofitting-the-sdlc-for-ai-coding-agent",
-      "title": "Netflix at QConSF 2026: Retrofitting the SDLC for AI Coding Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/netflix-sdlc-ai-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-23T14:58:00.000Z",
-      "summaryShort": "Netflix at QConSF 2026: Retrofitting the SDLC for AI Coding Agents. At QCon San Francisco 2026, Mark Khuzam of Netflix explained how the Commerce team retrofitted its SDLC so AI coding agents and engineers could ship together.",
-      "tags": [
-        "AI"
       ]
     },
     {
