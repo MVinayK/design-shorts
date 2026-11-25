@@ -1,92 +1,90 @@
 {
-  "generatedAt": "2026-11-25T07:49:56.842Z",
+  "generatedAt": "2026-11-25T21:25:25.853Z",
   "items": [
     {
-      "id": "rust-1-100-ships-the-never-type-after-ten-years-and-five-failed-",
-      "title": "Rust 1.100 Ships the Never Type After Ten Years and Five Failed Attempts",
+      "id": "deepmind-s-gemini-robotics-2-5-aims-to-make-robots-safer-more-de",
+      "title": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/rust-1-100-never-types/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-25T07:29:00.000Z",
-      "summaryShort": "Rust 1.100 Ships the Never Type After Ten Years and Five Failed Attempts. Rust 1.100.0, released 12 November 2026, stabilises the never type (!) after ten years of work and makes Infallible an alias for it.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-25T17:00:00.000Z",
+      "summaryShort": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners. Google DeepMind introduced Gemini Robotics 2.5, a vision-language-action (VLA) model designed to improve robots' dexterity, reliability, and lear",
       "tags": [
-        "Databases"
+        "AI"
       ]
     },
     {
-      "id": "aws-lambda-doubles-its-timeout-to-30-minutes-after-eight-years-a",
-      "title": "AWS Lambda Doubles Its Timeout to 30 Minutes After Eight Years at 15",
+      "id": "github-ditches-css-in-js-for-css-modules-reports-55-faster-ssr-a",
+      "title": "GitHub Ditches CSS-in-JS for CSS Modules, Reports 55% Faster SSR After Three-Year Migration",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/aws-lambda-30-minute-timeout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-25T07:02:00.000Z",
-      "summaryShort": "AWS Lambda Doubles Its Timeout to 30 Minutes After Eight Years at 15. AWS has raised the maximum timeout of on-demand Lambda Event Functions from 15 to 30 minutes in all commercial regions, with no opt-in and no new pricing.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "qcon-san-francisco-2026-automating-spark-upgrades-with-codex-age",
-      "title": "QCon San Francisco 2026: Automating Spark Upgrades with Codex Agents at OpenAI",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/openai-spark-fleet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-25T06:20:00.000Z",
-      "summaryShort": "QCon San Francisco 2026: Automating Spark Upgrades with Codex Agents at OpenAI. At QCon San Francisco 2026, Mouli Mukherjee, Engineering Manager for Data Infrastructure at OpenAI, argued that AI agents are most useful not for rebuilding a d",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "cncf-research-shows-virtual-machines-remain-central-as-ai-worklo",
-      "title": "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/cncf-vm-ai-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-24T12:00:00.000Z",
-      "summaryShort": "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve. New research from the Cloud Native Computing Foundation (CNCF) and Linux Foundation Research finds that VMs host an average of 53% of production applications, while",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "openai-scales-git-for-coding-agents-with-pando",
-      "title": "OpenAI Scales Git for Coding Agents with Pando",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/openai-git-pando/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-24T11:55:00.000Z",
-      "summaryShort": "OpenAI Scales Git for Coding Agents with Pando. OpenAI has detailed Pando, a new backend that scales Git for concurrent coding-agent workloads without replacing familiar Git workflows.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/github-css-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-25T15:29:00.000Z",
+      "summaryShort": "GitHub Ditches CSS-in-JS for CSS Modules, Reports 55% Faster SSR After Three-Year Migration. GitHub migrated github.com from styled-components to CSS Modules over three years, reporting a 55% cut in server-side rendering time and 25% faster",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "yale-s-sonnenfeld-nvidia-is-a-8216-detriment-to-us-industrial-mi",
-      "title": "Yale's Sonnenfeld: Nvidia is a &#8216;detriment' to US industrial might — not a champion",
+      "id": "doordash-scales-dispatch-10x-while-maintaining-99-99-peak-availa",
+      "title": "DoorDash Scales Dispatch 10x While Maintaining 99.99% Peak Availability",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/doordash-dispatch-redesign/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-25T14:44:00.000Z",
+      "summaryShort": "DoorDash Scales Dispatch 10x While Maintaining 99.99% Peak Availability. DoorDash has redesigned its real-time dispatch platform, replacing a monolithic optimization engine with a distributed architecture that separates coordination from co",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "vercel-launched-experimental-board-to-coordinate-tasks-across-hu",
+      "title": "Vercel Launched Experimental Board to Coordinate Tasks Across Humans and Coding Agents",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/vercel-board-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-25T13:57:00.000Z",
+      "summaryShort": "Vercel Launched Experimental Board to Coordinate Tasks Across Humans and Coding Agents. Vercel's experimental Board is a headless message store where people and coding agents claim leased tasks, declare dependencies, and sync threads with S",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-learning-out-loud-under-near-existential-pressure",
+      "title": "Presentation: Learning Out Loud (Under Near-Existential Pressure)",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/ai-engineering-culture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-25T11:00:00.000Z",
+      "summaryShort": "Presentation: Learning Out Loud (Under Near-Existential Pressure). Laura Savino discusses the psychological friction of AI adoption for senior engineers & architects.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "fcc-approves-spacex-plan-to-put-ai-data-centers-in-space",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "publishedAt": "2026-11-25T00:12:02.000Z",
-      "summaryShort": "Yale's Sonnenfeld: Nvidia is a &#8216;detriment' to US industrial might — not a champion. Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could ",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "publishedAt": "2026-11-25T20:56:44.000Z",
+      "summaryShort": "FCC approves SpaceX plan to put AI data centers in space. The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory aut",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merg",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "publishedAt": "2026-11-25T20:03:27.000Z",
+      "summaryShort": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work. OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "trump-reportedly-says-pardoning-jensen-huang-is-8216-an-option",
-      "title": "Trump reportedly says pardoning Jensen Huang is &#8216;an option'",
+      "id": "jensen-huang-broke-nvidia-s-code-of-conduct-and-his-employees-ma",
+      "title": "Jensen Huang broke Nvidia's code of conduct, and his employees may not forget it",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
-      "publishedAt": "2026-11-25T00:10:27.000Z",
-      "summaryShort": "Trump reportedly says pardoning Jensen Huang is &#8216;an option'. Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has be",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-",
-      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-      "publishedAt": "2026-11-24T22:27:52.000Z",
-      "summaryShort": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy. It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "publishedAt": "2026-11-25T19:54:57.000Z",
+      "summaryShort": "Jensen Huang broke Nvidia's code of conduct, and his employees may not forget it. Most codes of conduct serve as a reflection of corporate culture.",
       "tags": [
         "Engineering"
       ]
