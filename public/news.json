@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-11-24T22:09:18.634Z",
+  "generatedAt": "2026-11-25T07:49:56.842Z",
   "items": [
+    {
+      "id": "rust-1-100-ships-the-never-type-after-ten-years-and-five-failed-",
+      "title": "Rust 1.100 Ships the Never Type After Ten Years and Five Failed Attempts",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/rust-1-100-never-types/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-25T07:29:00.000Z",
+      "summaryShort": "Rust 1.100 Ships the Never Type After Ten Years and Five Failed Attempts. Rust 1.100.0, released 12 November 2026, stabilises the never type (!) after ten years of work and makes Infallible an alias for it.",
+      "tags": [
+        "Databases"
+      ]
+    },
+    {
+      "id": "aws-lambda-doubles-its-timeout-to-30-minutes-after-eight-years-a",
+      "title": "AWS Lambda Doubles Its Timeout to 30 Minutes After Eight Years at 15",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/aws-lambda-30-minute-timeout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-25T07:02:00.000Z",
+      "summaryShort": "AWS Lambda Doubles Its Timeout to 30 Minutes After Eight Years at 15. AWS has raised the maximum timeout of on-demand Lambda Event Functions from 15 to 30 minutes in all commercial regions, with no opt-in and no new pricing.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "qcon-san-francisco-2026-automating-spark-upgrades-with-codex-age",
+      "title": "QCon San Francisco 2026: Automating Spark Upgrades with Codex Agents at OpenAI",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/openai-spark-fleet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-25T06:20:00.000Z",
+      "summaryShort": "QCon San Francisco 2026: Automating Spark Upgrades with Codex Agents at OpenAI. At QCon San Francisco 2026, Mouli Mukherjee, Engineering Manager for Data Infrastructure at OpenAI, argued that AI agents are most useful not for rebuilding a d",
+      "tags": [
+        "AI",
+        "Cloud"
+      ]
+    },
     {
       "id": "cncf-research-shows-virtual-machines-remain-central-as-ai-worklo",
       "title": "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve",
@@ -25,71 +59,36 @@
       ]
     },
     {
-      "id": "presentation-inferencing-for-enterprises",
-      "title": "Presentation: Inferencing for Enterprises",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/enterprise-ai-inference-architecture-costs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-24T11:00:00.000Z",
-      "summaryShort": "Presentation: Inferencing for Enterprises. Dio Rettori discusses the operational realities of enterprise AI inference.",
-      "tags": [
-        "AI",
-        "Cloud"
-      ]
-    },
-    {
-      "id": "article-engineering-around-non-determinism-evals-grounding-and-r",
-      "title": "Article: Engineering Around Non-Determinism: Evals, Grounding, and Release Gates for AI-Drafted Suspicious Reports",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/llm-agent-architecture-evals-grounding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-24T09:30:00.000Z",
-      "summaryShort": "Article: Engineering Around Non-Determinism: Evals, Grounding, and Release Gates for AI-Drafted Suspicious Reports. Moving GenAI into high-stakes production requires treating non-determinism as an engineering problem.",
-      "tags": [
-        "AI",
-        "Architecture"
-      ]
-    },
-    {
-      "id": "qcon-san-francisco-2026-lessons-from-building-a-100m-product-in-",
-      "title": "QCon San Francisco 2026: Lessons from Building a $100M Product in Six Weeks at OpenAI",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/qcon-sf-openai-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-24T06:32:00.000Z",
-      "summaryShort": "QCon San Francisco 2026: Lessons from Building a $100M Product in Six Weeks at OpenAI. At QCon San Francisco 2026, OpenAI's Brian Yang described building the ChatGPT ads product with Codex agents and no human-written code.",
+      "id": "yale-s-sonnenfeld-nvidia-is-a-8216-detriment-to-us-industrial-mi",
+      "title": "Yale's Sonnenfeld: Nvidia is a &#8216;detriment' to US industrial might — not a champion",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "publishedAt": "2026-11-25T00:12:02.000Z",
+      "summaryShort": "Yale's Sonnenfeld: Nvidia is a &#8216;detriment' to US industrial might — not a champion. Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could ",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-he",
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he's in therapy",
+      "id": "trump-reportedly-says-pardoning-jensen-huang-is-8216-an-option",
+      "title": "Trump reportedly says pardoning Jensen Huang is &#8216;an option'",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "publishedAt": "2026-11-24T21:48:27.000Z",
-      "summaryShort": "In all-hands meeting, Jensen Huang thanks White House and says he's in therapy. The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+      "publishedAt": "2026-11-25T00:10:27.000Z",
+      "summaryShort": "Trump reportedly says pardoning Jensen Huang is &#8216;an option'. Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has be",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "even-the-best-ai-agents-struggle-with-everyday-life",
-      "title": "Even the best AI agents struggle with everyday life",
+      "id": "jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "publishedAt": "2026-11-24T21:33:29.000Z",
-      "summaryShort": "Even the best AI agents struggle with everyday life. As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing poten",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "publishedAt": "2026-11-24T22:27:52.000Z",
+      "summaryShort": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy. It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-age",
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-      "publishedAt": "2026-11-24T21:32:38.000Z",
-      "summaryShort": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse. Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-      "tags": [
-        "AI"
+        "Engineering"
       ]
     }
   ]
