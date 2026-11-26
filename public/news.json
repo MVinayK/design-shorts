@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-11-26T07:41:02.868Z",
+  "generatedAt": "2026-11-26T21:12:19.775Z",
   "items": [
+    {
+      "id": "qcon-san-francisco-2026-how-to-kill-the-code-review",
+      "title": "QCon San Francisco 2026: How to Kill the Code Review",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/qcon-sf-26-kill-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-26T17:16:00.000Z",
+      "summaryShort": "QCon San Francisco 2026: How to Kill the Code Review. Ankit Jain of Aviator told QCon San Francisco 2026 that line-by-line code review is already fading, since most review comments concern knowledge sharing rather than defects and over 75% ",
+      "tags": [
+        "Architecture"
+      ]
+    },
+    {
+      "id": "building-a-production-ready-culture-and-skills-through-sre-based",
+      "title": "Building a Production-Ready Culture and Skills Through SRE-based Training",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/SRE-based-training/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-26T11:09:00.000Z",
+      "summaryShort": "Building a Production-Ready Culture and Skills Through SRE-based Training. Training can act as a confidence engine, turning repeated behaviors into habits and culture.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "presentation-finetuning-your-embedding-model-for-better-search-l",
+      "title": "Presentation: Finetuning Your Embedding Model for Better Search: Learning from Agentic Search at Dell",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/presentations/fine-tune-enterprise-rag-embeddings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-26T11:00:00.000Z",
+      "summaryShort": "Presentation: Finetuning Your Embedding Model for Better Search: Learning from Agentic Search at Dell. Rachel Shalom explains how Dell solved enterprise RAG retrieval failures on internal terminology by fine-tuning open-source embedding mod",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "net-maui-11-makes-coreclr-the-default-runtime-and-adds-increment",
+      "title": ".NET MAUI 11 Makes CoreCLR the Default Runtime and Adds Incremental XAML Hot Reload",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/dotnet-maui-11-coreclr-hotreload/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-26T08:00:00.000Z",
+      "summaryShort": ".NET MAUI 11 Makes CoreCLR the Default Runtime and Adds Incremental XAML Hot Reload. Microsoft released .NET 11 with a .NET MAUI update focused on product quality.",
+      "tags": [
+        "Engineering"
+      ]
+    },
     {
       "id": "mock-service-worker-releases-v3-0-with-esm-only-build-socket-bas",
       "title": "Mock Service Worker Releases v3.0 with ESM-Only Build, Socket-Based Interception and GraphQL Subs",
@@ -13,78 +57,34 @@
       ]
     },
     {
-      "id": "recap-of-microsoft-ignite-2026-copilot-as-the-work-os-and-agent-",
-      "title": "Recap of Microsoft Ignite 2026: Copilot as the Work OS and Agent Governance",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/microsoft-ignite-2026-recap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-26T06:45:00.000Z",
-      "summaryShort": "Recap of Microsoft Ignite 2026: Copilot as the Work OS and Agent Governance. At Ignite 2026, Microsoft positioned Copilot as the operating system for work and extended agent identity, governance, and cost controls across Azure, Foundry, Ent",
+      "id": "nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "publishedAt": "2026-11-26T20:03:54.000Z",
+      "summaryShort": "Nvidia hits pause on chip shipments to Southeast Asia. Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "deepmind-s-gemini-robotics-2-5-aims-to-make-robots-safer-more-de",
-      "title": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-25T17:00:00.000Z",
-      "summaryShort": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners. Google DeepMind introduced Gemini Robotics 2.5, a vision-language-action (VLA) model designed to improve robots' dexterity, reliability, and lear",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "github-ditches-css-in-js-for-css-modules-reports-55-faster-ssr-a",
-      "title": "GitHub Ditches CSS-in-JS for CSS Modules, Reports 55% Faster SSR After Three-Year Migration",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/github-css-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-25T15:29:00.000Z",
-      "summaryShort": "GitHub Ditches CSS-in-JS for CSS Modules, Reports 55% Faster SSR After Three-Year Migration. GitHub migrated github.com from styled-components to CSS Modules over three years, reporting a 55% cut in server-side rendering time and 25% faster",
+      "id": "is-alice-huang-a-spy-or-not",
+      "title": "Is Alice Huang a spy or not?",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "publishedAt": "2026-11-26T20:00:00.000Z",
+      "summaryShort": "Is Alice Huang a spy or not?. The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "doordash-scales-dispatch-10x-while-maintaining-99-99-peak-availa",
-      "title": "DoorDash Scales Dispatch 10x While Maintaining 99.99% Peak Availability",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/doordash-dispatch-redesign/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-25T14:44:00.000Z",
-      "summaryShort": "DoorDash Scales Dispatch 10x While Maintaining 99.99% Peak Availability. DoorDash has redesigned its real-time dispatch platform, replacing a monolithic optimization engine with a distributed architecture that separates coordination from co",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "s-038-p-considers-nvidia-credit-downgrade-over-governance-and-82",
-      "title": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man' risks",
+      "id": "x-finally-gets-parental-controls-after-20-years",
+      "title": "X finally gets parental controls after 20 years",
       "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-      "publishedAt": "2026-11-25T22:44:32.000Z",
-      "summaryShort": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man' risks. The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "fcc-approves-spacex-plan-to-put-ai-data-centers-in-space",
-      "title": "FCC approves SpaceX plan to put AI data centers in space",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
-      "publishedAt": "2026-11-25T20:56:44.000Z",
-      "summaryShort": "FCC approves SpaceX plan to put AI data centers in space. The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory aut",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "id": "openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merg",
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "publishedAt": "2026-11-25T20:03:27.000Z",
-      "summaryShort": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work. OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "sourceUrl": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "publishedAt": "2026-11-26T19:31:50.000Z",
+      "summaryShort": "X finally gets parental controls after 20 years. Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
       "tags": [
         "Engineering"
       ]
