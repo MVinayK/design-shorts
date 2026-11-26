@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-25T21:25:25.853Z",
+  "generatedAt": "2026-11-26T07:41:02.868Z",
   "items": [
+    {
+      "id": "mock-service-worker-releases-v3-0-with-esm-only-build-socket-bas",
+      "title": "Mock Service Worker Releases v3.0 with ESM-Only Build, Socket-Based Interception and GraphQL Subs",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/mock-service-worker-v3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-26T06:59:00.000Z",
+      "summaryShort": "Mock Service Worker Releases v3.0 with ESM-Only Build, Socket-Based Interception and GraphQL Subs. Mock Service Worker 3.0 is now ESM-only, requires Node.js 22 or later, and cuts package size from 416KB to 234KB.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "recap-of-microsoft-ignite-2026-copilot-as-the-work-os-and-agent-",
+      "title": "Recap of Microsoft Ignite 2026: Copilot as the Work OS and Agent Governance",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/microsoft-ignite-2026-recap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-26T06:45:00.000Z",
+      "summaryShort": "Recap of Microsoft Ignite 2026: Copilot as the Work OS and Agent Governance. At Ignite 2026, Microsoft positioned Copilot as the operating system for work and extended agent identity, governance, and cost controls across Azure, Foundry, Ent",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "deepmind-s-gemini-robotics-2-5-aims-to-make-robots-safer-more-de",
       "title": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners",
@@ -35,25 +57,14 @@
       ]
     },
     {
-      "id": "vercel-launched-experimental-board-to-coordinate-tasks-across-hu",
-      "title": "Vercel Launched Experimental Board to Coordinate Tasks Across Humans and Coding Agents",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/vercel-board-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-25T13:57:00.000Z",
-      "summaryShort": "Vercel Launched Experimental Board to Coordinate Tasks Across Humans and Coding Agents. Vercel's experimental Board is a headless message store where people and coding agents claim leased tasks, declare dependencies, and sync threads with S",
+      "id": "s-038-p-considers-nvidia-credit-downgrade-over-governance-and-82",
+      "title": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man' risks",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "publishedAt": "2026-11-25T22:44:32.000Z",
+      "summaryShort": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man' risks. The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
       "tags": [
         "Engineering"
-      ]
-    },
-    {
-      "id": "presentation-learning-out-loud-under-near-existential-pressure",
-      "title": "Presentation: Learning Out Loud (Under Near-Existential Pressure)",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/ai-engineering-culture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-25T11:00:00.000Z",
-      "summaryShort": "Presentation: Learning Out Loud (Under Near-Existential Pressure). Laura Savino discusses the psychological friction of AI adoption for senior engineers & architects.",
-      "tags": [
-        "AI"
       ]
     },
     {
@@ -74,17 +85,6 @@
       "sourceUrl": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
       "publishedAt": "2026-11-25T20:03:27.000Z",
       "summaryShort": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work. OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "jensen-huang-broke-nvidia-s-code-of-conduct-and-his-employees-ma",
-      "title": "Jensen Huang broke Nvidia's code of conduct, and his employees may not forget it",
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "publishedAt": "2026-11-25T19:54:57.000Z",
-      "summaryShort": "Jensen Huang broke Nvidia's code of conduct, and his employees may not forget it. Most codes of conduct serve as a reflection of corporate culture.",
       "tags": [
         "Engineering"
       ]
