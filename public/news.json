@@ -1,57 +1,57 @@
 {
-  "generatedAt": "2026-11-27T07:39:54.935Z",
+  "generatedAt": "2026-11-27T20:55:25.730Z",
   "items": [
     {
-      "id": "mozilla-partners-with-mistral-to-bring-open-weight-ai-models-to-",
-      "title": "Mozilla Partners with Mistral to Bring Open-Weight AI Models to Firefox Smart Window",
+      "id": "meta-brings-code-review-auto-approval-more-mainstream-with-pytor",
+      "title": "Meta Brings Code Review Auto-Approval More Mainstream with PyTorch GreenLight",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/mozilla-mistral-ai-smart-window/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-27T06:58:00.000Z",
-      "summaryShort": "Mozilla Partners with Mistral to Bring Open-Weight AI Models to Firefox Smart Window. Mozilla has partnered with Mistral AI to offer Mistral Small 4, an open-weight model, in Firefox's Smart Window AI assistant, now in beta.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/uber-agent-spend-steady/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-27T14:36:00.000Z",
+      "summaryShort": "Meta Brings Code Review Auto-Approval More Mainstream with PyTorch GreenLight. PyTorch now lets an AI reviewer approve pull requests from its own maintainers.",
       "tags": [
         "AI"
       ]
     },
     {
-      "id": "qcon-san-francisco-2026-how-to-kill-the-code-review",
-      "title": "QCon San Francisco 2026: How to Kill the Code Review",
+      "id": "netflix-builds-quasar-to-measure-the-blast-radius-of-library-api",
+      "title": "Netflix Builds Quasar to Measure the Blast Radius of Library API Changes",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/qcon-sf-26-kill-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-26T17:16:00.000Z",
-      "summaryShort": "QCon San Francisco 2026: How to Kill the Code Review. Ankit Jain of Aviator told QCon San Francisco 2026 that line-by-line code review is already fading, since most review comments concern knowledge sharing rather than defects and over 75% ",
-      "tags": [
-        "Architecture"
-      ]
-    },
-    {
-      "id": "building-a-production-ready-culture-and-skills-through-sre-based",
-      "title": "Building a Production-Ready Culture and Skills Through SRE-based Training",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/SRE-based-training/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-26T11:09:00.000Z",
-      "summaryShort": "Building a Production-Ready Culture and Skills Through SRE-based Training. Training can act as a confidence engine, turning repeated behaviors into habits and culture.",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/netflix-quasar-api-impact/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-27T14:35:00.000Z",
+      "summaryShort": "Netflix Builds Quasar to Measure the Blast Radius of Library API Changes. Netflix developed Quasar, an internal tool that combines semantic code indexing and API comparisons to identify downstream consumers affected by library changes.",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "id": "presentation-finetuning-your-embedding-model-for-better-search-l",
-      "title": "Presentation: Finetuning Your Embedding Model for Better Search: Learning from Agentic Search at Dell",
+      "id": "grafana-begins-its-biggest-ui-refresh-since-version-7",
+      "title": "Grafana Begins Its Biggest UI Refresh Since Version 7",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/presentations/fine-tune-enterprise-rag-embeddings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-26T11:00:00.000Z",
-      "summaryShort": "Presentation: Finetuning Your Embedding Model for Better Search: Learning from Agentic Search at Dell. Rachel Shalom explains how Dell solved enterprise RAG retrieval failures on internal terminology by fine-tuning open-source embedding mod",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/grfana-ui-refresh/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-27T12:00:00.000Z",
+      "summaryShort": "Grafana Begins Its Biggest UI Refresh Since Version 7. Grafana Labs has introduced the first phase of its biggest visual refresh since Grafana 7, bringing updated themes, more consistent interface components, and improved visual hierarchy t",
       "tags": [
-        "AI"
+        "Engineering"
       ]
     },
     {
-      "id": "net-maui-11-makes-coreclr-the-default-runtime-and-adds-increment",
-      "title": ".NET MAUI 11 Makes CoreCLR the Default Runtime and Adds Incremental XAML Hot Reload",
+      "id": "presentation-from-fan-out-to-fast-sub-100ms-api-design-in-distri",
+      "title": "Presentation: From Fan-Out to Fast: Sub-100ms API Design in Distributed Systems",
       "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/dotnet-maui-11-coreclr-hotreload/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-26T08:00:00.000Z",
-      "summaryShort": ".NET MAUI 11 Makes CoreCLR the Default Runtime and Adds Incremental XAML Hot Reload. Microsoft released .NET 11 with a .NET MAUI update focused on product quality.",
+      "sourceUrl": "https://www.infoq.com/presentations/sub-100ms-latency-distributed-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-27T11:00:00.000Z",
+      "summaryShort": "Presentation: From Fan-Out to Fast: Sub-100ms API Design in Distributed Systems. Saranya Vedagiri explains how to design resilient, low-latency distributed APIs under 100ms.",
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "article-engineering-reliable-telematics-from-smartphone-sensors",
+      "title": "Article: Engineering Reliable Telematics from Smartphone Sensors",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/articles/engineering-reliable-smartphone-sensor-telematics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-27T09:00:00.000Z",
+      "summaryShort": "Article: Engineering Reliable Telematics from Smartphone Sensors. Smartphones make telematics more accessible by combining location, motion sensors, computing power, and connectivity in a single device.",
       "tags": [
         "Engineering"
       ]
