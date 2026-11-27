@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-26T21:12:19.775Z",
+  "generatedAt": "2026-11-27T07:39:54.935Z",
   "items": [
+    {
+      "id": "mozilla-partners-with-mistral-to-bring-open-weight-ai-models-to-",
+      "title": "Mozilla Partners with Mistral to Bring Open-Weight AI Models to Firefox Smart Window",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/mozilla-mistral-ai-smart-window/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-27T06:58:00.000Z",
+      "summaryShort": "Mozilla Partners with Mistral to Bring Open-Weight AI Models to Firefox Smart Window. Mozilla has partnered with Mistral AI to offer Mistral Small 4, an open-weight model, in Firefox's Smart Window AI assistant, now in beta.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "qcon-san-francisco-2026-how-to-kill-the-code-review",
       "title": "QCon San Francisco 2026: How to Kill the Code Review",
@@ -41,17 +52,6 @@
       "sourceUrl": "https://www.infoq.com/news/2026/11/dotnet-maui-11-coreclr-hotreload/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-11-26T08:00:00.000Z",
       "summaryShort": ".NET MAUI 11 Makes CoreCLR the Default Runtime and Adds Incremental XAML Hot Reload. Microsoft released .NET 11 with a .NET MAUI update focused on product quality.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "mock-service-worker-releases-v3-0-with-esm-only-build-socket-bas",
-      "title": "Mock Service Worker Releases v3.0 with ESM-Only Build, Socket-Based Interception and GraphQL Subs",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/news/2026/11/mock-service-worker-v3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-26T06:59:00.000Z",
-      "summaryShort": "Mock Service Worker Releases v3.0 with ESM-Only Build, Socket-Based Interception and GraphQL Subs. Mock Service Worker 3.0 is now ESM-only, requires Node.js 22 or later, and cuts package size from 416KB to 234KB.",
       "tags": [
         "Engineering"
       ]
