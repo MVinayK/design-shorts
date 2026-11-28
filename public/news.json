@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-11-27T20:55:25.730Z",
+  "generatedAt": "2026-11-28T07:07:06.206Z",
   "items": [
+    {
+      "id": "azure-ai-gateway-reaches-general-availability-as-a-standalone-se",
+      "title": "Azure AI Gateway Reaches General Availability as a Standalone Service",
+      "sourceName": "InfoQ",
+      "sourceUrl": "https://www.infoq.com/news/2026/11/azure-ai-gateway-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "publishedAt": "2026-11-28T06:47:00.000Z",
+      "summaryShort": "Azure AI Gateway Reaches General Availability as a Standalone Service. Microsoft has made Azure AI Gateway generally available as a standalone Azure service for governing access to AI models and MCP tools across providers.",
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "id": "meta-brings-code-review-auto-approval-more-mainstream-with-pytor",
       "title": "Meta Brings Code Review Auto-Approval More Mainstream with PyTorch GreenLight",
@@ -41,17 +52,6 @@
       "sourceUrl": "https://www.infoq.com/presentations/sub-100ms-latency-distributed-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "publishedAt": "2026-11-27T11:00:00.000Z",
       "summaryShort": "Presentation: From Fan-Out to Fast: Sub-100ms API Design in Distributed Systems. Saranya Vedagiri explains how to design resilient, low-latency distributed APIs under 100ms.",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "id": "article-engineering-reliable-telematics-from-smartphone-sensors",
-      "title": "Article: Engineering Reliable Telematics from Smartphone Sensors",
-      "sourceName": "InfoQ",
-      "sourceUrl": "https://www.infoq.com/articles/engineering-reliable-smartphone-sensor-telematics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "publishedAt": "2026-11-27T09:00:00.000Z",
-      "summaryShort": "Article: Engineering Reliable Telematics from Smartphone Sensors. Smartphones make telematics more accessible by combining location, motion sensors, computing power, and connectivity in a single device.",
       "tags": [
         "Engineering"
       ]
